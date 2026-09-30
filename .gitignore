@@ -19,3 +19,6 @@ node_modules/
 # Logs
 npm-debug.log*
 yarn-debug.log*
+
+# Claude Code git worktrees (live checkouts, never commit)
+.claude/worktrees/
