@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#1a1a1a">
+  <title>Guia China + Japão 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,900;1,9..144,500;1,9..144,900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Spline+Sans+Mono:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="spa-loading"></div>
+
+<div id="spa-app">
+  <div style="display:flex;align-items:center;justify-content:center;min-height:100vh;font-family:'Spline Sans Mono',monospace;font-size:14px;color:#6b6460;letter-spacing:.1em;text-transform:uppercase;">Carregando...</div>
+</div>
+
+<div id="spa-picker" onclick="if(event.target===this)app._closePicker()">
+  <div id="spa-picker-panel"></div>
+</div>
+
+<nav id="spa-bottom-nav">
+  <a class="bn-item" href="#home" onclick="event.preventDefault();app.go('home')">
+    <span class="bn-icon">🏠</span>Início
+  </a>
+  <button class="bn-item" onclick="app._openDayPicker()">
+    <span class="bn-icon">📅</span>Dias
+  </button>
+  <button class="bn-item" onclick="app._openCityPicker()">
+    <span class="bn-icon">🏙</span>Cidades
+  </button>
+  <a class="bn-item" href="#aprofundamento" onclick="event.preventDefault();app.go('aprofundamento')">
+    <span class="bn-icon">🌏</span>Aprofundamento
+  </a>
+</nav>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+# Pacote fukuoka-kurokawa
+
+## Arquivos
+- pesquisa/atracoes/canal-city.md
+- pesquisa/atracoes/dazaifu.md
+- pesquisa/atracoes/kurokawa-onsen.md
+- pesquisa/atracoes/kushida-shrine.md
+- pesquisa/atracoes/ohori-park-castelo.md
+- pesquisa/atracoes/yatai.md
+- pesquisa/cidades/09-fukuoka.expandido.md
+- pesquisa/cidades/10-kurokawa.expandido.md
+- pesquisa/dias/22-fukuoka-dia-21.md
+- pesquisa/dias/23-fukuoka-dia-22.md
+- pesquisa/dias/24-kurokawa-dia-23.md
+
+## Achados da fase 0 (45)
+- erro · data · pesquisa/dias/23-fukuoka-dia-22.md:225 — "23/11 (domingo" — 23/11/2026 é segunda
+- erro · extensão · pesquisa/atracoes/canal-city.md — 36 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/dazaifu.md — 37 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/kurokawa-onsen.md — 45 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/kushida-shrine.md — 40 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/ohori-park-castelo.md — 46 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/yatai.md — 41 palavras de prosa (piso 300) — STUB/placeholder
+- erro · metalinguagem · pesquisa/cidades/09-fukuoka.expandido.md:53 — "a pesquisa" — O que a pesquisa encontrou em Fukuoka são três estabelecimentos que representam o espectro completo do tonkots
+- erro · metalinguagem · pesquisa/cidades/10-kurokawa.expandido.md:77 — "a pesquisa" — Um ponto prático para a saída na segunda: o transporte entre Kurokawa e Beppu não foi confirmado na pesquisa —
+- erro · metalinguagem · pesquisa/dias/24-kurokawa-dia-23.md:39 — "a pesquisa" — O check-in tem função dupla: receber a chave e receber o briefing. A recepção vai explicar o funcionamento da 
+- erro · metalinguagem · pesquisa/dias/24-kurokawa-dia-23.md:39 — "o brief" — O check-in tem função dupla: receber a chave e receber o briefing. A recepção vai explicar o funcionamento da 
+- erro · metalinguagem · pesquisa/dias/24-kurokawa-dia-23.md:141 — "perfil do viajante" — **Jantar (22/11 — ~19h):** Kaiseki no Ryokan Misato, cabines privativas. Inclui (PROVÁVEL nos planos standard 
+- erro · pendência · pesquisa/cidades/09-fukuoka.expandido.md:282 — O Dazaifu Tenmangu não é um templo como os outros do roteiro — é o santuário principal da rede de aproximadamente doze m
+- erro · pendência · pesquisa/cidades/10-kurokawa.expandido.md:33 — A comparação mais útil para situar Kurokawa não é com outros destinos de onsen da região, mas com Beppu — que é a próxim
+- erro · pendência · pesquisa/cidades/10-kurokawa.expandido.md:103 — > — ~10h Checkout Misato → partida para Beppu [VERIFICAR transporte]
+- erro · pendência · pesquisa/dias/22-fukuoka-dia-21.md:41 — Este cartão vai resolver todo o deslocamento de metrô dos próximos dois dias em Fukuoka. Funciona no metrô municipal, no
+- erro · pendência · pesquisa/dias/22-fukuoka-dia-21.md:43 — Um detalhe prático que pode parecer óbvio e não é: se você ainda está com o chip de dados da China e usou VPN durante to
+- erro · pendência · pesquisa/dias/23-fukuoka-dia-22.md:69 — A rua que conecta a estação Dazaifu ao santuário tem duzentos metros de comprimento e é toda ela comércio. Não é atração
+- erro · pendência · pesquisa/dias/23-fukuoka-dia-22.md:79 — O peso emocional do lugar tem uma origem precisa. Sugawara no Michizane foi um burocrata e poeta do período Heian, exila
+- erro · pendência · pesquisa/dias/24-kurokawa-dia-23.md:27 — A partida de Fukuoka merece atenção logística antes de qualquer coisa estética: Kurokawa não tem convenience store. Nenh
+- erro · pendência · pesquisa/dias/24-kurokawa-dia-23.md:154 — | Kurokawa → Beppu | **[VERIFICAR]** ônibus direto / ônibus + trem | 2–3h est. | não confirmado |
+- erro · roteiro · pesquisa/dias/22-fukuoka-dia-21.md — numeração de dias quebra entre Dia 20 (20/11) e Dia 21 (20/11): 1 dia(s) de numeração para 0 dia(s) de calendário
+- erro · tag-vazada · pesquisa/dias/24-kurokawa-dia-23.md:121 — O preço é ¥500 na entrada avulsa (PROVÁVEL — confirmar no local); com o nyuto tegata, usa-se um dos três stickers e não 
+- erro · tag-vazada · pesquisa/dias/24-kurokawa-dia-23.md:141 — **Jantar (22/11 — ~19h):** Kaiseki no Ryokan Misato, cabines privativas. Inclui (PROVÁVEL nos planos standard — confirma
+- erro · tag-vazada · pesquisa/dias/24-kurokawa-dia-23.md:170 — - Transporte Kurokawa → Beppu (10h de 23/11): **NÃO CONFIRMADO** nas pesquisas — marcar como verificação obrigatória na 
+- erro · tag-vazada · pesquisa/dias/24-kurokawa-dia-23.md:173 — - Jantar kaiseki incluso no plano do Misato: PROVÁVEL para planos standard — verificar no check-in se o plano reservado 
+- erro · tag-vazada · pesquisa/dias/24-kurokawa-dia-23.md:174 — - Koyo em 22/11: PROVÁVEL presença de cor residual com base em registros de 2025 (folhagem descrita como excepcional em 
+- aviso · clichê · pesquisa/dias/23-fukuoka-dia-22.md:75 — "imponente" — E então você vê. Onde deveria estar o salão principal — o *honden* do Dazaifu Tenmangu, o objeto de culto de d
+- aviso · extensão · pesquisa/cidades/10-kurokawa.expandido.md — 4650 palavras de prosa (piso 6000)
+- aviso · front-matter · pesquisa/dias/22-fukuoka-dia-21.md:12 — falta "days"
+- aviso · front-matter · pesquisa/dias/23-fukuoka-dia-22.md:12 — falta "days"
+- aviso · front-matter · pesquisa/dias/24-kurokawa-dia-23.md:12 — falta "days"
+- aviso · pendência · pesquisa/atracoes/canal-city.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/canal-city.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/dazaifu.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/dazaifu.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/kurokawa-onsen.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/kurokawa-onsen.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/kushida-shrine.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/kushida-shrine.md:15 — > O santuário guardião de Hakata desde 757 d.C. — sede do Hakata Gion Yamakasa (julho), o maior festival da cidade. O ca
+- aviso · pendência · pesquisa/atracoes/kushida-shrine.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/ohori-park-castelo.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/ohori-park-castelo.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/yatai.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/yatai.md:19 — *Conteúdo em desenvolvimento.*

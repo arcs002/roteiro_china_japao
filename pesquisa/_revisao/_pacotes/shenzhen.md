@@ -1,0 +1,63 @@
+# Pacote shenzhen
+
+## Arquivos
+- pesquisa/atracoes/dafen.md
+- pesquisa/atracoes/huaqiangbei.md
+- pesquisa/atracoes/oct-loft.md
+- pesquisa/atracoes/ping-an-shenzhen-bay.md
+- pesquisa/cidades/07-shenzhen.expandido.md
+- pesquisa/dias/14-shenzhen-dia-13.md
+- pesquisa/dias/15-shenzhen-dia-14.md
+- pesquisa/dias/16-shenzhen-dia-15.md
+- pesquisa/dias/17-shenzhen-dia-16.md
+
+## Achados da fase 0 (49)
+- erro · extensão · pesquisa/atracoes/dafen.md — 42 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/huaqiangbei.md — 30 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/oct-loft.md — 26 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/ping-an-shenzhen-bay.md — 33 palavras de prosa (piso 300) — STUB/placeholder
+- erro · pendência · pesquisa/cidades/07-shenzhen.expandido.md:69 — Existe um tipo de erro que todo guia de Shenzhen comete quando escreve sobre o OCT-LOFT: descreve o espaço como um "bair
+- erro · pendência · pesquisa/cidades/07-shenzhen.expandido.md:129 — Às 6h30 da manhã, quando a névoa ainda não se levantou do Futian, o Lianhuashan Park (莲花山公园) já funciona como uma coreog
+- erro · pendência · pesquisa/cidades/07-shenzhen.expandido.md:264 — A tarde desacelera no hotel — Shenzhen tem a virtude de não exigir que você a persiga o tempo todo — e a segunda metade 
+- erro · pendência · pesquisa/dias/15-shenzhen-dia-14.md:47 — Você vai saber que chegou quando a calçada tiver mesas plásticas com banquinhos plásticos do lado de fora e um cardápio 
+- erro · pendência · pesquisa/dias/17-shenzhen-dia-16.md:73 — O The Attic, no Park Hyatt Shenzhen, é o rooftop que a cidade tem no 48º andar desde agosto de 2025 — mais recente do qu
+- erro · tag-vazada · pesquisa/dias/16-shenzhen-dia-15.md:133 — **Nota sobre o Lianxiang Lou:** a filial em Futian é PROVÁVEL (não CONFIRMADO) — endereço exato não verificado em fonte 
+- erro · tag-vazada · pesquisa/dias/16-shenzhen-dia-15.md:158 — - **Penny Black (PROVÁVEL):** verificar programação de jazz ao vivo para sábado 14/11/2026 via WeChat ou busca direta (黑
+- aviso · clichê · pesquisa/cidades/07-shenzhen.expandido.md:45 — "imponente" — Para um visitante que chega na semana da cúpula sem fazer parte dela, o efeito é uma Shenzhen ao mesmo tempo m
+- aviso · destino-removido · pesquisa/atracoes/ping-an-shenzhen-bay.md:15 — "Hong Kong" — > Ping An Finance Centre (599 m, 4º mais alto do mundo) + passarela de Shenzhen Bay com vista para Hong Kong.
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:17 — "Hong Kong" — A cidade tem quarenta e seis anos. Em 1980, o governo chinês demarcou uma faixa de terra ao norte de Hong Kong
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:25 — "Hong Kong" — Em 1980, quando Deng Xiaoping assinou a criação da Zona Econômica Especial de Shenzhen, ele estava fazendo uma
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:27 — "Hong Kong" — A escolha do local não foi sentimental nem simbólica. Foi cirúrgica. Shenzhen ficava longe de Pequim — longe o
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:47 — "Xi'an" — O calendário oficial do período não registra feriados nacionais. A janela de 12 a 16 de novembro é semana norm
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:49 — "Hong Kong" — A sazonalidade joga a favor. Novembro é o melhor mês do ano para visitar Shenzhen sem reserva — os meses de ve
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:101 — "Guizhou" — Shenzhen não tem uma culinária "de origem" — tem uma culinária de chegada. A cidade foi fundada do zero em 198
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:103 — "Hong Kong" — A base cantonesa está lá, mas ela funciona diferente de Guangzhou ou de Hong Kong. Guangzhou é o centro histór
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:115 — "Hong Kong" — Shenzhen não tem a noite de Hong Kong — nenhuma cidade tem. Mas essa comparação diz menos sobre Shenzhen do qu
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:141 — "Guizhou" — As ruas perpendiculares às avenidas comerciais de Chegongmiao e Tairan guardam o que moradores locais chamam s
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:145 — "Hong Kong" — O skyline de Futian não é o caos de Hong Kong. Isso pode soar como crítica, mas do ponto de vista fotográfico 
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:157 — "Hong Kong" — A travessia de Hong Kong para Shenzhen é, na prática, uma das fronteiras internacionais mais funcionais do mun
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:171 — "Hong Kong" — **Pagamento digital:** Shenzhen opera quase integralmente sem dinheiro físico — mais do que qualquer outra cid
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:196 — "Hong Kong" — **Saúde:** Seguro de viagem com cobertura médica na China: verificar cobertura antes de embarcar. Hospitais pr
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:200 — "Hong Kong" — Shenzhen não pede que você a estude antes de entrar. Ela prefere o impacto direto — e a travessia pelo Futian 
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:212 — "Hong Kong" — > **Ponto de partida:** Futian Checkpoint (cruzando de Lok Ma Chau/MTR Hong Kong).
+- aviso · destino-removido · pesquisa/cidades/07-shenzhen.expandido.md:324 — "Xi'an" — Há cidades que pedem contexto. Para entender Pequim, você precisa de imperador e de Revolução Cultural; para e
+- aviso · destino-removido · pesquisa/dias/14-shenzhen-dia-13.md:21 — "Hong Kong" — ### 13h30 — Deixar Hong Kong pelo lado correto
+- aviso · destino-removido · pesquisa/dias/14-shenzhen-dia-13.md:23 — "Hong Kong" — Sair de Hong Kong para Shenzhen pela fronteira errada no momento errado é o tipo de erro que a maioria dos vis
+- aviso · destino-removido · pesquisa/dias/14-shenzhen-dia-13.md:25 — "Hong Kong" — O caminho certo para este dia é o Futian Checkpoint. Do lado de Hong Kong, o acesso fica no terminal de Lok Ma
+- aviso · destino-removido · pesquisa/dias/14-shenzhen-dia-13.md:51 — "Hong Kong" — **WeChat Pay primeiro.** O app precisa estar instalado (faça isso antes de entrar na China), mas configurar a 
+- aviso · destino-removido · pesquisa/dias/14-shenzhen-dia-13.md:101 — "Hong Kong" — | Almoço | Em trânsito de Hong Kong | — (comer antes de atravessar ou no terminal de HK) | HKD |
+- aviso · destino-removido · pesquisa/dias/14-shenzhen-dia-13.md:113 — "Hong Kong" — | Origem em HK → Lok Ma Chau (MTR East Rail) | MTR Hong Kong | 40–60 min (depende do ponto de partida) | HKD (
+- aviso · destino-removido · pesquisa/dias/15-shenzhen-dia-14.md:47 — "Guizhou" — Você vai saber que chegou quando a calçada tiver mesas plásticas com banquinhos plásticos do lado de fora e um
+- aviso · destino-removido · pesquisa/dias/16-shenzhen-dia-15.md:69 — "Hong Kong" — O Lianxiang Lou em Futian é a escolha para quem retornou direto ao centro. A casa é uma instituição cantonesa 
+- aviso · front-matter · pesquisa/dias/14-shenzhen-dia-13.md:12 — falta "days"
+- aviso · front-matter · pesquisa/dias/15-shenzhen-dia-14.md:12 — falta "days"
+- aviso · front-matter · pesquisa/dias/16-shenzhen-dia-15.md:12 — falta "days"
+- aviso · front-matter · pesquisa/dias/17-shenzhen-dia-16.md:12 — falta "days"
+- aviso · pendência · pesquisa/atracoes/dafen.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/dafen.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/huaqiangbei.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/huaqiangbei.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/oct-loft.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/oct-loft.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/ping-an-shenzhen-bay.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/ping-an-shenzhen-bay.md:19 — *Conteúdo em desenvolvimento.*

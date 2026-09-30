@@ -1,0 +1,53 @@
+# Pacote fenghuang-guilin
+
+## Arquivos
+- pesquisa/atracoes/hongqiao-fenghuang.md
+- pesquisa/atracoes/longsheng.md
+- pesquisa/atracoes/muralha-fenghuang.md
+- pesquisa/atracoes/rio-li-cruzeiro.md
+- pesquisa/atracoes/rio-tuojiang-diaojiaolou.md
+- pesquisa/atracoes/shen-congwen.md
+- pesquisa/atracoes/wanming-pagoda.md
+- pesquisa/cidades/04-fenghuang.md
+- pesquisa/cidades/05-guilin.md
+- pesquisa/dias/10-fenghuang-dia-10.md
+- pesquisa/dias/11-guilin-dia-11.md
+- pesquisa/dias/00-fenghuang-assignment.md (bastidor, só referência)
+- pesquisa/dias/00-guilin-assignment.md (bastidor, só referência)
+
+## Achados da fase 0 (35)
+- erro · extensão · pesquisa/atracoes/hongqiao-fenghuang.md — 25 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/longsheng.md — 31 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/muralha-fenghuang.md — 11 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/rio-li-cruzeiro.md — 39 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/rio-tuojiang-diaojiaolou.md — 29 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/shen-congwen.md — 39 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/wanming-pagoda.md — 22 palavras de prosa (piso 300) — STUB/placeholder
+- erro · metalinguagem · pesquisa/cidades/05-guilin.md:116 — "golden window" — A golden window dura quarenta e cinco minutos. O nascer do sol às 6h20 não ilumina a cidade de uma vez — atrav
+- erro · metalinguagem · pesquisa/cidades/05-guilin.md:124 — "golden window" — > **Sequência:** 5h45 despertar → 6h15–7h10 Elephant Trunk Hill exterior (golden window, névoa pós-nascer do s
+- erro · metalinguagem · pesquisa/dias/10-fenghuang-dia-10.md:66 — "flag de atenção" — **Flag de atenção:** a 故居 opera com histórico de fechamento às segundas-feiras. Não há confirmação definitiva 
+- erro · metalinguagem · pesquisa/dias/10-fenghuang-dia-10.md:139 — "o brief" — > **Flag operacional:** horário de partida para Guilin foi tratado neste arquivo como ~11h00, mas o BRIEF-DIA 
+- erro · metalinguagem · pesquisa/dias/10-fenghuang-dia-10.md:139 — "brief-dia" — > **Flag operacional:** horário de partida para Guilin foi tratado neste arquivo como ~11h00, mas o BRIEF-DIA 
+- erro · metalinguagem · pesquisa/dias/10-fenghuang-dia-10.md:139 — "flag operacional" — > **Flag operacional:** horário de partida para Guilin foi tratado neste arquivo como ~11h00, mas o BRIEF-DIA 
+- erro · pendência · pesquisa/cidades/04-fenghuang.md:75 — Quem ainda não esgotou o reflexo das lanternas na água tem outra opção: o passeio de barco noturno no Tuojiang, a ¥138 p
+- erro · pendência · pesquisa/cidades/05-guilin.md:17 — Cinco horas de ônibus desde Fenghuang, e as pernas já tinham esquecido o que era andar em terra plana. Eram quase quatro
+- erro · pendência · pesquisa/cidades/05-guilin.md:39 — Existe uma conversa que você vai ter com qualquer pessoa de Guilin que passou tempo fora da cidade. Pergunta o que senti
+- erro · pendência · pesquisa/dias/10-fenghuang-dia-10.md:82 — A organização de bagagem num quarto de hospedagem depois de uma noite de frio pede mais tempo do que parece. Charger, ad
+- erro · pendência · pesquisa/dias/11-guilin-dia-11.md:18 — Guilin não tem uma estação rodoviária de saída — tem um cais. Este dia é construído todo em direção a ele: o despertador
+- erro · pendência · pesquisa/dias/11-guilin-dia-11.md:90 — Os primeiros quarenta minutos são os que testam a paciência de quem não foi avisado: o barco deixa para trás a Guilin ai
+- aviso · extensão · pesquisa/cidades/04-fenghuang.md — 4139 palavras de prosa (piso 6000)
+- aviso · extensão · pesquisa/cidades/05-guilin.md — 4013 palavras de prosa (piso 6000)
+- aviso · pendência · pesquisa/atracoes/hongqiao-fenghuang.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/hongqiao-fenghuang.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/longsheng.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/longsheng.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/muralha-fenghuang.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/muralha-fenghuang.md:18 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/rio-li-cruzeiro.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/rio-li-cruzeiro.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/rio-tuojiang-diaojiaolou.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/rio-tuojiang-diaojiaolou.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/shen-congwen.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/shen-congwen.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/wanming-pagoda.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/wanming-pagoda.md:19 — *Conteúdo em desenvolvimento.*

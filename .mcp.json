@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "stock-images": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "stock-images-mcp"
+      ],
+      "env": {
+        "PEXELS_API_KEY": "5jF7vjJF8PvFWbAK7qkwxUwXF5IZ8nNAK3EeKWe4QgOBUcEzoFoJl6dA"
+      }
+    }
+  }
+}

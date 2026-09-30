@@ -1,0 +1,52 @@
+# Pacote xiamen
+
+## Arquivos
+- pesquisa/atracoes/gulangyu.md
+- pesquisa/atracoes/nanputuo.md
+- pesquisa/atracoes/universidade-xiamen.md
+- pesquisa/atracoes/zengcuoan.md
+- pesquisa/atracoes/zhongshan-road-xiamen.md
+- pesquisa/cidades/08-xiamen.expandido.md
+- pesquisa/dias/18-xiamen-dia-17.md
+- pesquisa/dias/19-xiamen-dia-18.md
+- pesquisa/dias/20-xiamen-dia-19.md
+- pesquisa/dias/21-xiamen-dia-20.md
+
+## Achados da fase 0 (37)
+- erro · extensão · pesquisa/atracoes/gulangyu.md — 48 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/nanputuo.md — 39 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/universidade-xiamen.md — 38 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/zengcuoan.md — 36 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/zhongshan-road-xiamen.md — 42 palavras de prosa (piso 300) — STUB/placeholder
+- erro · metalinguagem · pesquisa/dias/20-xiamen-dia-19.md:39 — "a pesquisa" — O No. 10 da Jukou Lane não tem nenhum sinal em inglês e não precisa ter. A Lianhuan Oyster Omelette (莲欢海蛎煎) fu
+- erro · metalinguagem · pesquisa/dias/20-xiamen-dia-19.md:45 — "a pesquisa" — Uma nota prática: a pesquisa confirma que a Lianhuan abre às 8h e funciona até às 22h, mas o volume matinal em
+- erro · metalinguagem · pesquisa/dias/20-xiamen-dia-19.md:113 — "a pesquisa" — Uma quinta-feira de novembro, depois das vinte e uma horas, tem um caráter específico no Fat Fat Beer Horse. A
+- erro · metalinguagem · pesquisa/dias/20-xiamen-dia-19.md:173 — "a pesquisa" — > **Flags para revisão:** (1) Lianhuan Oyster Omelette: horário de abertura em dias úteis pela manhã confirmad
+- erro · metalinguagem · pesquisa/dias/20-xiamen-dia-19.md:173 — "o brief" — > **Flags para revisão:** (1) Lianhuan Oyster Omelette: horário de abertura em dias úteis pela manhã confirmad
+- erro · metalinguagem · pesquisa/dias/20-xiamen-dia-19.md:173 — "brief-dia" — > **Flags para revisão:** (1) Lianhuan Oyster Omelette: horário de abertura em dias úteis pela manhã confirmad
+- erro · pendência · pesquisa/cidades/08-xiamen.expandido.md:89 — O Chu Family Coffee, numa das mansões de família retornada das Filipinas, serve — se ainda aberto — café como os *hui gu
+- erro · pendência · pesquisa/dias/19-xiamen-dia-18.md:123 — O Dia 18 termina como todos os dias bons terminam: com a sensação de que a cidade se deixou entender um pouco mais, sem 
+- erro · pendência · pesquisa/dias/20-xiamen-dia-19.md:25 — A caminhada do hotel até o mercado atravessa o bairro ainda no ritmo de início de dia: padarias fechando a persiana de c
+- erro · pendência · pesquisa/dias/21-xiamen-dia-20.md:21 — O Dia 20 não tem itinerário — tem ritmo. É a última manhã na China, e o que ela pede não é mais uma atração riscada de u
+- erro · roteiro · pesquisa/dias/18-xiamen-dia-17.md — numeração de dias quebra entre Dia 16 (15/11) e Dia 17 (17/11): 1 dia(s) de numeração para 2 dia(s) de calendário
+- erro · tag-vazada · pesquisa/dias/18-xiamen-dia-17.md:41 — O Chu Family Coffee fica nessa área da ilha — uma mansão de família retornada das Filipinas, reconvertida em café em 200
+- erro · tag-vazada · pesquisa/dias/18-xiamen-dia-17.md:163 — - The Chu Family Coffee: status PROVÁVEL — verificar in loco ao passar pelas ruelas de Neicuo Ao. Se fechado, não altera
+- erro · tag-vazada · pesquisa/dias/18-xiamen-dia-17.md:166 — - Fat Fat Beer Horse: CONFIRMADO, aberto terças; movimento de regulares depois das 20h.
+- erro · tag-vazada · pesquisa/dias/20-xiamen-dia-19.md:133 — **沙茶林 — Área da Zhongshan Road, Siming District.** Fundado em 1935. CONFIRMADO. Preço: RMB 20–35 por tigela. Pedir: sata
+- erro · tag-vazada · pesquisa/dias/21-xiamen-dia-20.md:15 — > **⚠️ FLAG CRÍTICA — HORÁRIO DO VOO NÃO CONFIRMADO:** Este roteiro foi escrito assumindo voo XMN→Fukuoka com decolagem 
+- erro · tag-vazada · pesquisa/dias/21-xiamen-dia-20.md:41 — *(Nota: o status de funcionamento da Xidi Coffee Street em novembro de 2026 é PROVÁVEL — verificar in loco ou perguntar 
+- aviso · destino-removido · pesquisa/cidades/08-xiamen.expandido.md:495 — "Xi'an" — Você chegou pelo cais, numa manhã de novembro em que a luz batia de lado sobre o estreito, e vai sair pelo aer
+- aviso · front-matter · pesquisa/dias/18-xiamen-dia-17.md:12 — falta "days"
+- aviso · front-matter · pesquisa/dias/19-xiamen-dia-18.md:12 — falta "days"
+- aviso · front-matter · pesquisa/dias/20-xiamen-dia-19.md:12 — falta "days"
+- aviso · front-matter · pesquisa/dias/21-xiamen-dia-20.md:12 — falta "days"
+- aviso · pendência · pesquisa/atracoes/gulangyu.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/gulangyu.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/nanputuo.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/nanputuo.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/universidade-xiamen.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/universidade-xiamen.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/zengcuoan.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/zengcuoan.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/zhongshan-road-xiamen.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/zhongshan-road-xiamen.md:19 — *Conteúdo em desenvolvimento.*

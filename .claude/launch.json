@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "guia",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8743", "--directory", "/Users/alexandre.roberto/repo/guia_china_japao/dist"],
+      "port": 8743
+    }
+  ]
+}

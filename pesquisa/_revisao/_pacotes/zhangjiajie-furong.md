@@ -1,0 +1,85 @@
+# Pacote zhangjiajie-furong
+
+## Arquivos
+- pesquisa/atracoes/furong-cachoeira.md
+- pesquisa/atracoes/glass-bridge.md
+- pesquisa/atracoes/golden-whip-stream.md
+- pesquisa/atracoes/tianmen-mountain.md
+- pesquisa/atracoes/tianzi-mountain.md
+- pesquisa/atracoes/yuanjiajie-avatar.md
+- pesquisa/cidades/02-zhangjiajie.md
+- pesquisa/cidades/03-furong-town.md
+- pesquisa/dias/05-zhangjiajie-dia-5.md
+- pesquisa/dias/06-zhangjiajie-dia-6.md
+- pesquisa/dias/07-zhangjiajie-dia-7.md
+- pesquisa/dias/08-furong-town-dia-8.md
+- pesquisa/dias/09-furong-town-dia-9.md
+- pesquisa/dias/00-furong-town-assignment.md (bastidor, só referência)
+- pesquisa/dias/00-zhangjiajie-assignment.md (bastidor, só referência)
+
+## Achados da fase 0 (65)
+- erro · extensão · pesquisa/atracoes/furong-cachoeira.md — 40 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/glass-bridge.md — 31 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/golden-whip-stream.md — 32 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/tianmen-mountain.md — 25 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/tianzi-mountain.md — 22 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/yuanjiajie-avatar.md — 24 palavras de prosa (piso 300) — STUB/placeholder
+- erro · metalinguagem · pesquisa/cidades/02-zhangjiajie.md:95 — "golden window" — A golden window de névoa abre entre 6h30 e 9h, e é exatamente por isso que o Bailong Elevator — o elevador pan
+- erro · metalinguagem · pesquisa/cidades/02-zhangjiajie.md:131 — "golden window" — A noite termina cedo por necessidade estratégica: Tianmen Mountain abre às 7h30, o teleférico na golden window
+- erro · metalinguagem · pesquisa/dias/05-zhangjiajie-dia-5.md:86 — "golden window" — Tianmen Mountain em novembro opera entre névoa e claridade dependendo do dia. A golden window matinal — entre 
+- erro · metalinguagem · pesquisa/dias/05-zhangjiajie-dia-5.md:130 — "golden window" — O táxi para a estação do teleférico de Tianmen Mountain sai em quinze minutos do centro de Yongding. Custo: ¥1
+- erro · metalinguagem · pesquisa/dias/06-zhangjiajie-dia-6.md:158 — "flag operacional" — > **Flag operacional [ALTA]:** Confirmar horário de abertura de Tianmen Mountain para novembro de 2026 no site
+- erro · metalinguagem · pesquisa/dias/07-zhangjiajie-dia-7.md:59 — "a pesquisa" — O pilar chamado oficialmente de "Southern Sky Column" (南天一柱) foi renomeado em 2010 como "Avatar Hallelujah Mou
+- erro · metalinguagem · pesquisa/dias/09-furong-town-dia-9.md:52 — "o brief" — O mercado matinal mencionado no brief é condicional — pergunte ao hotel na chegada do Dia 8 se existe e onde f
+- erro · metalinguagem · pesquisa/dias/09-furong-town-dia-9.md:52 — "no brief" — O mercado matinal mencionado no brief é condicional — pergunte ao hotel na chegada do Dia 8 se existe e onde f
+- erro · pendência · pesquisa/cidades/02-zhangjiajie.md:31 — Os pilares são o que traz os viajantes. Os Tujia são o que ficou antes deles chegarem. A etnia Tujia é a maioria demográ
+- erro · pendência · pesquisa/cidades/02-zhangjiajie.md:65 — Quatro dias em Chongqing calibram o paladar para o calor que entorpece — o málà da culinária Sichuan, aquela dormência e
+- erro · pendência · pesquisa/cidades/02-zhangjiajie.md:87 — Em Wulingyuan, a âncora prática da vida noturna é a Xibu Ancient Street [CONFIRMADO], na cidade de Suoxiyu. A rua é pede
+- erro · pendência · pesquisa/cidades/02-zhangjiajie.md:113 — O terceiro item exige planejamento de horário mais do que de roteiro: **Baofeng Lake** [CONFIRMADO como fenômeno sazonal
+- erro · pendência · pesquisa/cidades/02-zhangjiajie.md:134 — > **Logística:** táxi estação→hotel (~¥25-35, 15 min); todo o restante a pé. Chegada: trem K-series Chongqing Norte→Zhan
+- erro · pendência · pesquisa/cidades/02-zhangjiajie.md:288 — Quanto ao idioma: praticamente zero inglês circula fora dos lobbies de hotel. O pacote de tradução offline do Google Tra
+- erro · pendência · pesquisa/cidades/03-furong-town.md:49 — A loja que todo guia cita tem o nome de uma atriz e um endereço: 刘晓庆米豆腐店, número 113 da Rua de Pedra de Cinco Li. Em 198
+- erro · pendência · pesquisa/cidades/03-furong-town.md:53 — Os outros sabores do Xiangxi estão nos restaurantes ao redor da área cênica. Pela reputação que tem entre quem frequenta
+- erro · pendência · pesquisa/cidades/03-furong-town.md:140 — Das 6h às 7h30, o espaço que na tarde do sábado estava tomado por grupos de turistas e guias com megafone pertence exclu
+- erro · pendência · pesquisa/cidades/03-furong-town.md:151 — > **Logística:** todo o período a pé (área < 600m de raio); saída por táxi ou ônibus compartilhado para Fenghuang (~130 
+- erro · pendência · pesquisa/dias/05-zhangjiajie-dia-5.md:25 — O trem para num comprido de plataforma coberta, e o que aparece do lado de fora dos trilhos não é montanha nenhuma. É um
+- erro · pendência · pesquisa/dias/05-zhangjiajie-dia-5.md:35 — O check-in num hotel bem posicionado no centro de Yongding leva meia hora contando com o tempo de deixar a mochila grand
+- erro · pendência · pesquisa/dias/05-zhangjiajie-dia-5.md:86 — Tianmen Mountain em novembro opera entre névoa e claridade dependendo do dia. A golden window matinal — entre 7h30 e 9h3
+- erro · pendência · pesquisa/dias/05-zhangjiajie-dia-5.md:94 — Hu Shifu Sanxiaguo é a primeira escolha por ser confirmado como referência local de culinária Xiang sem ajuste para turi
+- erro · pendência · pesquisa/dias/08-furong-town-dia-8.md:84 — O ponto de partida óbvio é o número 113 da rua de pedra: a **Liu Xiaoqing Mi Doufu Dian** (刘晓庆米豆腐店). O nome referencia a
+- erro · pendência · pesquisa/dias/09-furong-town-dia-9.md:52 — O mercado matinal mencionado no brief é condicional — pergunte ao hotel na chegada do Dia 8 se existe e onde fica. Se ex
+- erro · roteiro · pesquisa/dias/05-zhangjiajie-dia-5.md — numeração de dias quebra entre Dia 4 (04/11) e Dia 5 (04/11): 1 dia(s) de numeração para 0 dia(s) de calendário
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:73 — Em Yongding, onde fica a parte urbana de Zhangjiajie, o Hu Shifu Sanxiaguo (胡师傅三下锅) [CONFIRMADO] é o nome que aparece na
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:75 — Em Wulingyuan, as opções são menos, mas algumas delas surpreendem. O Tang Shifu Tujia (唐师傅土家食府) [CONFIRMADO] opera há dé
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:77 — Para street food, a Hourong Street Night Market (虎溶街夜市) [CONFIRMADO] na Ziwu Road, em Yongding, é o que os jovens da cid
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:83 — Na primeira noite em Yongding, o endereço é a Jiefang Road — chamada localmente de Dayong Bar Street [CONFIRMADO como ár
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:87 — Em Wulingyuan, a âncora prática da vida noturna é a Xibu Ancient Street [CONFIRMADO], na cidade de Suoxiyu. A rua é pede
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:89 — O Charming Xiangxi Show [CONFIRMADO operando em 2026], com seus 2.800 lugares e duas sessões diárias às 19h30, merece um
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:103 — O Baofeng Lake [CONFIRMADO como fenômeno sazonal] oferece um registro completamente diferente das colunas — mais horizon
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:109 — O primeiro item do repertório não é bem um segredo — é uma geometria. **Yangjiajie Scenic Area** [CONFIRMADO como altern
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:111 — O segundo item é uma prática, não um lugar: **entrar pelo portão de Tianzishan às 07h** [CONFIRMADO como prática local].
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:113 — O terceiro item exige planejamento de horário mais do que de roteiro: **Baofeng Lake** [CONFIRMADO como fenômeno sazonal
+- erro · tag-vazada · pesquisa/cidades/02-zhangjiajie.md:115 — O quarto item é diferente dos outros três em natureza, e precisa ser apresentado assim. No bairro de Nanzhuangping, em Y
+- erro · tag-vazada · pesquisa/dias/06-zhangjiajie-dia-6.md:57 — O **Hu Shifu Sanxiaguo** [CONFIRMADO] é um restaurante local centrado no *sanxiaguo*, o refogado triplo da culinária de 
+- erro · tag-vazada · pesquisa/dias/06-zhangjiajie-dia-6.md:59 — O **Fuzhengyi** [CONFIRMADO] é uma alternativa ligeiramente mais voltada para pedidos avulsos, com a carne defumada de X
+- erro · tag-vazada · pesquisa/dias/06-zhangjiajie-dia-6.md:105 — O **Tang Shifu Tujia** [CONFIRMADO] é o restaurante mais indicado para uma primeira noite em Wulingyuan. Especializado e
+- erro · tag-vazada · pesquisa/dias/06-zhangjiajie-dia-6.md:107 — O **Dadui Old Fishing Village** [CONFIRMADO] é uma alternativa com ambiente mais cenográfico — decoração rústica, pratos
+- erro · tag-vazada · pesquisa/dias/06-zhangjiajie-dia-6.md:127 — A culinária Xiang de Hunan é picante por padrão — não a pimenta seca do Sichuan, que entorpece, mas a pimenta fresca e d
+- erro · tag-vazada · pesquisa/dias/06-zhangjiajie-dia-6.md:129 — Alternativa confirmada: **Fuzhengyi** [CONFIRMADO], com foco na carne defumada de Xiangxi servida como prato principal c
+- erro · tag-vazada · pesquisa/dias/06-zhangjiajie-dia-6.md:133 — O **Tang Shifu Tujia** [CONFIRMADO] é a principal indicação para a primeira noite em Wulingyuan. Culinária Tujia, sem me
+- erro · tag-vazada · pesquisa/dias/07-zhangjiajie-dia-7.md:159 — **Tang Shifu Tujia** [CONFIRMADO] é o encerramento gastronômico mais coerente com o lugar: culinária Tujia, etnia local 
+- aviso · destino-removido · pesquisa/cidades/02-zhangjiajie.md:83 — "Hong Kong" — Na primeira noite em Yongding, o endereço é a Jiefang Road — chamada localmente de Dayong Bar Street [CONFIRMA
+- aviso · destino-removido · pesquisa/dias/06-zhangjiajie-dia-6.md:17 — "Terracota" — Este dia apresenta dois tipos de grandeza completamente diferentes, separados por 35 quilômetros de estrada. A
+- aviso · extensão · pesquisa/cidades/03-furong-town.md — 5665 palavras de prosa (piso 6000)
+- aviso · pendência · pesquisa/atracoes/furong-cachoeira.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/furong-cachoeira.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/glass-bridge.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/glass-bridge.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/golden-whip-stream.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/golden-whip-stream.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/tianmen-mountain.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/tianmen-mountain.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/tianzi-mountain.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/tianzi-mountain.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/yuanjiajie-avatar.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/yuanjiajie-avatar.md:19 — *Conteúdo em desenvolvimento.*

@@ -1,0 +1,67 @@
+# Pacote beppu
+
+## Arquivos
+- pesquisa/atracoes/beppu-jigoku.md
+- pesquisa/atracoes/kannawa.md
+- pesquisa/atracoes/takegawara-onsen.md
+- pesquisa/atracoes/yufuin-day-trip.md
+- pesquisa/cidades/11-beppu.expandido.md
+- pesquisa/dias/25-beppu-dia-24.md
+- pesquisa/dias/26-beppu-dia-25.md
+- pesquisa/dias/27-beppu-dia-26.md
+- pesquisa/dias/28-beppu-dia-27.md
+- pesquisa/dias/29-beppu-dia-28.md
+
+## Achados da fase 0 (52)
+- erro · extensão · pesquisa/atracoes/beppu-jigoku.md — 45 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/kannawa.md — 45 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/takegawara-onsen.md — 40 palavras de prosa (piso 300) — STUB/placeholder
+- erro · extensão · pesquisa/atracoes/yufuin-day-trip.md — 47 palavras de prosa (piso 300) — STUB/placeholder
+- erro · metalinguagem · pesquisa/dias/26-beppu-dia-25.md:88 — "o brief" — A entrada do Jigoku Mushi Kobo Kannawa fica a menos de cinco minutos a pé do Kamado Jigoku, numa rua lateral d
+- erro · metalinguagem · pesquisa/dias/26-beppu-dia-25.md:156 — "o brief" — Às 22h30 de terça-feira, 24 de novembro, o Dia 25 de Beppu está completo. Cinco jigoku de Kannawa, dois ônibus
+- erro · pendência · pesquisa/cidades/11-beppu.expandido.md:35 — Mas falar em "Beppu" como se fosse um lugar homogêneo é o mesmo erro que falar em "Paris" como se Montmartre e La Défens
+- erro · pendência · pesquisa/cidades/11-beppu.expandido.md:71 — O encerramento natural para o dia de jigoku-meguri não é sair direto de volta para o centro. É parar no **Jigoku Mushi K
+- erro · pendência · pesquisa/cidades/11-beppu.expandido.md:147 — Takegawara tem arquitetura de cartão-postal — a fachada de madeira de 1879, os telhados de telha curvada — e por isso ap
+- erro · pendência · pesquisa/cidades/11-beppu.expandido.md:483 — O ônibus para Fukuoka dura cerca de uma hora e quarenta minutos. Dali, a logística segue por conta própria até o voo de 
+- erro · pendência · pesquisa/dias/25-beppu-dia-24.md:28 — Da estação de ônibus de Kurokawa, o Sanko Bus ou um táxi até a estação JR de Beppu consome entre duas e três horas depen
+- erro · pendência · pesquisa/dias/25-beppu-dia-24.md:60 — Dois horas aqui é o tempo certo. Não porque haja programa a cumprir depois — há, mas com folga — mas porque o Takegawara
+- erro · pendência · pesquisa/dias/25-beppu-dia-24.md:76 — O toriten é o prato que organiza a gastronomia de Oita para quem chega de fora, e o equívoco mais frequente é arquivá-lo
+- erro · pendência · pesquisa/dias/26-beppu-dia-25.md:94 — O que torna essa refeição diferente de qualquer outra no roteiro não é o sabor dos ingredientes em si — boa batata-doce 
+- erro · pendência · pesquisa/dias/27-beppu-dia-26.md:42 — O processo começa no balcão: você paga a entrada, recebe uma yukata — a veste de algodão leve que as instalações fornece
+- erro · pendência · pesquisa/dias/28-beppu-dia-27.md:36 — O Yufuin no Mori opera em horários que pressupõem um viajante que acorda e funciona de manhã. As partidas relevantes de 
+- erro · pendência · pesquisa/dias/28-beppu-dia-27.md:48 — O Lago Kinrin aparece no final da rua sem anúncio grandioso. É pequeno — menor do que a maioria das fotos sugere, por ra
+- erro · pendência · pesquisa/dias/28-beppu-dia-27.md:50 — O Yufuin Floral Village fica na borda do perímetro do lago. Não há razão para entrar: é uma réplica de aldeia inglesa co
+- erro · pendência · pesquisa/dias/29-beppu-dia-28.md:58 — O Hyotan Onsen tem a distinção Michelin de três estrelas que todo material turístico de Beppu menciona, mas o que essa d
+- erro · pendência · pesquisa/dias/29-beppu-dia-28.md:104 — Há uma decisão pequena às 21h30 que não merece ser complicada. O onsen do Super Hotel Ekimae usa água termal real e fica
+- erro · pendência · pesquisa/dias/29-beppu-dia-28.md:169 — O Hyotan numa tarde de sexta quieta, sem os grupos de sábado, entregou o que o melhor onsen desta viagem tem para dar: t
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:71 — O encerramento natural para o dia de jigoku-meguri não é sair direto de volta para o centro. É parar no **Jigoku Mushi K
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:83 — No centro histórico de Beppu, o **Takegawara Onsen** (CONFIRMADO, ¥300, 6h30–22h30, fechado na terceira quarta do mês) é
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:85 — O **Hyotan Onsen** (CONFIRMADO, ¥1.020, 9h00–01h00, 3 estrelas Michelin) resolve um problema diferente: variedade. É um 
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:89 — Em Beppu, a configuração mais dramática é o **Beppu Beach Sand Bath / Shoningahama** (CONFIRMADO, ¥2.500, nov–mar 8h00–1
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:103 — O **Toyotsune Honten** (CONFIRMADO, Kitahama, 90+ anos, fecha terças e quartas) existe há mais de noventa anos. Foi fund
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:109 — Novembro marca o início da temporada de fugu no Japão, e Oita tem uma relação com o baiacu que é menos glamourosa e mais
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:111 — O **Beppu Station Market** (CONFIRMADO) fica sob os trilhos da JR Beppu — numa galeria comercial coberta, onde os morado
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:115 — O **Ramentei Ichiban** (CONFIRMADO, Chuomachi, desde 1985, seg–sáb 11h00–20h30) serve o reimen de Beppu desde 1985. O re
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:131 — Para quem prefere uma curadoria específica de shochu, o **BAR556** (CONFIRMADO, 1-15-11 Kitahama Ehimeya Building 1F, se
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:133 — O **Motomachi Bar** (CONFIRMADO, Motomachi 8-10, 18h00–02h00, fecha dom) ocupa um ponto no bairro que concentra parte da
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:135 — Para a última noite — a sexta-feira, 27 de novembro, último dia completo de Beppu antes do checkout de sábado — o **Bepp
+- erro · tag-vazada · pesquisa/cidades/11-beppu.expandido.md:177 — Três horas em Yufuin não é uma visita rasa — é o tempo exato que o lugar exige. O **Lago Kinrin** (CONFIRMADO, gratuito)
+- aviso · clichê · pesquisa/cidades/11-beppu.expandido.md:147 — "imperdível" — Takegawara tem arquitetura de cartão-postal — a fachada de madeira de 1879, os telhados de telha curvada — e p
+- aviso · clichê · pesquisa/cidades/11-beppu.expandido.md:185 — "imperdível" — A pergunta mais direta: vale a pena? A resposta é sim, com condição. Não porque Yufuin seja imperdível — Beppu
+- aviso · front-matter · pesquisa/dias/25-beppu-dia-24.md:13 — falta "days"
+- aviso · front-matter · pesquisa/dias/26-beppu-dia-25.md:11 — falta "days"
+- aviso · front-matter · pesquisa/dias/26-beppu-dia-25.md:11 — falta "city"
+- aviso · front-matter · pesquisa/dias/27-beppu-dia-26.md:9 — falta "days"
+- aviso · front-matter · pesquisa/dias/27-beppu-dia-26.md:9 — falta "city"
+- aviso · front-matter · pesquisa/dias/28-beppu-dia-27.md:9 — falta "days"
+- aviso · front-matter · pesquisa/dias/28-beppu-dia-27.md:9 — falta "city"
+- aviso · front-matter · pesquisa/dias/29-beppu-dia-28.md:9 — falta "days"
+- aviso · front-matter · pesquisa/dias/29-beppu-dia-28.md:9 — falta "city"
+- aviso · pendência · pesquisa/atracoes/beppu-jigoku.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/beppu-jigoku.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/kannawa.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/kannawa.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/takegawara-onsen.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/takegawara-onsen.md:19 — *Conteúdo em desenvolvimento.*
+- aviso · pendência · pesquisa/atracoes/yufuin-day-trip.md:14 — > Placeholder — conteúdo a desenvolver.
+- aviso · pendência · pesquisa/atracoes/yufuin-day-trip.md:19 — *Conteúdo em desenvolvimento.*

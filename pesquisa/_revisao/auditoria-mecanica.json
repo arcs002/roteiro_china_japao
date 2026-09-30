@@ -1,0 +1,2153 @@
+{
+ "calendar": [
+  {
+   "g": 1,
+   "dates": [
+    "2026-11-01"
+   ],
+   "cities": [
+    "chongqing"
+   ],
+   "files": [
+    "pesquisa/dias/01-chongqing-dia-1.md"
+   ]
+  },
+  {
+   "g": 2,
+   "dates": [
+    "2026-11-02"
+   ],
+   "cities": [
+    "chongqing"
+   ],
+   "files": [
+    "pesquisa/dias/02-chongqing-dia-2.md"
+   ]
+  },
+  {
+   "g": 3,
+   "dates": [
+    "2026-11-03"
+   ],
+   "cities": [
+    "chongqing"
+   ],
+   "files": [
+    "pesquisa/dias/03-chongqing-dia-3.md"
+   ]
+  },
+  {
+   "g": 4,
+   "dates": [
+    "2026-11-04"
+   ],
+   "cities": [
+    "chongqing"
+   ],
+   "files": [
+    "pesquisa/dias/04-chongqing-dia-4.md"
+   ]
+  },
+  {
+   "g": 5,
+   "dates": [
+    "2026-11-04"
+   ],
+   "cities": [
+    "zhangjiajie"
+   ],
+   "files": [
+    "pesquisa/dias/05-zhangjiajie-dia-5.md"
+   ]
+  },
+  {
+   "g": 6,
+   "dates": [
+    "2026-11-05"
+   ],
+   "cities": [
+    "zhangjiajie"
+   ],
+   "files": [
+    "pesquisa/dias/06-zhangjiajie-dia-6.md"
+   ]
+  },
+  {
+   "g": 7,
+   "dates": [
+    "2026-11-06"
+   ],
+   "cities": [
+    "zhangjiajie"
+   ],
+   "files": [
+    "pesquisa/dias/07-zhangjiajie-dia-7.md"
+   ]
+  },
+  {
+   "g": 8,
+   "dates": [
+    "2026-11-07"
+   ],
+   "cities": [
+    "furong-town"
+   ],
+   "files": [
+    "pesquisa/dias/08-furong-town-dia-8.md"
+   ]
+  },
+  {
+   "g": 9,
+   "dates": [
+    "2026-11-08"
+   ],
+   "cities": [
+    "furong-town"
+   ],
+   "files": [
+    "pesquisa/dias/09-furong-town-dia-9.md"
+   ]
+  },
+  {
+   "g": 10,
+   "dates": [
+    "2026-11-09"
+   ],
+   "cities": [
+    "fenghuang"
+   ],
+   "files": [
+    "pesquisa/dias/10-fenghuang-dia-10.md"
+   ]
+  },
+  {
+   "g": 11,
+   "dates": [
+    "2026-11-10"
+   ],
+   "cities": [
+    "guilin",
+    "yangshuo"
+   ],
+   "files": [
+    "pesquisa/dias/11-guilin-dia-11.md",
+    "pesquisa/dias/12-yangshuo-dia-11.md"
+   ]
+  },
+  {
+   "g": 12,
+   "dates": [
+    "2026-11-11"
+   ],
+   "cities": [
+    "yangshuo"
+   ],
+   "files": [
+    "pesquisa/dias/13-yangshuo-dia-12.md"
+   ]
+  },
+  {
+   "g": 13,
+   "dates": [
+    "2026-11-12"
+   ],
+   "cities": [
+    "shenzhen"
+   ],
+   "files": [
+    "pesquisa/dias/14-shenzhen-dia-13.md"
+   ]
+  },
+  {
+   "g": 14,
+   "dates": [
+    "2026-11-13"
+   ],
+   "cities": [
+    "shenzhen"
+   ],
+   "files": [
+    "pesquisa/dias/15-shenzhen-dia-14.md"
+   ]
+  },
+  {
+   "g": 15,
+   "dates": [
+    "2026-11-14"
+   ],
+   "cities": [
+    "shenzhen"
+   ],
+   "files": [
+    "pesquisa/dias/16-shenzhen-dia-15.md"
+   ]
+  },
+  {
+   "g": 16,
+   "dates": [
+    "2026-11-15"
+   ],
+   "cities": [
+    "shenzhen"
+   ],
+   "files": [
+    "pesquisa/dias/17-shenzhen-dia-16.md"
+   ]
+  },
+  {
+   "g": 17,
+   "dates": [
+    "2026-11-17"
+   ],
+   "cities": [
+    "xiamen"
+   ],
+   "files": [
+    "pesquisa/dias/18-xiamen-dia-17.md"
+   ]
+  },
+  {
+   "g": 18,
+   "dates": [
+    "2026-11-18"
+   ],
+   "cities": [
+    "xiamen"
+   ],
+   "files": [
+    "pesquisa/dias/19-xiamen-dia-18.md"
+   ]
+  },
+  {
+   "g": 19,
+   "dates": [
+    "2026-11-19"
+   ],
+   "cities": [
+    "xiamen"
+   ],
+   "files": [
+    "pesquisa/dias/20-xiamen-dia-19.md"
+   ]
+  },
+  {
+   "g": 20,
+   "dates": [
+    "2026-11-20"
+   ],
+   "cities": [
+    "xiamen"
+   ],
+   "files": [
+    "pesquisa/dias/21-xiamen-dia-20.md"
+   ]
+  },
+  {
+   "g": 21,
+   "dates": [
+    "2026-11-20"
+   ],
+   "cities": [
+    "fukuoka"
+   ],
+   "files": [
+    "pesquisa/dias/22-fukuoka-dia-21.md"
+   ]
+  },
+  {
+   "g": 22,
+   "dates": [
+    "2026-11-21"
+   ],
+   "cities": [
+    "fukuoka"
+   ],
+   "files": [
+    "pesquisa/dias/23-fukuoka-dia-22.md"
+   ]
+  },
+  {
+   "g": 23,
+   "dates": [
+    "2026-11-22"
+   ],
+   "cities": [
+    "kurokawa"
+   ],
+   "files": [
+    "pesquisa/dias/24-kurokawa-dia-23.md"
+   ]
+  },
+  {
+   "g": 24,
+   "dates": [
+    "2026-11-23"
+   ],
+   "cities": [
+    "beppu"
+   ],
+   "files": [
+    "pesquisa/dias/25-beppu-dia-24.md"
+   ]
+  },
+  {
+   "g": 25,
+   "dates": [
+    "2026-11-24"
+   ],
+   "cities": [
+    "beppu"
+   ],
+   "files": [
+    "pesquisa/dias/26-beppu-dia-25.md"
+   ]
+  },
+  {
+   "g": 26,
+   "dates": [
+    "2026-11-25"
+   ],
+   "cities": [
+    "beppu"
+   ],
+   "files": [
+    "pesquisa/dias/27-beppu-dia-26.md"
+   ]
+  },
+  {
+   "g": 27,
+   "dates": [
+    "2026-11-26"
+   ],
+   "cities": [
+    "beppu"
+   ],
+   "files": [
+    "pesquisa/dias/28-beppu-dia-27.md"
+   ]
+  },
+  {
+   "g": 28,
+   "dates": [
+    "2026-11-27"
+   ],
+   "cities": [
+    "beppu"
+   ],
+   "files": [
+    "pesquisa/dias/29-beppu-dia-28.md"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "file": "pesquisa/atracoes/beppu-jigoku.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "45 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/canal-city.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "36 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/dafen.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "42 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/dazaifu.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "37 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/furong-cachoeira.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "40 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/glass-bridge.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "31 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/golden-whip-stream.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "32 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/gulangyu.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "48 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/hongqiao-fenghuang.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "25 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/huaqiangbei.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "30 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/impressao-liu-sanjie.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "36 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/kannawa.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "45 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/kurokawa-onsen.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "45 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/kushida-shrine.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "40 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/longsheng.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "31 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/moon-hill.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "26 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/muralha-fenghuang.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "11 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/nanputuo.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "39 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/oct-loft.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "26 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/ohori-park-castelo.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "46 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/ping-an-shenzhen-bay.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "33 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/rio-li-cruzeiro.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "39 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/rio-tuojiang-diaojiaolou.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "29 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/shen-congwen.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "39 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/takegawara-onsen.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "40 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/tianmen-mountain.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "25 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/tianzi-mountain.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "22 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/universidade-xiamen.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "38 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/wanming-pagoda.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "22 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/west-street.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "27 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/yatai.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "41 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/yuanjiajie-avatar.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "24 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/yufuin-day-trip.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "47 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/yulong-river.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "29 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/zengcuoan.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "36 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/atracoes/zhongshan-road-xiamen.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "extensão",
+   "msg": "42 palavras de prosa (piso 300) — STUB/placeholder"
+  },
+  {
+   "file": "pesquisa/dias/07-zhangjiajie-dia-7.md",
+   "line": 59,
+   "sev": "erro",
+   "cat": "metalinguagem",
+   "msg": "\"a pesquisa\" — O pilar chamado oficialmente de \"Southern Sky Column\" (南天一柱) foi renomeado em 2010 como \"Avatar Hallelujah Mou"
+  },
+  {
+   "file": "pesquisa/dias/05-zhangjiajie-dia-5.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "roteiro",
+   "msg": "numeração de dias quebra entre Dia 4 (04/11) e Dia 5 (04/11): 1 dia(s) de numeração para 0 dia(s) de calendário"
+  },
+  {
+   "file": "pesquisa/dias/18-xiamen-dia-17.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "roteiro",
+   "msg": "numeração de dias quebra entre Dia 16 (15/11) e Dia 17 (17/11): 1 dia(s) de numeração para 2 dia(s) de calendário"
+  },
+  {
+   "file": "pesquisa/dias/22-fukuoka-dia-21.md",
+   "line": null,
+   "sev": "erro",
+   "cat": "roteiro",
+   "msg": "numeração de dias quebra entre Dia 20 (20/11) e Dia 21 (20/11): 1 dia(s) de numeração para 0 dia(s) de calendário"
+  },
+  {
+   "file": "pesquisa/cidades/11-beppu.expandido.md",
+   "line": 147,
+   "sev": "aviso",
+   "cat": "clichê",
+   "msg": "\"imperdível\" — Takegawara tem arquitetura de cartão-postal — a fachada de madeira de 1879, os telhados de telha curvada — e p"
+  },
+  {
+   "file": "pesquisa/cidades/11-beppu.expandido.md",
+   "line": 185,
+   "sev": "aviso",
+   "cat": "clichê",
+   "msg": "\"imperdível\" — A pergunta mais direta: vale a pena? A resposta é sim, com condição. Não porque Yufuin seja imperdível — Beppu"
+  },
+  {
+   "file": "pesquisa/dias/04-chongqing-dia-4.md",
+   "line": 49,
+   "sev": "aviso",
+   "cat": "clichê",
+   "msg": "\"imperdível\" — O que fazer aqui não tem lista. A instrução real é: desacelere. Não há uma banca imperdível nem um ângulo foto"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 12,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — O mapa oficial da China reconhece 56 grupos étnicos — os han, que respondem por mais de 90% da população, e ou"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 12,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — O mapa oficial da China reconhece 56 grupos étnicos — os han, que respondem por mais de 90% da população, e ou"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 18,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — O resultado prático desse sistema é uma arquitetura de autonomia territorial nominal: a China organiza parte d"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 18,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — O resultado prático desse sistema é uma arquitetura de autonomia territorial nominal: a China organiza parte d"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 18,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Zhaoxing\" — O resultado prático desse sistema é uma arquitetura de autonomia territorial nominal: a China organiza parte d"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 18,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xijiang\" — O resultado prático desse sistema é uma arquitetura de autonomia territorial nominal: a China organiza parte d"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 24,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — Dos cinco grupos deste roteiro, os Hui (回族) são o único classificado oficialmente não por língua ou território"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 24,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xian\" — Dos cinco grupos deste roteiro, os Hui (回族) são o único classificado oficialmente não por língua ou território"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 26,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — O Bairro Muçulmano de Xi'an, organizado ao redor da Grande Mesquita erguida em 742 d.C., é o retrato mais aces"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 30,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — Os Miao (苗族) — cerca de 9-10 milhões de pessoas, majoritariamente em Guizhou, Hunan, Yunnan e Guangxi — são o "
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 30,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xijiang\" — Os Miao (苗族) — cerca de 9-10 milhões de pessoas, majoritariamente em Guizhou, Hunan, Yunnan e Guangxi — são o "
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 32,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xijiang\" — A prata é a linguagem visual mais reconhecível dessa cultura: coroas, colares e placas peitorais que podem pes"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 36,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — Os Dong (侗族), concentrados nas fronteiras entre Guizhou, Hunan e Guangxi — território que o roteiro cruza dire"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 36,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Zhaoxing\" — Os Dong (侗族), concentrados nas fronteiras entre Guizhou, Hunan e Guangxi — território que o roteiro cruza dire"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 46,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — Cinco paradas, cinco povos, nenhuma \"China genérica\" entre elas: o Islã sinizado dos Hui em Xi'an, a prata e o"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 46,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Zhaoxing\" — Cinco paradas, cinco povos, nenhuma \"China genérica\" entre elas: o Islã sinizado dos Hui em Xi'an, a prata e o"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "line": 46,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xijiang\" — Cinco paradas, cinco povos, nenhuma \"China genérica\" entre elas: o Islã sinizado dos Hui em Xi'an, a prata e o"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/historia.md",
+   "line": 12,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — Treze dinastias chamaram Xi'an de capital antes de a China se organizar, séculos depois, em torno de Pequim — "
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/historia.md",
+   "line": 16,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — A unificação política da China remonta à dinastia Qin (221–206 a.C.), quando o primeiro imperador, Qin Shi Hua"
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/historia.md",
+   "line": 16,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Terracota\" — A unificação política da China remonta à dinastia Qin (221–206 a.C.), quando o primeiro imperador, Qin Shi Hua"
+  },
+  {
+   "file": "pesquisa/atracoes/hongyadong.md",
+   "line": 45,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — Os Tujia são um dos grupos étnicos minoritários que habitam o sudoeste da China há pelo menos mil anos — as fo"
+  },
+  {
+   "file": "pesquisa/atracoes/ping-an-shenzhen-bay.md",
+   "line": 15,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — > Ping An Finance Centre (599 m, 4º mais alto do mundo) + passarela de Shenzhen Bay com vista para Hong Kong."
+  },
+  {
+   "file": "pesquisa/cidades/01-chongqing.md",
+   "line": 104,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — Para uma noite com mais substância, o Gengu Gongguan (根骨公馆) opera, segundo relatos recentes, dentro do Parque "
+  },
+  {
+   "file": "pesquisa/cidades/01-chongqing.md",
+   "line": 116,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xian\" — A poucos quarteirões dali, na Shihuishi Street, a Zhang Xian Xian Chaoshou resolve o outro lado da manhã chong"
+  },
+  {
+   "file": "pesquisa/cidades/02-zhangjiajie.md",
+   "line": 83,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — Na primeira noite em Yongding, o endereço é a Jiefang Road — chamada localmente de Dayong Bar Street — que fun"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 17,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — A cidade tem quarenta e seis anos. Em 1980, o governo chinês demarcou uma faixa de terra ao norte de Hong Kong"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 25,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — Em 1980, quando Deng Xiaoping assinou a criação da Zona Econômica Especial de Shenzhen, ele estava fazendo uma"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 27,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — A escolha do local não foi sentimental nem simbólica. Foi cirúrgica. Shenzhen ficava longe de Pequim — longe o"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 47,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — O calendário oficial do período não registra feriados nacionais. A janela de 12 a 16 de novembro é semana norm"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 49,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — A sazonalidade joga a favor. Novembro é o melhor mês do ano para visitar Shenzhen sem reserva — os meses de ve"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 101,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — Shenzhen não tem uma culinária \"de origem\" — tem uma culinária de chegada. A cidade foi fundada do zero em 198"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 103,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — A base cantonesa está lá, mas ela funciona diferente de Guangzhou ou de Hong Kong. Guangzhou é o centro histór"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 115,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — Shenzhen não tem a noite de Hong Kong — nenhuma cidade tem. Mas essa comparação diz menos sobre Shenzhen do qu"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 141,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — As ruas perpendiculares às avenidas comerciais de Chegongmiao e Tairan guardam o que moradores locais chamam s"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 145,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — O skyline de Futian não é o caos de Hong Kong. Isso pode soar como crítica, mas do ponto de vista fotográfico "
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 157,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — A travessia de Hong Kong para Shenzhen é, na prática, uma das fronteiras internacionais mais funcionais do mun"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 196,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — **Saúde:** Seguro de viagem com cobertura médica na China: verificar cobertura antes de embarcar. Hospitais pr"
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 200,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — Shenzhen não pede que você a estude antes de entrar. Ela prefere o impacto direto — e a travessia pelo Futian "
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 212,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — > **Ponto de partida:** Futian Checkpoint (cruzando de Lok Ma Chau/MTR Hong Kong)."
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "line": 324,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — Há cidades que pedem contexto. Para entender Pequim, você precisa de imperador e de Revolução Cultural; para e"
+  },
+  {
+   "file": "pesquisa/cidades/08-xiamen.expandido.md",
+   "line": 495,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Xi'an\" — Você chegou pelo cais, numa manhã de novembro em que a luz batia de lado sobre o estreito, e vai sair pelo aer"
+  },
+  {
+   "file": "pesquisa/dias/06-zhangjiajie-dia-6.md",
+   "line": 17,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Terracota\" — Este dia apresenta dois tipos de grandeza completamente diferentes, separados por 35 quilômetros de estrada. A"
+  },
+  {
+   "file": "pesquisa/dias/14-shenzhen-dia-13.md",
+   "line": 22,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — ### 13h30 — Deixar Hong Kong pelo lado correto"
+  },
+  {
+   "file": "pesquisa/dias/14-shenzhen-dia-13.md",
+   "line": 24,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — Sair de Hong Kong para Shenzhen pela fronteira errada no momento errado é o tipo de erro que a maioria dos vis"
+  },
+  {
+   "file": "pesquisa/dias/14-shenzhen-dia-13.md",
+   "line": 26,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — O caminho certo para este dia é o Futian Checkpoint. Do lado de Hong Kong, o acesso fica no terminal de Lok Ma"
+  },
+  {
+   "file": "pesquisa/dias/14-shenzhen-dia-13.md",
+   "line": 102,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — | Almoço | Em trânsito de Hong Kong | — (comer antes de atravessar ou no terminal de HK) | HKD |"
+  },
+  {
+   "file": "pesquisa/dias/14-shenzhen-dia-13.md",
+   "line": 114,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — | Origem em HK → Lok Ma Chau (MTR East Rail) | MTR Hong Kong | 40–60 min (depende do ponto de partida) | HKD ("
+  },
+  {
+   "file": "pesquisa/dias/15-shenzhen-dia-14.md",
+   "line": 48,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Guizhou\" — Você vai saber que chegou quando a calçada tiver mesas plásticas com banquinhos plásticos do lado de fora e um"
+  },
+  {
+   "file": "pesquisa/dias/16-shenzhen-dia-15.md",
+   "line": 70,
+   "sev": "aviso",
+   "cat": "destino-removido",
+   "msg": "\"Hong Kong\" — O Lianxiang Lou em Futian é a escolha para quem retornou direto ao centro. A casa é uma instituição cantonesa "
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/historia.md",
+   "line": null,
+   "sev": "aviso",
+   "cat": "extensão",
+   "msg": "283 palavras de prosa (piso 1500)"
+  },
+  {
+   "file": "pesquisa/cidades/03-furong-town.md",
+   "line": null,
+   "sev": "aviso",
+   "cat": "extensão",
+   "msg": "5672 palavras de prosa (piso 6000)"
+  },
+  {
+   "file": "pesquisa/cidades/04-fenghuang.md",
+   "line": null,
+   "sev": "aviso",
+   "cat": "extensão",
+   "msg": "4137 palavras de prosa (piso 6000)"
+  },
+  {
+   "file": "pesquisa/cidades/05-guilin.md",
+   "line": null,
+   "sev": "aviso",
+   "cat": "extensão",
+   "msg": "4028 palavras de prosa (piso 6000)"
+  },
+  {
+   "file": "pesquisa/cidades/10-kurokawa.expandido.md",
+   "line": null,
+   "sev": "aviso",
+   "cat": "extensão",
+   "msg": "4671 palavras de prosa (piso 6000)"
+  },
+  {
+   "file": "pesquisa/dias/02-chongqing-dia-2.md",
+   "line": null,
+   "sev": "aviso",
+   "cat": "extensão",
+   "msg": "1696 palavras de prosa (piso 1800)"
+  },
+  {
+   "file": "pesquisa/dias/22-fukuoka-dia-21.md",
+   "line": 12,
+   "sev": "aviso",
+   "cat": "front-matter",
+   "msg": "falta \"days\""
+  },
+  {
+   "file": "pesquisa/dias/23-fukuoka-dia-22.md",
+   "line": 12,
+   "sev": "aviso",
+   "cat": "front-matter",
+   "msg": "falta \"days\""
+  },
+  {
+   "file": "pesquisa/dias/24-kurokawa-dia-23.md",
+   "line": 12,
+   "sev": "aviso",
+   "cat": "front-matter",
+   "msg": "falta \"days\""
+  },
+  {
+   "file": "pesquisa/atracoes/beppu-jigoku.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/beppu-jigoku.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/canal-city.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/canal-city.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/dafen.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/dafen.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/dazaifu.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/dazaifu.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/furong-cachoeira.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/furong-cachoeira.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/glass-bridge.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/glass-bridge.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/golden-whip-stream.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/golden-whip-stream.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/gulangyu.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/gulangyu.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/hongqiao-fenghuang.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/hongqiao-fenghuang.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/huaqiangbei.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/huaqiangbei.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/impressao-liu-sanjie.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/impressao-liu-sanjie.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/kannawa.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/kannawa.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/kurokawa-onsen.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/kurokawa-onsen.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/kushida-shrine.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/kushida-shrine.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/longsheng.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/longsheng.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/moon-hill.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/moon-hill.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/muralha-fenghuang.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/muralha-fenghuang.md",
+   "line": 18,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/nanputuo.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/nanputuo.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/oct-loft.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/oct-loft.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/ohori-park-castelo.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/ohori-park-castelo.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/ping-an-shenzhen-bay.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/ping-an-shenzhen-bay.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/rio-li-cruzeiro.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/rio-li-cruzeiro.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/rio-tuojiang-diaojiaolou.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/rio-tuojiang-diaojiaolou.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/shen-congwen.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/shen-congwen.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/takegawara-onsen.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/takegawara-onsen.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/tianmen-mountain.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/tianmen-mountain.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/tianzi-mountain.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/tianzi-mountain.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/universidade-xiamen.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/universidade-xiamen.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/wanming-pagoda.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/wanming-pagoda.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/west-street.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/west-street.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/yatai.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/yatai.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/yuanjiajie-avatar.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/yuanjiajie-avatar.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/yufuin-day-trip.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/yufuin-day-trip.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/yulong-river.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/yulong-river.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/zengcuoan.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/zengcuoan.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/atracoes/zhongshan-road-xiamen.md",
+   "line": 14,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "> Placeholder — conteúdo a desenvolver."
+  },
+  {
+   "file": "pesquisa/atracoes/zhongshan-road-xiamen.md",
+   "line": 19,
+   "sev": "aviso",
+   "cat": "pendência",
+   "msg": "*Conteúdo em desenvolvimento.*"
+  },
+  {
+   "file": "pesquisa/dias/04-chongqing-dia-4.md",
+   "line": 45,
+   "sev": "aviso",
+   "cat": "pt-PT",
+   "msg": "\"miúdo\" — O nome é literal: uma escadaria histórica que conecta dois níveis topográficos de Yuzhong, e que faz isso há t"
+  },
+  {
+   "file": "(calendário)",
+   "line": null,
+   "sev": "aviso",
+   "cat": "roteiro",
+   "msg": "31/10 (sábado) sem arquivo de dia — confirmar se é trânsito/chegada tardia intencional"
+  },
+  {
+   "file": "(calendário)",
+   "line": null,
+   "sev": "aviso",
+   "cat": "roteiro",
+   "msg": "16/11 (segunda) sem arquivo de dia — confirmar se é trânsito/chegada tardia intencional"
+  },
+  {
+   "file": "(calendário)",
+   "line": null,
+   "sev": "aviso",
+   "cat": "roteiro",
+   "msg": "28/11 (sábado) sem arquivo de dia — confirmar se é trânsito/chegada tardia intencional"
+  }
+ ],
+ "pages": [
+  {
+   "file": "pesquisa/aprofundamento/paises/china/etnias.md",
+   "type": "pais",
+   "slug": "china",
+   "prose": 1622
+  },
+  {
+   "file": "pesquisa/aprofundamento/paises/china/historia.md",
+   "type": "pais",
+   "slug": "china",
+   "prose": 283
+  },
+  {
+   "file": "pesquisa/atracoes/beppu-jigoku.md",
+   "type": "atracao",
+   "slug": "beppu-jigoku",
+   "city": "beppu",
+   "prose": 45
+  },
+  {
+   "file": "pesquisa/atracoes/canal-city.md",
+   "type": "atracao",
+   "slug": "canal-city",
+   "city": "fukuoka",
+   "prose": 36
+  },
+  {
+   "file": "pesquisa/atracoes/ciqikou.md",
+   "type": "atracao",
+   "slug": "ciqikou",
+   "city": "chongqing",
+   "prose": 2385
+  },
+  {
+   "file": "pesquisa/atracoes/dafen.md",
+   "type": "atracao",
+   "slug": "dafen",
+   "city": "shenzhen",
+   "prose": 42
+  },
+  {
+   "file": "pesquisa/atracoes/dazaifu.md",
+   "type": "atracao",
+   "slug": "dazaifu",
+   "city": "fukuoka",
+   "prose": 37
+  },
+  {
+   "file": "pesquisa/atracoes/dazu.md",
+   "type": "atracao",
+   "slug": "dazu",
+   "city": "chongqing",
+   "prose": 3108
+  },
+  {
+   "file": "pesquisa/atracoes/furong-cachoeira.md",
+   "type": "atracao",
+   "slug": "furong-cachoeira",
+   "city": "furong-town",
+   "prose": 40
+  },
+  {
+   "file": "pesquisa/atracoes/glass-bridge.md",
+   "type": "atracao",
+   "slug": "glass-bridge",
+   "city": "zhangjiajie",
+   "prose": 31
+  },
+  {
+   "file": "pesquisa/atracoes/golden-whip-stream.md",
+   "type": "atracao",
+   "slug": "golden-whip-stream",
+   "city": "zhangjiajie",
+   "prose": 32
+  },
+  {
+   "file": "pesquisa/atracoes/gulangyu.md",
+   "type": "atracao",
+   "slug": "gulangyu",
+   "city": "xiamen",
+   "prose": 48
+  },
+  {
+   "file": "pesquisa/atracoes/hongqiao-fenghuang.md",
+   "type": "atracao",
+   "slug": "hongqiao-fenghuang",
+   "city": "fenghuang",
+   "prose": 25
+  },
+  {
+   "file": "pesquisa/atracoes/hongyadong.md",
+   "type": "atracao",
+   "slug": "hongyadong",
+   "city": "chongqing",
+   "prose": 2236
+  },
+  {
+   "file": "pesquisa/atracoes/huaqiangbei.md",
+   "type": "atracao",
+   "slug": "huaqiangbei",
+   "city": "shenzhen",
+   "prose": 30
+  },
+  {
+   "file": "pesquisa/atracoes/impressao-liu-sanjie.md",
+   "type": "atracao",
+   "slug": "impressao-liu-sanjie",
+   "city": "yangshuo",
+   "prose": 36
+  },
+  {
+   "file": "pesquisa/atracoes/jiefangbei.md",
+   "type": "atracao",
+   "slug": "jiefangbei",
+   "city": "chongqing",
+   "prose": 1316
+  },
+  {
+   "file": "pesquisa/atracoes/kannawa.md",
+   "type": "atracao",
+   "slug": "kannawa",
+   "city": "beppu",
+   "prose": 45
+  },
+  {
+   "file": "pesquisa/atracoes/kurokawa-onsen.md",
+   "type": "atracao",
+   "slug": "kurokawa-onsen",
+   "city": "kurokawa",
+   "prose": 45
+  },
+  {
+   "file": "pesquisa/atracoes/kushida-shrine.md",
+   "type": "atracao",
+   "slug": "kushida-shrine",
+   "city": "fukuoka",
+   "prose": 40
+  },
+  {
+   "file": "pesquisa/atracoes/liziba.md",
+   "type": "atracao",
+   "slug": "liziba",
+   "city": "chongqing",
+   "prose": 813
+  },
+  {
+   "file": "pesquisa/atracoes/longsheng.md",
+   "type": "atracao",
+   "slug": "longsheng",
+   "city": "guilin",
+   "prose": 31
+  },
+  {
+   "file": "pesquisa/atracoes/moon-hill.md",
+   "type": "atracao",
+   "slug": "moon-hill",
+   "city": "yangshuo",
+   "prose": 26
+  },
+  {
+   "file": "pesquisa/atracoes/muralha-fenghuang.md",
+   "type": "atracao",
+   "slug": "muralha-fenghuang",
+   "city": "fenghuang",
+   "prose": 11
+  },
+  {
+   "file": "pesquisa/atracoes/nanputuo.md",
+   "type": "atracao",
+   "slug": "nanputuo",
+   "city": "xiamen",
+   "prose": 39
+  },
+  {
+   "file": "pesquisa/atracoes/oct-loft.md",
+   "type": "atracao",
+   "slug": "oct-loft",
+   "city": "shenzhen",
+   "prose": 26
+  },
+  {
+   "file": "pesquisa/atracoes/ohori-park-castelo.md",
+   "type": "atracao",
+   "slug": "ohori-park-castelo",
+   "city": "fukuoka",
+   "prose": 46
+  },
+  {
+   "file": "pesquisa/atracoes/ping-an-shenzhen-bay.md",
+   "type": "atracao",
+   "slug": "ping-an-shenzhen-bay",
+   "city": "shenzhen",
+   "prose": 33
+  },
+  {
+   "file": "pesquisa/atracoes/rio-li-cruzeiro.md",
+   "type": "atracao",
+   "slug": "rio-li-cruzeiro",
+   "city": "guilin",
+   "prose": 39
+  },
+  {
+   "file": "pesquisa/atracoes/rio-tuojiang-diaojiaolou.md",
+   "type": "atracao",
+   "slug": "rio-tuojiang-diaojiaolou",
+   "city": "fenghuang",
+   "prose": 29
+  },
+  {
+   "file": "pesquisa/atracoes/shen-congwen.md",
+   "type": "atracao",
+   "slug": "shen-congwen",
+   "city": "fenghuang",
+   "prose": 39
+  },
+  {
+   "file": "pesquisa/atracoes/takegawara-onsen.md",
+   "type": "atracao",
+   "slug": "takegawara-onsen",
+   "city": "beppu",
+   "prose": 40
+  },
+  {
+   "file": "pesquisa/atracoes/tianmen-mountain.md",
+   "type": "atracao",
+   "slug": "tianmen-mountain",
+   "city": "zhangjiajie",
+   "prose": 25
+  },
+  {
+   "file": "pesquisa/atracoes/tianzi-mountain.md",
+   "type": "atracao",
+   "slug": "tianzi-mountain",
+   "city": "zhangjiajie",
+   "prose": 22
+  },
+  {
+   "file": "pesquisa/atracoes/universidade-xiamen.md",
+   "type": "atracao",
+   "slug": "universidade-xiamen",
+   "city": "xiamen",
+   "prose": 38
+  },
+  {
+   "file": "pesquisa/atracoes/wanming-pagoda.md",
+   "type": "atracao",
+   "slug": "wanming-pagoda",
+   "city": "fenghuang",
+   "prose": 22
+  },
+  {
+   "file": "pesquisa/atracoes/west-street.md",
+   "type": "atracao",
+   "slug": "west-street",
+   "city": "yangshuo",
+   "prose": 27
+  },
+  {
+   "file": "pesquisa/atracoes/yatai.md",
+   "type": "atracao",
+   "slug": "yatai",
+   "city": "fukuoka",
+   "prose": 41
+  },
+  {
+   "file": "pesquisa/atracoes/yuanjiajie-avatar.md",
+   "type": "atracao",
+   "slug": "yuanjiajie-avatar",
+   "city": "zhangjiajie",
+   "prose": 24
+  },
+  {
+   "file": "pesquisa/atracoes/yufuin-day-trip.md",
+   "type": "atracao",
+   "slug": "yufuin-day-trip",
+   "city": "beppu",
+   "prose": 47
+  },
+  {
+   "file": "pesquisa/atracoes/yulong-river.md",
+   "type": "atracao",
+   "slug": "yulong-river",
+   "city": "yangshuo",
+   "prose": 29
+  },
+  {
+   "file": "pesquisa/atracoes/zengcuoan.md",
+   "type": "atracao",
+   "slug": "zengcuoan",
+   "city": "xiamen",
+   "prose": 36
+  },
+  {
+   "file": "pesquisa/atracoes/zhongshan-road-xiamen.md",
+   "type": "atracao",
+   "slug": "zhongshan-road-xiamen",
+   "city": "xiamen",
+   "prose": 42
+  },
+  {
+   "file": "pesquisa/cidades/01-chongqing.md",
+   "type": "city",
+   "slug": "chongqing",
+   "prose": 10892
+  },
+  {
+   "file": "pesquisa/cidades/02-zhangjiajie.md",
+   "type": "city",
+   "slug": "zhangjiajie",
+   "prose": 8849
+  },
+  {
+   "file": "pesquisa/cidades/03-furong-town.md",
+   "type": "city",
+   "slug": "furong-town",
+   "prose": 5672
+  },
+  {
+   "file": "pesquisa/cidades/04-fenghuang.md",
+   "type": "city",
+   "slug": "fenghuang",
+   "prose": 4137
+  },
+  {
+   "file": "pesquisa/cidades/05-guilin.md",
+   "type": "city",
+   "slug": "guilin",
+   "prose": 4028
+  },
+  {
+   "file": "pesquisa/cidades/06-yangshuo.expandido.md",
+   "type": "city",
+   "slug": "yangshuo",
+   "prose": 9162
+  },
+  {
+   "file": "pesquisa/cidades/07-shenzhen.expandido.md",
+   "type": "city",
+   "slug": "shenzhen",
+   "prose": 11477
+  },
+  {
+   "file": "pesquisa/cidades/08-xiamen.expandido.md",
+   "type": "city",
+   "slug": "xiamen",
+   "prose": 11622
+  },
+  {
+   "file": "pesquisa/cidades/09-fukuoka.expandido.md",
+   "type": "city",
+   "slug": "fukuoka",
+   "prose": 7394
+  },
+  {
+   "file": "pesquisa/cidades/10-kurokawa.expandido.md",
+   "type": "city",
+   "slug": "kurokawa",
+   "prose": 4671
+  },
+  {
+   "file": "pesquisa/cidades/11-beppu.expandido.md",
+   "type": "city",
+   "slug": "beppu",
+   "prose": 12491
+  },
+  {
+   "file": "pesquisa/dias/01-chongqing-dia-1.md",
+   "type": "dia",
+   "slug": "chongqing-dia-1",
+   "city": "chongqing",
+   "prose": 2988
+  },
+  {
+   "file": "pesquisa/dias/02-chongqing-dia-2.md",
+   "type": "dia",
+   "slug": "chongqing-dia-2",
+   "city": "chongqing",
+   "prose": 1696
+  },
+  {
+   "file": "pesquisa/dias/03-chongqing-dia-3.md",
+   "type": "dia",
+   "slug": "chongqing-dia-3",
+   "city": "chongqing",
+   "prose": 2617
+  },
+  {
+   "file": "pesquisa/dias/04-chongqing-dia-4.md",
+   "type": "dia",
+   "slug": "chongqing-dia-4",
+   "city": "chongqing",
+   "prose": 2098
+  },
+  {
+   "file": "pesquisa/dias/05-zhangjiajie-dia-5.md",
+   "type": "dia",
+   "slug": "zhangjiajie-dia-5",
+   "city": "zhangjiajie",
+   "prose": 2352
+  },
+  {
+   "file": "pesquisa/dias/06-zhangjiajie-dia-6.md",
+   "type": "dia",
+   "slug": "zhangjiajie-dia-6",
+   "city": "zhangjiajie",
+   "prose": 3227
+  },
+  {
+   "file": "pesquisa/dias/07-zhangjiajie-dia-7.md",
+   "type": "dia",
+   "slug": "zhangjiajie-dia-7",
+   "city": "zhangjiajie",
+   "prose": 3670
+  },
+  {
+   "file": "pesquisa/dias/08-furong-town-dia-8.md",
+   "type": "dia",
+   "slug": "furong-town-dia-8",
+   "city": "furong-town",
+   "prose": 3662
+  },
+  {
+   "file": "pesquisa/dias/09-furong-town-dia-9.md",
+   "type": "dia",
+   "slug": "furong-town-dia-9",
+   "city": "furong-town",
+   "prose": 2840
+  },
+  {
+   "file": "pesquisa/dias/10-fenghuang-dia-10.md",
+   "type": "dia",
+   "slug": "fenghuang-dia-10",
+   "city": "fenghuang",
+   "prose": 2745
+  },
+  {
+   "file": "pesquisa/dias/11-guilin-dia-11.md",
+   "type": "dia",
+   "slug": "guilin-dia-11",
+   "city": "guilin",
+   "prose": 3022
+  },
+  {
+   "file": "pesquisa/dias/12-yangshuo-dia-11.md",
+   "type": "dia",
+   "slug": "yangshuo-dia-11",
+   "city": "yangshuo",
+   "prose": 2922
+  },
+  {
+   "file": "pesquisa/dias/13-yangshuo-dia-12.md",
+   "type": "dia",
+   "slug": "yangshuo-dia-12",
+   "city": "yangshuo",
+   "prose": 3713
+  },
+  {
+   "file": "pesquisa/dias/14-shenzhen-dia-13.md",
+   "type": "dia",
+   "slug": "shenzhen-dia-13",
+   "city": "shenzhen",
+   "prose": 2977
+  },
+  {
+   "file": "pesquisa/dias/15-shenzhen-dia-14.md",
+   "type": "dia",
+   "slug": "shenzhen-dia-14",
+   "city": "shenzhen",
+   "prose": 3312
+  },
+  {
+   "file": "pesquisa/dias/16-shenzhen-dia-15.md",
+   "type": "dia",
+   "slug": "shenzhen-dia-15",
+   "city": "shenzhen",
+   "prose": 3665
+  },
+  {
+   "file": "pesquisa/dias/17-shenzhen-dia-16.md",
+   "type": "dia",
+   "slug": "shenzhen-dia-16",
+   "city": "shenzhen",
+   "prose": 2847
+  },
+  {
+   "file": "pesquisa/dias/18-xiamen-dia-17.md",
+   "type": "dia",
+   "slug": "xiamen-dia-17",
+   "city": "xiamen",
+   "prose": 3513
+  },
+  {
+   "file": "pesquisa/dias/19-xiamen-dia-18.md",
+   "type": "dia",
+   "slug": "xiamen-dia-18",
+   "city": "xiamen",
+   "prose": 4198
+  },
+  {
+   "file": "pesquisa/dias/20-xiamen-dia-19.md",
+   "type": "dia",
+   "slug": "xiamen-dia-19",
+   "city": "xiamen",
+   "prose": 3593
+  },
+  {
+   "file": "pesquisa/dias/21-xiamen-dia-20.md",
+   "type": "dia",
+   "slug": "xiamen-dia-20",
+   "city": "xiamen",
+   "prose": 2173
+  },
+  {
+   "file": "pesquisa/dias/22-fukuoka-dia-21.md",
+   "type": "dia",
+   "slug": "fukuoka-dia-21",
+   "city": "fukuoka",
+   "prose": 3603
+  },
+  {
+   "file": "pesquisa/dias/23-fukuoka-dia-22.md",
+   "type": "dia",
+   "slug": "fukuoka-dia-22",
+   "city": "fukuoka",
+   "prose": 5456
+  },
+  {
+   "file": "pesquisa/dias/24-kurokawa-dia-23.md",
+   "type": "dia",
+   "slug": "kurokawa-dia-23",
+   "city": "kurokawa",
+   "prose": 3786
+  },
+  {
+   "file": "pesquisa/dias/25-beppu-dia-24.md",
+   "type": "dia",
+   "slug": "beppu-dia-24",
+   "city": "beppu",
+   "prose": 2901
+  },
+  {
+   "file": "pesquisa/dias/26-beppu-dia-25.md",
+   "type": "dia",
+   "slug": "beppu-dia-25",
+   "city": "beppu",
+   "prose": 4470
+  },
+  {
+   "file": "pesquisa/dias/27-beppu-dia-26.md",
+   "type": "dia",
+   "slug": "beppu-dia-26",
+   "city": "beppu",
+   "prose": 3292
+  },
+  {
+   "file": "pesquisa/dias/28-beppu-dia-27.md",
+   "type": "dia",
+   "slug": "beppu-dia-27",
+   "city": "beppu",
+   "prose": 3486
+  },
+  {
+   "file": "pesquisa/dias/29-beppu-dia-28.md",
+   "type": "dia",
+   "slug": "beppu-dia-28",
+   "city": "beppu",
+   "prose": 3787
+  }
+ ]
+}
