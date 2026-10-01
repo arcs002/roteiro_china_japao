@@ -1,0 +1,77 @@
+```json
+{
+  "evaluations": [
+    {
+      "id": "C06",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "Taxa de acerto 100% (17 unidades factuais corretas, 0 incorretas). Nenhum erro relevante entre armadilhas: Minnan e Hakka corretamente identificados como han, Zhangjiajie separado de Xiangxi, Tujia localizado no oeste de Hunan, não sudoeste.",
+          "quoteId": "Q012"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Os cinco grupos obrigatórios (Tujia, Miao, Zhuang, Minnan, Hakka) cobertos em seções próprias, cada um ligado ao roteiro; nenhum resquício do itinerário antigo (Xi'an, Xijiang, Zhaoxing); estrutura completa com Abertura, cinco tópicos e Encerramento; front matter e slug válidos.",
+          "quoteId": "Q022"
+        },
+        {
+          "dimension": 3,
+          "score": 14,
+          "justification": "Quase todo parágrafo traz nome (Peng, Quanzhou, Liu Sanjie), data (1957, 1949, século XVIII) ou mecanismo (tusi, hukou, zona de contato); acrescenta análise conceitual ausente nas páginas de cidade—não-equivalência entre classificações e não-proprietarismo de técnicas regionais. Alguns trechos (ex: terraços Longji) poderiam aprofundar mais além do que atrações já mencionam.",
+          "quoteId": "Q033"
+        },
+        {
+          "dimension": 4,
+          "score": 10,
+          "justification": "Conexões específicas e práticas em todos os grupos: identifica áreas Tujia em Youyang/Shizhu, explica muralha de Fenghuang como fronteira política Ming/Qing, descreve terraços como infraestrutura coletiva, reorienta leitura de diáspora minnanesa, contrasta Hakka (enraizado) com migrantes pós-1980 (provisório). Cada grupo oferece ao viajante observações concretas e ângulos de interpretação.",
+          "quoteId": "Q064"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "Prosa fluida em tom de livro-reportagem com ritmo variado (abertura ternária em Q003–Q005); sem jargão, clichê ou metalinguagem; PT-BR consistente. Porém, quatro ocorrências de 'Não é X — é Y' (Q071, Q081, Q109, Q175) excedem o limite de três da rubrica, impactando levemente a pontuação de retórica.",
+          "quoteId": "Q175"
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Incerteza sinalizada apropriadamente onde existe realmente: Liu Sanjie apresentada como figura de narrativa oral, 'numerosas versões', 'não deve ser lida como biografia verificável' (Q097). Nenhuma afirmação errada entre as 17 unidades factuais checadas. Porém, calibração não é máxima pois faltam ressalvas sobre incertezas autênticas em cronologias e origens de técnicas.",
+          "quoteId": "Q097"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build passa sem erros novos (buildExit = 0, auditExit = 0), apenas etnias.md foi alterado (scopeOnlyTarget = true), front matter preservado e slug válido (type, slug, topico, title, order).",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 97,
+      "cap": null,
+      "capReasons": [],
+      "final": 97,
+      "mainStrength": "Reorienta etnias de tópicos decorativos para populações contemporâneas; cada grupo é contextualizado geograficamente, politicamente e em relação ao roteiro específico, com atenção a não-equivalências classificatórias e sobreposições culturais reais—transforma informação factual em inteligência de leitura.",
+      "priorityFix": "Reduzir uma ocorrência de 'Não é X — é Y' para cumprir limite retórico de 3; adicionar 1–2 ressalvas sobre incertezas históricas genuínas (origem de práticas específicas, cronologia de mudanças identitárias pós-1949).",
+      "additionalConcerns": [
+        "D3 (14/15): trechos sobre terraços Longji e youcha poderiam avançar além do escopo já coberto em páginas de atrações.",
+        "D5 retórica: estrutura 'Não é—é' bem-empregada conceitualmente, mas frequência (4/3) é técnica violação menor.",
+        "D6 epistêmico: embora calibração seja segura, falta discussão de limites reais de conhecimento sobre cronologias e autorias de técnicas regionais—perfeição mediada por cautela ausente."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliação cega de candidato único (C06); sete dimensões conforme rubrica v2.",
+    "FACT_SUMMARY pré-fornecido: 21 unidades selecionadas, 17 corretas, 0 incorretas, taxa 100%, d1Range [27,30].",
+    "Nenhum erro relevante ou armadilha violada detectado; taxa máxima sustenta faixa base máxima (27–30), nenhuma redução.",
+    "D2 confirma cobertura integral: 5 grupos + roteiro + estrutura + sem resquícios antigos.",
+    "D3 avalia profundidade contra conteúdo existente em páginas de cidades (hongyadong.md, zhangjiajie.md, fenghuang.md, xiamen.md, shenzhen.md); C06 acrescenta análise conceitual não-descritiva.",
+    "D4 valida conexões práticas: cada seção contém dica interpretativa (onde procurar, o que observar, que pergunta fazer).",
+    "D5 aplica limite de retórica estrita: 4 ocorrências de 'não é—é' vs. máximo 3; desconto de 1 ponto.",
+    "D6 não penaliza ausência de `[VERIFICAR]` (0 tags, correto por rubrica v2); avalia calibração contra FACTS com máximo 9/10 (sem explicitação de incertezas reais fora dos itens checados).",
+    "D7 mecânico: build.js e audit.mjs limpos, apenas etnias.md alterado, front matter intacto.",
+    "Tetos: nenhum aplicável (build OK, sem resquícios, sem erros armadilha duplos, acima de 2.000 palavras, sem invenção).",
+    "Final: 97/100. Texto publicável com revisão mínima de retórica (1 'não é—é') e aprofundamento epistemológico opcional."
+  ]
+}
+```

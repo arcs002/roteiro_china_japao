@@ -1,0 +1,53 @@
+{
+  "lockedAt": "2026-10-01T19:03:43.559Z",
+  "promptSha256": "3bfa06025f8c83104268d799d854dfecef8c7b7ddf7eae3dec04ebc8ca028bb4",
+  "promptBytes": 525668,
+  "candidateHashes": [
+    {
+      "id": "C01",
+      "sha256": "b5b63b02ccf7772751f5c7714047a694d30a8c7b975e33bba4f9bfc19bb1959e"
+    },
+    {
+      "id": "C02",
+      "sha256": "c9f6c45dc1ae7b92ac36ddbb096e34bb7e8d46745daaa51c4d14d7fd0d4ac086"
+    },
+    {
+      "id": "C03",
+      "sha256": "611d0c2fed45258cf4383de25d4629b9c7448ee6a28b0baf36abf2833a338949"
+    },
+    {
+      "id": "C04",
+      "sha256": "dd42a2906e7d02ba8bae1db056cb9eddbe4ac93ddfd03747401efd6c00763629"
+    },
+    {
+      "id": "C05",
+      "sha256": "35f2083224dfd4a3c1c61e3ecef84d1e49c23f4abe0b135cff92e97d6024f590"
+    },
+    {
+      "id": "C06",
+      "sha256": "3feb72f88f4cad37cdeba6867ba5d185d77d3cd3631e1c585c0bfb5065e7bf97"
+    },
+    {
+      "id": "C07",
+      "sha256": "bd617fb39c002b299a1ffbecf4a13ea3414c7cdeecef54d46a8c109ec33cb56c"
+    },
+    {
+      "id": "C08",
+      "sha256": "3baf4785b0ff4511ba822be6c1778c188e20b722a6471c752284b538425397f7"
+    },
+    {
+      "id": "C09",
+      "sha256": "d47c287f746a9ec48b07aa084e82ad928dfa29b4e1c93d9687c05546769141d5"
+    },
+    {
+      "id": "C10",
+      "sha256": "972120ef94e532a4f999727f4dfbcab30534593ec81399c8eb98f68ef4754c45"
+    },
+    {
+      "id": "C11",
+      "sha256": "669ba0fa1214e4b5e7175838924e77fbedaf14f728bef4ccc55546137153b7c3"
+    }
+  ],
+  "facts": 426,
+  "protocolSha256": "3c91536cbbb97d8ceaad53fc01f72e191811f13b9f14e75ab00f08c16eda72c2"
+}

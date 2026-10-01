@@ -1,0 +1,401 @@
+{
+  "generatedAt": "2026-10-01T19:26:07.377Z",
+  "judges": [
+    {
+      "id": "judge-haiku",
+      "model": "claude-haiku-4-5-20251001"
+    },
+    {
+      "id": "judge-gpt",
+      "model": "gpt-6-sol"
+    }
+  ],
+  "arbitrations": [],
+  "rows": [
+    {
+      "id": "C06",
+      "model": "GPT-6.1 Sol",
+      "harness": "Copilot",
+      "mean": 95.5,
+      "scores": [
+        97,
+        94
+      ],
+      "dimensions": [
+        [
+          30,
+          15,
+          14,
+          10,
+          14,
+          9,
+          5
+        ],
+        [
+          30,
+          15,
+          12,
+          8,
+          14,
+          10,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": 83.5
+    },
+    {
+      "id": "C10",
+      "model": "GPT-6 Astra",
+      "harness": "Codex CLI 0.155.1",
+      "mean": 95.5,
+      "scores": [
+        99,
+        92
+      ],
+      "dimensions": [
+        [
+          30,
+          15,
+          15,
+          9,
+          15,
+          10,
+          5
+        ],
+        [
+          30,
+          15,
+          12,
+          8,
+          12,
+          10,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": null
+    },
+    {
+      "id": "C04",
+      "model": "GPT-5.6 Terra",
+      "harness": "Codex CLI 0.155.1",
+      "mean": 94,
+      "scores": [
+        97,
+        91
+      ],
+      "dimensions": [
+        [
+          30,
+          15,
+          15,
+          10,
+          15,
+          7,
+          5
+        ],
+        [
+          30,
+          15,
+          12,
+          8,
+          13,
+          8,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": null
+    },
+    {
+      "id": "C09",
+      "model": "GPT-5.6 Sol",
+      "harness": "Copilot",
+      "mean": 94,
+      "scores": [
+        95,
+        93
+      ],
+      "dimensions": [
+        [
+          30,
+          15,
+          13,
+          9,
+          14,
+          9,
+          5
+        ],
+        [
+          30,
+          15,
+          12,
+          9,
+          12,
+          10,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": 84
+    },
+    {
+      "id": "C07",
+      "model": "GPT-5.6 Sol",
+      "harness": "Codex CLI 0.155.1",
+      "mean": 93,
+      "scores": [
+        94,
+        92
+      ],
+      "dimensions": [
+        [
+          30,
+          15,
+          14,
+          9,
+          15,
+          6,
+          5
+        ],
+        [
+          30,
+          15,
+          13,
+          9,
+          13,
+          7,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": null
+    },
+    {
+      "id": "C11",
+      "model": "GPT-6.1 Sol",
+      "harness": "Codex — subagente nativo",
+      "mean": 93,
+      "scores": [
+        94,
+        92
+      ],
+      "dimensions": [
+        [
+          29,
+          15,
+          14,
+          8,
+          14,
+          9,
+          5
+        ],
+        [
+          29,
+          15,
+          12,
+          9,
+          12,
+          10,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": null
+    },
+    {
+      "id": "C05",
+      "model": "Opus 5.5",
+      "harness": "Copilot",
+      "mean": 91.5,
+      "scores": [
+        94,
+        89
+      ],
+      "dimensions": [
+        [
+          30,
+          15,
+          14,
+          10,
+          14,
+          6,
+          5
+        ],
+        [
+          29,
+          15,
+          12,
+          9,
+          14,
+          5,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": 88
+    },
+    {
+      "id": "C01",
+      "model": "Opus 5.5",
+      "harness": "Claude Code",
+      "mean": 81,
+      "scores": [
+        83,
+        79
+      ],
+      "dimensions": [
+        [
+          19,
+          15,
+          14,
+          9,
+          15,
+          6,
+          5
+        ],
+        [
+          20,
+          15,
+          12,
+          9,
+          13,
+          5,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": 88.5
+    },
+    {
+      "id": "C02",
+      "model": "Gemini 3.8 Flash",
+      "harness": "Copilot",
+      "mean": 60,
+      "scores": [
+        63,
+        57
+      ],
+      "dimensions": [
+        [
+          2,
+          15,
+          14,
+          9,
+          14,
+          4,
+          5
+        ],
+        [
+          3,
+          15,
+          12,
+          7,
+          11,
+          4,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": 72.5
+    },
+    {
+      "id": "C03",
+      "model": "Fable 5.1",
+      "harness": "Claude Code",
+      "mean": 57.5,
+      "scores": [
+        60,
+        55
+      ],
+      "dimensions": [
+        [
+          2,
+          15,
+          13,
+          9,
+          14,
+          2,
+          5
+        ],
+        [
+          1,
+          15,
+          11,
+          8,
+          12,
+          3,
+          5
+        ]
+      ],
+      "cap": [
+        null,
+        null
+      ],
+      "historicalMean": 79
+    },
+    {
+      "id": "C08",
+      "model": "Sonnet 5.5",
+      "harness": "Claude Code",
+      "mean": 56.5,
+      "scores": [
+        62,
+        51
+      ],
+      "dimensions": [
+        [
+          2,
+          15,
+          12,
+          8,
+          15,
+          5,
+          5
+        ],
+        [
+          1,
+          14,
+          11,
+          8,
+          10,
+          2,
+          5
+        ]
+      ],
+      "cap": [
+        70,
+        70
+      ],
+      "historicalMean": 62.5
+    }
+  ]
+}

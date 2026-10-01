@@ -1,0 +1,358 @@
+[
+  {
+    "id": "C01",
+    "selectedUnits": 51,
+    "correct": 31,
+    "incorrect": 1,
+    "uncertain": 15,
+    "notFactual": 4,
+    "adjudicated": 32,
+    "accuracy": 0.96875,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [
+      "miao-lunar-calendar-2026"
+    ],
+    "trapErrors": [],
+    "d1Range": [
+      13,
+      20
+    ],
+    "incorrectUnits": [
+      "U020"
+    ],
+    "uncertainUnits": [
+      "U010",
+      "U015",
+      "U017",
+      "U018",
+      "U023",
+      "U027",
+      "U028",
+      "U030",
+      "U032",
+      "U035",
+      "U036",
+      "U040",
+      "U041",
+      "U042",
+      "U051"
+    ]
+  },
+  {
+    "id": "C02",
+    "selectedUnits": 27,
+    "correct": 12,
+    "incorrect": 2,
+    "uncertain": 13,
+    "notFactual": 0,
+    "adjudicated": 14,
+    "accuracy": 0.8571428571428571,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [
+      "zhuang-guangxi-concentration",
+      "peng-seat-wangcun"
+    ],
+    "trapErrors": [],
+    "d1Range": [
+      0,
+      4
+    ],
+    "incorrectUnits": [
+      "U061",
+      "U076"
+    ],
+    "uncertainUnits": [
+      "U056",
+      "U057",
+      "U059",
+      "U062",
+      "U064",
+      "U065",
+      "U066",
+      "U068",
+      "U071",
+      "U072",
+      "U074",
+      "U077",
+      "U078"
+    ]
+  },
+  {
+    "id": "C03",
+    "selectedUnits": 63,
+    "correct": 23,
+    "incorrect": 12,
+    "uncertain": 24,
+    "notFactual": 4,
+    "adjudicated": 35,
+    "accuracy": 0.6571428571428571,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [
+      "ethnic-400-census-date",
+      "ethnic-tourism-start-2000",
+      "laosicheng-entire-818-years",
+      "laosicheng-few-km-furong",
+      "tujia-unrelated-chinese",
+      "maogusi-before-agriculture",
+      "miao-minority-rank",
+      "qo-xiong-dialect",
+      "miao-wall-reconstruction-timing",
+      "xiamen-han-share",
+      "hehu-start-year",
+      "qianjiang-autonomous-county"
+    ],
+    "trapErrors": [],
+    "d1Range": [
+      0,
+      4
+    ],
+    "incorrectUnits": [
+      "U085",
+      "U092",
+      "U094",
+      "U095",
+      "U098",
+      "U100",
+      "U103",
+      "U104",
+      "U106",
+      "U114",
+      "U126",
+      "U141"
+    ],
+    "uncertainUnits": [
+      "U083",
+      "U088",
+      "U090",
+      "U099",
+      "U101",
+      "U102",
+      "U107",
+      "U109",
+      "U110",
+      "U112",
+      "U113",
+      "U115",
+      "U117",
+      "U120",
+      "U121",
+      "U125",
+      "U127",
+      "U128",
+      "U131",
+      "U134",
+      "U135",
+      "U137",
+      "U138",
+      "U139"
+    ]
+  },
+  {
+    "id": "C04",
+    "selectedUnits": 22,
+    "correct": 16,
+    "incorrect": 0,
+    "uncertain": 1,
+    "notFactual": 5,
+    "adjudicated": 16,
+    "accuracy": 1,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [],
+    "trapErrors": [],
+    "d1Range": [
+      27,
+      30
+    ],
+    "incorrectUnits": [],
+    "uncertainUnits": [
+      "U147"
+    ]
+  },
+  {
+    "id": "C05",
+    "selectedUnits": 64,
+    "correct": 43,
+    "incorrect": 0,
+    "uncertain": 12,
+    "notFactual": 9,
+    "adjudicated": 43,
+    "accuracy": 1,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [],
+    "trapErrors": [],
+    "d1Range": [
+      27,
+      30
+    ],
+    "incorrectUnits": [],
+    "uncertainUnits": [
+      "U165",
+      "U173",
+      "U192",
+      "U194",
+      "U198",
+      "U206",
+      "U208",
+      "U209",
+      "U213",
+      "U216",
+      "U221",
+      "U222"
+    ]
+  },
+  {
+    "id": "C06",
+    "selectedUnits": 21,
+    "correct": 17,
+    "incorrect": 0,
+    "uncertain": 0,
+    "notFactual": 4,
+    "adjudicated": 17,
+    "accuracy": 1,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [],
+    "trapErrors": [],
+    "d1Range": [
+      27,
+      30
+    ],
+    "incorrectUnits": [],
+    "uncertainUnits": []
+  },
+  {
+    "id": "C07",
+    "selectedUnits": 34,
+    "correct": 30,
+    "incorrect": 0,
+    "uncertain": 4,
+    "notFactual": 0,
+    "adjudicated": 30,
+    "accuracy": 1,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [],
+    "trapErrors": [],
+    "d1Range": [
+      27,
+      30
+    ],
+    "incorrectUnits": [],
+    "uncertainUnits": [
+      "U257",
+      "U264",
+      "U276",
+      "U278"
+    ]
+  },
+  {
+    "id": "C08",
+    "selectedUnits": 50,
+    "correct": 22,
+    "incorrect": 6,
+    "uncertain": 18,
+    "notFactual": 4,
+    "adjudicated": 28,
+    "accuracy": 0.7857142857142857,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [
+      "xiangxi-admin-overextension",
+      "tujia-population-8-to-9m",
+      "xuebaya-smoked-blood",
+      "yao-hair-never-cut",
+      "nanking-after-opium-wars",
+      "baoan-1979-population"
+    ],
+    "trapErrors": [
+      "xiangxi-admin-overextension",
+      "tujia-population-8-to-9m"
+    ],
+    "d1Range": [
+      0,
+      4
+    ],
+    "incorrectUnits": [
+      "U289",
+      "U291",
+      "U302",
+      "U306",
+      "U311",
+      "U316"
+    ],
+    "uncertainUnits": [
+      "U297",
+      "U299",
+      "U301",
+      "U305",
+      "U307",
+      "U308",
+      "U310",
+      "U314",
+      "U315",
+      "U317",
+      "U318",
+      "U319",
+      "U320",
+      "U323",
+      "U327",
+      "U328",
+      "U329",
+      "U330"
+    ]
+  },
+  {
+    "id": "C09",
+    "selectedUnits": 20,
+    "correct": 15,
+    "incorrect": 0,
+    "uncertain": 0,
+    "notFactual": 5,
+    "adjudicated": 15,
+    "accuracy": 1,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [],
+    "trapErrors": [],
+    "d1Range": [
+      27,
+      30
+    ],
+    "incorrectUnits": [],
+    "uncertainUnits": []
+  },
+  {
+    "id": "C10",
+    "selectedUnits": 42,
+    "correct": 16,
+    "incorrect": 0,
+    "uncertain": 0,
+    "notFactual": 26,
+    "adjudicated": 16,
+    "accuracy": 1,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [],
+    "trapErrors": [],
+    "d1Range": [
+      27,
+      30
+    ],
+    "incorrectUnits": [],
+    "uncertainUnits": []
+  },
+  {
+    "id": "C11",
+    "selectedUnits": 41,
+    "correct": 19,
+    "incorrect": 0,
+    "uncertain": 0,
+    "notFactual": 22,
+    "adjudicated": 19,
+    "accuracy": 1,
+    "accuracyDenominator": "corretas + incorretas; incertezas excluídas",
+    "relevantErrors": [],
+    "trapErrors": [],
+    "d1Range": [
+      27,
+      30
+    ],
+    "incorrectUnits": [],
+    "uncertainUnits": []
+  }
+]

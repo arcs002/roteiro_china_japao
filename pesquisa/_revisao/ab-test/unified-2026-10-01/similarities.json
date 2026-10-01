@@ -1,0 +1,442 @@
+[
+  {
+    "a": "C01",
+    "b": "C02",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 34
+  },
+  {
+    "a": "C01",
+    "b": "C03",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 36
+  },
+  {
+    "a": "C01",
+    "b": "C04",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 31
+  },
+  {
+    "a": "C01",
+    "b": "C05",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 38
+  },
+  {
+    "a": "C01",
+    "b": "C06",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 45
+  },
+  {
+    "a": "C01",
+    "b": "C07",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 36
+  },
+  {
+    "a": "C01",
+    "b": "C08",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 29
+  },
+  {
+    "a": "C01",
+    "b": "C09",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 47
+  },
+  {
+    "a": "C01",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C01",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 32,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C02",
+    "b": "C03",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 36
+  },
+  {
+    "a": "C02",
+    "b": "C04",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 31
+  },
+  {
+    "a": "C02",
+    "b": "C05",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 38
+  },
+  {
+    "a": "C02",
+    "b": "C06",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 45
+  },
+  {
+    "a": "C02",
+    "b": "C07",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 36
+  },
+  {
+    "a": "C02",
+    "b": "C08",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 29
+  },
+  {
+    "a": "C02",
+    "b": "C09",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 47
+  },
+  {
+    "a": "C02",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C02",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 34,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C03",
+    "b": "C04",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 31
+  },
+  {
+    "a": "C03",
+    "b": "C05",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 38
+  },
+  {
+    "a": "C03",
+    "b": "C06",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 45
+  },
+  {
+    "a": "C03",
+    "b": "C07",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 36
+  },
+  {
+    "a": "C03",
+    "b": "C08",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 29
+  },
+  {
+    "a": "C03",
+    "b": "C09",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 47
+  },
+  {
+    "a": "C03",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C03",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C04",
+    "b": "C05",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 31,
+    "paragraphsB": 38
+  },
+  {
+    "a": "C04",
+    "b": "C06",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 31,
+    "paragraphsB": 45
+  },
+  {
+    "a": "C04",
+    "b": "C07",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 31,
+    "paragraphsB": 36
+  },
+  {
+    "a": "C04",
+    "b": "C08",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 31,
+    "paragraphsB": 29
+  },
+  {
+    "a": "C04",
+    "b": "C09",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 31,
+    "paragraphsB": 47
+  },
+  {
+    "a": "C04",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 31,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C04",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 31,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C05",
+    "b": "C06",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 38,
+    "paragraphsB": 45
+  },
+  {
+    "a": "C05",
+    "b": "C07",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 38,
+    "paragraphsB": 36
+  },
+  {
+    "a": "C05",
+    "b": "C08",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 38,
+    "paragraphsB": 29
+  },
+  {
+    "a": "C05",
+    "b": "C09",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 38,
+    "paragraphsB": 47
+  },
+  {
+    "a": "C05",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 38,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C05",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 38,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C06",
+    "b": "C07",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 45,
+    "paragraphsB": 36
+  },
+  {
+    "a": "C06",
+    "b": "C08",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 45,
+    "paragraphsB": 29
+  },
+  {
+    "a": "C06",
+    "b": "C09",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 33,
+    "paragraphsA": 45,
+    "paragraphsB": 47
+  },
+  {
+    "a": "C06",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 45,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C06",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 45,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C07",
+    "b": "C08",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 29
+  },
+  {
+    "a": "C07",
+    "b": "C09",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 47
+  },
+  {
+    "a": "C07",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C07",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C08",
+    "b": "C09",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 29,
+    "paragraphsB": 47
+  },
+  {
+    "a": "C08",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 29,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C08",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 29,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C09",
+    "b": "C10",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 47,
+    "paragraphsB": 41
+  },
+  {
+    "a": "C09",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 47,
+    "paragraphsB": 43
+  },
+  {
+    "a": "C10",
+    "b": "C11",
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 41,
+    "paragraphsB": 43
+  }
+]

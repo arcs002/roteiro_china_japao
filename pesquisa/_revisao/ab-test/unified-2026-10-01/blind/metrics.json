@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "C01",
+    "sha256": "b5b63b02ccf7772751f5c7714047a694d30a8c7b975e33bba4f9bfc19bb1959e",
+    "wordsWc": 4483,
+    "wordsWhitespace": 4483,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 314,
+        "floor": 250
+      },
+      {
+        "title": "Minzu e minxi: como a China decide quem é \"etnia\"",
+        "words": 482,
+        "floor": 600
+      },
+      {
+        "title": "Tujia: o povo dos tusi, de Chongqing a Furong",
+        "words": 783,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+        "words": 708,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang: a maior minoria que quase não se vê",
+        "words": 621,
+        "floor": 600
+      },
+      {
+        "title": "Minnaneses: a \"etnia\" que não é etnia, em Xiamen",
+        "words": 580,
+        "floor": 600
+      },
+      {
+        "title": "Hakkas e migrantes: Shenzhen, a cidade de estranhos",
+        "words": 587,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 339,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Registro histórico declara edição exclusiva; diff original não disponível",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 30,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Tujia (土家族) eram 9,59 milhões no censo de 2020, o que os coloca entre as maiores minorias do país. Vivem no"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 32,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — O que marca a história dos Tujia é o sistema *tusi* (土司), mais do que qualquer traço folclórico. Das dinastias"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 44,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Miao (苗族) eram 11,07 milhões em 2020 e estão espalhados por Guizhou, Hunan, Yunnan, Guangxi, Chongqing e Hu"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 78,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — Dafen, a aldeia das pinturas a óleo que o roteiro visita em Longgang, fica exatamente nessa faixa de antigas a"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 80,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — A etnia que define Shenzhen hoje, afinal, é outra: a do migrante. O censo de 2020 contou mais de 17,5 milhões "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 80,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — A etnia que define Shenzhen hoje, afinal, é outra: a do migrante. O censo de 2020 contou mais de 17,5 milhões "
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C02",
+    "sha256": "c9f6c45dc1ae7b92ac36ddbb096e34bb7e8d46745daaa51c4d14d7fd0d4ac086",
+    "wordsWc": 4815,
+    "wordsWhitespace": 4815,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 244,
+        "floor": 250
+      },
+      {
+        "title": "O mosaico oficial: 56 grupos, o projeto minzu e a autonomia no papel",
+        "words": 371,
+        "floor": 600
+      },
+      {
+        "title": "Tujia: os mestres da madeira, o regime tusi e os desfiladeiros de Wuling",
+        "words": 740,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang: a guarnição de fronteira onde Miao e Tujia dividem as palafitas",
+        "words": 785,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang: os guardiões do rio e as canções das colinas cársticas de Guangxi",
+        "words": 604,
+        "floor": 600
+      },
+      {
+        "title": "Minnan e a diáspora: os navegadores de Xiamen e as rotas ultramarinas",
+        "words": 887,
+        "floor": 600
+      },
+      {
+        "title": "Hakka e os migrantes: a fortaleza ancestral e a cidade de estranhos em Shenzhen",
+        "words": 834,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 259,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [
+      {
+        "text": "hui",
+        "context": "ínuos e obriga o bebedor a apreciar a fragrância floral persistente e o retrogosto doce e mineral (*hui gan*) na garganta — uma etiqueta de desaceleração que funciona como preliminar obrigatória para qualquer negociação comercial ou acolhimento famil"
+      }
+    ],
+    "scopeEvidence": "Registro histórico declara edição exclusiva; diff original não disponível",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 64,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Terracota\" — Essa vocação ultramarina é visível na fisionomia arquitetônica e no traçado urbano de Xiamen. Ao longo da Rua "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 84,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — Esse choque transformador converteu Shenzhen no que sociólogos chineses chamam de uma autêntica \"cidade de est"
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C03",
+    "sha256": "611d0c2fed45258cf4383de25d4629b9c7448ee6a28b0baf36abf2833a338949",
+    "wordsWc": 5621,
+    "wordsWhitespace": 5621,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 364,
+        "floor": 250
+      },
+      {
+        "title": "O mosaico oficial: 56 etnias e o que a lista não conta",
+        "words": 686,
+        "floor": 600
+      },
+      {
+        "title": "Tujia: o povo do maciço de Wuling",
+        "words": 923,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang: Miao e Tujia na fronteira murada",
+        "words": 759,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang: a maior minoria, a mais discreta",
+        "words": 808,
+        "floor": 600
+      },
+      {
+        "title": "Minnan: os han que viraram diáspora",
+        "words": 788,
+        "floor": 600
+      },
+      {
+        "title": "Shenzhen: hakka, cantoneses e a cidade de migrantes",
+        "words": 890,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 342,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [
+      "não são pratos de turismo étnico; são o que se comia ali antes de existir turismo, e o que se continua comendo",
+      "Não são uma minoria oficial; são um dos maiores subgrupos *han*, com dezenas de milhões de falantes em Fujian, em Taiwan — onde o hokkien é a língua materna da maioria da população — e, sobretudo, espalhados pelo Sudeste Asiático"
+    ],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Registro histórico declara edição exclusiva; diff original não disponível",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 32,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Tujia (土家族) chamam a si mesmos *Bizika* — \"gente nativa daqui\" — e o nome oficial chinês diz basicamente o "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 34,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — A história política dos Tujia é a história do sistema *tusi* (土司), as chefaturas hereditárias que os imperador"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 48,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Miao (苗族) são um caso bem diferente dos Tujia. Com pouco mais de 11 milhões de pessoas, são a quinta maior "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 52,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — A prata é o elemento visual que domina a experiência Miao em Fenghuang, e vale entender por quê. Numa cultura "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 82,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — Shenzhen é apresentada como a cidade sem passado — uma aldeia de pescadores que virou metrópole de dezoito mil"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 86,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — O hakka tem uma importância particular para o Brasil que vale registrar aqui: boa parte da primeira imigração "
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C04",
+    "sha256": "dd42a2906e7d02ba8bae1db056cb9eddbe4ac93ddfd03747401efd6c00763629",
+    "wordsWc": 2916,
+    "wordsWhitespace": 2916,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 363,
+        "floor": 250
+      },
+      {
+        "title": "Tujia: a serra entre Chongqing e Xiangxi",
+        "words": 508,
+        "floor": 600
+      },
+      {
+        "title": "Miao e Tujia em Fenghuang: uma cidade, muitas camadas",
+        "words": 463,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang: Guangxi não é somente um pano de fundo cárstico",
+        "words": 484,
+        "floor": 600
+      },
+      {
+        "title": "Minnan e diáspora: Xiamen olha para o mar",
+        "words": 457,
+        "floor": 600
+      },
+      {
+        "title": "Hakka e migrantes: Shenzhen como cidade de chegadas",
+        "words": 363,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 223,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [
+      "não são “minorias étnicas” oficiais: são formações históricas han, marcadas por fala, parentesco, culinária e deslocamentos muito próprios"
+    ],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Commit individual verificado na rodada de geração; apenas etnias.md",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 23,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — O povo Tujia (土家族) é a presença étnica mais contínua no primeiro terço chinês da rota. Seu território históric"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 37,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Miao (苗族) formam um conjunto vasto e internamente diverso, distribuído sobretudo por Hunan, Guizhou, Yunnan"
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C05",
+    "sha256": "35f2083224dfd4a3c1c61e3ecef84d1e49c23f4abe0b135cff92e97d6024f590",
+    "wordsWc": 4375,
+    "wordsWhitespace": 4375,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 300,
+        "floor": 250
+      },
+      {
+        "title": "Antes das etnias: o que \"minzu\" quer dizer",
+        "words": 391,
+        "floor": 600
+      },
+      {
+        "title": "Tujia: o povo que se chama Bizika",
+        "words": 831,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang: a fronteira viva entre Miao e Tujia no rio Tuojiang",
+        "words": 755,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang: a maior minoria que quase não aparece",
+        "words": 569,
+        "floor": 600
+      },
+      {
+        "title": "Shenzhen: os hakka e a cidade dos que chegaram",
+        "words": 621,
+        "floor": 600
+      },
+      {
+        "title": "Xiamen: minnan, a identidade que se exportou",
+        "words": 581,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 263,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Registro histórico declara edição exclusiva; diff original não disponível",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C06",
+    "sha256": "3feb72f88f4cad37cdeba6867ba5d185d77d3cd3631e1c585c0bfb5065e7bf97",
+    "wordsWc": 3322,
+    "wordsWhitespace": 3322,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 297,
+        "floor": 250
+      },
+      {
+        "title": "Tujia — um território entre Zhangjiajie, Furong e o sudeste de Chongqing",
+        "words": 589,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang — a cidade como lugar de encontro",
+        "words": 415,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang — Guangxi além da paisagem de calcário",
+        "words": 537,
+        "floor": 600
+      },
+      {
+        "title": "Minnan e a diáspora — Xiamen entre a casa de origem e os Mares do Sul",
+        "words": 645,
+        "floor": 600
+      },
+      {
+        "title": "Hakka e migrantes — o passado que Shenzhen não começou em 1980",
+        "words": 497,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 273,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [
+      "não são núcleos exclusivamente Zhuang: são cidades de população diversa, fortemente integradas ao mundo linguístico e administrativo han",
+      "não são versões concorrentes de uma mesma cultura: são espaços onde ela cumpre funções distintas"
+    ],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Registro histórico declara edição exclusiva; diff original não disponível",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 22,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Tujia habitam uma região que atravessa fronteiras provinciais: o oeste de Hunan, áreas de Hubei e Guizhou e"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 42,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Miao constituem uma categoria oficial ampla, distribuída por Hunan, Guizhou, Yunnan, Guangxi, Sichuan e Cho"
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C07",
+    "sha256": "bd617fb39c002b299a1ffbecf4a13ea3414c7cdeecef54d46a8c109ec33cb56c",
+    "wordsWc": 3981,
+    "wordsWhitespace": 3981,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 295,
+        "floor": 250
+      },
+      {
+        "title": "Antes dos nomes: etnia oficial, cultura regional e migração",
+        "words": 387,
+        "floor": 600
+      },
+      {
+        "title": "Tujia: o corredor das montanhas Wuling",
+        "words": 608,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang: Miao e Tujia sem fronteira de vitrine",
+        "words": 601,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang: Guangxi para além do cenário cárstico",
+        "words": 565,
+        "floor": 600
+      },
+      {
+        "title": "Shenzhen: Hakka antigos, migrantes novos",
+        "words": 580,
+        "floor": 600
+      },
+      {
+        "title": "Minnan: Xiamen, uma identidade que viajou e voltou",
+        "words": 605,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 283,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Commit individual verificado na rodada de geração; apenas etnias.md",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 30,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — A viagem de Chongqing a Zhangjiajie e Furong aproxima territórios que as divisões provinciais escondem. Os Tuj"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 44,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — “Miao” é uma categoria oficial ampla, não o nome de uma cultura homogênea. Ela reúne comunidades com línguas, "
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C08",
+    "sha256": "3baf4785b0ff4511ba822be6c1778c188e20b722a6471c752284b538425397f7",
+    "wordsWc": 3842,
+    "wordsWhitespace": 3842,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 306,
+        "floor": 250
+      },
+      {
+        "title": "Como a China conta seus povos",
+        "words": 348,
+        "floor": 600
+      },
+      {
+        "title": "Tujia: o povo da montanha entre Chongqing, Zhangjiajie e Furong",
+        "words": 655,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang: Miao e Tujia na mesma margem",
+        "words": 545,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+        "words": 496,
+        "floor": 600
+      },
+      {
+        "title": "Minnan: a língua que cruzou o mar (Xiamen)",
+        "words": 619,
+        "floor": 600
+      },
+      {
+        "title": "Hakka e os migrantes: Shenzhen, a cidade sem \"povo original\"",
+        "words": 558,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 249,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 6,
+    "rhetoric": [
+      "não são uma minoria oficial: são classificados como han, mas com língua (o hakka, próximo do chinês antigo e distinto do cantonês e do mandarim) e identidade próprias"
+    ],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Registro histórico declara edição exclusiva; diff original não disponível",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 28,
+        "sev": "erro",
+        "cat": "pendência",
+        "msg": "Os Tujia (土家族) são o grupo minoritário mais presente neste roteiro e o que mais o atravessa. Somam entre 8 e 9 milhões d"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 38,
+        "sev": "erro",
+        "cat": "pendência",
+        "msg": "Em Fenghuang (08/11), a confluência dos dois povos é visível a cada esquina, e é também onde a pergunta \"quem é quem\" ma"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 40,
+        "sev": "erro",
+        "cat": "pendência",
+        "msg": "A história do Miao de Xiangxi é de fronteira militarizada. A partir do século XVI, e com ampliação no XVII [VERIFICAR da"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 42,
+        "sev": "erro",
+        "cat": "pendência",
+        "msg": "A arquitetura ribeirinha de Fenghuang, as casas de palafita sobre o Tuojiang que a página `pesquisa/atracoes/rio-tuojian"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 48,
+        "sev": "erro",
+        "cat": "pendência",
+        "msg": "Quando o roteiro chega a Guilin e Yangshuo (09 a 12/11), entra no território dos Zhuang (壮族), o maior grupo minoritário "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 74,
+        "sev": "erro",
+        "cat": "pendência",
+        "msg": "O outro povo anterior à cidade é o dos Punti, cantoneses de aldeias antigas, como as de Nantou. A cidade velha de Ela fo"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 20,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — A lista de 56 etnias é bem mais recente do que parece. Nos anos 1950, o governo comunista enviou equipes de pe"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 28,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Tujia (土家族) são o grupo minoritário mais presente neste roteiro e o que mais o atravessa. Somam entre 8 e 9"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 38,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Em Fenghuang (08/11), a confluência dos dois povos é visível a cada esquina, e é também onde a pergunta \"quem "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 70,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — Shenzhen (12 a 16/11) apresenta um tipo de diversidade diferente das anteriores: não de povos com território, "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 72,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — Sob essa camada, porém, existem os habitantes anteriores, e entre eles estão os Hakka (客家, \"povo hóspede\"). Os"
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C09",
+    "sha256": "d47c287f746a9ec48b07aa084e82ad928dfa29b4e1c93d9687c05546769141d5",
+    "wordsWc": 3781,
+    "wordsWhitespace": 3781,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 319,
+        "floor": 250
+      },
+      {
+        "title": "Antes do mapa: o que significa “etnia” na China",
+        "words": 324,
+        "floor": 600
+      },
+      {
+        "title": "Tujia: das montanhas de Wuling ao sudeste de Chongqing",
+        "words": 695,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang: Miao e Tujia numa antiga cidade de fronteira",
+        "words": 415,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang: Guangxi além da paisagem de calcário",
+        "words": 537,
+        "floor": 600
+      },
+      {
+        "title": "Minnan e a diáspora — Xiamen entre a casa de origem e os Mares do Sul",
+        "words": 645,
+        "floor": 600
+      },
+      {
+        "title": "Hakka e migrantes — o passado que Shenzhen não começou em 1980",
+        "words": 497,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 273,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [
+      "não são núcleos exclusivamente Zhuang: são cidades de população diversa, fortemente integradas ao mundo linguístico e administrativo han",
+      "não são versões concorrentes de uma mesma cultura: são espaços onde ela cumpre funções distintas"
+    ],
+    "brokenInternalLinks": [],
+    "internalLinks": [],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Registro histórico declara edição exclusiva; diff original não disponível",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 30,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — O território histórico Tujia acompanha as montanhas de Wuling, atravessando o oeste de Hunan, o sudoeste de Hu"
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 48,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Guizhou\" — Os Miao constituem uma categoria oficial ampla, distribuída por Hunan, Guizhou, Yunnan, Guangxi, Sichuan e Cho"
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C10",
+    "sha256": "972120ef94e532a4f999727f4dfbcab30534593ec81399c8eb98f68ef4754c45",
+    "wordsWc": 3979,
+    "wordsWhitespace": 3979,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 319,
+        "floor": 250
+      },
+      {
+        "title": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+        "words": 645,
+        "floor": 600
+      },
+      {
+        "title": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+        "words": 682,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang — Guangxi além da paisagem cárstica",
+        "words": 688,
+        "floor": 600
+      },
+      {
+        "title": "Hakka e migrantes — as muitas origens de Shenzhen",
+        "words": 641,
+        "floor": 600
+      },
+      {
+        "title": "Minnan e diáspora — Xiamen voltada para o mar",
+        "words": 661,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 288,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [],
+    "brokenInternalLinks": [],
+    "internalLinks": [
+      "#city/furong-town",
+      "#atracao/rio-tuojiang-diaojiaolou",
+      "#atracao/shen-congwen",
+      "#atracao/impressao-liu-sanjie",
+      "#atracao/dafen",
+      "#atracao/huaqiangbei",
+      "#atracao/oct-loft",
+      "#atracao/zhongshan-road-xiamen",
+      "#atracao/gulangyu",
+      "#atracao/universidade-xiamen"
+    ],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Commit individual verificado na rodada de geração; apenas etnias.md",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 14,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — A classificação oficial chinesa reconhece 56 grupos étnicos, os *minzu*: Han e 55 minorias. No censo de 2020, "
+      },
+      {
+        "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+        "line": 46,
+        "sev": "aviso",
+        "cat": "destino-removido",
+        "msg": "\"Hong Kong\" — Na [Casa Natal de Shen Congwen](#atracao/shen-congwen), a passagem da experiência para a representação assume "
+      }
+    ],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  },
+  {
+    "id": "C11",
+    "sha256": "669ba0fa1214e4b5e7175838924e77fbedaf14f728bef4ccc55546137153b7c3",
+    "wordsWc": 4675,
+    "wordsWhitespace": 4675,
+    "wcCommand": "wc -w (stdin: corpo sem front matter, LC_ALL=C.UTF-8)",
+    "frontMatter": {
+      "type": "pais",
+      "slug": "china",
+      "topico": "etnias",
+      "title": "China — Etnias",
+      "order": 2
+    },
+    "frontMatterPreserved": true,
+    "sections": [
+      {
+        "title": "Abertura",
+        "words": 342,
+        "floor": 250
+      },
+      {
+        "title": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+        "words": 732,
+        "floor": 600
+      },
+      {
+        "title": "Fenghuang — Miao, Tujia e a cidade de fronteira",
+        "words": 795,
+        "floor": 600
+      },
+      {
+        "title": "Zhuang — Guangxi para além da paisagem de Guilin",
+        "words": 816,
+        "floor": 600
+      },
+      {
+        "title": "Shenzhen — Hakka, raízes locais e uma cidade de migrantes",
+        "words": 806,
+        "floor": 600
+      },
+      {
+        "title": "Xiamen — Minnan e a diáspora que voltou pelo mar",
+        "words": 803,
+        "floor": 600
+      },
+      {
+        "title": "Encerramento",
+        "words": 321,
+        "floor": 250
+      }
+    ],
+    "verificationTags": 0,
+    "rhetoric": [],
+    "brokenInternalLinks": [],
+    "internalLinks": [
+      "#city/furong-town",
+      "#atracao/rio-tuojiang-diaojiaolou",
+      "#atracao/shen-congwen",
+      "#atracao/impressao-liu-sanjie",
+      "#atracao/huaqiangbei",
+      "#atracao/oct-loft",
+      "#atracao/gulangyu",
+      "#atracao/zhongshan-road-xiamen"
+    ],
+    "oldItineraryOccurrences": [],
+    "scopeEvidence": "Commit individual verificado na rodada de geração; apenas etnias.md",
+    "scopeOnlyTarget": true,
+    "buildExit": 0,
+    "auditExit": 0,
+    "buildWarnings": [
+      "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+      "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+      "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+      "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+      "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+      "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+      "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+      "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+      "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+    ],
+    "auditFindings": [],
+    "newBuildWarnings": [],
+    "exactDuplicateParagraphsInExistingPages": []
+  }
+]

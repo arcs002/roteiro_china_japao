@@ -1,0 +1,193 @@
+{
+  "id": "judge-gpt",
+  "inputMode": "per-candidate",
+  "promptSha256": "16a445f246eb783875f457ea883c64dc106d6e5399ebba27cd780fd1f80da515",
+  "promptHashes": [
+    {
+      "id": "C01",
+      "promptSha256": "57827204379971c7c4b783667e3de6e475ef0f5de98d069803ca0784eacb6104"
+    },
+    {
+      "id": "C02",
+      "promptSha256": "1a5e96f30976caf158eec64d5fac851363ef2aa1b8ff9d39820720acede8fefb"
+    },
+    {
+      "id": "C03",
+      "promptSha256": "f58be8b88c1acf9d2a3e40bac7811e632610c5af05f7b7b7fe4a88dd4843e840"
+    },
+    {
+      "id": "C04",
+      "promptSha256": "4174ad879169afa5799a37b0321a4c5bf1f7f364b6d8a068475d546435e3643a"
+    },
+    {
+      "id": "C05",
+      "promptSha256": "c0b980bd25f5c7e40e7a0a793d21386c390abe12d077eacdcfa19d6a417a4bd9"
+    },
+    {
+      "id": "C06",
+      "promptSha256": "2f00259fbf039f0dde247eaa46945e1c816ee93a9e7432031f4540822bbbc121"
+    },
+    {
+      "id": "C07",
+      "promptSha256": "888eb15bf96e1aa28583252ebd9d3c59167ed9fbbd83772fee6727f5226e85e8"
+    },
+    {
+      "id": "C08",
+      "promptSha256": "2c7ee1c2a4d2d428f5a6cf2c99b8fbf66a55306fef63c1c3828ab181d8988c2f"
+    },
+    {
+      "id": "C09",
+      "promptSha256": "c7ac81797dbf21118465112e24f3440ec0e588d3b9b2a037d9dc37eb77714b03"
+    },
+    {
+      "id": "C10",
+      "promptSha256": "60de1674feeb7d53feb81d50a6494ccaf0650ebcfdac9a8a2b6511b29612904e"
+    },
+    {
+      "id": "C11",
+      "promptSha256": "fecaee9927f7c22daf382ffd4c9e0ba5f2f302c78190747da7da291ac9f804a6"
+    }
+  ],
+  "actualModels": [
+    "gpt-6-sol"
+  ],
+  "model": "gpt-6-sol",
+  "exitCode": 0,
+  "isError": false,
+  "toolCalls": [],
+  "jobs": [
+    {
+      "id": "C01",
+      "startedAt": "2026-10-01T19:09:41.340Z",
+      "endedAt": "2026-10-01T19:10:09.048Z",
+      "usage": {
+        "input_tokens": 59740,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 951,
+        "reasoning_output_tokens": 516
+      }
+    },
+    {
+      "id": "C02",
+      "startedAt": "2026-10-01T19:09:41.384Z",
+      "endedAt": "2026-10-01T19:10:07.360Z",
+      "usage": {
+        "input_tokens": 55344,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 999,
+        "reasoning_output_tokens": 516
+      }
+    },
+    {
+      "id": "C03",
+      "startedAt": "2026-10-01T19:10:09.079Z",
+      "endedAt": "2026-10-01T19:10:48.340Z",
+      "usage": {
+        "input_tokens": 66425,
+        "cached_input_tokens": 10240,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1257,
+        "reasoning_output_tokens": 609
+      }
+    },
+    {
+      "id": "C04",
+      "startedAt": "2026-10-01T19:11:33.148Z",
+      "endedAt": "2026-10-01T19:12:01.142Z",
+      "usage": {
+        "input_tokens": 44092,
+        "cached_input_tokens": 14080,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 947,
+        "reasoning_output_tokens": 476
+      }
+    },
+    {
+      "id": "C05",
+      "startedAt": "2026-10-01T19:12:01.167Z",
+      "endedAt": "2026-10-01T19:12:28.138Z",
+      "usage": {
+        "input_tokens": 58160,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 993,
+        "reasoning_output_tokens": 516
+      }
+    },
+    {
+      "id": "C06",
+      "startedAt": "2026-10-01T19:12:28.177Z",
+      "endedAt": "2026-10-01T19:13:16.122Z",
+      "usage": {
+        "input_tokens": 45202,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1071,
+        "reasoning_output_tokens": 610
+      }
+    },
+    {
+      "id": "C07",
+      "startedAt": "2026-10-01T19:14:15.522Z",
+      "endedAt": "2026-10-01T19:14:43.277Z",
+      "usage": {
+        "input_tokens": 53364,
+        "cached_input_tokens": 15872,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 977,
+        "reasoning_output_tokens": 516
+      }
+    },
+    {
+      "id": "C08",
+      "startedAt": "2026-10-01T19:14:35.749Z",
+      "endedAt": "2026-10-01T19:15:07.347Z",
+      "usage": {
+        "input_tokens": 56325,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1361,
+        "reasoning_output_tokens": 730
+      }
+    },
+    {
+      "id": "C09",
+      "startedAt": "2026-10-01T19:15:07.376Z",
+      "endedAt": "2026-10-01T19:16:00.352Z",
+      "usage": {
+        "input_tokens": 46499,
+        "cached_input_tokens": 14080,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1076,
+        "reasoning_output_tokens": 624
+      }
+    },
+    {
+      "id": "C10",
+      "startedAt": "2026-10-01T19:16:00.382Z",
+      "endedAt": "2026-10-01T19:16:28.678Z",
+      "usage": {
+        "input_tokens": 51505,
+        "cached_input_tokens": 10240,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 943,
+        "reasoning_output_tokens": 462
+      }
+    },
+    {
+      "id": "C11",
+      "startedAt": "2026-10-01T19:16:31.809Z",
+      "endedAt": "2026-10-01T19:22:27.589Z",
+      "usage": {
+        "input_tokens": 52782,
+        "cached_input_tokens": 52608,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 737,
+        "reasoning_output_tokens": 281
+      }
+    }
+  ],
+  "citationAssembly": "quoteId resolved deterministically against that candidate's verbatim bank; no scores or reasoning changed"
+}

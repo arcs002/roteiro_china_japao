@@ -1,0 +1,208 @@
+[
+  {
+    "judge": "judge-haiku",
+    "model": "claude-haiku-4-5-20251001",
+    "promptSha256": "3bfa06025f8c83104268d799d854dfecef8c7b7ddf7eae3dec04ebc8ca028bb4",
+    "errors": [
+      "C01 D2 quote not verbatim: Entre Chongqing e Fenghuang, o viajante atravessa o país dos Tujia, um povo de quase dez milhões de pessoas que a maioria dos estrangeiros nunca ouviu nomear, e chega à fronteira murada que separou por séculos os Miao das planícies imperiais.",
+      "C01 D3 quote not verbatim: O que marca a história dos Tujia é o sistema *tusi* (土司), mais do que qualquer traço folclórico. Das dinastias Yuan à Qing, o império governou as montanhas do sudoeste por meio de chefes hereditários locais.",
+      "C01 D4 quote not verbatim: O décimo mês lunar começa por volta de 10 de novembro, logo depois da passagem por Fenghuang (08–09/11). A coincidência é improvável, mas não impossível: vale perguntar na pousada se alguma aldeia do condado antecipou a festa.",
+      "C01 D5 quote not verbatim: A primeira é a das minorias oficiais. Os Tujia, que perderam a língua mas mantêm a casa sobre pilares, a dança do clã e o defumado. Os Miao, que o império tentou separar com uma muralha.",
+      "C01 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C02 D2 quote not verbatim: Entre Chongqing e Fenghuang, o viajante atravessa o país dos Tujia. Em Guangxi, entra no território da maior minoria do país, os Zhuang. Em Xiamen e Shenzhen, a lógica se inverte: ali todos são *han* no documento.",
+      "C02 D4 quote not verbatim: Assistir sabendo o que é: uma produção de massa sobre uma lenda Zhuang, não um *gexu*.",
+      "C02 D5 quote not verbatim: É a materialização urbana de magnatas da diáspora que enriqueceram além-mar e enviaram capitais de volta à terra natal — movimento simbolizado com clareza na figura de Tan Kah Kee.",
+      "C02 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C03 D1 quote not verbatim: Em Yongshun — o condado onde fica Furong — a linhagem Peng governou como *tusi* por 818 anos ininterruptos, do fim da dinastia Tang até 1728, a partir de uma capital fortificada nas montanhas chamada Laosicheng.",
+      "C03 D2 quote not verbatim: Entre Chongqing e Fenghuang, o viajante atravessa o país dos Tujia. Em Guangxi, entra no território da maior minoria do país, os Zhuang, cuja presença é tão diluída na paisagem que muitos visitantes saem de Guilin sem saber que estiveram numa região autônoma.",
+      "C03 D3 quote not verbatim: Os Tujia (土家族) chamam a si mesmos *Bizika* — \"gente nativa daqui\" — e o nome oficial chinês diz basicamente o mesmo: *tu* (土), terra, *jia* (家), família, \"as famílias da terra\", em oposição aos *kejia*.",
+      "C03 D4 quote not verbatim: No dia 20 de novembro o roteiro atravessa para Fukuoka, pelo mesmo mar por onde os juncos de Quanzhou levavam mercadorias a Hakata oito séculos atrás.",
+      "C03 D6 quote not verbatim: A língua tujia, um ramo tibeto-birmanês sem relação com o chinês e sem escrita própria, sobreviveu apenas nos vales mais isolados.",
+      "C03 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C04 D2 quote not verbatim: Minnan e Hakka, por exemplo, não são \"minorias étnicas\" oficiais: são formações históricas han, marcadas por fala, parentesco, culinária e deslocamentos muito próprios.",
+      "C04 D3 quote not verbatim: Conhecer Hongyadong não equivale, portanto, a conhecer uma comunidade Tujia do sudeste: o complexo contemporâneo utiliza referências regionais de arquitetura suspensa.",
+      "C04 D4 quote not verbatim: Entender Hongyadong não equivale a entender uma comunidade Tujia do sudeste.",
+      "C04 D5 quote not verbatim: A primeira é a das minorias oficiais com território próprio, como os Tujia e os Miao em Xiangxi.",
+      "C04 D6 quote not verbatim: Vale lembrar que 'Xiangxi' aparece tanto como nome de uma unidade administrativa quanto, em uso mais amplo, como referência ao oeste de Hunan.",
+      "C04 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C05 D1 quote not verbatim: Os Tujia (土家族) passam de 9,5 milhões de pessoas, segundo o censo de 2020, e vivem sobretudo nas serras Wuling, o maciço que junta o oeste de Hunan.",
+      "C05 D3 quote not verbatim: Durante quase mil anos, a região não foi governada diretamente pelos imperadores. Desde os Tang, e de forma mais organizada sob os Yuan e os Ming, a corte reconhecia chefes hereditários locais, os *tusi* (土司).",
+      "C05 D5 quote not verbatim: A identidade Tujia raramente se revela pelo ouvido. Ela aparece em outros lugares: na casa, no calendário ritual e sobretudo na cozinha.",
+      "C05 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C06 D4 quote not verbatim: O cenário não reúne e não esgota a cidade cultural. Pela manhã, antes de as lojas abrirem, o rio volta a ser eixo de trabalho.",
+      "C06 D5 quote not verbatim: A primeira é a das minorias oficiais com território próprio, como os Tujia e os Miao em Xiangxi e no sudeste de Chongqing.",
+      "C06 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C07 D1 quote not verbatim: Nenhuma desses respostas, sozinha, determina etnia. Shenzhen convida a conservar essa abertura.",
+      "C07 D3 quote not verbatim: Por isso, a pergunta pode ir além de identificar um estilo: quem encomendou aquela casa, onde viveu e quais recursos conseguiu mobilizar?",
+      "C07 D4 quote not verbatim: A partir de 9 de novembro, com Guilin e depois Yangshuo até o dia 12, o roteiro entra na Região Autônoma Zhuang de Guangxi.",
+      "C07 D5 quote not verbatim: Entre a casa herdada e a residência escolhida, há muitas maneiras de organizar uma vida.",
+      "C07 D6 quote not verbatim: De onde você veio? Pode render uma província, uma cidade, uma aldeia ou uma história familiar. Nenhuma dessas respostas, sozinha, determina etnia.",
+      "C07 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C08 D2 quote not verbatim: O maior deles em Shenzhen é Hehu Xinju (鹤湖新居), em Longgang, construído pelo clã Luo, que veio de Xingning, e concluído por volta de 1817.",
+      "C08 D3 quote not verbatim: Os Tujia (土家族) são o grupo minoritário mais presente neste roteiro e o que mais o atravessa. Somam entre 8 e 9 milhões de pessoas [VERIFICAR número exato].",
+      "C08 D4 quote not verbatim: O lugar onde o viajante chega mais perto do cotidiano Tujia está nas ruas de trás de Furong, nos blocos de madeira escura acima da cachoeira, onde a vida cotidiana segue sem câmera.",
+      "C08 D5 quote not verbatim: Na prática, a palavra 'autonomia' quer dizer representação formal, quotas e algumas políticas culturais, não autogoverno.",
+      "C08 D6 quote not verbatim: Somam entre 8 e 9 milhões de pessoas (o censo de 2010 registrou cerca de 8,35 milhões; o de 2020 subiu para perto de 9,6 milhões [VERIFICAR número exato]).",
+      "C08 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C09 D3 quote not verbatim: Hakka designa uma identidade histórica, cultural e linguística situada dentro do universo Han; na classificação oficial chinesa, não constitui uma minoria nacional separada como Tujia ou Zhuang.",
+      "C09 D4 quote not verbatim: Em Yangshuo, a personagem que concentra a memória Zhuang é Liu Sanjie, a \"Terceira Irmã Liu\".",
+      "C09 D5 quote not verbatim: Pertencer também envolve escolhas, mudanças e relações que o visitante talvez nunca conheça.",
+      "C09 D6 quote not verbatim: A história de um grande benfeitor tampouco resume a experiência de todos os emigrantes e descendentes.",
+      "C09 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C10 D1 quote not verbatim: Minnan designa o sul de Fujian, associado a Xiamen, Quanzhou e Zhangzhou, e uma identidade cultural dentro do universo Han.",
+      "C10 D2 quote not verbatim: Uma casa apoiada em pilares sobre o Tuojiang, em Fenghuang, e uma tigela de macarrão com molho *shacha*, em Xiamen, contam histórias diferentes sobre pertencimento.",
+      "C10 D3 quote not verbatim: A escalas da pertencimento. Escalas podem ser aproximadas de formas diferentes. Uma construção pode suscitar perguntas sobre uso; um alimento, sobre preparo; uma conversa, sobre o nome que alguém dá à própria origem.",
+      "C10 D4 quote not verbatim: Na [Zhongshan Road](#atracao/zhongshan-road-xiamen), também presente no roteiro, os *qilou* apresentam outra relação entre edifício e vida urbana.",
+      "C10 D6 quote not verbatim: Uma família Hakka estabelecida há gerações em Shenzhen e uma família que acaba de chegar do interior participam de tempos diferentes da cidade.",
+      "C10 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\"",
+      "C11 D4 quote not verbatim: A presença anterior à expansão estavam falantes de variedades cantonesas e de Hakka. O passado não começou com os arranha-céus, embora tenha se tornado menos visível entre eles.",
+      "C11 D6 quote not verbatim: Nenhuma das respostas, sozinha, determina etnia. O nome Hakka descreve uma identidade cultural; migrante descreve uma relação entre origem e residência.",
+      "C11 D7 quote not verbatim: type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+    ],
+    "totals": [
+      {
+        "id": "C01",
+        "sum": 76,
+        "cap": null,
+        "final": 76
+      },
+      {
+        "id": "C02",
+        "sum": 62,
+        "cap": null,
+        "final": 62
+      },
+      {
+        "id": "C03",
+        "sum": 54,
+        "cap": 70,
+        "final": 54
+      },
+      {
+        "id": "C04",
+        "sum": 86,
+        "cap": null,
+        "final": 86
+      },
+      {
+        "id": "C05",
+        "sum": 89,
+        "cap": null,
+        "final": 89
+      },
+      {
+        "id": "C06",
+        "sum": 84,
+        "cap": null,
+        "final": 84
+      },
+      {
+        "id": "C07",
+        "sum": 89,
+        "cap": null,
+        "final": 89
+      },
+      {
+        "id": "C08",
+        "sum": 59,
+        "cap": 70,
+        "final": 59
+      },
+      {
+        "id": "C09",
+        "sum": 90,
+        "cap": null,
+        "final": 90
+      },
+      {
+        "id": "C10",
+        "sum": 89,
+        "cap": null,
+        "final": 89
+      },
+      {
+        "id": "C11",
+        "sum": 91,
+        "cap": null,
+        "final": 91
+      }
+    ]
+  },
+  {
+    "judge": "judge-gpt",
+    "model": "gpt-6-sol",
+    "promptSha256": "3bfa06025f8c83104268d799d854dfecef8c7b7ddf7eae3dec04ebc8ca028bb4",
+    "errors": [
+      "C02 D1 quote not verbatim: o clã Peng (彭), por exemplo, governou o senhorio tusi de Yongshun por mais de oito séculos a partir de sua base regional em Wangcun",
+      "C10 D6 quote not verbatim: O espetáculo oferece uma interpretação da região, sem resumir sua vida musical ou a identidade de cada integrante da produção."
+    ],
+    "totals": [
+      {
+        "id": "C01",
+        "sum": 79,
+        "cap": null,
+        "final": 79
+      },
+      {
+        "id": "C02",
+        "sum": 54,
+        "cap": null,
+        "final": 54
+      },
+      {
+        "id": "C03",
+        "sum": 56,
+        "cap": null,
+        "final": 56
+      },
+      {
+        "id": "C04",
+        "sum": 87,
+        "cap": null,
+        "final": 87
+      },
+      {
+        "id": "C05",
+        "sum": 94,
+        "cap": null,
+        "final": 94
+      },
+      {
+        "id": "C06",
+        "sum": 90,
+        "cap": null,
+        "final": 90
+      },
+      {
+        "id": "C07",
+        "sum": 92,
+        "cap": null,
+        "final": 92
+      },
+      {
+        "id": "C08",
+        "sum": 50,
+        "cap": 70,
+        "final": 50
+      },
+      {
+        "id": "C09",
+        "sum": 89,
+        "cap": null,
+        "final": 89
+      },
+      {
+        "id": "C10",
+        "sum": 93,
+        "cap": null,
+        "final": 93
+      },
+      {
+        "id": "C11",
+        "sum": 92,
+        "cap": null,
+        "final": 92
+      }
+    ]
+  }
+]

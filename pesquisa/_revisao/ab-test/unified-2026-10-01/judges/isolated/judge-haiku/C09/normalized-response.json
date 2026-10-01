@@ -1,0 +1,70 @@
+{
+  "evaluations": [
+    {
+      "id": "C09",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "Precisão factual de 100% sobre 15 unidades checadas; identifica corretamente território Tujia em Wuling, classificações étnicas oficiais, datas de reformas Qing e contextos históricos sem erros relevantes ou armadilhas violadas.",
+          "quoteId": "Q039"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Os cinco grupos pedidos (Tujia, Miao, Zhuang, Minnan, Hakka) cobertos com ligação clara ao roteiro (Chongqing/Zhangjiajie/Furong → Fenghuang → Guilin/Yangshuo → Xiamen → Shenzhen); nenhum resquício do itinerário antigo; front matter íntegro; estrutura completa com Abertura, oito seções temáticas e Encerramento.",
+          "quoteId": "Q003"
+        },
+        {
+          "dimension": 3,
+          "score": 13,
+          "justification": "Quase todos os parágrafos trazem nomes, lugares, costumes e datas concretos (tusi system, reforma Qing séc. XVIII, classificação 1950s, xilankapu, lusheng, youcha); explica mecanismos (por que Fenghuang é fronteira, como diaojiaolou responde ao terreno, origem da diáspora Minnan); acrescenta contexto étnico-histórico que páginas de cidade não detalham, evitando duplicação de prosa.",
+          "quoteId": "Q069"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Conexões específicas e úteis com todos os pontos do roteiro (Hongyadong, Furong, Fenghuang, Yangshuo, Gulangyu, Dafen); observações práticas de respeito e reconhecimento (consentimento fotográfico, não deduzir identidade por aparência); menor penalidade pela ausência de marcadores sazonais de viagem (Ano Novo Miao, datas de apresentações).",
+          "quoteId": "Q210"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "Prosa fluida com voz de livro-reportagem e ritmo variado (períodos curtos intercalados com desenvolvimento); PT-BR consistente sem PT-PT; sem clichés ou metalinguagem de bastidor; retórica contém apenas duas construções 'Não é X — é Y', bem abaixo do limite de três; porém uso limitado de segunda pessoa 'você' reduz engajamento direto com leitor.",
+          "quoteId": "Q045"
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Incerteza apropriadamente sinalizada por linguagem (Liu Sanjie explicitamente em 'narrativas populares, não biografia verificável'; Miao como 'categoria oficial ampla'; verbos modalizadores como 'estabeleceram-se', 'costumam produzir'); nenhuma afirmação errada apresentada como certeza (factSummary: zero incorretos, zero incertos); ausência de tags explícitas [VERIFICAR] reduz pontuação marginal apesar de manejo epistêmico rigoroso.",
+          "quoteId": "Q121"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build e audit passam sem novos erros (buildExit: 0, auditExit: 0, newBuildWarnings: []); apenas etnias.md foi modificado (scopeOnlyTarget: true); front matter íntegro com type/slug/topico/title/order válidos; formatação Markdown conforme esperado.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 95,
+      "cap": null,
+      "capReasons": [],
+      "final": 95,
+      "mainStrength": "Precisão factual impecável (100% em 15 unidades) com cobertura completa dos cinco grupos étnicos e contexto histórico-político (sistema tusi, classificação oficial de 1950, estrutura administrativa) que transcende escopo de páginas de cidades individuais, preservando especificidade em nomes, datas e costumes concretos.",
+      "priorityFix": "Ampliar uso de segunda pessoa 'você' e imperativos diretos (ex: 'Ao visitar X, observe Y'; 'Pergunte de onde vem um objeto') para maior engajamento e orientação prática do viajante em skill de viagem.",
+      "additionalConcerns": [
+        "Sobreposição temática com página de Fenghuang em relação a papel histórico de fronteira imperial e compartilhamento de diaojiaolou entre etnias — ambas as narrativas são corretas, mas o grau de redundância com conteúdo existente modera densidade de novidade.",
+        "Ausência de calendário de eventos específicos (Ano Novo Miao vs. 08–09/11, datas de apresentações regionais) que orientariam planejamento real de viagem conforme contexto sazonal.",
+        "Nenhum link interno explícito (wikilink) a páginas de atração específicas mencionadas (Furong Town, Gulangyu, Dafen, Hongyadong), embora ligação temática seja clara."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliação cega de C09 em sessão isolada independente, sem acesso a relatórios de agentes, nome de modelos ou histórico de comparação.",
+    "Rubrica v2 aplicada integralmente. D1: taxa de acurácia 100% (15 corretos / 15 checados) enquadra-se na faixa base ≥97 [27–30]; nenhum erro relevante distinto reduz faixa → nota = 30.",
+    "Fact-check mecânico: FACT_SUMMARY mostra 15 unidades adjudicadas (corretas), 0 incorretas, 0 incertas; 5 not-factual (editorialais, não checáveis). Nenhuma armadilha de D1 violada (Zhangjiajie/Xiangxi, Tujia noroeste, Minnan/Hakka como han, populações 2020, etc.).",
+    "Métricas estruturais: 3.781 palavras corpo (LC_ALL=C.UTF-8 wc -w), 8 seções com floor mínimo de 250–600 cumprido, zero tags [VERIFICAR], buildExit 0, auditExit 0, scopeOnlyTarget true, nenhum aviso de build novo.",
+    "Tetos: nenhum aplicado (build não quebrado, sem resquício antigo, sem erros relevantes múltiplos, acima do piso 2000, sem invenção factual).",
+    "Faixa final: 90–100 'Publicável com revisão mínima; nível do gold standard'."
+  ]
+}

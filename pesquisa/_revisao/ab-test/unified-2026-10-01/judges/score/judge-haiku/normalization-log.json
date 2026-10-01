@@ -1,0 +1,11 @@
+{
+  "syntaxOnly": true,
+  "changes": [
+    {
+      "line": 178,
+      "kind": "escape embedded quotation marks",
+      "before": "          \"quote\": \"Minnan e Hakka, por exemplo, não são \"minorias étnicas\" oficiais: são formações históricas han, marcadas por fala, parentesco, culinária e deslocamentos muito próprios.\"",
+      "after": "          \"quote\": \"Minnan e Hakka, por exemplo, não são \\\"minorias étnicas\\\" oficiais: são formações históricas han, marcadas por fala, parentesco, culinária e deslocamentos muito próprios.\""
+    }
+  ]
+}

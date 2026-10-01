@@ -1,0 +1,72 @@
+{
+  "evaluations": [
+    {
+      "id": "C05",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "Todas as 43 afirmações checadas como corretas no FACTS.md; nenhum erro relevante entre as armadilhas (Zhangjiajie não é Xiangxi, Tujia ~9,5 mi, populações censitárias, datas UNESCO). Taxa de acerto exata 100%.",
+          "quoteId": "Q043"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cinco grupos cobertos com aderência ao brief: Tujia (Chongqing/4–8 nov), Miao (Fenghuang/8–9), Zhuang (Guilin–Yangshuo/9–12), Hakka (Shenzhen/12–16), Minnan (Xiamen/16–20). Nenhum resquício de roteiro antigo. Estrutura conforme (Abertura + 6 seções + Encerramento). Front matter intacto.",
+          "quoteId": "Q042"
+        },
+        {
+          "dimension": 3,
+          "score": 14,
+          "justification": "Quase todo parágrafo traz nome (Bizika, Wuling, Peng, Zhangzhou), data (1957, 1795–97, 2020, 1842) e mecanismo histórico (gaitu guiliu absorbe autonomia, migração minnan por terra escassa). Acrescenta contexto administrativo-étnico que páginas de atração (placeholders) não desenvolvem. Muito concreto; sem enchimento visível.",
+          "quoteId": "Q057"
+        },
+        {
+          "dimension": 4,
+          "score": 10,
+          "justification": "Conexões específicas a cada parada: Hongyadong aviso de citação apenas; Zhangjiajie ensina ler larou como conservação; Furong framework crítico de espetáculo; Fenghuang diferencia origem arquitetônica compartilhada; Zhuang recognição matinal youcha; Shenzhen língua e comida como espelho migrante; Xiamen satay como história etimológica. Nenhum encaixe decorativo.",
+          "quoteId": "Q186"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "Prosa flui narrativamente: abertura sensorial + transição + seções temáticas + encerramento paralelista. Nenhuma metalinguagem ou [VERIFICAR]. PT-BR consistente com 'você' naturalizado. Retórica 'Não é X — é Y' aparece ~4x (acima máximo 3): Hongyadong, Furong, diaojiaolou, Impression. Aberturas das 8 seções todas distintas.",
+          "quoteId": "Q084"
+        },
+        {
+          "dimension": 6,
+          "score": 6,
+          "justification": "Várias afirmações sobre causalidade (corrida edifícios 1990s–2000s, classificação 56 grupos explica letreiros Bizika) e genealogia (Shen Congwen mãe Tujia) apresentadas como certeza quando FACTS.md marca incerteza. Filme 1961 vs. 1860 sem ressalva de divergência. Compensação: muitos condicionais, retificação explícita sobre diaojiaolou não exclusivo.",
+          "quoteId": "Q216"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build exit 0; audit exit 0; front matter (type, slug, topico, title, order) válidos; scopeOnlyTarget true; nenhum novo warning além de pré-existentes. Conformidade mecânica perfeita.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 94,
+      "cap": null,
+      "capReasons": [],
+      "final": 94,
+      "mainStrength": "Estrutura histórico-administrativa impeccável: cada grupo ancorado em datas de administração específicas (minzu 1950s, Xiangxi 1957, Guangxi 1958), em circuitos migrantes documentados (minnan 1842, hakka 1661–69), e em diferenças linguísticas fundamentais (tibeto-birmanês vs. hmong-mien vs. tai-kadai vs. Han fragmentado). Educação de observação: ensina leitor a ler larou como história técnica, youcha como marcador étnico matinal, shacha mian como genealogia diaspórica. Zero tags vazadas, zero clichês turísticos.",
+      "priorityFix": "Tagueamento de incertezas documentadas: U192 (genealogia Shen Congwen não unânime — requer ressalva), U198 (filme 1960 vs. 1961 — registros divergem, não sinalizado), U213 (estilo mansões Gulangyu generalizado sem ressalva), U216 (relação causal classificação 56 grupos → letreiros Bizika presumida). Reduzir instâncias 'Não é X — é Y' de 4 para máximo 3. Precisar U165 (Tujia 'invenção' → 'ocupação primária de') antes da retificação em Q114–117.",
+      "additionalConcerns": [
+        "D5: Retórica paralela 'Não é... — é...' ligeiramente acima da rubrica (4 vs. 3 máximo); revisão de uma instância ou substituição por variante não-paralela resolveria.",
+        "D6: Causalidades em U208, U216, U221 não são falsas, mas apresentadas com confiança maior que o suporte documental sustenta. Adicionar condicionais ('tende a', 'sugere', 'plausível') resolveria.",
+        "Retrocompatibilidade: Nenhuma contradição interna detectada (mesma data com valores múltiplos), nenhuma autossimilaridade com páginas de atração além de citação apropriada (Hongyadong, Furong)."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliação cega realizada sem acesso a relatórios de agente ou identificação de modelo. Texto recebido como 'C05.md', indiferenciado.",
+    "Precisão factual baseada integralmente em FACTS.md fornecido: 43 corretas, 0 incorretas, 12 incertezas (excluídas da fração taxa), 9 não-factuais (frames editoriais). Taxa exata 100%.",
+    "Erros relevantes (trapErrors) conforme FACTS.md: conjunto vazio. Sem redução de faixa além da taxa.",
+    "D1 máximo da faixa [27,30] justificado por 100% ≥ 97% e zero erros relevantes distintos.",
+    "D3 avalia profundidade sem penalizar tamanho (4.375 palavras ≫ piso 2.000). Enchimento detectado por paragrafação vaga ou replicação de contexto existente; nenhum encontrado.",
+    "D6 calibração epistêmica: incertezas em FACTS.md (U165 invenção, U192 genealogia, U198 filme, U208 causalidade, U213 generalização, U216 causalidade, U221 absolutismo) são apresentadas em C05 com confiança não plenamente documentada. Não são falsidades, mas epistemicamente descalibradas.",
+    "Tetos: nenhum aplicado. Build OK, escopo único, acima piso 2000 palavras, sem invenção manifesta de lugar/pessoa.",
+    "Nota final = min(soma, teto) = min(94, ∞) = 94. Leitura: 90–100 faixa = 'Publicável com revisão mínima; nível de gold standard' conforme rubrica."
+  ]
+}

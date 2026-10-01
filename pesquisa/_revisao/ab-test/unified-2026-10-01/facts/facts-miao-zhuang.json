@@ -1,0 +1,2398 @@
+[
+  {
+    "unit": "U015",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Comprimento e localização confirmados; cronologia inicial diverge: fonte local registra 1555, Arquivo de Hunan resume como Wanli. Não resolvido o 1554 exato.",
+    "sources": [
+      {
+        "url": "https://www.fhxww.cn/content/2013/09/24/478545.html",
+        "title": "Fenghuang News — Muralha do Sul",
+        "evidence": "Obras 1555, 1615–16, 1622; reconstrução Qing iniciada em 1797."
+      },
+      {
+        "url": "https://sdaj.hunan.gov.cn/wszt/xxsl/msgj/200609/t20060927_1977758.html",
+        "title": "Arquivo de Hunan — Muralha de Miaojiang",
+        "evidence": "190 km, sobretudo Fenghuang; separação entre Miao submetidos e independentes."
+      }
+    ]
+  },
+  {
+    "unit": "U016",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "População arredondada, dispersão e diáspora refugiada sustentadas.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      },
+      {
+        "url": "https://camodelcurricula.ucdavis.edu/hmong-history-and-cultural-studies/becoming-refugee-1975-1992",
+        "title": "UC Davis — Becoming a Refugee",
+        "evidence": "Diáspora Hmong aos EUA após guerra na Indochina."
+      }
+    ]
+  },
+  {
+    "unit": "U017",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Rebelião de 1795–1806 confirmada; atribuir a ela a configuração inicial de fortaleza inverte a cronologia documentada da cidade Qing.",
+    "sources": [
+      {
+        "url": "https://uw.manifoldapp.org/read/f53eaa89-d3e1-42d9-a820-bce1265b853f/section/e692a3de-4f81-434d-aad6-85bba195d40a",
+        "title": "University of Washington — Miao uprisings",
+        "evidence": "Rebelião de 1795–1806 em Guizhou nordeste/Hunan oeste."
+      },
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fenghuang: formação Qing; 1715."
+      }
+    ],
+    "errorKeys": [
+      "fenghuang-fortification-causality"
+    ],
+    "correction": "Fortificação e função militar são anteriores; a rebelião motivou reforços regionais.",
+    "errorKey": "fenghuang-fortification-causality"
+  },
+  {
+    "unit": "U018",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Datas e lugares são plausíveis; a genealogia é narrativa difundida, mas a identificação materna Tujia é discutida. A ressalva do texto é apropriada, sem encerrar a questão.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/bitstream/1842/21691/2/He2016.pdf",
+        "title": "University of Edinburgh — He, tese 2016",
+        "evidence": "Analisa narrativa familiar Miao e ascendência materna Tujia."
+      },
+      {
+        "url": "https://ebrary.net/209465/education/shen_congwen_china",
+        "title": "Research on Shen Congwen outside of China",
+        "evidence": "Discute dúvidas sobre identificação Tujia da família materna."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      }
+    ]
+  },
+  {
+    "unit": "U019",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Descrição da novela e da vida de Hunan ocidental compatível com pesquisa literária; juízo sobre moral é interpretação.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/server/api/core/bitstreams/08692e97-1f15-4dd9-ae6d-d99730f0e6da/content",
+        "title": "University of Edinburgh — Li, tese 2007",
+        "evidence": "Ficção regional de Shen; canto, idealização e resistência à cultura urbana."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/202308/t20230825_29468975.html",
+        "title": "Hunan — Chadong Scenic Area",
+        "evidence": "Cidade de Fronteira ambientada em Chadong; Cuicui."
+      },
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      }
+    ]
+  },
+  {
+    "unit": "U020",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "HKO marca 09/11/2026 como início do décimo mês. Embora 'por volta de 10' tolere um dia, 'logo depois da passagem 08–09' situa a data fora do intervalo quando ela está dentro.",
+    "sources": [
+      {
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/2026e.pdf",
+        "title": "Hong Kong Observatory — calendário 2026",
+        "evidence": "Mês lunar 10 começa em 9/11; início do inverno em 7/11."
+      }
+    ],
+    "errorKeys": [
+      "miao-lunar-calendar-2026"
+    ],
+    "correction": "O décimo mês começa em 9 de novembro, durante o intervalo indicado.",
+    "errorKey": "miao-lunar-calendar-2026"
+  },
+  {
+    "unit": "U021",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "19,57 milhões nacional e 15,7 milhões em Guangxi são arredondamentos válidos; fundação em 5/3/1958 confirmada.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://tjj.gxzf.gov.cn/zxfb/t8851187.shtml",
+        "title": "Estatística de Guangxi — censo 2020",
+        "evidence": "15.722.000 Zhuang; 31,36% da população regional."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      }
+    ]
+  },
+  {
+    "unit": "U022",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "1957 é a aprovação do alfabeto; uso em placas e cédulas confirmado. A forma hoje usada incorpora reforma de 1982, omissão que não invalida a origem.",
+    "sources": [
+      {
+        "url": "https://www.gxzx.gov.cn/index.php?a=show&c=index&catid=22&id=21760&m=content",
+        "title": "CPPCC Guangxi — escrita Zhuang",
+        "evidence": "Alfabeto aprovado em 1957; reforma de 1982."
+      },
+      {
+        "url": "https://amm.shisu.edu.cn/78/cc/c11394a161996/page.htm",
+        "title": "Shanghai International Studies University — escrita nas notas",
+        "evidence": "Zhuang nas cédulas; história dos alfabetos."
+      },
+      {
+        "url": "https://www.languageonthemove.com/wp-content/uploads/2018/05/Grey_Zhuang_language_rights.pdf",
+        "title": "Alexandra Grey — Zhuang language rights",
+        "evidence": "Pesquisa de campo sobre placas de Nanning e Zhuang nas notas."
+      }
+    ]
+  },
+  {
+    "unit": "U023",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "O filme tem catalogação divergente: China Film Archive registra 1960, MoMA 1961. Não há base para penalizar com certeza o ano 1961; estreia do espetáculo em 2004 confirmada.",
+    "sources": [
+      {
+        "url": "https://www.cfa.org.cn/cfaen/gz/dymlcx/dy/2023060214300993466/index.html",
+        "title": "China Film Archive — Liu Sanjie",
+        "evidence": "Catálogo data filme de 1960."
+      },
+      {
+        "url": "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/5930/releases/MOMA_1981_0061_62.pdf",
+        "title": "MoMA — China Film Week",
+        "evidence": "Catálogo registra Third Sister Liu como 1961."
+      },
+      {
+        "url": "https://www.cits.net/china-travel-guide/guilin/impression-liu-sanjie.html",
+        "title": "CITS — Impression Liu Sanjie",
+        "evidence": "Estreia 20/03/2004; Zhang Yimou; Rio Li e elenco local."
+      }
+    ]
+  },
+  {
+    "unit": "U024",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Identificações das três aldeias e cultivo de terraços confirmados; 'estado bruto' é expressão editorial.",
+    "sources": [
+      {
+        "url": "https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0028-869C-D/eDiss_Yang.pdf?isAllowed=y&sequence=1",
+        "title": "Universität Göttingen — pesquisa em aldeias Longji",
+        "evidence": "Ping’an/Longji Zhuang; Huangluo/Dazhai Yao."
+      },
+      {
+        "url": "https://epaper.gxrb.com.cn/gxrb2/page/1/2023-06-09/009/32931686264560029.pdf",
+        "title": "Guangxi Daily — Longji",
+        "evidence": "Distingue terraços Ping’an Zhuang, Dazhai Red Yao e Huangluo."
+      },
+      {
+        "url": "https://www.fao.org/giahs/giahs-around-the-world/china-rice-terraces-mountainous/en",
+        "title": "FAO — terraços chineses",
+        "evidence": "Longji remonta, segundo candidatura, a pelo menos 2.300 anos."
+      }
+    ]
+  },
+  {
+    "unit": "U025",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cerca de 3 milhões é aproximação ampla compatível com 3,309 milhões; presença Yao em Longji confirmada.",
+    "sources": [
+      {
+        "url": "https://www.zgbk.com/ecph/words?ID=83785&SiteID=1&SubID=59043",
+        "title": "Encyclopedia of China — Yao",
+        "evidence": "3.309.341 em 2020; diversidade linguística interna."
+      },
+      {
+        "url": "https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0028-869C-D/eDiss_Yang.pdf?isAllowed=y&sequence=1",
+        "title": "Universität Göttingen — pesquisa em aldeias Longji",
+        "evidence": "Ping’an/Longji Zhuang; Huangluo/Dazhai Yao."
+      }
+    ]
+  },
+  {
+    "unit": "U026",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Corte único é tradição relatada em Huangluo, não descrição comprovada de cada indivíduo; leitura como costume coletivo é sustentada.",
+    "sources": [
+      {
+        "url": "https://www.ecns.cn/video/2021-06-01/detail-ihamvkwq9614372.shtml",
+        "title": "China News Service — Huangluo",
+        "evidence": "Costume: cortar cabelo uma vez, aos 18."
+      }
+    ]
+  },
+  {
+    "unit": "U042",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Fontes confirmam paisagem multiétnica e diaojiaolou, mas não demonstram o mecanismo específico de fusão de duas tradições arquitetônicas neste vale.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fenghuang: formação Qing; 1715."
+      }
+    ]
+  },
+  {
+    "unit": "U044",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Data e dança com bambu confirmadas; tradição de canto e bolas bordadas é compatível com documentação cultural.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/news/202404/12/content_WS66187cf8c6d0868f4e8e5f5e.html",
+        "title": "Conselho de Estado/Xinhua — Sanyuesan",
+        "evidence": "Terceiro dia do terceiro mês; dança com bambu."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/c102690/201901/1132139.shtml",
+        "title": "NEAC — origem de Sanyuesan",
+        "evidence": "Canto, bolas bordadas; vários povos."
+      }
+    ]
+  },
+  {
+    "unit": "U045",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Enquadramento interpretativo/comparativo sem proposição factual mensurável autônoma.",
+    "sources": []
+  },
+  {
+    "unit": "U046",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Lista corresponde aos quatro condados autônomos; Shizhu é Tujia, e a frase coletiva não exige que todos sejam conjuntamente Tujia e Miao.",
+    "sources": [
+      {
+        "url": "https://english.cq.gov.cn/government/administrativedistricts/",
+        "title": "Governo de Chongqing — divisão administrativa",
+        "evidence": "Quatro condados autônomos; Qianjiang é distrito."
+      }
+    ]
+  },
+  {
+    "unit": "U047",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Enquadramento interpretativo/comparativo sem proposição factual mensurável autônoma.",
+    "sources": []
+  },
+  {
+    "unit": "U048",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Enquadramento interpretativo/comparativo sem proposição factual mensurável autônoma.",
+    "sources": []
+  },
+  {
+    "unit": "U051",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Oralidade e criação de escritas no século XX são documentadas; ausência absoluta de escrita anterior e itinerário ancestral desde o rio Amarelo dependem de tradições/hipóteses.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      }
+    ]
+  },
+  {
+    "unit": "U055",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Categorias administrativas e exemplos coerentes com as fontes oficiais.",
+    "sources": [
+      {
+        "url": "https://english.cq.gov.cn/government/administrativedistricts/",
+        "title": "Governo de Chongqing — divisão administrativa",
+        "evidence": "Quatro condados autônomos; Qianjiang é distrito."
+      },
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      }
+    ]
+  },
+  {
+    "unit": "U056",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Papel militar e conflitos são documentados, e Hunan usa 1704; candidatura patrimonial distingue fases 1700–1715. Superlativo 'principal' e evento de consolidação exato não ficam estabelecidos.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fenghuang: formação Qing; 1715."
+      },
+      {
+        "url": "https://uw.manifoldapp.org/read/f53eaa89-d3e1-42d9-a820-bce1265b853f/section/e692a3de-4f81-434d-aad6-85bba195d40a",
+        "title": "University of Washington — Miao uprisings",
+        "evidence": "Rebelião de 1795–1806 em Guizhou nordeste/Hunan oeste."
+      }
+    ]
+  },
+  {
+    "unit": "U057",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Paisagem e casas comprovadas; faltou fonte primária suficiente para extensão contínua de 240 m e causalidade conjunta detalhada.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fenghuang: formação Qing; 1715."
+      }
+    ]
+  },
+  {
+    "unit": "U058",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Limites inferiores de nove/onze milhões são verdadeiros diante do total de 2020; não são falsos por não usar cifra exata.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      }
+    ]
+  },
+  {
+    "unit": "U059",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Nascimento/biografia geral coerentes, mas genealogia étnica precisa não é unanimemente estabelecida. Ressalva em U323 é pertinente.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/bitstream/1842/21691/2/He2016.pdf",
+        "title": "University of Edinburgh — He, tese 2016",
+        "evidence": "Analisa narrativa familiar Miao e ascendência materna Tujia."
+      },
+      {
+        "url": "https://ebrary.net/209465/education/shen_congwen_china",
+        "title": "Research on Shen Congwen outside of China",
+        "evidence": "Discute dúvidas sobre identificação Tujia da família materna."
+      },
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      }
+    ]
+  },
+  {
+    "unit": "U060",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Interpretação sobre oposição à visão urbana é compatível com pesquisa sobre a ficção regional de Shen; título e referência à novela são coerentes.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/server/api/core/bitstreams/08692e97-1f15-4dd9-ae6d-d99730f0e6da/content",
+        "title": "University of Edinburgh — Li, tese 2007",
+        "evidence": "Ficção regional de Shen; canto, idealização e resistência à cultura urbana."
+      },
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      }
+    ]
+  },
+  {
+    "unit": "U061",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Mais de 16 milhões é verdadeiro; 'quase em sua totalidade' em Guangxi superestima concentração: 15,722/19,569 milhões, cerca de 80%, deixam quase 3,85 milhões fora.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://tjj.gxzf.gov.cn/zxfb/t8851187.shtml",
+        "title": "Estatística de Guangxi — censo 2020",
+        "evidence": "15.722.000 Zhuang; 31,36% da população regional."
+      }
+    ],
+    "errorKeys": [
+      "zhuang-guangxi-concentration"
+    ],
+    "correction": "A maioria, cerca de quatro quintos, vive em Guangxi.",
+    "errorKey": "zhuang-guangxi-concentration"
+  },
+  {
+    "unit": "U072",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Juízo estético é interpretativo; lista precisa de ofícios e atribuição ao Tuojiang não foram confirmadas na obra citada. Cidade de Fronteira tem cenário Chadong.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/server/api/core/bitstreams/08692e97-1f15-4dd9-ae6d-d99730f0e6da/content",
+        "title": "University of Edinburgh — Li, tese 2007",
+        "evidence": "Ficção regional de Shen; canto, idealização e resistência à cultura urbana."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/202308/t20230825_29468975.html",
+        "title": "Hunan — Chadong Scenic Area",
+        "evidence": "Cidade de Fronteira ambientada em Chadong; Cuicui."
+      }
+    ]
+  },
+  {
+    "unit": "U081",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Quase dez milhões corresponde ao censo Tujia; fronteira murada é documentada. Desconhecimento dos estrangeiros é comentário retórico sem contagem.",
+    "sources": [
+      {
+        "url": "https://sdaj.hunan.gov.cn/wszt/xxsl/msgj/200609/t20060927_1977758.html",
+        "title": "Arquivo de Hunan — Muralha de Miaojiang",
+        "evidence": "190 km, sobretudo Fenghuang; separação entre Miao submetidos e independentes."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/tjz/gk.shtml",
+        "title": "NEAC — Tujia: panorama",
+        "evidence": "9.587.732 em 2020; Wuling."
+      }
+    ]
+  },
+  {
+    "unit": "U082",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Maior minoria e status de Guangxi confirmados; percepção dos visitantes é comentário retórico, não estatística.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      }
+    ]
+  },
+  {
+    "unit": "U087",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Guangxi é região autônoma Zhuang desde 1958; Guilin/Yangshuo pertencem à região.",
+    "sources": [
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      },
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      }
+    ]
+  },
+  {
+    "unit": "U088",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Furong/Fenghuang e 1957 estão corretos. A formulação sobre o oeste de Hunan pode ser abreviação geográfica ou equiparação indevida de toda a região; sem inclusão explícita de Zhangjiajie, não se arbitra erro inequívoco.",
+    "sources": [
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806806.html",
+        "title": "Governo de Hunan — Furong",
+        "evidence": "Furong fica em Yongshun, Xiangxi."
+      }
+    ]
+  },
+  {
+    "unit": "U090",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Reclassificações em massa e incentivos são documentados para Tujia; não comprovada a formulação específica sobre milhões com avô Tujia ou Zhuang e registro feito pelos pais.",
+    "sources": [
+      {
+        "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001882601",
+        "title": "Korea Citation Index — reclassificação Tujia",
+        "evidence": "Aumento 1982–1990 incluiu restauração de identidade e incentivos."
+      }
+    ]
+  },
+  {
+    "unit": "U099",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Furong e Fenghuang têm casas sobre pilotis, porém 'inteira' e 'sem nada de original' são absolutos não sustentados. Fonte suficiente para Hongyadong 2006 e atribuição exclusivamente Tujia não reunida.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806806.html",
+        "title": "Governo de Hunan — Furong",
+        "evidence": "Furong fica em Yongshun, Xiangxi."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      }
+    ]
+  },
+  {
+    "unit": "U102",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "1715 e função militar são corroborados; faltou fonte populacional do condado para confirmar a maioria Miao e Tujia na mesma sentença.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fenghuang: formação Qing; 1715."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      }
+    ]
+  },
+  {
+    "unit": "U103",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": true,
+    "reason": "Total aproximado é correto, mas ranking não: os Miao são a quinta etnia contando Han, não a quinta minoria. A ancestralidade e equiparação ampla Miao/Hmong também requerem qualificação.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      },
+      {
+        "url": "https://camodelcurricula.ucdavis.edu/hmong-history-and-cultural-studies/becoming-refugee-1975-1992",
+        "title": "UC Davis — Becoming a Refugee",
+        "evidence": "Diáspora Hmong aos EUA após guerra na Indochina."
+      }
+    ],
+    "errorKeys": [
+      "miao-minority-rank"
+    ],
+    "correction": "Excluir Han do ranking de minorias; não converter automaticamente Miao em Hmong.",
+    "errorKey": "miao-minority-rank"
+  },
+  {
+    "unit": "U104",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Qo Xiong/Xong de Xiangxi pertence ao ramo oriental na classificação tripartida, não ao ocidental.",
+    "sources": [
+      {
+        "url": "https://epc.swu.edu.cn/info/1078/4026.htm",
+        "title": "Southwest University — Miao",
+        "evidence": "Xiangxi é Miao oriental."
+      },
+      {
+        "url": "https://nmlr.muc.edu.cn/info/1119/2172.htm",
+        "title": "Minzu University — línguas Miao",
+        "evidence": "Diversidade dialetal Miao."
+      }
+    ],
+    "errorKeys": [
+      "qo-xiong-dialect"
+    ],
+    "correction": "Qo Xiong/Xong é Miao oriental, falado no oeste de Hunan.",
+    "errorKey": "qo-xiong-dialect"
+  },
+  {
+    "unit": "U105",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "1615 é etapa principal de construção documentada; extensão total perto de 200 km e finalidade segregadora confirmadas. Não é data única de toda a obra.",
+    "sources": [
+      {
+        "url": "https://www.fhxww.cn/content/2013/09/24/478545.html",
+        "title": "Fenghuang News — Muralha do Sul",
+        "evidence": "Obras 1555, 1615–16, 1622; reconstrução Qing iniciada em 1797."
+      },
+      {
+        "url": "https://sdaj.hunan.gov.cn/wszt/xxsl/msgj/200609/t20060927_1977758.html",
+        "title": "Arquivo de Hunan — Muralha de Miaojiang",
+        "evidence": "190 km, sobretudo Fenghuang; separação entre Miao submetidos e independentes."
+      }
+    ]
+  },
+  {
+    "unit": "U106",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "A reconstrução Qing começou em 1797 durante a rebelião, não somente depois do conflito 1795–1806.",
+    "sources": [
+      {
+        "url": "https://www.fhxww.cn/content/2013/09/24/478545.html",
+        "title": "Fenghuang News — Muralha do Sul",
+        "evidence": "Obras 1555, 1615–16, 1622; reconstrução Qing iniciada em 1797."
+      },
+      {
+        "url": "https://uw.manifoldapp.org/read/f53eaa89-d3e1-42d9-a820-bce1265b853f/section/e692a3de-4f81-434d-aad6-85bba195d40a",
+        "title": "University of Washington — Miao uprisings",
+        "evidence": "Rebelião de 1795–1806 em Guizhou nordeste/Hunan oeste."
+      }
+    ],
+    "errorKeys": [
+      "miao-wall-reconstruction-timing"
+    ],
+    "correction": "Reforços/reconstrução ocorreram durante e após a revolta.",
+    "errorKey": "miao-wall-reconstruction-timing"
+  },
+  {
+    "unit": "U107",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Genealogia e história familiar são discutidas; associar diretamente Tuojiang e Cidade de Fronteira demanda distinguir Fenghuang de Chadong.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/bitstream/1842/21691/2/He2016.pdf",
+        "title": "University of Edinburgh — He, tese 2016",
+        "evidence": "Analisa narrativa familiar Miao e ascendência materna Tujia."
+      },
+      {
+        "url": "https://ebrary.net/209465/education/shen_congwen_china",
+        "title": "Research on Shen Congwen outside of China",
+        "evidence": "Discute dúvidas sobre identificação Tujia da família materna."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/202308/t20230825_29468975.html",
+        "title": "Hunan — Chadong Scenic Area",
+        "evidence": "Cidade de Fronteira ambientada em Chadong; Cuicui."
+      },
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      }
+    ]
+  },
+  {
+    "unit": "U108",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "População 2020 e autonomia corretas; comparação com Romênia é consistente com ordem de grandeza demográfica europeia, sem alterar o dado central.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      },
+      {
+        "url": "https://eures.europa.eu/living-and-working/labour-market-information_it?lang=pt&pageCode=labour_market_information",
+        "title": "Comissão Europeia — EURES: Romania",
+        "evidence": "Cerca de 19,1 milhões de habitantes em 1/1/2024."
+      }
+    ]
+  },
+  {
+    "unit": "U109",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Sawndip e alfabeto são reais; datação exata desde Tang e usos listados não foram estabelecidos integralmente. O contraste absoluto com Miao/Tujia ignora escritas posteriores.",
+    "sources": [
+      {
+        "url": "https://www.gxzx.gov.cn/index.php?a=show&c=index&catid=22&id=21760&m=content",
+        "title": "CPPCC Guangxi — escrita Zhuang",
+        "evidence": "Alfabeto aprovado em 1957; reforma de 1982."
+      },
+      {
+        "url": "https://amm.shisu.edu.cn/78/cc/c11394a161996/page.htm",
+        "title": "Shanghai International Studies University — escrita nas notas",
+        "evidence": "Zhuang nas cédulas; história dos alfabetos."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      }
+    ]
+  },
+  {
+    "unit": "U110",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Literatura científica data áreas Longji à Yuan, enquanto candidatura FAO fala em pelo menos 2.300 anos. Falta delimitar qual conjunto e evidência da conclusão no século XIX.",
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36659324/",
+        "title": "Chronosequencing methanogenic archaea in ancient Longji rice Terraces",
+        "evidence": "Pesquisa situa terraços estudados no fim da Yuan."
+      },
+      {
+        "url": "https://www.fao.org/giahs/giahs-around-the-world/china-rice-terraces-mountainous/en",
+        "title": "FAO — terraços chineses",
+        "evidence": "Longji remonta, segundo candidatura, a pelo menos 2.300 anos."
+      }
+    ]
+  },
+  {
+    "unit": "U111",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Ping’an e aldeias Zhuang de Longji confirmados; organização tradicional de três níveis aparece na documentação regional.",
+    "sources": [
+      {
+        "url": "https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0028-869C-D/eDiss_Yang.pdf?isAllowed=y&sequence=1",
+        "title": "Universität Göttingen — pesquisa em aldeias Longji",
+        "evidence": "Ping’an/Longji Zhuang; Huangluo/Dazhai Yao."
+      },
+      {
+        "url": "https://travel.people.com.cn/n1/2019/0403/c41570-31012022.html",
+        "title": "People’s Daily — Jinzhu Zhuang",
+        "evidence": "Ganlan de Longji: animais, habitação, sótão de grãos."
+      }
+    ]
+  },
+  {
+    "unit": "U112",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Identificação das aldeias, Yao vermelho e costume capilar corroborados. A identificação de todos os Yao como povo uniformemente Hmong-Mien simplifica diversidade linguística; parentesco étnico não se deduz apenas da língua.",
+    "sources": [
+      {
+        "url": "https://epaper.gxrb.com.cn/gxrb2/page/1/2023-06-09/009/32931686264560029.pdf",
+        "title": "Guangxi Daily — Longji",
+        "evidence": "Distingue terraços Ping’an Zhuang, Dazhai Red Yao e Huangluo."
+      },
+      {
+        "url": "https://www.ecns.cn/video/2021-06-01/detail-ihamvkwq9614372.shtml",
+        "title": "China News Service — Huangluo",
+        "evidence": "Costume: cortar cabelo uma vez, aos 18."
+      },
+      {
+        "url": "https://www.zgbk.com/ecph/words?ID=83785&SiteID=1&SubID=59043",
+        "title": "Encyclopedia of China — Yao",
+        "evidence": "3.309.341 em 2020; diversidade linguística interna."
+      },
+      {
+        "url": "https://www.arrivalguides.com/en/Travelguide/Guilin/doandsee/tiantouzhai-village-128225",
+        "title": "ArrivalGuides — Tiantouzhai",
+        "evidence": "Aldeia Yao."
+      }
+    ]
+  },
+  {
+    "unit": "U113",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Costume capilar e turismo são reais; rotina matinal específica antes dos ônibus não foi documentada e não pode ser presumida.",
+    "sources": [
+      {
+        "url": "https://www.ecns.cn/video/2021-06-01/detail-ihamvkwq9614372.shtml",
+        "title": "China News Service — Huangluo",
+        "evidence": "Costume: cortar cabelo uma vez, aos 18."
+      }
+    ]
+  },
+  {
+    "unit": "U136",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Síntese histórica sustentada por estudos de revoltas regionais.",
+    "sources": [
+      {
+        "url": "https://uw.manifoldapp.org/read/f53eaa89-d3e1-42d9-a820-bce1265b853f/section/e692a3de-4f81-434d-aad6-85bba195d40a",
+        "title": "University of Washington — Miao uprisings",
+        "evidence": "Rebelião de 1795–1806 em Guizhou nordeste/Hunan oeste."
+      }
+    ]
+  },
+  {
+    "unit": "U139",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Núcleo histórico é plausível, mas a sentença agrega Qin, tusi, ranking de revoltas e casamentos/bilinguismo sem suporte suficiente para todas as proposições.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      }
+    ]
+  },
+  {
+    "unit": "U141",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "No contexto, território refere-se a Wuling, não à prefeitura, portanto não há erro sobre Zhangjiajie aqui. Entretanto Qianjiang é distrito, não condado autônomo; percurso ferroviário abrangendo todos os condados tampouco foi comprovado.",
+    "sources": [
+      {
+        "url": "https://english.cq.gov.cn/government/administrativedistricts/",
+        "title": "Governo de Chongqing — divisão administrativa",
+        "evidence": "Quatro condados autônomos; Qianjiang é distrito."
+      },
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      }
+    ],
+    "errorKeys": [
+      "qianjiang-autonomous-county"
+    ],
+    "correction": "Identificar Qianjiang como distrito e especificar a linha ferroviária.",
+    "errorKey": "qianjiang-autonomous-county"
+  },
+  {
+    "unit": "U145",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Recomendação de leitura com link; não afirmação factual autônoma.",
+    "sources": []
+  },
+  {
+    "unit": "U146",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Guangxi é região autônoma Zhuang desde 1958; Guilin/Yangshuo pertencem à região.",
+    "sources": [
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      },
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      }
+    ]
+  },
+  {
+    "unit": "U147",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Conteúdo cultural é corroborado em NEAC; atribuição exata ao texto SCIO não foi confirmada porque a página não respondeu.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      }
+    ]
+  },
+  {
+    "unit": "U154",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Coexistência Miao, Tujia e Han e economia turística são documentadas.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      }
+    ]
+  },
+  {
+    "unit": "U156",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Liu Sanjie tem adaptações cinematográficas e espetáculo de grande circulação.",
+    "sources": [
+      {
+        "url": "https://www.cfa.org.cn/cfaen/gz/dymlcx/dy/2023060214300993466/index.html",
+        "title": "China Film Archive — Liu Sanjie",
+        "evidence": "Catálogo data filme de 1960."
+      },
+      {
+        "url": "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/5930/releases/MOMA_1981_0061_62.pdf",
+        "title": "MoMA — China Film Week",
+        "evidence": "Catálogo registra Third Sister Liu como 1961."
+      },
+      {
+        "url": "https://www.cits.net/china-travel-guide/guilin/impression-liu-sanjie.html",
+        "title": "CITS — Impression Liu Sanjie",
+        "evidence": "Estreia 20/03/2004; Zhang Yimou; Rio Li e elenco local."
+      }
+    ]
+  },
+  {
+    "unit": "U161",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Formulação interpretativa/normativa sobre olhar do viajante.",
+    "sources": []
+  },
+  {
+    "unit": "U162",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Formulação interpretativa/normativa sobre olhar do viajante.",
+    "sources": []
+  },
+  {
+    "unit": "U175",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Guangxi é região autônoma Zhuang desde 1958; Guilin/Yangshuo pertencem à região.",
+    "sources": [
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      },
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      }
+    ]
+  },
+  {
+    "unit": "U176",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Fenghuang e Yongshun/Furong pertencem a Xiangxi, constituída sob o nome Tujia e Miao em 1957.",
+    "sources": [
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806806.html",
+        "title": "Governo de Hunan — Furong",
+        "evidence": "Furong fica em Yongshun, Xiangxi."
+      }
+    ]
+  },
+  {
+    "unit": "U189",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Calendário civil 2026 é compatível com domingo 8/segunda 9; presença de Miao e Tujia confirmada. Datas da visita tratadas como dado do próprio roteiro cego.",
+    "sources": [
+      {
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/2026e.pdf",
+        "title": "Hong Kong Observatory — calendário 2026",
+        "evidence": "Mês lunar 10 começa em 9/11; início do inverno em 7/11."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      }
+    ]
+  },
+  {
+    "unit": "U190",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Conflito referido estendeu-se de 1795 a 1806; 1797 não é término da revolta de Hunan/Guizhou.",
+    "sources": [
+      {
+        "url": "https://uw.manifoldapp.org/read/f53eaa89-d3e1-42d9-a820-bce1265b853f/section/e692a3de-4f81-434d-aad6-85bba195d40a",
+        "title": "University of Washington — Miao uprisings",
+        "evidence": "Rebelião de 1795–1806 em Guizhou nordeste/Hunan oeste."
+      }
+    ],
+    "errorKeys": [
+      "miao-rebellion-end-date"
+    ],
+    "correction": "1795–1806.",
+    "errorKey": "miao-rebellion-end-date"
+  },
+  {
+    "unit": "U191",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Limites inferiores de nove/onze milhões são verdadeiros diante do total de 2020; não são falsos por não usar cifra exata.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      }
+    ]
+  },
+  {
+    "unit": "U192",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Nascimento/biografia geral coerentes, mas genealogia étnica precisa não é unanimemente estabelecida. Ressalva em U323 é pertinente.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/bitstream/1842/21691/2/He2016.pdf",
+        "title": "University of Edinburgh — He, tese 2016",
+        "evidence": "Analisa narrativa familiar Miao e ascendência materna Tujia."
+      },
+      {
+        "url": "https://ebrary.net/209465/education/shen_congwen_china",
+        "title": "Research on Shen Congwen outside of China",
+        "evidence": "Discute dúvidas sobre identificação Tujia da família materna."
+      },
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      }
+    ]
+  },
+  {
+    "unit": "U193",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Título/data e cenário regional coerentes; 'sem exotismo' e 'mundo prestes a acabar' são juízos literários.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/server/api/core/bitstreams/08692e97-1f15-4dd9-ae6d-d99730f0e6da/content",
+        "title": "University of Edinburgh — Li, tese 2007",
+        "evidence": "Ficção regional de Shen; canto, idealização e resistência à cultura urbana."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/202308/t20230825_29468975.html",
+        "title": "Hunan — Chadong Scenic Area",
+        "evidence": "Cidade de Fronteira ambientada em Chadong; Cuicui."
+      },
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      }
+    ]
+  },
+  {
+    "unit": "U194",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Variação de calendário entre comunidades é plausível; inexistência de anúncio em 8–9/11/2026 não pode ser provada pela ausência de resultado. Não houve verificação de todos os calendários locais.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      },
+      {
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/2026e.pdf",
+        "title": "Hong Kong Observatory — calendário 2026",
+        "evidence": "Mês lunar 10 começa em 9/11; início do inverno em 7/11."
+      }
+    ]
+  },
+  {
+    "unit": "U195",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Guilin e Yangshuo situam-se em Guangxi; datas são dados locais do roteiro, não anúncio de evento externo.",
+    "sources": [
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      }
+    ]
+  },
+  {
+    "unit": "U196",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Quase 20 milhões corresponde ao censo; 'imensa maioria' é leitura ampla de aproximadamente 80%, não a afirmação mais forte 'quase totalidade'.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://tjj.gxzf.gov.cn/zxfb/t8851187.shtml",
+        "title": "Estatística de Guangxi — censo 2020",
+        "evidence": "15.722.000 Zhuang; 31,36% da população regional."
+      }
+    ]
+  },
+  {
+    "unit": "U197",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Escrita latina aprovada em 1957 e tradição de caracteres são documentadas; não se confunde aprovação com reforma de 1982.",
+    "sources": [
+      {
+        "url": "https://www.gxzx.gov.cn/index.php?a=show&c=index&catid=22&id=21760&m=content",
+        "title": "CPPCC Guangxi — escrita Zhuang",
+        "evidence": "Alfabeto aprovado em 1957; reforma de 1982."
+      },
+      {
+        "url": "https://amm.shisu.edu.cn/78/cc/c11394a161996/page.htm",
+        "title": "Shanghai International Studies University — escrita nas notas",
+        "evidence": "Zhuang nas cédulas; história dos alfabetos."
+      }
+    ]
+  },
+  {
+    "unit": "U198",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "O filme tem catalogação divergente: China Film Archive registra 1960, MoMA 1961. Não há base para penalizar com certeza o ano 1961; estreia do espetáculo em 2004 confirmada.",
+    "sources": [
+      {
+        "url": "https://www.cfa.org.cn/cfaen/gz/dymlcx/dy/2023060214300993466/index.html",
+        "title": "China Film Archive — Liu Sanjie",
+        "evidence": "Catálogo data filme de 1960."
+      },
+      {
+        "url": "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/5930/releases/MOMA_1981_0061_62.pdf",
+        "title": "MoMA — China Film Week",
+        "evidence": "Catálogo registra Third Sister Liu como 1961."
+      },
+      {
+        "url": "https://www.cits.net/china-travel-guide/guilin/impression-liu-sanjie.html",
+        "title": "CITS — Impression Liu Sanjie",
+        "evidence": "Estreia 20/03/2004; Zhang Yimou; Rio Li e elenco local."
+      }
+    ]
+  },
+  {
+    "unit": "U199",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Produção, ano 2004, localização fluvial e participantes locais confirmados; não implica sessão garantida em data futura.",
+    "sources": [
+      {
+        "url": "https://www.cits.net/china-travel-guide/guilin/impression-liu-sanjie.html",
+        "title": "CITS — Impression Liu Sanjie",
+        "evidence": "Estreia 20/03/2004; Zhang Yimou; Rio Li e elenco local."
+      },
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      }
+    ]
+  },
+  {
+    "unit": "U200",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Aldeias Yao confirmadas; tradição de corte único documentada para Huangluo. Guia de destino complementa fonte primária para Tiantouzhai.",
+    "sources": [
+      {
+        "url": "https://epaper.gxrb.com.cn/gxrb2/page/1/2023-06-09/009/32931686264560029.pdf",
+        "title": "Guangxi Daily — Longji",
+        "evidence": "Distingue terraços Ping’an Zhuang, Dazhai Red Yao e Huangluo."
+      },
+      {
+        "url": "https://www.ecns.cn/video/2021-06-01/detail-ihamvkwq9614372.shtml",
+        "title": "China News Service — Huangluo",
+        "evidence": "Costume: cortar cabelo uma vez, aos 18."
+      },
+      {
+        "url": "https://www.arrivalguides.com/en/Travelguide/Guilin/doandsee/tiantouzhai-village-128225",
+        "title": "ArrivalGuides — Tiantouzhai",
+        "evidence": "Aldeia Yao."
+      }
+    ]
+  },
+  {
+    "unit": "U220",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Caracterização da cantora lendária e confrontos por canto é sustentada pela tradição e pela sinopse cinematográfica.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      },
+      {
+        "url": "https://www.cfa.org.cn/cfaen/gz/dymlcx/dy/2023060214300993466/index.html",
+        "title": "China Film Archive — Liu Sanjie",
+        "evidence": "Catálogo data filme de 1960."
+      }
+    ]
+  },
+  {
+    "unit": "U226",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Descrição do espetáculo como produção de grande escala é verificável; ele não equivale às feiras comunitárias de canto.",
+    "sources": [
+      {
+        "url": "https://www.cits.net/china-travel-guide/guilin/impression-liu-sanjie.html",
+        "title": "CITS — Impression Liu Sanjie",
+        "evidence": "Estreia 20/03/2004; Zhang Yimou; Rio Li e elenco local."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      }
+    ]
+  },
+  {
+    "unit": "U227",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Juízo interpretativo de leitura ou enquadramento, sem afirmação autônoma checável.",
+    "sources": []
+  },
+  {
+    "unit": "U233",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Zhangjiajie é administração separada de Xiangxi; Furong pertence a Yongshun/Xiangxi.",
+    "sources": [
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806806.html",
+        "title": "Governo de Hunan — Furong",
+        "evidence": "Furong fica em Yongshun, Xiangxi."
+      }
+    ]
+  },
+  {
+    "unit": "U239",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "As classificações oficiais distinguem os grupos Miao, Zhuang e Tujia dos Han.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/tjz/gk.shtml",
+        "title": "NEAC — Tujia: panorama",
+        "evidence": "9.587.732 em 2020; Wuling."
+      }
+    ]
+  },
+  {
+    "unit": "U247",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Juízo interpretativo de leitura ou enquadramento, sem afirmação autônoma checável.",
+    "sources": []
+  },
+  {
+    "unit": "U248",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Práticas Zhuang e Yao coexistem na região de Guilin/Longji; não é atribuição exclusiva.",
+    "sources": [
+      {
+        "url": "https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0028-869C-D/eDiss_Yang.pdf?isAllowed=y&sequence=1",
+        "title": "Universität Göttingen — pesquisa em aldeias Longji",
+        "evidence": "Ping’an/Longji Zhuang; Huangluo/Dazhai Yao."
+      },
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      }
+    ]
+  },
+  {
+    "unit": "U249",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Rio Li, Guilin/Yangshuo e denominação Zhuang de Guangxi confirmados.",
+    "sources": [
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      }
+    ]
+  },
+  {
+    "unit": "U254",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Guangxi e Xiangxi têm populações multiétnicas; autonomia nominal não implica exclusividade étnica.",
+    "sources": [
+      {
+        "url": "https://tjj.gxzf.gov.cn/zxfb/t8851187.shtml",
+        "title": "Estatística de Guangxi — censo 2020",
+        "evidence": "15.722.000 Zhuang; 31,36% da população regional."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      }
+    ]
+  },
+  {
+    "unit": "U256",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Números e caracterização geográfica reproduzem relatório da Assembleia municipal; referência recuperada pelo índice de busca.",
+    "sources": [
+      {
+        "url": "https://www.cqrd.gov.cn/web/article/1361740402372329472/web/content_1361740402372329472.html",
+        "title": "Assembleia de Chongqing — áreas étnicas",
+        "evidence": "2,496 milhões; 71,7% minorias; faixa contínua de cinco unidades."
+      }
+    ]
+  },
+  {
+    "unit": "U257",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contato e coexistência regionais documentados, mas a lista conjunta de casamento, escola, mercado, técnicas e festas por gerações não foi integralmente verificada.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.cqrd.gov.cn/web/article/1361740402372329472/web/content_1361740402372329472.html",
+        "title": "Assembleia de Chongqing — áreas étnicas",
+        "evidence": "2,496 milhões; 71,7% minorias; faixa contínua de cinco unidades."
+      }
+    ]
+  },
+  {
+    "unit": "U258",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cifra de 11.067.929 coincide exatamente com NEAC; diversidade interna é explicitada na mesma fonte.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      },
+      {
+        "url": "https://nmlr.muc.edu.cn/info/1119/2172.htm",
+        "title": "Minzu University — línguas Miao",
+        "evidence": "Diversidade dialetal Miao."
+      }
+    ]
+  },
+  {
+    "unit": "U259",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cifra de 19.568.546 coincide exatamente com NEAC; maioria reside em Guangxi.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://tjj.gxzf.gov.cn/zxfb/t8851187.shtml",
+        "title": "Estatística de Guangxi — censo 2020",
+        "evidence": "15.722.000 Zhuang; 31,36% da população regional."
+      }
+    ]
+  },
+  {
+    "unit": "U273",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Concentração ribeirinha e economia de pousadas/comércio turístico são documentadas; leitura das identidades como consumo é interpretação.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      }
+    ]
+  },
+  {
+    "unit": "U277",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Categorias oficiais reúnem diversidade local, linguística e cultural, coerente com os panoramas das fontes.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/tjz/gk.shtml",
+        "title": "NEAC — Tujia: panorama",
+        "evidence": "9.587.732 em 2020; Wuling."
+      },
+      {
+        "url": "https://nmlr.muc.edu.cn/info/1119/2172.htm",
+        "title": "Minzu University — línguas Miao",
+        "evidence": "Diversidade dialetal Miao."
+      }
+    ]
+  },
+  {
+    "unit": "U279",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Zhuang pertence ao domínio Tai/Tai-Kadai e reúne variedades regionais.",
+    "sources": [
+      {
+        "url": "https://sealang.net/sala/archives/pdf8/comrie2000austroasiatic.pdf",
+        "title": "Comrie — Austroasiatic and Tai-Kadai languages",
+        "evidence": "Zhuang nas línguas Tai; diferenciação regional."
+      }
+    ]
+  },
+  {
+    "unit": "U282",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Localização administrativa confirmada; fontes locais registram diversidade humana, sem exclusividade Zhuang.",
+    "sources": [
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      },
+      {
+        "url": "https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0028-869C-D/eDiss_Yang.pdf?isAllowed=y&sequence=1",
+        "title": "Universität Göttingen — pesquisa em aldeias Longji",
+        "evidence": "Ping’an/Longji Zhuang; Huangluo/Dazhai Yao."
+      },
+      {
+        "url": "https://tjj.gxzf.gov.cn/zxfb/t8851187.shtml",
+        "title": "Estatística de Guangxi — censo 2020",
+        "evidence": "15.722.000 Zhuang; 31,36% da população regional."
+      }
+    ]
+  },
+  {
+    "unit": "U289",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": true,
+    "reason": "Inclui Zhangjiajie na prefeitura autônoma Xiangxi, apesar da separação administrativa em 1988.",
+    "sources": [
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      }
+    ],
+    "errorKeys": [
+      "xiangxi-admin-overextension"
+    ],
+    "correction": "Zhangjiajie integra a região cultural de Hunan ocidental, mas é cidade administrativa separada.",
+    "errorKey": "xiangxi-admin-overextension"
+  },
+  {
+    "unit": "U290",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Guangxi é região autônoma Zhuang desde 1958; Guilin/Yangshuo pertencem à região.",
+    "sources": [
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      },
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      }
+    ]
+  },
+  {
+    "unit": "U296",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Impressão de viagem e comentário sobre identificação visual; data é referência interna do roteiro.",
+    "sources": []
+  },
+  {
+    "unit": "U297",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "11 milhões em 2020 e região de Xiangxi estão corretos; 'ramo ocidental de Hunan' pode significar geografia de Xiangxi, não ramo Miao ocidental. Incompreensibilidade perante qualquer Miao de Guizhou é ampla demais: Xong também ocorre no nordeste de Guizhou.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      },
+      {
+        "url": "https://nmlr.muc.edu.cn/info/1119/2172.htm",
+        "title": "Minzu University — línguas Miao",
+        "evidence": "Diversidade dialetal Miao."
+      },
+      {
+        "url": "https://epc.swu.edu.cn/info/1078/4026.htm",
+        "title": "Southwest University — Miao",
+        "evidence": "Xiangxi é Miao oriental."
+      }
+    ]
+  },
+  {
+    "unit": "U298",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Datas e tensões de ocupação/expropriação são coerentes com a história da revolta.",
+    "sources": [
+      {
+        "url": "https://uw.manifoldapp.org/read/f53eaa89-d3e1-42d9-a820-bce1265b853f/section/e692a3de-4f81-434d-aad6-85bba195d40a",
+        "title": "University of Washington — Miao uprisings",
+        "evidence": "Rebelião de 1795–1806 em Guizhou nordeste/Hunan oeste."
+      }
+    ]
+  },
+  {
+    "unit": "U299",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Função de fronteira e anterioridade à revolta corretas; 1704 é data turística oficial, mas fonte patrimonial registra muralhas de pedra em 1715. Sem especificar fase, cronologia permanece ambígua.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fenghuang: formação Qing; 1715."
+      },
+      {
+        "url": "https://www.fhxww.cn/content/2013/09/24/478545.html",
+        "title": "Fenghuang News — Muralha do Sul",
+        "evidence": "Obras 1555, 1615–16, 1622; reconstrução Qing iniciada em 1797."
+      }
+    ]
+  },
+  {
+    "unit": "U300",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Datas do escritor e vínculo de sua literatura com Fenghuang/Xiangxi confirmados; fazer da cidade personagem é metáfora.",
+    "sources": [
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://era.ed.ac.uk/server/api/core/bitstreams/08692e97-1f15-4dd9-ae6d-d99730f0e6da/content",
+        "title": "University of Edinburgh — Li, tese 2007",
+        "evidence": "Ficção regional de Shen; canto, idealização e resistência à cultura urbana."
+      }
+    ]
+  },
+  {
+    "unit": "U301",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Livro e 1934 confirmados; 'vida Miao e Tujia do vale' depende de não confundir Chadong com o Tuojiang de Fenghuang. 'Precisão etnográfica' é avaliação discutível, não evidência documental.",
+    "sources": [
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      },
+      {
+        "url": "https://era.ed.ac.uk/server/api/core/bitstreams/08692e97-1f15-4dd9-ae6d-d99730f0e6da/content",
+        "title": "University of Edinburgh — Li, tese 2007",
+        "evidence": "Ficção regional de Shen; canto, idealização e resistência à cultura urbana."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/202308/t20230825_29468975.html",
+        "title": "Hunan — Chadong Scenic Area",
+        "evidence": "Cidade de Fronteira ambientada em Chadong; Cuicui."
+      }
+    ]
+  },
+  {
+    "unit": "U302",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "血粑鸭 é pato com bolos de sangue e arroz glutinoso, não 'sangue defumado'. Ligação específica com início de novembro tampouco foi sustentada; calendário Li Dong em 7/11 é correto.",
+    "sources": [
+      {
+        "url": "https://attachments.cbd.int/bbi/bbi-china-final-report.pdf",
+        "title": "Convention on Biological Diversity — Bio-Bridge China",
+        "evidence": "Xuebaya: pato com sangue e arroz glutinoso; prato festivo."
+      },
+      {
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/2026e.pdf",
+        "title": "Hong Kong Observatory — calendário 2026",
+        "evidence": "Mês lunar 10 começa em 9/11; início do inverno em 7/11."
+      }
+    ],
+    "errorKeys": [
+      "xuebaya-smoked-blood"
+    ],
+    "correction": "Pato com bolos de arroz glutinoso e sangue; não tratar como marcador seguro de estreia sazonal em novembro.",
+    "errorKey": "xuebaya-smoked-blood"
+  },
+  {
+    "unit": "U303",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Limite superior/inferior de 2020 é válido; mais de 16 milhões em 2010 é compatível com série histórica NEAC. Datas de deslocamento são locais.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      },
+      {
+        "url": "https://mzzj.sh.gov.cn/2021shmz_wslgmz/20211125/218df3707edb4ed7b501759f68dde6d7.html",
+        "title": "Shanghai — Zhuang: censo 2010",
+        "evidence": "16.926.381 em 2010."
+      }
+    ]
+  },
+  {
+    "unit": "U304",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Família linguística, afinidade Tai/Lao, aprovação 1957 e reforma 1982 confirmadas; tradição escrita em caracteres corroborada.",
+    "sources": [
+      {
+        "url": "https://sealang.net/sala/archives/pdf8/comrie2000austroasiatic.pdf",
+        "title": "Comrie — Austroasiatic and Tai-Kadai languages",
+        "evidence": "Zhuang nas línguas Tai; diferenciação regional."
+      },
+      {
+        "url": "https://www.gxzx.gov.cn/index.php?a=show&c=index&catid=22&id=21760&m=content",
+        "title": "CPPCC Guangxi — escrita Zhuang",
+        "evidence": "Alfabeto aprovado em 1957; reforma de 1982."
+      },
+      {
+        "url": "https://amm.shisu.edu.cn/78/cc/c11394a161996/page.htm",
+        "title": "Shanghai International Studies University — escrita nas notas",
+        "evidence": "Zhuang nas cédulas; história dos alfabetos."
+      }
+    ]
+  },
+  {
+    "unit": "U305",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Direção, local e ano confirmados; número 'mais de setenta barcos' e proporção étnica dos pescadores não ficaram documentados.",
+    "sources": [
+      {
+        "url": "https://www.cits.net/china-travel-guide/guilin/impression-liu-sanjie.html",
+        "title": "CITS — Impression Liu Sanjie",
+        "evidence": "Estreia 20/03/2004; Zhang Yimou; Rio Li e elenco local."
+      },
+      {
+        "url": "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+        "title": "Guilin City — Guilin Classics",
+        "evidence": "Show reúne Liu Sanjie, Rio Li e culturas locais."
+      }
+    ]
+  },
+  {
+    "unit": "U306",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Ping’an Zhuang e Dazhai Yao estão corretos. 'Cabelo nunca cortado' contradiz o costume documentado de corte único na juventude.",
+    "sources": [
+      {
+        "url": "https://epaper.gxrb.com.cn/gxrb2/page/1/2023-06-09/009/32931686264560029.pdf",
+        "title": "Guangxi Daily — Longji",
+        "evidence": "Distingue terraços Ping’an Zhuang, Dazhai Red Yao e Huangluo."
+      },
+      {
+        "url": "https://www.ecns.cn/video/2021-06-01/detail-ihamvkwq9614372.shtml",
+        "title": "China News Service — Huangluo",
+        "evidence": "Costume: cortar cabelo uma vez, aos 18."
+      }
+    ],
+    "errorKeys": [
+      "yao-hair-never-cut"
+    ],
+    "correction": "Tradição de um corte ritual, não cabelo jamais cortado.",
+    "errorKey": "yao-hair-never-cut"
+  },
+  {
+    "unit": "U307",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Ganlan com animais embaixo é confirmado. Fonte geral descreve dois níveis funcionais, fonte regional inclui terceiro sótão; não se demonstrou que todas as casas citadas de Ping’an tenham exatamente dois andares.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      },
+      {
+        "url": "https://travel.people.com.cn/n1/2019/0403/c41570-31012022.html",
+        "title": "People’s Daily — Jinzhu Zhuang",
+        "evidence": "Ganlan de Longji: animais, habitação, sótão de grãos."
+      },
+      {
+        "url": "https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0028-869C-D/eDiss_Yang.pdf?isAllowed=y&sequence=1",
+        "title": "Universität Göttingen — pesquisa em aldeias Longji",
+        "evidence": "Ping’an/Longji Zhuang; Huangluo/Dazhai Yao."
+      }
+    ]
+  },
+  {
+    "unit": "U308",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Turismo e apresentações Yao em Dazhai são documentados, mas a cena precisa de cabelo solto/preso não foi demonstrada.",
+    "sources": [
+      {
+        "url": "https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0028-869C-D/eDiss_Yang.pdf?isAllowed=y&sequence=1",
+        "title": "Universität Göttingen — pesquisa em aldeias Longji",
+        "evidence": "Ping’an/Longji Zhuang; Huangluo/Dazhai Yao."
+      }
+    ]
+  },
+  {
+    "unit": "U322",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Referência genérica a áreas de concentração/autonomia dos grupos corresponde à distribuição oficial; 'território próprio' não implica exclusividade.",
+    "sources": [
+      {
+        "url": "https://english.cq.gov.cn/government/administrativedistricts/",
+        "title": "Governo de Chongqing — divisão administrativa",
+        "evidence": "Quatro condados autônomos; Qianjiang é distrito."
+      },
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/tjz/gk.shtml",
+        "title": "NEAC — Tujia: panorama",
+        "evidence": "9.587.732 em 2020; Wuling."
+      }
+    ]
+  },
+  {
+    "unit": "U323",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Nascimento/biografia geral coerentes, mas genealogia étnica precisa não é unanimemente estabelecida. Ressalva em U323 é pertinente.",
+    "sources": [
+      {
+        "url": "https://era.ed.ac.uk/bitstream/1842/21691/2/He2016.pdf",
+        "title": "University of Edinburgh — He, tese 2016",
+        "evidence": "Analisa narrativa familiar Miao e ascendência materna Tujia."
+      },
+      {
+        "url": "https://ebrary.net/209465/education/shen_congwen_china",
+        "title": "Research on Shen Congwen outside of China",
+        "evidence": "Discute dúvidas sobre identificação Tujia da família materna."
+      },
+      {
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/shencw.html",
+        "title": "Chinese University of Hong Kong — Shen Congwen",
+        "evidence": "1902–1988; Bian cheng publicado em 1934."
+      }
+    ]
+  },
+  {
+    "unit": "U325",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tradições antigas de arroz, tambor de bronze e canto são documentadas; generalização é interpretada como caracterização cultural.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      }
+    ]
+  },
+  {
+    "unit": "U327",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "As casas são documentadas, mas a afirmação sobre atribuição predominante nos folhetos e seu acerto não foi comprovada; há patrimônio multiétnico.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      },
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fenghuang: formação Qing; 1715."
+      }
+    ]
+  },
+  {
+    "unit": "U331",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Canto responsorial e Sanyuesan no terceiro dia do terceiro mês são documentados como tradição comunitária.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      },
+      {
+        "url": "https://english.www.gov.cn/news/202404/12/content_WS66187cf8c6d0868f4e8e5f5e.html",
+        "title": "Conselho de Estado/Xinhua — Sanyuesan",
+        "evidence": "Terceiro dia do terceiro mês; dança com bambu."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/c102690/201901/1132139.shtml",
+        "title": "NEAC — origem de Sanyuesan",
+        "evidence": "Canto, bolas bordadas; vários povos."
+      }
+    ]
+  },
+  {
+    "unit": "U332",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Liu Sanjie é personagem central da tradição Zhuang; posição como maior minoria confirmada.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang: panorama",
+        "evidence": "Censo 2020; maior minoria."
+      }
+    ]
+  },
+  {
+    "unit": "U336",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "As duas vinculações administrativas são corretas; nexo explicativo depende do contexto editorial.",
+    "sources": [
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      }
+    ]
+  },
+  {
+    "unit": "U340",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Panorama oficial de Fenghuang confirma compartilhamento da paisagem de pilotis entre Miao, Tujia e Han; exclusividade Tujia seria inadequada.",
+    "sources": [
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806809.html",
+        "title": "Governo de Hunan — Fenghuang",
+        "evidence": "Fenghuang multiétnica; pilotis; turismo."
+      }
+    ]
+  },
+  {
+    "unit": "U354",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U356",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U357",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U358",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U359",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U360",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U361",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U362",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U363",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U364",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U379",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Possibilidade e recomendação implícita de não inferir etnia pela roupa; não afirma identificação de pessoa específica.",
+    "sources": []
+  },
+  {
+    "unit": "U382",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Candidatura chinesa documenta comandos Qing, repartições, muralhas, templos, escolas e comércio.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fenghuang: formação Qing; 1715."
+      }
+    ]
+  },
+  {
+    "unit": "U384",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Comentário interpretativo sobre leitura do patrimônio e limites de um rótulo étnico.",
+    "sources": []
+  },
+  {
+    "unit": "U393",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Zhangjiajie é administração separada de Xiangxi; Furong pertence a Yongshun/Xiangxi.",
+    "sources": [
+      {
+        "url": "https://mzzjj.xxz.gov.cn/mzzs/201912/t20191220_1489581.html",
+        "title": "Xiangxi — história administrativa",
+        "evidence": "Xiangxi 1957; separação 1988."
+      },
+      {
+        "url": "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806806.html",
+        "title": "Governo de Hunan — Furong",
+        "evidence": "Furong fica em Yongshun, Xiangxi."
+      }
+    ]
+  },
+  {
+    "unit": "U398",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U399",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U400",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U401",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U402",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Nome oficial de Guangxi é correto; a comparação com imagens turísticas é editorial.",
+    "sources": [
+      {
+        "url": "https://www.gxdag.org.cn/tjqy/",
+        "title": "Arquivo de Guangxi — formação da autonomia",
+        "evidence": "Autonomia Guangxi: 05/03/1958."
+      }
+    ]
+  },
+  {
+    "unit": "U403",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Arroz/milho e uso festivo de arroz glutinoso são documentados.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      }
+    ]
+  },
+  {
+    "unit": "U404",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U405",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U406",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Unidade composta apenas por referência bibliográfica/link, não por proposição factual independente. Disponibilidade do link não foi convertida em taxa de acerto.",
+    "sources": []
+  },
+  {
+    "unit": "U417",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Conclusão interpretativa sobre experiência da paisagem.",
+    "sources": []
+  },
+  {
+    "unit": "U424",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Sanyuesan é celebrado no terceiro dia do terceiro mês e compartilhado regionalmente.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/news/202404/12/content_WS66187cf8c6d0868f4e8e5f5e.html",
+        "title": "Conselho de Estado/Xinhua — Sanyuesan",
+        "evidence": "Terceiro dia do terceiro mês; dança com bambu."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+        "title": "NEAC — costumes Zhuang",
+        "evidence": "Arroz, canto, ganlan, festas."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/c102690/201901/1132139.shtml",
+        "title": "NEAC — origem de Sanyuesan",
+        "evidence": "Canto, bolas bordadas; vários povos."
+      }
+    ]
+  },
+  {
+    "unit": "U426",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "NEAC registra diversidade dialetal, antigas tradições de escrita não verificáveis e múltiplas escritas modernas; povo uniformemente sem escrita seria descrição imprópria.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+        "title": "NEAC — Miao: panorama",
+        "evidence": "Censo 2020; diversidade Miao."
+      },
+      {
+        "url": "https://nmlr.muc.edu.cn/info/1119/2172.htm",
+        "title": "Minzu University — línguas Miao",
+        "evidence": "Diversidade dialetal Miao."
+      }
+    ]
+  }
+]

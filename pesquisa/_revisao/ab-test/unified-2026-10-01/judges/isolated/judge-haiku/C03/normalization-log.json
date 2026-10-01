@@ -1,0 +1,11 @@
+{
+  "syntaxOnly": true,
+  "changes": [
+    {
+      "line": 27,
+      "kind": "escape embedded quotation marks",
+      "before": "          \"justification\": \"Conexões específicas e práticas entre povos e experiências do viajante: diaojiaolou visíveis em Furong/Fenghuang (Q074), prata em fila de turismo vs tradição em casamentos Miao (Q108), youcha em balcão de Guilin (Q142), ferry de Gulangyu com minnanês falado entre moradores (Q171), casas Hakka em Shenzhen (Q189). Oferece pistas de reconhecimento: \"saber distinguir dança de turismo da vida cotidiana\" (Q051), observações de horários (mercado cedo, antes dos ônibus), exemplos de culinária vinculada a roteiros específicos. Alguma repetição decorativa.\",",
+      "after": "          \"justification\": \"Conexões específicas e práticas entre povos e experiências do viajante: diaojiaolou visíveis em Furong/Fenghuang (Q074), prata em fila de turismo vs tradição em casamentos Miao (Q108), youcha em balcão de Guilin (Q142), ferry de Gulangyu com minnanês falado entre moradores (Q171), casas Hakka em Shenzhen (Q189). Oferece pistas de reconhecimento: \\\"saber distinguir dança de turismo da vida cotidiana\\\" (Q051), observações de horários (mercado cedo, antes dos ônibus), exemplos de culinária vinculada a roteiros específicos. Alguma repetição decorativa.\","
+    }
+  ]
+}

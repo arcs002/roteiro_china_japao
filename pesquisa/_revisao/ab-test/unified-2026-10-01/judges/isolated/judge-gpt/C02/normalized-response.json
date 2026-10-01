@@ -1,0 +1,59 @@
+{
+  "evaluations": [
+    {
+      "id": "C02",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 3,
+          "justification": "A taxa de acerto é 12/14 (85,7%), e os dois erros relevantes distintos rebaixam a nota em duas faixas, até o intervalo obrigatório de 0 a 4. O texto atribui indevidamente a Wangcun a sede dos Peng durante oito séculos e exagera a concentração dos Zhuang em Guangxi.",
+          "quoteId": "Q040"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Os cinco grupos estão ligados às etapas do roteiro, sem resquício do itinerário antigo, números de dia ou links problemáticos; a estrutura e o front matter exigidos estão presentes.",
+          "quoteId": "Q193"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Há costumes e mecanismos concretos, como a preparação do chá de óleo, mas parte da extensão retoma temas já desenvolvidos nas páginas de cidades e atrações.",
+          "quoteId": "Q110"
+        },
+        {
+          "dimension": 4,
+          "score": 7,
+          "justification": "O texto situa os grupos em lugares que o viajante encontrará, como as áreas de alimentação de Shenzhen, mas oferece poucas orientações práticas para reconhecer ou respeitar essas diferenças.",
+          "quoteId": "Q185"
+        },
+        {
+          "dimension": 5,
+          "score": 11,
+          "justification": "A prosa é fluida e está em PT-BR, embora recorra a grandiloquência e repita palavras próximas, como «reluzente» na descrição de Shenzhen.",
+          "quoteId": "Q157"
+        },
+        {
+          "dimension": 6,
+          "score": 4,
+          "justification": "Os dois erros checados aparecem sem ressalva, e várias afirmações classificadas como incertas recebem formulação categórica. A estimativa de concentração dos Zhuang é um exemplo claro.",
+          "quoteId": "Q095"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou sem erro novo, o registro aceita edição exclusiva do arquivo e o front matter conserva os campos e o slug válidos.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 57,
+      "cap": null,
+      "capReasons": [],
+      "final": 57,
+      "mainStrength": "Cobertura ampla e concreta das culturas ao longo do roteiro.",
+      "priorityFix": "Corrigir os dois erros factuais relevantes e qualificar afirmações cuja precisão permanece incerta.",
+      "additionalConcerns": []
+    }
+  ],
+  "methodNotes": []
+}

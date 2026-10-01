@@ -1,0 +1,3429 @@
+[
+  {
+    "id": "C01-F065",
+    "candidate": "C01",
+    "bodyLine": 35,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "A chamada \"Muralha do Sul\" ou Muralha de Miaojiang (南方长城) tem cerca de 190 quilômetros, a maior parte no condado de Fenghuang, e foi construída pela dinastia Ming entre 1554 e 1622.",
+    "numbers": [
+      "190",
+      "1554",
+      "1622."
+    ],
+    "names": [
+      "Muralha",
+      "Sul",
+      "Muralha",
+      "Miaojiang",
+      "Fenghuang",
+      "Ming"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F065",
+        "candidate": "C01",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U015",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F068",
+    "candidate": "C01",
+    "bodyLine": 37,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "Os Miao (苗族) eram 11,07 milhões em 2020 e estão espalhados por Guizhou, Hunan, Yunnan, Guangxi, Chongqing e Hubei, além de uma diáspora no Sudeste Asiático e nos Estados Unidos, onde o ramo conhecido como Hmong chegou como refugiado depois da guerra no Laos.",
+    "numbers": [
+      "11,07 mil",
+      "2020"
+    ],
+    "names": [
+      "Os Miao",
+      "Guizhou",
+      "Hunan",
+      "Yunnan",
+      "Guangxi",
+      "Chongqing",
+      "Hubei",
+      "Sudeste Asiático",
+      "Estados Unidos",
+      "Hmong",
+      "Laos"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C01-F068",
+        "candidate": "C01",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U016",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F071",
+    "candidate": "C01",
+    "bodyLine": 37,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "A maior delas, entre 1795 e 1806, começou justamente na região de Fenghuang e das prefeituras vizinhas, e a reação Qing foi o que deu à cidade o aspecto de fortaleza: torres de guarda, portões, guarnições.",
+    "numbers": [
+      "1795",
+      "1806,"
+    ],
+    "names": [
+      "Fenghuang",
+      "Qing"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F071",
+        "candidate": "C01",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U017",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F075",
+    "candidate": "C01",
+    "bodyLine": 39,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "Shen Congwen (1902–1988), cuja casa natal está no centro histórico e cujo túmulo fica numa encosta sobre o rio, tinha uma ascendência que resume Fenghuang: família paterna han com avó Miao e mãe Tujia, segundo a biografia mais repetida.",
+    "numbers": [
+      "1902",
+      "1988"
+    ],
+    "names": [
+      "Shen Congwen",
+      "Fenghuang",
+      "Miao",
+      "Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F075",
+        "candidate": "C01",
+        "bodyLine": 39
+      }
+    ],
+    "unit": "U018",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F076",
+    "candidate": "C01",
+    "bodyLine": 39,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "Em *Cidade de Fronteira* (边城, 1934), ele levou para a ficção a vida ribeirinha do oeste de Hunan: o barqueiro, a neta, as canções de corte de uma margem para a outra, uma moral que não era a dos letrados confucianos.",
+    "numbers": [
+      "1934"
+    ],
+    "names": [
+      "Em",
+      "Cidade",
+      "Fronteira",
+      "Hunan"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F076",
+        "candidate": "C01",
+        "bodyLine": 39
+      }
+    ],
+    "unit": "U019",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F086",
+    "candidate": "C01",
+    "bodyLine": 43,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "Em 2026, o décimo mês lunar começa por volta de 10 de novembro, logo depois da passagem por Fenghuang (08–09/11).",
+    "numbers": [
+      "2026,",
+      "10",
+      "08",
+      "09",
+      "11"
+    ],
+    "names": [
+      "Em",
+      "Fenghuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F086",
+        "candidate": "C01",
+        "bodyLine": 43
+      }
+    ],
+    "unit": "U020",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F090",
+    "candidate": "C01",
+    "bodyLine": 47,
+    "section": "Zhuang: a maior minoria que quase não se vê",
+    "text": "Os Zhuang (壮族) eram 19,57 milhões em 2020, mais que a população inteira de vários países europeus, e cerca de 15,7 milhões deles vivem em Guangxi, que desde 5 de março de 1958 se chama oficialmente Região Autônoma Zhuang de Guangxi.",
+    "numbers": [
+      "19,57 mil",
+      "2020,",
+      "15,7 mil",
+      "5",
+      "1958"
+    ],
+    "names": [
+      "Os Zhuang",
+      "Guangxi",
+      "Região Autônoma Zhuang",
+      "Guangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C01-F090",
+        "candidate": "C01",
+        "bodyLine": 47
+      }
+    ],
+    "unit": "U021",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F096",
+    "candidate": "C01",
+    "bodyLine": 49,
+    "section": "Zhuang: a maior minoria que quase não se vê",
+    "text": "Em 1957, o Estado criou uma escrita alfabética latina, que é a oficial, e hoje aparece nas placas bilíngues de Nanning e nas notas de yuan, onde o zhuang é uma das línguas impressas no verso.",
+    "numbers": [
+      "1957,"
+    ],
+    "names": [
+      "Em",
+      "Estado",
+      "Nanning"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F096",
+        "candidate": "C01",
+        "bodyLine": 49
+      }
+    ],
+    "unit": "U022",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F102",
+    "candidate": "C01",
+    "bodyLine": 51,
+    "section": "Zhuang: a maior minoria que quase não se vê",
+    "text": "Em 1961, a lenda virou um filme de sucesso nacional, e em 2004 Zhang Yimou a transformou no espetáculo *Impression Liu Sanjie*, com o próprio Rio Li como palco e barcos de pesca iluminados.",
+    "numbers": [
+      "1961,",
+      "2004"
+    ],
+    "names": [
+      "Em",
+      "Zhang Yimou",
+      "Impression Liu Sanjie",
+      "Rio Li"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F102",
+        "candidate": "C01",
+        "bodyLine": 51
+      }
+    ],
+    "unit": "U023",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F108",
+    "candidate": "C01",
+    "bodyLine": 53,
+    "section": "Zhuang: a maior minoria que quase não se vê",
+    "text": "Quem quiser ver a paisagem zhuang e yao em estado bruto precisa sair das cidades e ir aos terraços de Longji, no condado autônomo de Longsheng, onde aldeias zhuang como Ping'an e aldeias yao como Dazhai e Huangluo cultivam as encostas há séculos.",
+    "numbers": [],
+    "names": [
+      "Quem",
+      "Longji",
+      "Longsheng",
+      "Ping'an",
+      "Dazhai",
+      "Huangluo"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C01-F108",
+        "candidate": "C01",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U024",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F109",
+    "candidate": "C01",
+    "bodyLine": 53,
+    "section": "Zhuang: a maior minoria que quase não se vê",
+    "text": "Os Yao (瑶族), cerca de 3 milhões no país, são o outro povo dessas montanhas.",
+    "numbers": [
+      "3 mil"
+    ],
+    "names": [
+      "Os Yao"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F109",
+        "candidate": "C01",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U025",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F110",
+    "candidate": "C01",
+    "bodyLine": 53,
+    "section": "Zhuang: a maior minoria que quase não se vê",
+    "text": "As mulheres Yao vermelhas de Huangluo, que só cortam o cabelo uma vez na vida, viraram um dos ícones do turismo étnico de Guangxi, com todos os limites que isso implica.",
+    "numbers": [],
+    "names": [
+      "As",
+      "Yao",
+      "Huangluo",
+      "Guangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C01-F110",
+        "candidate": "C01",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U026",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F080",
+    "candidate": "C01",
+    "bodyLine": 41,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "As *diaojiaolou* da margem do Tuojiang são atribuídas ora a um grupo, ora ao outro, e a resposta honesta é que as duas tradições construtivas se fundiram nesse vale.",
+    "numbers": [],
+    "names": [
+      "As",
+      "Tuojiang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F080",
+        "candidate": "C01",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U042",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F101",
+    "candidate": "C01",
+    "bodyLine": 51,
+    "section": "Zhuang: a maior minoria que quase não se vê",
+    "text": "A grande festa desse canto é o *Sanyuesan* (三月三), no terceiro dia do terceiro mês lunar, na primavera, com arremesso de bolas bordadas (绣球) e danças com varas de bambu.",
+    "numbers": [],
+    "names": [
+      "Sanyuesan"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F101",
+        "candidate": "C01",
+        "bodyLine": 51
+      }
+    ],
+    "unit": "U044",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F104",
+    "candidate": "C01",
+    "bodyLine": 53,
+    "section": "Zhuang: a maior minoria que quase não se vê",
+    "text": "Na mesa, a presença zhuang é mais discreta do que na lenda.",
+    "numbers": [],
+    "names": [
+      "Na"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F104",
+        "candidate": "C01",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U045",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F020",
+    "candidate": "C01",
+    "bodyLine": 15,
+    "section": "Minzu e minxi: como a China decide quem é \"etnia\"",
+    "text": "O sudeste do município de Chongqing tem condados autônomos Tujia e Miao, como Youyang, Xiushan, Pengshui e Shizhu.",
+    "numbers": [],
+    "names": [
+      "Chongqing",
+      "Tujia",
+      "Miao",
+      "Youyang",
+      "Xiushan",
+      "Pengshui",
+      "Shizhu"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F020",
+        "candidate": "C01",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U046",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F063",
+    "candidate": "C01",
+    "bodyLine": 35,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "Fenghuang é a parada em que a questão étnica deixa de ser pano de fundo e passa a ser o próprio motivo de a cidade existir.",
+    "numbers": [],
+    "names": [
+      "Fenghuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F063",
+        "candidate": "C01",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U047",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F079",
+    "candidate": "C01",
+    "bodyLine": 41,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "Separar o que é Miao do que é Tujia na paisagem de Fenghuang é mais difícil do que os folhetos dão a entender.",
+    "numbers": [],
+    "names": [
+      "Separar",
+      "Miao",
+      "Tujia",
+      "Fenghuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F079",
+        "candidate": "C01",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U048",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C01-F069",
+    "candidate": "C01",
+    "bodyLine": 37,
+    "section": "Fenghuang: Miao e Tujia dos dois lados de uma muralha",
+    "text": "A memória histórica Miao foi guardada por cantos épicos, sem escrita própria até o século XX, e conta uma migração longa para o sul, empurrada pela expansão han desde as planícies do rio Amarelo.",
+    "numbers": [],
+    "names": [
+      "Miao",
+      "XX",
+      "Amarelo"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F069",
+        "candidate": "C01",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U051",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C02-F012",
+    "candidate": "C02",
+    "bodyLine": 13,
+    "section": "O mosaico oficial: 56 grupos, o projeto minzu e a autonomia no papel",
+    "text": "Esse ordenamento burocrático gerou o modelo de divisão político-administrativa vigente: as regiões autônomas provinciais (como a Região Autônoma Zhuang de Guangxi), prefeituras autônomas (como a Prefeitura Autônoma Tujia e Miao de Xiangxi, em Hunan) e condados autônomos (como os condados Tujia e Miao no sudeste do município de Chongqing).",
+    "numbers": [],
+    "names": [
+      "Esse",
+      "Região Autônoma Zhuang",
+      "Guangxi",
+      "Prefeitura Autônoma Tujia",
+      "Miao",
+      "Xiangxi",
+      "Hunan",
+      "Tujia",
+      "Miao",
+      "Chongqing"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C02-F012",
+        "candidate": "C02",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U055",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C02-F036",
+    "candidate": "C02",
+    "bodyLine": 31,
+    "section": "Fenghuang: a guarnição de fronteira onde Miao e Tujia dividem as palafitas",
+    "text": "Ao contrário de vilas que nasceram espontaneamente de mercados agrícolas, Fenghuang foi expandida e fortificada a partir da dinastia Ming e consolidada em 1704 sob a dinastia Qing como o principal posto avançado do império contra os levantes dos Miao (苗族) — um povo de língua da família Hmong-Mien que resistiu furiosamente às tentativas imperiais de confisco de terras, cadastramento censitário e tributação.",
+    "numbers": [
+      "1704"
+    ],
+    "names": [
+      "Ao",
+      "Fenghuang",
+      "Ming",
+      "Qing",
+      "Miao",
+      "Hmong-Mien"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C02-F036",
+        "candidate": "C02",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U056",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C02-F040",
+    "candidate": "C02",
+    "bodyLine": 33,
+    "section": "Fenghuang: a guarnição de fronteira onde Miao e Tujia dividem as palafitas",
+    "text": "O resultado dessa sobreposição materializa-se nos 240 metros de palafitas *diaojiaolou* contínuas que ladeiam o Tuojiang: estruturas de madeira escura com sacadas debruçadas sobre a água, onde a tradição construtiva Tujia e Miao foi adotada coletivamente para aproveitar cada centímetro da estreita várzea rochosa entre o rio e as escarpas calcárias.",
+    "numbers": [
+      "240"
+    ],
+    "names": [
+      "Tuojiang",
+      "Tujia",
+      "Miao"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C02-F040",
+        "candidate": "C02",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U057",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C02-F041",
+    "candidate": "C02",
+    "bodyLine": 35,
+    "section": "Fenghuang: a guarnição de fronteira onde Miao e Tujia dividem as palafitas",
+    "text": "Os Miao, que somam mais de nove milhões de pessoas no sul da China, trouxeram para o vale sua própria linguagem visual e cosmológica.",
+    "numbers": [],
+    "names": [
+      "Os Miao",
+      "China"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C02-F041",
+        "candidate": "C02",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U058",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C02-F048",
+    "candidate": "C02",
+    "bodyLine": 39,
+    "section": "Fenghuang: a guarnição de fronteira onde Miao e Tujia dividem as palafitas",
+    "text": "Nenhum intelectual capturou essa atmosfera de coexistência lírica e fronteiriça com tanta precisão quanto Shen Congwen (沈从文, 1902–1988), nascido em Fenghuang com ascendência familiar mista han, miao e tujia.",
+    "numbers": [
+      "1902",
+      "1988"
+    ],
+    "names": [
+      "Nenhum",
+      "Shen Congwen",
+      "Fenghuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C02-F048",
+        "candidate": "C02",
+        "bodyLine": 39
+      }
+    ],
+    "unit": "U059",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C02-F049",
+    "candidate": "C02",
+    "bodyLine": 39,
+    "section": "Fenghuang: a guarnição de fronteira onde Miao e Tujia dividem as palafitas",
+    "text": "Em obras-primas como a novela *Cidade de Fronteira* (*Bian Cheng*, 边城, 1934) e em seus ensaios autobiográficos sobre Xiangxi, Shen recusou a retórica condescendente dos letrados urbanos de Xangai que tratavam as populações das montanhas como \"bárbaros incivis\".",
+    "numbers": [
+      "1934"
+    ],
+    "names": [
+      "Em",
+      "Cidade",
+      "Fronteira",
+      "Bian Cheng",
+      "Xiangxi",
+      "Shen",
+      "Xangai"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C02-F049",
+        "candidate": "C02",
+        "bodyLine": 39
+      }
+    ],
+    "unit": "U060",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C02-F053",
+    "candidate": "C02",
+    "bodyLine": 43,
+    "section": "Zhuang: os guardiões do rio e as canções das colinas cársticas de Guangxi",
+    "text": "Este é o território ancestral dos Zhuang (壮族), a mais populosa minoria étnica de toda a China, com mais de 16 milhões de habitantes concentrados quase em sua totalidade na Região Autônoma Zhuang de Guangxi.",
+    "numbers": [
+      "16 mil"
+    ],
+    "names": [
+      "Este",
+      "Zhuang",
+      "China",
+      "Região Autônoma Zhuang",
+      "Guangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C02-F053",
+        "candidate": "C02",
+        "bodyLine": 43
+      }
+    ],
+    "unit": "U061",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C02-F050",
+    "candidate": "C02",
+    "bodyLine": 39,
+    "section": "Fenghuang: a guarnição de fronteira onde Miao e Tujia dividem as palafitas",
+    "text": "Ele retratou balseiros, marinheiros, soldados rasos e artesãos de prata com uma dignidade moral serena, revelando um mundo onde a generosidade de espírito, a honra comunitária e a melancolia diante da passagem do tempo conviviam com a dureza material das margens do Tuojiang.",
+    "numbers": [],
+    "names": [
+      "Ele",
+      "Tuojiang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C02-F050",
+        "candidate": "C02",
+        "bodyLine": 39
+      }
+    ],
+    "unit": "U072",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F007",
+    "candidate": "C03",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "Entre Chongqing e Fenghuang, o viajante atravessa o país dos Tujia, um povo de quase dez milhões de pessoas que a maioria dos estrangeiros nunca ouviu nomear, e chega à fronteira murada que separou por séculos os Miao das planícies imperiais.",
+    "numbers": [],
+    "names": [
+      "Entre Chongqing",
+      "Fenghuang",
+      "Tujia",
+      "Miao"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F007",
+        "candidate": "C03",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U081",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F008",
+    "candidate": "C03",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "Em Guangxi, entra no território da maior minoria do país, os Zhuang, cuja presença é tão diluída na paisagem que muitos visitantes saem de Guilin sem saber que estiveram numa região autônoma.",
+    "numbers": [],
+    "names": [
+      "Em Guangxi",
+      "Zhuang",
+      "Guilin"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F008",
+        "candidate": "C03",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U082",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F018",
+    "candidate": "C03",
+    "bodyLine": 15,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "Guangxi, onde ficam Guilin e Yangshuo, é oficialmente a Região Autônoma Zhuang de Guangxi desde 1958.",
+    "numbers": [
+      "1958."
+    ],
+    "names": [
+      "Guangxi",
+      "Guilin",
+      "Yangshuo",
+      "Região Autônoma Zhuang",
+      "Guangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F018",
+        "candidate": "C03",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U087",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F019",
+    "candidate": "C03",
+    "bodyLine": 15,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "O oeste de Hunan, onde ficam Furong e Fenghuang, é a Prefeitura Autônoma Tujia e Miao de Xiangxi, criada em 1957.",
+    "numbers": [
+      "1957."
+    ],
+    "names": [
+      "Hunan",
+      "Furong",
+      "Fenghuang",
+      "Prefeitura Autônoma Tujia",
+      "Miao",
+      "Xiangxi"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F019",
+        "candidate": "C03",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U088",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F026",
+    "candidate": "C03",
+    "bodyLine": 19,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "A partir dos anos 1980, ter uma minoria no documento passou a trazer vantagens práticas — e milhões de pessoas com um avô Tujia ou Zhuang, que os pais haviam registrado como *han* em tempos menos favoráveis, trocaram o campo do documento.",
+    "numbers": [
+      "1980,"
+    ],
+    "names": [
+      "Tujia",
+      "Zhuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F026",
+        "candidate": "C03",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U090",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F044",
+    "candidate": "C03",
+    "bodyLine": 31,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "Furong é, inteira, uma vila de *diaojiaolou* escalonadas ao longo de uma cachoeira; Fenghuang tem as suas debruçadas sobre o Rio Tuojiang; e a lógica construtiva reaparece, em versão de concreto e néon, em Hongyadong, no centro de Chongqing — uma reconstrução de 2006, sem nada de original, mas que copia deliberadamente o instinto Tujia de empilhar casas numa encosta em vez de aplanar o morro.",
+    "numbers": [
+      "2006,"
+    ],
+    "names": [
+      "Furong",
+      "Fenghuang",
+      "Rio Tuojiang",
+      "Hongyadong",
+      "Chongqing",
+      "Tujia"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F044",
+        "candidate": "C03",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U099",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F051",
+    "candidate": "C03",
+    "bodyLine": 39,
+    "section": "Fenghuang: Miao e Tujia na fronteira murada",
+    "text": "O condado tem hoje uma população majoritariamente Miao e Tujia, mas a cidade murada em si — as muralhas que restam foram erguidas em 1715, no reinado de Kangxi — nasceu como posto militar *han* fincado no limite do \"território Miao\" (苗疆), o nome que os mapas imperiais davam às montanhas a oeste.",
+    "numbers": [
+      "1715,"
+    ],
+    "names": [
+      "Miao",
+      "Tujia",
+      "Kangxi",
+      "Miao"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F051",
+        "candidate": "C03",
+        "bodyLine": 39
+      }
+    ],
+    "unit": "U102",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F053",
+    "candidate": "C03",
+    "bodyLine": 41,
+    "section": "Fenghuang: Miao e Tujia na fronteira murada",
+    "text": "Com pouco mais de 11 milhões de pessoas, são a quinta maior minoria da China e um dos povos mais antigos e mais dispersos do sul do país: a memória oral os coloca nas planícies do baixo Yangtzé há milênios, empurrados gradualmente para as montanhas de Guizhou, Hunan, Yunnan e Guangxi pela expansão *han*, e daí para o Vietnã, o Laos e a Tailândia, onde são conhecidos como Hmong.",
+    "numbers": [
+      "11 mil"
+    ],
+    "names": [
+      "Com",
+      "China",
+      "Yangtzé",
+      "Guizhou",
+      "Hunan",
+      "Yunnan",
+      "Guangxi",
+      "Vietnã",
+      "Laos",
+      "Tailândia",
+      "Hmong"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F053",
+        "candidate": "C03",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U103",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F054",
+    "candidate": "C03",
+    "bodyLine": 41,
+    "section": "Fenghuang: Miao e Tujia na fronteira murada",
+    "text": "A língua pertence à família hmong-mien, sem parentesco com o chinês nem com o tujia, e se divide em três grandes ramos mutuamente incompreensíveis; o ramo falado em Fenghuang e no resto de Xiangxi é o ocidental, ou *Qo Xiong*, que ao contrário do tujia continua vivo — falado por perto de um milhão de pessoas, ouvido nos mercados das aldeias em torno de Fenghuang e nas conversas de vendedoras de prata na cidade velha.",
+    "numbers": [],
+    "names": [
+      "Fenghuang",
+      "Xiangxi",
+      "Qo Xiong",
+      "Fenghuang"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F054",
+        "candidate": "C03",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U104",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F056",
+    "candidate": "C03",
+    "bodyLine": 43,
+    "section": "Fenghuang: Miao e Tujia na fronteira murada",
+    "text": "Depois de séculos de conflito intermitente, a dinastia Ming ergueu em 1615 uma muralha de quase 200 quilômetros ao longo do limite do território Miao, a *Miaojiang bianqiang* (苗疆边墙), hoje promovida ao turismo como \"Grande Muralha do Sul\" — uma linha de fortes, torres e portões cuja função explícita era separar os \"Miao crus\" (生苗), que não aceitavam a autoridade imperial, dos \"Miao cozidos\" (熟苗), que pagavam tributo.",
+    "numbers": [
+      "1615",
+      "200"
+    ],
+    "names": [
+      "Depois",
+      "Ming",
+      "Miao",
+      "Miaojiang",
+      "Grande Muralha",
+      "Sul",
+      "Miao",
+      "Miao"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F056",
+        "candidate": "C03",
+        "bodyLine": 43
+      }
+    ],
+    "unit": "U105",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F057",
+    "candidate": "C03",
+    "bodyLine": 43,
+    "section": "Fenghuang: Miao e Tujia na fronteira murada",
+    "text": "A muralha caiu em ruínas, foi reconstruída pelos Qing depois da grande rebelião Miao de 1795-1806, que começou justamente no oeste de Hunan e levou uma década e dezenas de milhares de soldados para ser sufocada, e voltou a cair em ruínas.",
+    "numbers": [
+      "1795",
+      "1806,"
+    ],
+    "names": [
+      "Qing",
+      "Miao",
+      "Hunan"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F057",
+        "candidate": "C03",
+        "bodyLine": 43
+      }
+    ],
+    "unit": "U106",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F068",
+    "candidate": "C03",
+    "bodyLine": 47,
+    "section": "Fenghuang: Miao e Tujia na fronteira murada",
+    "text": "Quem melhor registrou esse mundo foi um filho da cidade: Shen Congwen (1902-1988), nascido numa família de oficiais da guarnição com uma avó Miao — condição que sua família escondeu por gerações —, transformou o Tuojiang, as casas de palafita e a vida Miao e Tujia do interior de Xiangxi em literatura, sobretudo em *Cidade de Fronteira* (边城, 1934).",
+    "numbers": [
+      "1902",
+      "1988",
+      "1934"
+    ],
+    "names": [
+      "Quem",
+      "Shen Congwen",
+      "Miao",
+      "Tuojiang",
+      "Miao",
+      "Tujia",
+      "Xiangxi",
+      "Cidade",
+      "Fronteira"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F068",
+        "candidate": "C03",
+        "bodyLine": 47
+      }
+    ],
+    "unit": "U107",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F070",
+    "candidate": "C03",
+    "bodyLine": 51,
+    "section": "Zhuang: a maior minoria, a mais discreta",
+    "text": "Os Zhuang (壮族) são a maior minoria étnica da China — 19,6 milhões de pessoas no censo de 2020, mais que a população da Romênia —, e Guangxi é oficialmente a sua região autônoma desde 1958.",
+    "numbers": [
+      "19,6 mil",
+      "2020,",
+      "1958."
+    ],
+    "names": [
+      "Os Zhuang",
+      "China",
+      "Romênia",
+      "Guangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F070",
+        "candidate": "C03",
+        "bodyLine": 51
+      }
+    ],
+    "unit": "U108",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F074",
+    "candidate": "C03",
+    "bodyLine": 53,
+    "section": "Zhuang: a maior minoria, a mais discreta",
+    "text": "Ao contrário dos Miao e dos Tujia, os Zhuang desenvolveram uma escrita — o *sawndip* (古壮字), um sistema de caracteres derivados do chinês e adaptados para representar a fonologia zhuang, usado desde a dinastia Tang em cantos rituais, contratos e genealogias — e, desde 1957, um alfabeto latino oficial que aparece, ao lado dos caracteres chineses, nas placas de órgãos públicos de toda Guangxi.",
+    "numbers": [
+      "1957,"
+    ],
+    "names": [
+      "Ao",
+      "Miao",
+      "Tujia",
+      "Zhuang",
+      "Tang",
+      "Guangxi"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F074",
+        "candidate": "C03",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U109",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F081",
+    "candidate": "C03",
+    "bodyLine": 57,
+    "section": "Zhuang: a maior minoria, a mais discreta",
+    "text": "Os degraus de arroz que sobem centenas de metros de encosta começaram a ser esculpidos por volta da dinastia Yuan, há uns 650 anos, e continuaram até o século XIX; quem os construiu foram dois povos diferentes que hoje dividem o sítio turístico.",
+    "numbers": [
+      "650"
+    ],
+    "names": [
+      "Os",
+      "Yuan",
+      "XIX"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F081",
+        "candidate": "C03",
+        "bodyLine": 57
+      }
+    ],
+    "unit": "U110",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F082",
+    "candidate": "C03",
+    "bodyLine": 57,
+    "section": "Zhuang: a maior minoria, a mais discreta",
+    "text": "As aldeias da área de Longji, com Ping'an à frente, são Zhuang — casas de madeira de três andares sobre pilotis, com o gado embaixo, a família no meio e o celeiro em cima.",
+    "numbers": [],
+    "names": [
+      "As",
+      "Longji",
+      "Ping'an",
+      "Zhuang"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F082",
+        "candidate": "C03",
+        "bodyLine": 57
+      }
+    ],
+    "unit": "U111",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F083",
+    "candidate": "C03",
+    "bodyLine": 57,
+    "section": "Zhuang: a maior minoria, a mais discreta",
+    "text": "As aldeias da área de Jinkeng, com Dazhai e Tiantouzhai, são dos Yao Vermelhos (红瑶), um subgrupo dos Yao — povo hmong-mien, portanto parente distante dos Miao e não dos Zhuang —, reconhecível pelas túnicas bordadas em vermelho e pela tradição das mulheres de Huangluo de cortar o cabelo uma única vez na vida e usar as tranças, com mais de um metro, enroladas na cabeça.",
+    "numbers": [],
+    "names": [
+      "As",
+      "Jinkeng",
+      "Dazhai",
+      "Tiantouzhai",
+      "Yao Vermelhos",
+      "Yao",
+      "Miao",
+      "Zhuang",
+      "Huangluo"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F083",
+        "candidate": "C03",
+        "bodyLine": 57
+      }
+    ],
+    "unit": "U112",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F084",
+    "candidate": "C03",
+    "bodyLine": 57,
+    "section": "Zhuang: a maior minoria, a mais discreta",
+    "text": "O \"espetáculo do cabelo longo\" oferecido aos ônibus de turismo em Huangluo é a versão de bilheteria disso; a versão real é ver as mesmas mulheres lavando o cabelo no rio de manhã cedo, quando os ônibus ainda não chegaram.",
+    "numbers": [],
+    "names": [
+      "Huangluo"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F084",
+        "candidate": "C03",
+        "bodyLine": 57
+      }
+    ],
+    "unit": "U113",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F055",
+    "candidate": "C03",
+    "bodyLine": 43,
+    "section": "Fenghuang: Miao e Tujia na fronteira murada",
+    "text": "A relação entre os Miao de Xiangxi e o império foi feita de rebeliões.",
+    "numbers": [],
+    "names": [
+      "Miao",
+      "Xiangxi"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C03-F055",
+        "candidate": "C03",
+        "bodyLine": 43
+      }
+    ],
+    "unit": "U136",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F077",
+    "candidate": "C03",
+    "bodyLine": 55,
+    "section": "Zhuang: a maior minoria, a mais discreta",
+    "text": "Guangxi está sob administração imperial, ainda que irregular, desde a dinastia Qin, há mais de dois mil anos; os Zhuang passaram por seus próprios *tusi*, por suas próprias rebeliões — a maior delas liderada por Nong Zhigao no século XI — e por séculos de casamentos mistos e bilinguismo.",
+    "numbers": [],
+    "names": [
+      "Guangxi",
+      "Qin",
+      "Zhuang",
+      "Nong Zhigao",
+      "XI"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C03-F077",
+        "candidate": "C03",
+        "bodyLine": 55
+      }
+    ],
+    "unit": "U139",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C03-F036",
+    "candidate": "C03",
+    "bodyLine": 25,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "Zhangjiajie, Furong e Fenghuang estão todas dentro desse território, e boa parte do trajeto de trem que sai de Chongqing para o leste atravessa condados autônomos Tujia — Shizhu, Qianjiang, Youyang, Xiushan — antes mesmo de cruzar a fronteira de Hunan.",
+    "numbers": [],
+    "names": [
+      "Zhangjiajie",
+      "Furong",
+      "Fenghuang",
+      "Chongqing",
+      "Tujia",
+      "Shizhu",
+      "Qianjiang",
+      "Youyang",
+      "Xiushan",
+      "Hunan"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C03-F036",
+        "candidate": "C03",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U141",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C04-F045",
+    "candidate": "C04",
+    "bodyLine": 32,
+    "section": "Miao e Tujia em Fenghuang: uma cidade, muitas camadas",
+    "text": "[A página da província](https://whhlyt.hunan.gov.cn/whhlyt/english/Culture/IntangibleCulturalHeritage/202302/t20230217_29250418.html) é particularmente boa para ler os objetos como linguagem, não como souvenir.",
+    "numbers": [
+      "202302"
+    ],
+    "names": [
+      "Culture",
+      "IntangibleCulturalHeritage"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C04-F045",
+        "candidate": "C04",
+        "bodyLine": 32
+      }
+    ],
+    "unit": "U145",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C04-F054",
+    "candidate": "C04",
+    "bodyLine": 40,
+    "section": "Zhuang: Guangxi não é somente um pano de fundo cárstico",
+    "text": "Guangxi é uma região autônoma Zhuang desde 1958, e a designação reconhece uma presença histórica que vai muito além dos corredores turísticos.",
+    "numbers": [
+      "1958,"
+    ],
+    "names": [
+      "Guangxi",
+      "Zhuang"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C04-F054",
+        "candidate": "C04",
+        "bodyLine": 40
+      }
+    ],
+    "unit": "U146",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C04-F063",
+    "candidate": "C04",
+    "bodyLine": 44,
+    "section": "Zhuang: Guangxi não é somente um pano de fundo cárstico",
+    "text": "A [introdução oficial sobre os Zhuang](https://english.scio.gov.cn/m/chinafacts/2017-04/17/content_40636697.htm) destaca justamente o valor de canções responsoriais, metáforas e improviso.",
+    "numbers": [
+      "2017",
+      "04",
+      "17"
+    ],
+    "names": [
+      "Zhuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C04-F063",
+        "candidate": "C04",
+        "bodyLine": 44
+      }
+    ],
+    "unit": "U147",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C04-F037",
+    "candidate": "C04",
+    "bodyLine": 28,
+    "section": "Miao e Tujia em Fenghuang: uma cidade, muitas camadas",
+    "text": "O centro histórico, as margens do Tuojiang e os bairros que sobem os morros reúnem populações Miao, Tujia e han, além de pessoas que chegaram para comerciar, estudar ou trabalhar em hotéis e restaurantes.",
+    "numbers": [],
+    "names": [
+      "Tuojiang",
+      "Miao",
+      "Tujia"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C04-F037",
+        "candidate": "C04",
+        "bodyLine": 28
+      }
+    ],
+    "unit": "U154",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C04-F062",
+    "candidate": "C04",
+    "bodyLine": 44,
+    "section": "Zhuang: Guangxi não é somente um pano de fundo cárstico",
+    "text": "A figura lendária de Liu Sanjie tornou-se conhecida nacionalmente por filmes e espetáculos; ela abre uma porta para essa tradição, mas não a contém.",
+    "numbers": [],
+    "names": [
+      "Liu Sanjie"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C04-F062",
+        "candidate": "C04",
+        "bodyLine": 44
+      }
+    ],
+    "unit": "U156",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C04-F068",
+    "candidate": "C04",
+    "bodyLine": 48,
+    "section": "Zhuang: Guangxi não é somente um pano de fundo cárstico",
+    "text": "Os morros de Yangshuo parecem eternos; as práticas humanas no vale são históricas, negociadas e móveis.",
+    "numbers": [],
+    "names": [
+      "Os",
+      "Yangshuo"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C04-F068",
+        "candidate": "C04",
+        "bodyLine": 48
+      }
+    ],
+    "unit": "U161",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C04-F069",
+    "candidate": "C04",
+    "bodyLine": 48,
+    "section": "Zhuang: Guangxi não é somente um pano de fundo cárstico",
+    "text": "Guangxi não pede que se encontre um espetáculo Zhuang para “completar” a paisagem.",
+    "numbers": [],
+    "names": [
+      "Guangxi",
+      "Zhuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C04-F069",
+        "candidate": "C04",
+        "bodyLine": 48
+      }
+    ],
+    "unit": "U162",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F021",
+    "candidate": "C05",
+    "bodyLine": 17,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "Guangxi é oficialmente a Região Autônoma Zhuang de Guangxi desde 1958.",
+    "numbers": [
+      "1958."
+    ],
+    "names": [
+      "Guangxi",
+      "Região Autônoma Zhuang",
+      "Guangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C05-F021",
+        "candidate": "C05",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U175",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F022",
+    "candidate": "C05",
+    "bodyLine": 17,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "Fenghuang e Furong Town ficam dentro da Prefeitura Autônoma Tujia e Miao de Xiangxi, criada em 1957.",
+    "numbers": [
+      "1957."
+    ],
+    "names": [
+      "Fenghuang",
+      "Furong Town",
+      "Prefeitura Autônoma Tujia",
+      "Miao",
+      "Xiangxi"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F022",
+        "candidate": "C05",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U176",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F067",
+    "candidate": "C05",
+    "bodyLine": 37,
+    "section": "Fenghuang: a fronteira viva entre Miao e Tujia no rio Tuojiang",
+    "text": "Fenghuang, visitada entre o domingo 8 e a segunda-feira 9 de novembro, é a parada em que duas etnias dividem a mesma paisagem, e é fácil confundir uma com a outra.",
+    "numbers": [
+      "8",
+      "9"
+    ],
+    "names": [
+      "Fenghuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F067",
+        "candidate": "C05",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U189",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F075",
+    "candidate": "C05",
+    "bodyLine": 39,
+    "section": "Fenghuang: a fronteira viva entre Miao e Tujia no rio Tuojiang",
+    "text": "A tensão explodiu várias vezes, e o episódio mais grave foi o levante Miao de 1795 a 1797, reprimido com grande número de mortos.",
+    "numbers": [
+      "1795",
+      "1797,"
+    ],
+    "names": [
+      "Miao"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F075",
+        "candidate": "C05",
+        "bodyLine": 39
+      }
+    ],
+    "unit": "U190",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F078",
+    "candidate": "C05",
+    "bodyLine": 41,
+    "section": "Fenghuang: a fronteira viva entre Miao e Tujia no rio Tuojiang",
+    "text": "**Miao: prata, anil e uma língua hmong.** Os Miao (苗族) somam mais de 11 milhões de pessoas espalhadas pelo sul da China.",
+    "numbers": [
+      "11 mil"
+    ],
+    "names": [
+      "Miao",
+      "Os Miao",
+      "China"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C05-F078",
+        "candidate": "C05",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U191",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F090",
+    "candidate": "C05",
+    "bodyLine": 47,
+    "section": "Fenghuang: a fronteira viva entre Miao e Tujia no rio Tuojiang",
+    "text": "Shen Congwen (1902–1988), cuja casa natal fica preservada na cidade antiga, tinha avó Miao, mãe Tujia e família paterna han.",
+    "numbers": [
+      "1902",
+      "1988"
+    ],
+    "names": [
+      "Shen Congwen",
+      "Miao",
+      "Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F090",
+        "candidate": "C05",
+        "bodyLine": 47
+      }
+    ],
+    "unit": "U192",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F091",
+    "candidate": "C05",
+    "bodyLine": 47,
+    "section": "Fenghuang: a fronteira viva entre Miao e Tujia no rio Tuojiang",
+    "text": "Em *Cidade de Fronteira* (边城, 1934), ele levou para a ficção moderna o rio, os barqueiros e as aldeias do oeste de Hunan, sem folclore e sem exotismo, como um mundo completo e prestes a acabar.",
+    "numbers": [
+      "1934"
+    ],
+    "names": [
+      "Em",
+      "Cidade",
+      "Fronteira",
+      "Hunan"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F091",
+        "candidate": "C05",
+        "bodyLine": 47
+      }
+    ],
+    "unit": "U193",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F094",
+    "candidate": "C05",
+    "bodyLine": 49,
+    "section": "Fenghuang: a fronteira viva entre Miao e Tujia no rio Tuojiang",
+    "text": "A data muda de aldeia para aldeia e de ano para ano, porque segue calendário próprio, e não há anúncio confirmado para 8 e 9 de novembro de 2026.",
+    "numbers": [
+      "8",
+      "9",
+      "2026."
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F094",
+        "candidate": "C05",
+        "bodyLine": 49
+      }
+    ],
+    "unit": "U194",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F096",
+    "candidate": "C05",
+    "bodyLine": 53,
+    "section": "Zhuang: a maior minoria que quase não aparece",
+    "text": "A partir de 9 de novembro, com Guilin e depois Yangshuo até o dia 12, o roteiro entra na Região Autônoma Zhuang de Guangxi.",
+    "numbers": [
+      "9",
+      "12,"
+    ],
+    "names": [
+      "Guilin",
+      "Yangshuo",
+      "Região Autônoma Zhuang",
+      "Guangxi"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F096",
+        "candidate": "C05",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U195",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F097",
+    "candidate": "C05",
+    "bodyLine": 53,
+    "section": "Zhuang: a maior minoria que quase não aparece",
+    "text": "Os Zhuang (壮族) são a maior minoria da China: quase 20 milhões de pessoas, segundo o censo de 2020, a imensa maioria em Guangxi.",
+    "numbers": [
+      "20 mil",
+      "2020,"
+    ],
+    "names": [
+      "Os Zhuang",
+      "China",
+      "Guangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C05-F097",
+        "candidate": "C05",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U196",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F102",
+    "candidate": "C05",
+    "bodyLine": 55,
+    "section": "Zhuang: a maior minoria que quase não aparece",
+    "text": "Tem até hoje uma romanização oficial, criada em 1957, e uma escrita antiga, o *sawndip* (古壮字), feita de caracteres chineses adaptados e usada durante séculos para registrar canções e textos rituais.",
+    "numbers": [
+      "1957,"
+    ],
+    "names": [
+      "Tem"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F102",
+        "candidate": "C05",
+        "bodyLine": 55
+      }
+    ],
+    "unit": "U197",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F105",
+    "candidate": "C05",
+    "bodyLine": 57,
+    "section": "Zhuang: a maior minoria que quase não aparece",
+    "text": "A lenda tem muitas versões e ganhou forma nacional com o filme de 1961.",
+    "numbers": [
+      "1961."
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F105",
+        "candidate": "C05",
+        "bodyLine": 57
+      }
+    ],
+    "unit": "U198",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F107",
+    "candidate": "C05",
+    "bodyLine": 57,
+    "section": "Zhuang: a maior minoria que quase não aparece",
+    "text": "O que o roteiro oferece em troca é *Impression Liu Sanjie*, o espetáculo de Zhang Yimou encenado sobre o próprio rio Li desde 2004, com as montanhas cársticas iluminadas ao fundo e barcos de pesca conduzidos por moradores da região.",
+    "numbers": [
+      "2004,"
+    ],
+    "names": [
+      "Impression Liu Sanjie",
+      "Zhang Yimou",
+      "Li"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F107",
+        "candidate": "C05",
+        "bodyLine": 57
+      }
+    ],
+    "unit": "U199",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F113",
+    "candidate": "C05",
+    "bodyLine": 59,
+    "section": "Zhuang: a maior minoria que quase não aparece",
+    "text": "Dazhai, Tiantouzhai e Huangluo são aldeias Yao, estas últimas conhecidas pelas mulheres de cabelo longuíssimo, que só o cortam uma vez na vida.",
+    "numbers": [],
+    "names": [
+      "Dazhai",
+      "Tiantouzhai",
+      "Huangluo",
+      "Yao"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C05-F113",
+        "candidate": "C05",
+        "bodyLine": 59
+      }
+    ],
+    "unit": "U200",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F104",
+    "candidate": "C05",
+    "bodyLine": 57,
+    "section": "Zhuang: a maior minoria que quase não aparece",
+    "text": "**Liu Sanjie e as feiras de canto.** A figura central do folclore Zhuang é Liu Sanjie (刘三姐), uma cantora lendária cuja voz vencia proprietários de terra e letrados em duelos de versos improvisados.",
+    "numbers": [],
+    "names": [
+      "Liu Sanjie",
+      "Zhuang",
+      "Liu Sanjie"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C05-F104",
+        "candidate": "C05",
+        "bodyLine": 57
+      }
+    ],
+    "unit": "U220",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F108",
+    "candidate": "C05",
+    "bodyLine": 57,
+    "section": "Zhuang: a maior minoria que quase não aparece",
+    "text": "Vale assistir sabendo o que é: uma produção de massa sobre uma lenda Zhuang, não um *gexu*.",
+    "numbers": [],
+    "names": [
+      "Vale",
+      "Zhuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C05-F108",
+        "candidate": "C05",
+        "bodyLine": 57
+      }
+    ],
+    "unit": "U226",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C05-F089",
+    "candidate": "C05",
+    "bodyLine": 47,
+    "section": "Fenghuang: a fronteira viva entre Miao e Tujia no rio Tuojiang",
+    "text": "**Shen Congwen, o escritor de fronteira.** A pessoa que melhor explica essa mistura nasceu na cidade.",
+    "numbers": [],
+    "names": [
+      "Shen Congwen"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C05-F089",
+        "candidate": "C05",
+        "bodyLine": 47
+      }
+    ],
+    "unit": "U227",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C06-F018",
+    "candidate": "C06",
+    "bodyLine": 17,
+    "section": "Tujia — um território entre Zhangjiajie, Furong e o sudeste de Chongqing",
+    "text": "Zhangjiajie faz parte desse espaço cultural, mas é uma cidade administrativamente distinta da Prefeitura Autônoma Tujia e Miao de Xiangxi.",
+    "numbers": [],
+    "names": [
+      "Zhangjiajie",
+      "Prefeitura Autônoma Tujia",
+      "Miao",
+      "Xiangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C06-F018",
+        "candidate": "C06",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U233",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C06-F008",
+    "candidate": "C06",
+    "bodyLine": 9,
+    "section": "Abertura",
+    "text": "Tujia, Miao e Zhuang são grupos reconhecidos separadamente dos han.",
+    "numbers": [],
+    "names": [
+      "Tujia",
+      "Miao",
+      "Zhuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C06-F008",
+        "candidate": "C06",
+        "bodyLine": 9
+      }
+    ],
+    "unit": "U239",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C06-F062",
+    "candidate": "C06",
+    "bodyLine": 43,
+    "section": "Fenghuang — a cidade como lugar de encontro",
+    "text": "É nesse intervalo que Miao e Tujia deixam de ser temas decorativos e voltam a aparecer como populações contemporâneas.",
+    "numbers": [],
+    "names": [
+      "Miao",
+      "Tujia"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C06-F062",
+        "candidate": "C06",
+        "bodyLine": 43
+      },
+      {
+        "id": "C09-F069",
+        "candidate": "C09",
+        "bodyLine": 49
+      }
+    ],
+    "unit": "U247",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C06-F072",
+    "candidate": "C06",
+    "bodyLine": 53,
+    "section": "Zhuang — Guangxi além da paisagem de calcário",
+    "text": "Em Guilin, práticas atribuídas a Zhuang e Yao aparecem misturadas ao cotidiano regional.",
+    "numbers": [],
+    "names": [
+      "Em Guilin",
+      "Zhuang",
+      "Yao"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C06-F072",
+        "candidate": "C06",
+        "bodyLine": 53
+      },
+      {
+        "id": "C09-F079",
+        "candidate": "C09",
+        "bodyLine": 59
+      }
+    ],
+    "unit": "U248",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F003",
+    "candidate": "C07",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "Mais ao sul, o Rio Li atravessa Guangxi, região autônoma que leva os Zhuang no próprio nome.",
+    "numbers": [],
+    "names": [
+      "Mais",
+      "Rio Li",
+      "Guangxi",
+      "Zhuang"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C07-F003",
+        "candidate": "C07",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U249",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F027",
+    "candidate": "C07",
+    "bodyLine": 19,
+    "section": "Antes dos nomes: etnia oficial, cultura regional e migração",
+    "text": "Guangxi não é exclusivamente Zhuang, assim como uma área autônoma Tujia e Miao não contém apenas Tujia e Miao.",
+    "numbers": [],
+    "names": [
+      "Guangxi",
+      "Zhuang",
+      "Tujia",
+      "Miao",
+      "Tujia",
+      "Miao"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C07-F027",
+        "candidate": "C07",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U254",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F039",
+    "candidate": "C07",
+    "bodyLine": 25,
+    "section": "Tujia: o corredor das montanhas Wuling",
+    "text": "Juntos, formam a única faixa contínua de concentração de minorias étnicas de Chongqing: segundo um [relatório da Assembleia Popular municipal](https://www.cqrd.gov.cn/web/article/1361740402372329472/web/content_1361740402372329472.html), 71,7% de seus 2,496 milhões de habitantes são de minorias, sobretudo Tujia e Miao.",
+    "numbers": [
+      "1361740402372329472",
+      "71,7%",
+      "2,496 mil"
+    ],
+    "names": [
+      "Juntos",
+      "Chongqing",
+      "Assembleia Popular",
+      "Tujia",
+      "Miao"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C07-F039",
+        "candidate": "C07",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U256",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F054",
+    "candidate": "C07",
+    "bodyLine": 35,
+    "section": "Fenghuang: Miao e Tujia sem fronteira de vitrine",
+    "text": "Famílias Miao, Tujia e Han compartilham há gerações mercados, escolas, casamentos, técnicas de construção e repertórios festivos; no sudeste de Chongqing e no oeste de Hunan, as mesmas montanhas também prolongam relações que a divisão administrativa não interrompe.",
+    "numbers": [],
+    "names": [
+      "Famílias Miao",
+      "Tujia",
+      "Han",
+      "Chongqing",
+      "Hunan"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C07-F054",
+        "candidate": "C07",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U257",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F058",
+    "candidate": "C07",
+    "bodyLine": 37,
+    "section": "Fenghuang: Miao e Tujia sem fronteira de vitrine",
+    "text": "Ela reúne comunidades com línguas, autodenominações, histórias locais e maneiras de vestir diferentes; o censo chinês de 2020 registrou [11.067.929 pessoas](https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml) sob essa classificação.",
+    "numbers": [
+      "2020",
+      "11.067.929"
+    ],
+    "names": [
+      "Ela"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C07-F058",
+        "candidate": "C07",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U258",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F075",
+    "candidate": "C07",
+    "bodyLine": 47,
+    "section": "Zhuang: Guangxi para além do cenário cárstico",
+    "text": "O censo de 2020 registrou [19.568.546 pessoas](https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml), a maioria delas em Guangxi.",
+    "numbers": [
+      "2020",
+      "19.568.546",
+      "201806",
+      "1066832."
+    ],
+    "names": [
+      "Guangxi"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C07-F075",
+        "candidate": "C07",
+        "bodyLine": 47
+      }
+    ],
+    "unit": "U259",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F055",
+    "candidate": "C07",
+    "bodyLine": 35,
+    "section": "Fenghuang: Miao e Tujia sem fronteira de vitrine",
+    "text": "A cidade antiga concentra essa história numa margem estreita do rio Tuo, embora sua paisagem de pousadas, lojas iluminadas e retratos com trajes alugados possa sugerir identidades prontas para consumo.",
+    "numbers": [],
+    "names": [
+      "Tuo"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C07-F055",
+        "candidate": "C07",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U273",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F018",
+    "candidate": "C07",
+    "bodyLine": 13,
+    "section": "Antes dos nomes: etnia oficial, cultura regional e migração",
+    "text": "“Tujia”, “Miao” e “Zhuang” são nomes oficiais registrados pelo Estado, mas cada um reúne histórias locais, variedades linguísticas e formas distintas de se apresentar no cotidiano.",
+    "numbers": [],
+    "names": [
+      "Tujia",
+      "Miao",
+      "Zhuang",
+      "Estado"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C07-F018",
+        "candidate": "C07",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U277",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F078",
+    "candidate": "C07",
+    "bodyLine": 49,
+    "section": "Zhuang: Guangxi para além do cenário cárstico",
+    "text": "As línguas Zhuang pertencem ao ramo tai da família kra-dai e reúnem variedades regionais, não uma voz única e uniforme.",
+    "numbers": [],
+    "names": [
+      "As",
+      "Zhuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C07-F078",
+        "candidate": "C07",
+        "bodyLine": 49
+      }
+    ],
+    "unit": "U279",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C07-F013",
+    "candidate": "C07",
+    "bodyLine": 9,
+    "section": "Abertura",
+    "text": "Guilin e Yangshuo pertencem a Guangxi sem serem cidades exclusivamente Zhuang.",
+    "numbers": [],
+    "names": [
+      "Guilin",
+      "Yangshuo",
+      "Guangxi",
+      "Zhuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C07-F013",
+        "candidate": "C07",
+        "bodyLine": 9
+      }
+    ],
+    "unit": "U282",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F020",
+    "candidate": "C08",
+    "bodyLine": 15,
+    "section": "Como a China conta seus povos",
+    "text": "Xiangxi, a área de Zhangjiajie, Furong e Fenghuang, é oficialmente a Prefeitura Autônoma Tujia e Miao de Xiangxi.",
+    "numbers": [],
+    "names": [
+      "Xiangxi",
+      "Zhangjiajie",
+      "Furong",
+      "Fenghuang",
+      "Prefeitura Autônoma Tujia",
+      "Miao",
+      "Xiangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F020",
+        "candidate": "C08",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U289",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F021",
+    "candidate": "C08",
+    "bodyLine": 15,
+    "section": "Como a China conta seus povos",
+    "text": "Guangxi, onde ficam Guilin e Yangshuo, é a Região Autônoma Zhuang (criada em 1958).",
+    "numbers": [
+      "1958"
+    ],
+    "names": [
+      "Guangxi",
+      "Guilin",
+      "Yangshuo",
+      "Região Autônoma Zhuang"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F021",
+        "candidate": "C08",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U290",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F045",
+    "candidate": "C08",
+    "bodyLine": 31,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "Em Fenghuang (08/11), a confluência dos dois povos é visível a cada esquina, e é também onde a pergunta \"quem é quem\" mais engana.",
+    "numbers": [
+      "08",
+      "11"
+    ],
+    "names": [
+      "Em Fenghuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F045",
+        "candidate": "C08",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U296",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F046",
+    "candidate": "C08",
+    "bodyLine": 31,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "Os Miao (苗族) são cerca de 9,4 milhões em 2010 e perto de 11 milhões em 2020 [VERIFICAR], espalhados por Guizhou, Hunan, Yunnan, Guangxi, Sichuan e Chongqing, com diferenças internas enormes: o Miao de Xiangxi fala um dialeto (o \"Qo Xiong\", ramo ocidental de Hunan) incompreensível para um Miao de Guizhou.",
+    "numbers": [
+      "9,4 mil",
+      "2010",
+      "11 mil",
+      "2020"
+    ],
+    "names": [
+      "Os Miao",
+      "VERIFICAR",
+      "Guizhou",
+      "Hunan",
+      "Yunnan",
+      "Guangxi",
+      "Sichuan",
+      "Chongqing",
+      "Miao",
+      "Xiangxi",
+      "Qo Xiong",
+      "Hunan",
+      "Miao",
+      "Guizhou"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F046",
+        "candidate": "C08",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U297",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F049",
+    "candidate": "C08",
+    "bodyLine": 33,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "Em 1795, a pressão fiscal e a expropriação de terras provocaram o levante Miao dos reinados Qianlong e Jiaqing (乾嘉苗民起义), que durou até 1806.",
+    "numbers": [
+      "1795,",
+      "1806."
+    ],
+    "names": [
+      "Em",
+      "Miao",
+      "Qianlong",
+      "Jiaqing"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F049",
+        "candidate": "C08",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U298",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F050",
+    "candidate": "C08",
+    "bodyLine": 33,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "A reação dos Qing foi fortificar a região e reforçar a colonização, e a cidade murada de Fenghuang que o viajante vê hoje (fortificada em 1704, época anterior à rebelião) foi, antes de ser cartão-postal, um posto de controle entre o mundo han e as montanhas.",
+    "numbers": [
+      "1704,"
+    ],
+    "names": [
+      "Qing",
+      "Fenghuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F050",
+        "candidate": "C08",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U299",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F054",
+    "candidate": "C08",
+    "bodyLine": 35,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "O caso mais ilustrativo é o de Shen Congwen (沈从文, 1902-1988), o escritor que fez de Fenghuang personagem de ficção.",
+    "numbers": [
+      "1902",
+      "1988"
+    ],
+    "names": [
+      "Shen Congwen",
+      "Fenghuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F054",
+        "candidate": "C08",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U300",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F056",
+    "candidate": "C08",
+    "bodyLine": 35,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "Em *Cidade de Fronteira* (边城, 1934), retratou a vida Miao e Tujia do vale com precisão etnográfica e melancolia, e sua casa natal (`pesquisa/atracoes/shen-congwen.md`) é o melhor lugar da cidade para ler essa fronteira sem espetáculo.",
+    "numbers": [
+      "1934"
+    ],
+    "names": [
+      "Em",
+      "Cidade",
+      "Fronteira",
+      "Miao",
+      "Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F056",
+        "candidate": "C08",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U301",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F058",
+    "candidate": "C08",
+    "bodyLine": 37,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "A mesa traz outro sinal de identidade, mais confiável que a vitrine: o pato com sangue defumado (血粑鸭) e a carne curada no fogo são comida de inverno de povos que passaram séculos isolados no alto das montanhas, e a chegada de 8 de novembro, logo depois do início do inverno no calendário chinês, cai no momento em que esses pratos entram em cena.",
+    "numbers": [
+      "8"
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F058",
+        "candidate": "C08",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U302",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F059",
+    "candidate": "C08",
+    "bodyLine": 41,
+    "section": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+    "text": "Quando o roteiro chega a Guilin e Yangshuo (09 a 12/11), entra no território dos Zhuang (壮族), o maior grupo minoritário da China, com mais de 16 milhões em 2010 e perto de 19 a 20 milhões em 2020 [VERIFICAR].",
+    "numbers": [
+      "09",
+      "12",
+      "11",
+      "16 mil",
+      "2010",
+      "19",
+      "20 mil",
+      "2020"
+    ],
+    "names": [
+      "Quando",
+      "Guilin",
+      "Yangshuo",
+      "Zhuang",
+      "China",
+      "VERIFICAR"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F059",
+        "candidate": "C08",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U303",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F061",
+    "candidate": "C08",
+    "bodyLine": 41,
+    "section": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+    "text": "O zhuang pertence à família tai-kadai, parente dos idiomas tai, do Laos e do norte da Tailândia, e tem escrita latina oficial desde 1957 (reformada em 1982), com uma escrita tradicional de caracteres derivados do chinês (sawndip) usada em cantos e textos rituais.",
+    "numbers": [
+      "1957",
+      "1982"
+    ],
+    "names": [
+      "Laos",
+      "Tailândia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F061",
+        "candidate": "C08",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U304",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F066",
+    "candidate": "C08",
+    "bodyLine": 43,
+    "section": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+    "text": "O show *Impression Liu Sanjie* (`pesquisa/atracoes/impressao-liu-sanjie.md`), dirigido por Zhang Yimou e em cartaz em Yangshuo desde 2004, usa esse repertório como material: mais de setenta barcos, pescadores locais, muitos deles, dizem as fontes, Zhuang, e as colinas de calcário como cenário.",
+    "numbers": [
+      "2004,"
+    ],
+    "names": [
+      "Impression Liu Sanjie",
+      "Zhang Yimou",
+      "Yangshuo",
+      "Zhuang"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F066",
+        "candidate": "C08",
+        "bodyLine": 43
+      }
+    ],
+    "unit": "U305",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F068",
+    "candidate": "C08",
+    "bodyLine": 45,
+    "section": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+    "text": "Os terraços de arroz de Longji, em camadas de centenas de anos, pertencem a dois povos diferentes: a aldeia de Ping'an é Zhuang, e a de Dazhai, com suas mulheres Yao de cabelo longo nunca cortado, é Yao.",
+    "numbers": [],
+    "names": [
+      "Os",
+      "Longji",
+      "Ping'an",
+      "Zhuang",
+      "Dazhai",
+      "Yao",
+      "Yao"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F068",
+        "candidate": "C08",
+        "bodyLine": 45
+      }
+    ],
+    "unit": "U306",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F069",
+    "candidate": "C08",
+    "bodyLine": 45,
+    "section": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+    "text": "As casas de madeira dos Zhuang de Ping'an são *ganlan* (干栏), casas de palafita de dois andares (gado embaixo, família em cima), a versão zhuang da mesma lógica arquitetônica que aparece com outros nomes em Chongqing e Fenghuang, variação de um mesmo princípio, adaptada a cada terreno.",
+    "numbers": [],
+    "names": [
+      "As",
+      "Zhuang",
+      "Ping'an",
+      "Chongqing",
+      "Fenghuang"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F069",
+        "candidate": "C08",
+        "bodyLine": 45
+      }
+    ],
+    "unit": "U307",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F070",
+    "candidate": "C08",
+    "bodyLine": 45,
+    "section": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+    "text": "A tensão entre o vivido e o encenado está à vista em Dazhai, onde as apresentações com cabelo solto para visitantes convivem com mulheres de verdade que aparecem com o cabelo preso em turbante.",
+    "numbers": [],
+    "names": [
+      "Dazhai"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F070",
+        "candidate": "C08",
+        "bodyLine": 45
+      }
+    ],
+    "unit": "U308",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F106",
+    "candidate": "C08",
+    "bodyLine": 73,
+    "section": "Encerramento",
+    "text": "A primeira é a das minorias oficiais com território próprio, como os Tujia e os Miao em Xiangxi e no sudeste de Chongqing e os Zhuang de Guangxi, cujo vínculo com a paisagem se vê nas casas, no canto e no que está na panela.",
+    "numbers": [],
+    "names": [
+      "Tujia",
+      "Miao",
+      "Xiangxi",
+      "Chongqing",
+      "Zhuang",
+      "Guangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F106",
+        "candidate": "C08",
+        "bodyLine": 73
+      }
+    ],
+    "unit": "U322",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F055",
+    "candidate": "C08",
+    "bodyLine": 35,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "Filho de pai han e de mãe Tujia, com avó paterna Miao, ele é frequentemente citado como um retrato vivo dessa mistura [VERIFICAR genealogia].",
+    "numbers": [],
+    "names": [
+      "Filho",
+      "Tujia",
+      "Miao",
+      "VERIFICAR"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C08-F055",
+        "candidate": "C08",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U323",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F062",
+    "candidate": "C08",
+    "bodyLine": 41,
+    "section": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+    "text": "Os Zhuang cultivam arroz úmido há milênios, adoram o tambor de bronze (铜鼓), que é seu emblema, e organizam a vida social em torno da canção.",
+    "numbers": [],
+    "names": [
+      "Os Zhuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C08-F062",
+        "candidate": "C08",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U325",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F051",
+    "candidate": "C08",
+    "bodyLine": 35,
+    "section": "Fenghuang: Miao e Tujia na mesma margem",
+    "text": "A arquitetura ribeirinha de Fenghuang, as casas de palafita sobre o Tuojiang que a página `pesquisa/atracoes/rio-tuojiang-diaojiaolou.md` descreve em detalhe, costuma ser atribuída aos Miao nos folhetos, e com razão.",
+    "numbers": [],
+    "names": [
+      "Fenghuang",
+      "Tuojiang",
+      "Miao"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C08-F051",
+        "candidate": "C08",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U327",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F065",
+    "candidate": "C08",
+    "bodyLine": 43,
+    "section": "Zhuang: o povo que canta e o rio de Liu Sanjie",
+    "text": "A tradição de canto alternado entre homens e mulheres (*duige*, 对歌) é real e continua viva, sobretudo no festival do \"Terceiro dia do terceiro mês\" (三月三, *sanyuesan*), na primavera, quando aldeias inteiras se reúnem para cantar.",
+    "numbers": [],
+    "names": [
+      "Terceiro"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C08-F065",
+        "candidate": "C08",
+        "bodyLine": 43
+      }
+    ],
+    "unit": "U331",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C08-F007",
+    "candidate": "C08",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "Em Yangshuo, a lenda de Liu Sanjie, a cantora que encantava o rio, pertence aos Zhuang, o maior grupo minoritário do país.",
+    "numbers": [],
+    "names": [
+      "Em Yangshuo",
+      "Liu Sanjie",
+      "Zhuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C08-F007",
+        "candidate": "C08",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U332",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C09-F015",
+    "candidate": "C09",
+    "bodyLine": 15,
+    "section": "Antes do mapa: o que significa “etnia” na China",
+    "text": "É por isso que Fenghuang integra a Prefeitura Autônoma Tujia e Miao de Xiangxi e que Guangxi é oficialmente uma região autônoma Zhuang.",
+    "numbers": [],
+    "names": [
+      "Fenghuang",
+      "Prefeitura Autônoma Tujia",
+      "Miao",
+      "Xiangxi",
+      "Guangxi",
+      "Zhuang"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C09-F015",
+        "candidate": "C09",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U336",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C09-F032",
+    "candidate": "C09",
+    "bodyLine": 25,
+    "section": "Tujia: das montanhas de Wuling ao sudeste de Chongqing",
+    "text": "Chamar toda *diaojiaolou* de exclusivamente Tujia seria simplificar: Miao e outros grupos vizinhos também desenvolveram e compartilharam soluções semelhantes.",
+    "numbers": [],
+    "names": [
+      "Chamar",
+      "Tujia",
+      "Miao"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C09-F032",
+        "candidate": "C09",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U340",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F042",
+    "candidate": "C10",
+    "bodyLine": 23,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Casas Tujia em Chongqing](https://app.ichongqing.info/mixmedia/a/202007/09/WS632dce2be4b09d5114463e1a.html); [Museu de Culturas Étnicas — arquitetura Miao](https://artsandculture.google.com/story/1gXxoryJKHBlKg?hl=en).",
+    "numbers": [
+      "202007",
+      "09",
+      "1"
+    ],
+    "names": [
+      "Casas Tujia",
+      "Chongqing",
+      "WS",
+      "Museu",
+      "Culturas Étnicas",
+      "Miao"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F042",
+        "candidate": "C10",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U354",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F053",
+    "candidate": "C10",
+    "bodyLine": 29,
+    "section": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+    "text": "[China Daily — Fenghuang](https://global.chinadaily.com.cn/a/202308/30/WS64ef28bea31035260b81f0fa.html); [candidatura chinesa à Lista Indicativa da UNESCO](https://whc.unesco.org/en/tentativelists/5337/).",
+    "numbers": [
+      "202308",
+      "30",
+      "5337"
+    ],
+    "names": [
+      "China Daily",
+      "Fenghuang",
+      "WS",
+      "Lista Indicativa",
+      "UNESCO"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F053",
+        "candidate": "C10",
+        "bodyLine": 29
+      }
+    ],
+    "unit": "U356",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F057",
+    "candidate": "C10",
+    "bodyLine": 31,
+    "section": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+    "text": "[Candidatura chinesa — história e organização urbana](https://whc.unesco.org/en/tentativelists/5337/).",
+    "numbers": [
+      "5337"
+    ],
+    "names": [
+      "Candidatura"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F057",
+        "candidate": "C10",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U357",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F067",
+    "candidate": "C10",
+    "bodyLine": 35,
+    "section": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+    "text": "[Adam Sposato — gramática do xong, capítulo sobre escrita](https://arts-sciences.buffalo.edu/content/dam/arts-sciences/linguistics/AlumniDissertations/Sposato%20dissertation.pdf).",
+    "numbers": [
+      "20"
+    ],
+    "names": [
+      "Adam Sposato",
+      "AlumniDissertations",
+      "Sposato"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F067",
+        "candidate": "C10",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U358",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F072",
+    "candidate": "C10",
+    "bodyLine": 37,
+    "section": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+    "text": "[Festival de vestimentas de 2023](https://govt.chinadaily.com.cn/s/202311/14/WS6552d4f5498ed2d7b7e9fe61/town-in-hunan-showcases-miao-history-and-culture.html); [Turismo de Hunan — fotografia e aluguel de roupas](https://whhlyt.hunan.gov.cn/whhlyt/english/News/Updates/202208/t20220818_27587028.html).",
+    "numbers": [
+      "2023",
+      "202311",
+      "14",
+      "202208"
+    ],
+    "names": [
+      "Festival",
+      "WS",
+      "Turismo",
+      "Hunan",
+      "News",
+      "Updates"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F072",
+        "candidate": "C10",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U359",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F083",
+    "candidate": "C10",
+    "bodyLine": 43,
+    "section": "Zhuang — Guangxi além da paisagem cárstica",
+    "text": "[Banco Mundial — panorama social de Guangxi](https://documents1.worldbank.org/curated/en/822761522388280312/pdf/Environment-and-social-systems-assessment.pdf).",
+    "numbers": [
+      "822761522388280312"
+    ],
+    "names": [
+      "Banco Mundial",
+      "Guangxi",
+      "Environment-and-social-systems-assessment"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F083",
+        "candidate": "C10",
+        "bodyLine": 43
+      }
+    ],
+    "unit": "U360",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F094",
+    "candidate": "C10",
+    "bodyLine": 47,
+    "section": "Zhuang — Guangxi além da paisagem cárstica",
+    "text": "[Brill — tradições de escrita Zhuang](https://brill.com/previewpdf/book/9789004352223/BP000007.xml).",
+    "numbers": [
+      "9789004352223"
+    ],
+    "names": [
+      "Brill",
+      "Zhuang",
+      "BP"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F094",
+        "candidate": "C10",
+        "bodyLine": 47
+      }
+    ],
+    "unit": "U361",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F098",
+    "candidate": "C10",
+    "bodyLine": 49,
+    "section": "Zhuang — Guangxi além da paisagem cárstica",
+    "text": "[China Culture — baladas de Liu Sanjie](https://www.chinadaily.com.cn/life/2006-11/21/content_11692006.htm).",
+    "numbers": [
+      "2006",
+      "11",
+      "21"
+    ],
+    "names": [
+      "China Culture",
+      "Liu Sanjie"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F098",
+        "candidate": "C10",
+        "bodyLine": 49
+      }
+    ],
+    "unit": "U362",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F103",
+    "candidate": "C10",
+    "bodyLine": 51,
+    "section": "Zhuang — Guangxi além da paisagem cárstica",
+    "text": "[China Daily — adaptações da personagem](https://www.chinadaily.com.cn/kindle/2019-06/06/content_37478255.htm); [Guilin — espetáculo e paisagem fluvial](https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm).",
+    "numbers": [
+      "2019",
+      "06",
+      "06",
+      "2024",
+      "01",
+      "31"
+    ],
+    "names": [
+      "China Daily",
+      "Guilin"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F103",
+        "candidate": "C10",
+        "bodyLine": 51
+      }
+    ],
+    "unit": "U363",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F108",
+    "candidate": "C10",
+    "bodyLine": 53,
+    "section": "Zhuang — Guangxi além da paisagem cárstica",
+    "text": "[Estudo sobre Longji](https://www.mdpi.com/2073-445X/10/11/1146); [FAO — sistemas de terraços](https://www.fao.org/giahs/giahs-around-the-world/china-rice-terraces-mountainous/en).",
+    "numbers": [
+      "2073",
+      "445",
+      "10",
+      "11",
+      "1146"
+    ],
+    "names": [
+      "Estudo",
+      "Longji",
+      "FAO"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F108",
+        "candidate": "C10",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U364",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F070",
+    "candidate": "C10",
+    "bodyLine": 37,
+    "section": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+    "text": "Uma pessoa posando com um grande adorno pode ser visitante; uma moradora de roupa comum pode ser Miao.",
+    "numbers": [],
+    "names": [
+      "Uma",
+      "Miao"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C10-F070",
+        "candidate": "C10",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U379",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F054",
+    "candidate": "C10",
+    "bodyLine": 31,
+    "section": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+    "text": "Durante a dinastia Qing, Fenghuang concentrou repartições e comandos militares; muralhas, escolas, templos e estabelecimentos comerciais cresceram junto dessa função regional.",
+    "numbers": [],
+    "names": [
+      "Durante",
+      "Qing",
+      "Fenghuang"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C10-F054",
+        "candidate": "C10",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U382",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C10-F049",
+    "candidate": "C10",
+    "bodyLine": 29,
+    "section": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+    "text": "Em Fenghuang, essa proximidade entre casa, comércio e fortificação ajuda a perceber uma história que o rótulo “cidade Miao” comprime demais.",
+    "numbers": [],
+    "names": [
+      "Em Fenghuang",
+      "Miao"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C10-F049",
+        "candidate": "C10",
+        "bodyLine": 29
+      }
+    ],
+    "unit": "U384",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F025",
+    "candidate": "C11",
+    "bodyLine": 19,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "Zhangjiajie é uma cidade administrativa separada da prefeitura autônoma Tujia e Miao de Xiangxi, enquanto Furong pertence ao condado de Yongshun, dentro de Xiangxi.",
+    "numbers": [],
+    "names": [
+      "Zhangjiajie",
+      "Tujia",
+      "Miao",
+      "Xiangxi",
+      "Furong",
+      "Yongshun",
+      "Xiangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C11-F025",
+        "candidate": "C11",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U393",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F055",
+    "candidate": "C11",
+    "bodyLine": 31,
+    "section": "Fenghuang — Miao, Tujia e a cidade de fronteira",
+    "text": "[Fenghuang — Cultura e Turismo de Hunan](https://whhlyt.hunan.gov.cn/whhlyt/english/Tourism/Recommendations/202205/t20220523_24628092.html)",
+    "numbers": [
+      "202205"
+    ],
+    "names": [
+      "Fenghuang",
+      "Cultura",
+      "Turismo",
+      "Hunan",
+      "Tourism",
+      "Recommendations"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F055",
+        "candidate": "C11",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U398",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F061",
+    "candidate": "C11",
+    "bodyLine": 33,
+    "section": "Fenghuang — Miao, Tujia e a cidade de fronteira",
+    "text": "[Patrimônio urbano de Fenghuang — Governo de Hunan](https://sthjt.hunan.gov.cn/sthjt/english/Picturenews/201406/t20140603_4703565.html)",
+    "numbers": [
+      "201406"
+    ],
+    "names": [
+      "Patrimônio",
+      "Fenghuang",
+      "Governo",
+      "Hunan",
+      "Picturenews"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F061",
+        "candidate": "C11",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U399",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F072",
+    "candidate": "C11",
+    "bodyLine": 37,
+    "section": "Fenghuang — Miao, Tujia e a cidade de fronteira",
+    "text": "[Ourivesaria Miao em Xiangxi](https://whhlyt.hunan.gov.cn/whhlyt/english/Culture/IntangibleCulturalHeritage/202302/t20230217_29250418.html)",
+    "numbers": [
+      "202302"
+    ],
+    "names": [
+      "Ourivesaria Miao",
+      "Xiangxi",
+      "Culture",
+      "IntangibleCulturalHeritage"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F072",
+        "candidate": "C11",
+        "bodyLine": 37
+      }
+    ],
+    "unit": "U400",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F082",
+    "candidate": "C11",
+    "bodyLine": 41,
+    "section": "Fenghuang — Miao, Tujia e a cidade de fronteira",
+    "text": "[Chadong e Cidade de Fronteira](https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/202308/t20230825_29468975.html)",
+    "numbers": [
+      "202308"
+    ],
+    "names": [
+      "Chadong",
+      "Cidade",
+      "Fronteira",
+      "Tourism",
+      "TourHunan",
+      "TouristAttractions"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F082",
+        "candidate": "C11",
+        "bodyLine": 41
+      }
+    ],
+    "unit": "U401",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F087",
+    "candidate": "C11",
+    "bodyLine": 47,
+    "section": "Zhuang — Guangxi para além da paisagem de Guilin",
+    "text": "O nome oficial de Guangxi — região autônoma Zhuang — introduz uma dimensão que as imagens de Guilin frequentemente deixam em segundo plano.",
+    "numbers": [],
+    "names": [
+      "Guangxi",
+      "Zhuang",
+      "Guilin"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C11-F087",
+        "candidate": "C11",
+        "bodyLine": 47
+      }
+    ],
+    "unit": "U402",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F091",
+    "candidate": "C11",
+    "bodyLine": 49,
+    "section": "Zhuang — Guangxi para além da paisagem de Guilin",
+    "text": "Na alimentação Zhuang, arroz e milho têm lugar importante; o arroz glutinoso também participa de preparações festivas e rituais.",
+    "numbers": [],
+    "names": [
+      "Na",
+      "Zhuang"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C11-F091",
+        "candidate": "C11",
+        "bodyLine": 49
+      }
+    ],
+    "unit": "U403",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F094",
+    "candidate": "C11",
+    "bodyLine": 49,
+    "section": "Zhuang — Guangxi para além da paisagem de Guilin",
+    "text": "[Zhuang — Conselho de Estado](https://english.scio.gov.cn/m/chinafacts/2017-04/17/content_40636697.htm)",
+    "numbers": [
+      "2017",
+      "04",
+      "17"
+    ],
+    "names": [
+      "Zhuang",
+      "Conselho",
+      "Estado"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F094",
+        "candidate": "C11",
+        "bodyLine": 49
+      }
+    ],
+    "unit": "U404",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F106",
+    "candidate": "C11",
+    "bodyLine": 53,
+    "section": "Zhuang — Guangxi para além da paisagem de Guilin",
+    "text": "[Sawndip e tradições de escrita Zhuang](https://brill.com/previewpdf/book/9789004352223/BP000007.xml)",
+    "numbers": [
+      "9789004352223"
+    ],
+    "names": [
+      "Sawndip",
+      "Zhuang",
+      "BP"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F106",
+        "candidate": "C11",
+        "bodyLine": 53
+      }
+    ],
+    "unit": "U405",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F112",
+    "candidate": "C11",
+    "bodyLine": 55,
+    "section": "Zhuang — Guangxi para além da paisagem de Guilin",
+    "text": "[Liu Sanjie e canto Zhuang](https://english.scio.gov.cn/m/chinafacts/2017-04/17/content_40636697.htm), [Sanyuesan em Guangxi](https://english.scio.gov.cn/pressroom/2023-04/23/content_85246720.htm)",
+    "numbers": [
+      "2017",
+      "04",
+      "17",
+      "2023",
+      "04",
+      "23"
+    ],
+    "names": [
+      "Liu Sanjie",
+      "Zhuang",
+      "Sanyuesan",
+      "Guangxi"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F112",
+        "candidate": "C11",
+        "bodyLine": 55
+      }
+    ],
+    "unit": "U406",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F120",
+    "candidate": "C11",
+    "bodyLine": 59,
+    "section": "Zhuang — Guangxi para além da paisagem de Guilin",
+    "text": "Guangxi ganha espessura quando a paisagem inclui também as práticas humanas que a atravessam, de uma preparação festiva aos diferentes modos de escrever e executar uma canção.",
+    "numbers": [],
+    "names": [
+      "Guangxi"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C11-F120",
+        "candidate": "C11",
+        "bodyLine": 59
+      }
+    ],
+    "unit": "U417",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F111",
+    "candidate": "C11",
+    "bodyLine": 55,
+    "section": "Zhuang — Guangxi para além da paisagem de Guilin",
+    "text": "Festas como o *Sanyuesan*, no terceiro dia do terceiro mês lunar, pertencem a um calendário próprio, compartilhado por vários povos de Guangxi.",
+    "numbers": [],
+    "names": [
+      "Festas",
+      "Sanyuesan",
+      "Guangxi"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C11-F111",
+        "candidate": "C11",
+        "bodyLine": 55
+      }
+    ],
+    "unit": "U424",
+    "theme": "miao-zhuang"
+  },
+  {
+    "id": "C11-F065",
+    "candidate": "C11",
+    "bodyLine": 35,
+    "section": "Fenghuang — Miao, Tujia e a cidade de fronteira",
+    "text": "Oralidade, canto e escrita também têm histórias diversas entre comunidades Miao, em vez de corresponderem a um povo uniformemente “sem escrita”.",
+    "numbers": [],
+    "names": [
+      "Oralidade",
+      "Miao"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C11-F065",
+        "candidate": "C11",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U426",
+    "theme": "miao-zhuang"
+  }
+]

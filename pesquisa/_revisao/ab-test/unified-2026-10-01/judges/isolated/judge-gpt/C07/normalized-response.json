@@ -1,0 +1,61 @@
+{
+  "evaluations": [
+    {
+      "id": "C07",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "As 30 afirmações decididas estão corretas; não há erros relevantes nem erros entre as armadilhas.",
+          "quoteId": "Q045"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre todos os grupos pedidos nos trechos correspondentes do roteiro, preserva a estrutura exigida e não apresenta resquícios do itinerário antigo.",
+          "quoteId": "Q004"
+        },
+        {
+          "dimension": 3,
+          "score": 13,
+          "justification": "Explica processos históricos e culturais com lugares e mecanismos concretos, embora retome algumas vezes a distinção entre identidade cotidiana e apresentação turística.",
+          "quoteId": "Q058"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Relaciona as culturas ao que o viajante encontrará e oferece critérios úteis para interpretar atrações, como a diferença entre o espetáculo de Yangshuo e o canto comunitário.",
+          "quoteId": "Q123"
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "A prosa é fluida e visual, com boa voz narrativa; a repetição de ressalvas sobre figurinos e autenticidade reduz um pouco o ritmo.",
+          "quoteId": "Q009"
+        },
+        {
+          "dimension": 6,
+          "score": 7,
+          "justification": "O texto distingue bem lenda, classificação oficial e representação turística, mas apresenta como firme a cifra de residentes com hukou local, cujo universo permanece incerto nos fatos fornecidos.",
+          "quoteId": "Q149"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos; as métricas registram build aprovado e edição restrita à página avaliada.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 92,
+      "cap": null,
+      "capReasons": [],
+      "final": 92,
+      "mainStrength": "Explica diferenças étnicas e culturais por meio de história, língua e experiências concretas do roteiro.",
+      "priorityFix": "Conciliar os universos estatísticos antes de afirmar quantos residentes de Shenzhen tinham hukou local em 2020.",
+      "additionalConcerns": [
+        "Algumas descrições locais e sociolinguísticas permanecem incertas nos fatos fornecidos e merecem ressalva ou verificação."
+      ]
+    }
+  ],
+  "methodNotes": []
+}

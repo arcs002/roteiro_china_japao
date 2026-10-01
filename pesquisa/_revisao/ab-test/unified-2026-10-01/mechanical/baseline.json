@@ -1,0 +1,148 @@
+{
+  "buildExit": 0,
+  "auditExit": 0,
+  "buildWarnings": [
+    "[warn] pesquisa\\dias\\00-chongqing-assignment.md: falta \"title\" no front matter",
+    "[warn] pesquisa\\dias\\00-fenghuang-assignment.md: falta \"title\" no front matter",
+    "[warn] pesquisa\\dias\\00-furong-town-assignment.md: falta \"title\" no front matter",
+    "[warn] pesquisa\\dias\\00-guilin-assignment.md: falta \"title\" no front matter",
+    "[warn] pesquisa\\dias\\00-yangshuo-assignment.md: falta \"title\" no front matter",
+    "[warn] pesquisa\\cidades\\02-zhangjiajie.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\03-furong-town.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\04-fenghuang.md: cidade referencia provincia=\"hunan\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\05-guilin.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\06-yangshuo.expandido.md: cidade referencia provincia=\"guangxi\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\07-shenzhen.expandido.md: cidade referencia provincia=\"guangdong\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\08-xiamen.expandido.md: cidade referencia provincia=\"fujian\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\09-fukuoka.expandido.md: cidade referencia provincia=\"fukuoka-ken\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\10-kurokawa.expandido.md: cidade referencia provincia=\"kumamoto\" sem página própria ainda",
+    "[warn] pesquisa\\cidades\\11-beppu.expandido.md: cidade referencia provincia=\"oita\" sem página própria ainda",
+    "[img] chongqing: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; nevoa-yangtze; chaotianmen)",
+    "[img] ciqikou: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; ciqikou-rua-manha; ciqikou-comida)",
+    "[img] dazu: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; dazu-baodingshan-parede; dazu-detalhe-escultura)",
+    "[img] hongyadong: 3 imagem(ns) da tabela não usadas em nenhum módulo (hero; hongyadong-fachada-noite; hongyadong-interior)",
+    "[img] jiefangbei: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; jiefangbei-monumento)",
+    "[img] liziba: 2 imagem(ns) da tabela não usadas em nenhum módulo (hero; liziba-trem-predio)"
+  ],
+  "auditFindings": [
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 12,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xi'an\" — O mapa oficial da China reconhece 56 grupos étnicos — os han, que respondem por mais de 90% da população, e ou"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 12,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — O mapa oficial da China reconhece 56 grupos étnicos — os han, que respondem por mais de 90% da população, e ou"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 18,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xi'an\" — O resultado prático desse sistema é uma arquitetura de autonomia territorial nominal: a China organiza parte d"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 18,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — O resultado prático desse sistema é uma arquitetura de autonomia territorial nominal: a China organiza parte d"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 18,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Zhaoxing\" — O resultado prático desse sistema é uma arquitetura de autonomia territorial nominal: a China organiza parte d"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 18,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xijiang\" — O resultado prático desse sistema é uma arquitetura de autonomia territorial nominal: a China organiza parte d"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 24,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xi'an\" — Dos cinco grupos deste roteiro, os Hui (回族) são o único classificado oficialmente não por língua ou território"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 24,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xian\" — Dos cinco grupos deste roteiro, os Hui (回族) são o único classificado oficialmente não por língua ou território"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 26,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xi'an\" — O Bairro Muçulmano de Xi'an, organizado ao redor da Grande Mesquita erguida em 742 d.C., é o retrato mais aces"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 30,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Miao (苗族) — cerca de 9-10 milhões de pessoas, majoritariamente em Guizhou, Hunan, Yunnan e Guangxi — são o "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 30,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xijiang\" — Os Miao (苗族) — cerca de 9-10 milhões de pessoas, majoritariamente em Guizhou, Hunan, Yunnan e Guangxi — são o "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 32,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xijiang\" — A prata é a linguagem visual mais reconhecível dessa cultura: coroas, colares e placas peitorais que podem pes"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 36,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Dong (侗族), concentrados nas fronteiras entre Guizhou, Hunan e Guangxi — território que o roteiro cruza dire"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 36,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Zhaoxing\" — Os Dong (侗族), concentrados nas fronteiras entre Guizhou, Hunan e Guangxi — território que o roteiro cruza dire"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 46,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xi'an\" — Cinco paradas, cinco povos, nenhuma \"China genérica\" entre elas: o Islã sinizado dos Hui em Xi'an, a prata e o"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 46,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Zhaoxing\" — Cinco paradas, cinco povos, nenhuma \"China genérica\" entre elas: o Islã sinizado dos Hui em Xi'an, a prata e o"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 46,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Xijiang\" — Cinco paradas, cinco povos, nenhuma \"China genérica\" entre elas: o Islã sinizado dos Hui em Xi'an, a prata e o"
+    }
+  ]
+}

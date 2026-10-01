@@ -1,5 +1,7 @@
 # Teste A/B de modelos — Codex · `aprofundamento/paises/china/etnias.md`
 
+> Atualização: a avaliação factual/editorial foi concluída no [relatório unificado](test-ab-unified.md), incluindo os candidatos anteriores. Abaixo permanece o registro da etapa de geração.
+
 **Data:** 01/10/2026 · **Tarefa:** reescrever a página “China — Etnias” com `travel-deepdive-writer`, usando o mesmo prompt nos quatro modelos.
 
 **Rubrica para avaliação posterior:** [RUBRICA.md](RUBRICA.md) (v2). **Artefatos desta rodada:** [codex-2026-10-01/](codex-2026-10-01/). **Referência de formato:** [TesteABClaude.md](TesteABClaude.md).
@@ -115,7 +117,7 @@ O CLI também registrou avisos de infraestrutura sobre snapshots de PowerShell e
 - A mudança de harness do GPT-6.1 Sol é um fator de confusão explícito: diferenças podem vir do modelo, das ferramentas ou das instruções de sistema.
 - Duração inclui pesquisa, chamadas de ferramenta e esperas; houve execuções concorrentes. Tokens e buscas do log principal não são apresentados como custo total de uma árvore de subagentes. Custos monetários não foram estimados.
 - Não houve revisão factual independente, dupla avaliação cega nem arbitragem nesta rodada. As referências incluídas nos candidatos ainda precisam de checagem editorial.
-- Não foi encontrado `audit.mjs` no checkout. As verificações complementares desta rodada estão em `tasks/audit-ab-codex.cjs` e não devem ser confundidas com o auditor histórico citado no exemplo.
+- Correção posterior: `audit.mjs` existe em `.claude/skills/travel-final-review/scripts/audit.mjs`; a busca inicial não o localizou na pasta oculta. A rodada unificada o executa em todos os candidatos. `tasks/audit-ab-codex.cjs` é uma verificação complementar diferente.
 
 ## 8. Próxima comparação
 

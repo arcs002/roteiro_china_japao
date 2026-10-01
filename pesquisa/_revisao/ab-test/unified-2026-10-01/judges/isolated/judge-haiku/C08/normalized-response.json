@@ -1,0 +1,73 @@
+{
+  "evaluations": [
+    {
+      "id": "C08",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 2,
+          "justification": "Taxa de acerto 78,57% (22 corretas de 28 avaliadas, excluindo incertezas) situa-se na faixa 70–84%, base [5-12]. Dois erros nas armadilhas da rubrica (Zhangjiajie incluído em Xiangxi, que saiu em 1988; população Tujia descrita como \"8-9 milhões\" contradizendo o próprio parêntese de 9,6 mi em 2020) reduzem uma faixa inteira para [0-4]. Adicionalmente, quatro afirmações sem ressalva demonstram imprecisão factual: xuebaya não é sangue defumado (é sangue + arroz glutinoso); Yao não têm cabelo nunca cortado (tradição de um corte ritual); Nanquim foi após Primeira Guerra do Ópio (1842), não \"depois das Guerras\"; Bao'an 1979 tinha ~300 mil residentes, não \"dezenas de milhares\".",
+          "quoteId": "Q038"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Os cinco grupos pedidos (Tujia, Miao, Zhuang, Minnan, Hakka) estão integralmente cobertos, cada um ligado ao trecho do roteiro. Nenhum resquício do roteiro antigo (Hui/Xi'an, Miao/Xijiang, Dong/Zhaoxing, Dong Grand Song). Estrutura completa (Abertura + tópicos + Encerramento), front matter preservado, nenhuma numeração de dia inventada.",
+          "quoteId": "Q025"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Quase todo parágrafo traz nome (Shen Congwen, Tan Kah Kee, Liu Sanjie), data (1720–1730, 1795–1806, 1842, 1921, 2004), lugar (Longji, Dapeng, Nantou) ou costume concreto (diaojiaolou, baishou, tambor de bronze, defumados). Explica mecanismos: gaitu guiliu substituiu chefes tusi, abrindo a região; palafita resolveu terrenos íngremes; Zhuang é invisível fora de Guangxi por escala e integração secular. Acrescenta etimologia de \"tea\" (do minnan te), qiaopi, calibração cultural de prata vs. souvenir. Palavra-count (3.842) bem acima do piso (2.000). Referencia páginas de atração sem duplicação verbatim, mas integração diferencial poderia ser reforçada.",
+          "quoteId": "Q045"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conexão específica entre povo e que o viajante verá: shows vs. cotidiano Tujia (Charming Xiangxi e vida de trás de Furong), artesanato genuíno vs. souvenir Miao (prata martelada vs. liga), contraste Dazhai-Yao vs. Ping'an-Zhuang, diáspora minnanesa ressurgindo em pratos (satay), Hakka em Dapeng (1394) e Nantou (registro honesto de fotografia). Faltam conexões sazonal-práticas explícitas: Lìdōng em 7 de novembro impactando cardápios de Guilin, fenômenos específicos de 8-9 de novembro em Fenghuang, distinção entre sanyuesan (março/abril, fora da viagem) e show coreografado em novembro.",
+          "quoteId": "Q061"
+        },
+        {
+          "dimension": 5,
+          "score": 15,
+          "justification": "Prosa fluida em tom consistente de livro-reportagem; ritmo variado entre parágrafos históricos longos e reflexivos curtos. Sem clichê etnográfico (não usa \"exótico\", \"misterioso\"), sem metalinguagem (não há \"nesta seção veremos\"), sem jargão de bastidor. Uso sistemático de \"viajante\" em terceira pessoa (coerente com PT-BR atual). Estrutura \"Não é X — é Y\" aparece ~2 vezes (limite ≤3). Aberturas de seção diferenciadas (\"Os Tujia...\", \"Os Miao...\", \"Quando o roteiro chega...\", \"Xiamen não é...\", \"Shenzhen apresenta...\") sem repetição; fechos variados.",
+          "quoteId": "Q108"
+        },
+        {
+          "dimension": 6,
+          "score": 5,
+          "justification": "Tags [VERIFICAR] aparecem em pontos genuinamente incertos per FACTS.md (U291 população Tujia, U297 Miao/dialeto, U323 genealogia Shen Congwen). Falha crítica em calibração: três erros factuais de relevância comprovada (xuebaya, Yao, Nanquim) não foram sinalizados apesar de serem demonstravelmente incorretos em FACTS.md. O texto não diferencia entre incerteza legítima (onde tag é apropriada) e afirmação errada apresentada como certeza (onde deveria haver ressalva na prosa ou supressão).",
+          "quoteId": "Q083"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build passa sem erros novos (buildExit: 0, auditExit: 0). Apenas etnias.md alterado, nenhuma mudança a outros arquivos. Front matter completo e válido (type: pais, slug: china, topico: etnias, title, order).",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 62,
+      "cap": 70,
+      "capReasons": [
+        "Teto 70: dois erros relevantes entre as armadilhas de D1 (xiangxi-admin-overextension e tujia-population-8-to-9m)"
+      ],
+      "final": 62,
+      "mainStrength": "Estrutura narrativa que atravessa o roteiro com ancoragem geográfica real, conectando cada etnia a um lugar específico e a um fenômeno observável (diaojiaolou, sanyuesan, qiaopi, diaojiaolou novamente). Voz editorial é consistente e evita exotismo ou pastiche; oferece o ganho central: saber distinguir entre cultura vivida e cultura encenada para o visitante.",
+      "priorityFix": "Corrigir três erros factuais marcados sem ressalva em FACTS.md: (1) xuebaya: \"pato com bolos de sangue e arroz glutinoso\" (não \"sangue defumado\"); (2) mulheres Yao: \"tradição de um corte ritual na juventude\" (não \"cabelo nunca cortado\"); (3) Tratado de Nanquim 1842: \"após a Primeira Guerra do Ópio\" (não \"depois das Guerras do Ópio\", que coloca ambiguamente após a segunda guerra também).",
+      "additionalConcerns": [
+        "U291 contradição interna: \"entre 8 e 9 milhões\" no início contradiz \"9,6 milhões em 2020\" no mesmo parêntese. Suprimir a faixa ou qualificar: \"cerca de 9,6 milhões no censo de 2020\".",
+        "U316 Bao'an 1979: \"algumas dezenas de milhares\" subestima significativamente os ~300 mil residentes do condado. Clarificar se refere ao núcleo urbano de Bao'an-zhen ou ao condado inteiro.",
+        "Nantou/Ela: o texto refere \"Ela\" como \"cidade velha\", mas METRICS e contexto indicam que \"Nantou\" é o nome turístico/corrente. Escopo de edição histórico foi aceito, mas merecia nota de clarificação."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliação cega realizada por sub-agente novo sem acesso a relatórios dos agentes originais. Recebeu somente o candidato C08, a rubrica v2, FACT_SUMMARY, FACTS.md e METRICS.",
+    "Fatos extraídos mecanicamente de FACT_SUMMARY e FACTS.md conforme v2: prioridade (a) armadilhas de D1, (b) discordâncias entre textos, (c) amostragem uniforme.",
+    "D1: taxa de acerto = corretas / (corretas + incorretas), excluindo incertezas. Gravidade: cada erro relevante (armadilha ou afirmação que leitor repetiria) derruba uma faixa inteira além da taxa. D1 não desconta \"duvidosa como certeza\" (isso é D6).",
+    "D6: calibração epistêmica avalia exclusivamente conteúdo do texto (onde incerteza é sinalizada). [VERIFICAR] é marcação honesta de rascunho, não tag vazada. Não penaliza toda causalidade não-comprovada; D6 recompensa tag no lugar exato onde FACTS.md indica incerteza real.",
+    "Teto 70: ativado por 2+ erros relevantes nas armadilhas (factSummary.trapErrors). Não requer erro em seção curta; aplica-se à precisão geral.",
+    "Contexto existente (páginas de atração e cidade) contém placeholders e excertos parciais; não constitui prova factual.",
+    "Escopo de edição histórico (scopeOnlyTarget: true) aceito como declaração válida do registro, sem simulação de diff original."
+  ]
+}

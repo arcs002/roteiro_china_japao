@@ -1,0 +1,30 @@
+{
+  "target": "pesquisa/aprofundamento/paises/china/etnias.md",
+  "findings": [
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 30,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — A viagem de Chongqing a Zhangjiajie e Furong aproxima territórios que as divisões provinciais escondem. Os Tuj"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 44,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — “Miao” é uma categoria oficial ampla, não o nome de uma cultura homogênea. Ela reúne comunidades com línguas, "
+    }
+  ],
+  "page": {
+    "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+    "type": "pais",
+    "slug": "china",
+    "prose": 4022
+  },
+  "wholeGuideCounts": {
+    "pages": 83,
+    "errors": 40,
+    "warnings": 122
+  }
+}

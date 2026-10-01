@@ -1,0 +1,30 @@
+{
+  "target": "pesquisa/aprofundamento/paises/china/etnias.md",
+  "findings": [
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 22,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Tujia habitam uma região que atravessa fronteiras provinciais: o oeste de Hunan, áreas de Hubei e Guizhou e"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 42,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Miao constituem uma categoria oficial ampla, distribuída por Hunan, Guizhou, Yunnan, Guangxi, Sichuan e Cho"
+    }
+  ],
+  "page": {
+    "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+    "type": "pais",
+    "slug": "china",
+    "prose": 3251
+  },
+  "wholeGuideCounts": {
+    "pages": 83,
+    "errors": 40,
+    "warnings": 122
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "evaluations": [
+    {
+      "id": "C01",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 20,
+          "justification": "A taxa é 31/32 (96,875%); o erro relevante sobre o calendário lunar rebaixa a nota uma faixa, para 13–20. Não há erro entre as armadilhas.",
+          "quoteId": "Q116",
+          "quote": "Em 2026, o décimo mês lunar começa por volta de 10 de novembro, logo depois da passagem por Fenghuang (08–09/11)."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos pedidos nos trechos correspondentes, mantém abertura e encerramento e não apresenta resquícios do roteiro antigo, links quebrados ou números de dia.",
+          "quoteId": "Q010",
+          "quote": "Tujia, Miao e Zhuang são *minzu* (民族), minorias com reconhecimento oficial, registradas no documento de identidade de cada cidadão e donas de prefeituras e regiões autônomas com o seu nome."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica mecanismos históricos concretos, como o governo por chefes hereditários, mas retoma parte do conteúdo já desenvolvido nas páginas de cidades e atrações.",
+          "quoteId": "Q054",
+          "quote": "Das dinastias Yuan à Qing, o império governou as montanhas do sudoeste por meio de chefes hereditários locais: o *tusi* recebia título e selo imperial, pagava tributo, fornecia soldados quando o império pedia e, em"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Liga costumes a lugares e ações reconhecíveis pelo viajante, incluindo mercado, comida e língua nas paradas do roteiro.",
+          "quoteId": "Q215",
+          "quote": "Isso aparece no mercado de Yongding às sete da manhã, no pato com sangue do começo do inverno em Fenghuang, no *youcha* de Guilin, na discussão em minnanês na fila do *shacha mian* e no restaurante de migrantes de Hunan"
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "A prosa é fluida e usa português brasileiro consistente; perde um pouco de naturalidade quando anuncia a organização da própria página.",
+          "quoteId": "Q015",
+          "quote": "Esta página segue a ordem do roteiro."
+        },
+        {
+          "dimension": 6,
+          "score": 5,
+          "justification": "A data de início do mês lunar é apresentada com uma conclusão errada sobre a passagem por Fenghuang; outras afirmações classificadas como incertas também aparecem sem ressalva.",
+          "quoteId": "Q116",
+          "quote": "Em 2026, o décimo mês lunar começa por volta de 10 de novembro, logo depois da passagem por Fenghuang (08–09/11)."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug são válidos e preservados; as métricas registram build sem erro novo e edição exclusiva do arquivo alvo.",
+          "quoteId": "Q001",
+          "quote": "---\r\ntype: pais\r\nslug: china\r\ntopico: etnias\r\ntitle: \"China — Etnias\"\r\norder: 2\r\n---"
+        }
+      ],
+      "sum": 79,
+      "cap": null,
+      "capReasons": [],
+      "final": 79,
+      "mainStrength": "Integra classificação étnica, história e observações concretas ao longo do roteiro.",
+      "priorityFix": "Corrigir o calendário lunar de 2026 e revisar a linguagem das afirmações classificadas como incertas.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C02",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 3,
+          "justification": "A taxa de acerto é 12/14 (85,7%), e os dois erros relevantes distintos rebaixam a nota em duas faixas, até o intervalo obrigatório de 0 a 4. O texto atribui indevidamente a Wangcun a sede dos Peng durante oito séculos e exagera a concentração dos Zhuang em Guangxi.",
+          "quoteId": "Q040",
+          "quote": "O clã Peng (彭), por exemplo, governou o senhorio tusi de Yongshun por mais de oito séculos a partir de sua base regional em Wangcun — o povoado cravado sobre a falésia que hoje atende pelo nome de Furong Town."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Os cinco grupos estão ligados às etapas do roteiro, sem resquício do itinerário antigo, números de dia ou links problemáticos; a estrutura e o front matter exigidos estão presentes.",
+          "quoteId": "Q193",
+          "quote": "Cada parada expõe um estrato distinto dessa formação: os desfiladeiros verticais e a arquitetura de madeira suspensa dos Tujia em Zhangjiajie e Furong Town; a tensão de fronteira militarizada, a prata e os lamentos"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Há costumes e mecanismos concretos, como a preparação do chá de óleo, mas parte da extensão retoma temas já desenvolvidos nas páginas de cidades e atrações.",
+          "quoteId": "Q110",
+          "quote": "O ritual matinal do chá de óleo (*you cha*, 油茶) é a bebida identitária que une Zhuang e Yao: folhas secas de chá verde são fritas em uma panela côncava com banha, gengibre ralado fresco, grãos de alho e sal marinho, e"
+        },
+        {
+          "dimension": 4,
+          "score": 7,
+          "justification": "O texto situa os grupos em lugares que o viajante encontrará, como as áreas de alimentação de Shenzhen, mas oferece poucas orientações práticas para reconhecer ou respeitar essas diferenças.",
+          "quoteId": "Q185",
+          "quote": "Essa colcha de retalhos humana tornou-se imediatamente visível nas ruas de alimentação operária e nos arredores dos grandes centros de atacado de tecnologia, como Huaqiangbei e os quarteirões de Chegongmiao e Tairan."
+        },
+        {
+          "dimension": 5,
+          "score": 11,
+          "justification": "A prosa é fluida e está em PT-BR, embora recorra a grandiloquência e repita palavras próximas, como «reluzente» na descrição de Shenzhen.",
+          "quoteId": "Q157",
+          "quote": "Conhecida internacionalmente como a capital global do hardware, polo financeiro reluzente e vitrine tecnológica de arranha-céus reluzentes como a Torre Ping An, a cidade oculta sob seu asfalto duas camadas humanas"
+        },
+        {
+          "dimension": 6,
+          "score": 4,
+          "justification": "Os dois erros checados aparecem sem ressalva, e várias afirmações classificadas como incertas recebem formulação categórica. A estimativa de concentração dos Zhuang é um exemplo claro.",
+          "quoteId": "Q095",
+          "quote": "Este é o território ancestral dos Zhuang (壮族), a mais populosa minoria étnica de toda a China, com mais de 16 milhões de habitantes concentrados quase em sua totalidade na Região Autônoma Zhuang de Guangxi."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou sem erro novo, o registro aceita edição exclusiva do arquivo e o front matter conserva os campos e o slug válidos.",
+          "quoteId": "Q001",
+          "quote": "---\r\ntype: pais\r\nslug: china\r\ntopico: etnias\r\ntitle: \"China — Etnias\"\r\norder: 2\r\n---"
+        }
+      ],
+      "sum": 57,
+      "cap": null,
+      "capReasons": [],
+      "final": 57,
+      "mainStrength": "Cobertura ampla e concreta das culturas ao longo do roteiro.",
+      "priorityFix": "Corrigir os dois erros factuais relevantes e qualificar afirmações cuja precisão permanece incerta.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C03",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 1,
+          "justification": "A taxa exata é 23 acertos em 35 afirmações decididas (65,7%), dentro da faixa final de 0 a 4. Há 12 erros relevantes distintos, entre eles atribuir à sede de Laosicheng todos os 818 anos de domínio Peng.",
+          "quoteId": "Q061",
+          "quote": "Em Yongshun — o condado onde fica Furong — a linhagem Peng governou como *tusi* por 818 anos ininterruptos, do fim da dinastia Tang até 1728, a partir de uma capital fortificada nas montanhas chamada Laosicheng (老司城), \"a"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os grupos pedidos e os liga ao roteiro atual, com abertura, tópicos e encerramento. As métricas não registram resquícios do roteiro antigo, links internos quebrados nem numeração de dias.",
+          "quoteId": "Q016",
+          "quote": "Esta página existe para que essas camadas apareçam antes, e não depois, de cada parada — para que o casario de palafitas em Furong, o chá de óleo numa mesa de Guilin, o dialeto na fila do ferry de Gulangyu e as vilas"
+        },
+        {
+          "dimension": 3,
+          "score": 11,
+          "justification": "Há explicações históricas e culturais concretas, mas a passagem sobre as palafitas e Hongyadong retoma extensamente conteúdo já presente nas páginas de cidade e atração.",
+          "quoteId": "Q074",
+          "quote": "Furong é, inteira, uma vila de *diaojiaolou* escalonadas ao longo de uma cachoeira; Fenghuang tem as suas debruçadas sobre o Rio Tuojiang; e a lógica construtiva reaparece, em versão de concreto e néon, em Hongyadong, no"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "A distinção entre as aldeias Zhuang de Ping’an e as Yao de Dazhai dá ao viajante uma forma útil de reconhecer os grupos no percurso. A ancoragem perde força em algumas generalizações sobre o que encontrará.",
+          "quoteId": "Q138",
+          "quote": "As aldeias da área de Longji, com Ping'an à frente, são Zhuang — casas de madeira de três andares sobre pilotis, com o gado embaixo, a família no meio e o celeiro em cima."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "A prosa em português brasileiro é fluida e produz imagens precisas, como na descrição da arquitetura do campus. Há alguma metalinguagem e repetição de oposições retóricas, embora a contagem medida permaneça dentro do limite.",
+          "quoteId": "Q164",
+          "quote": "Os prédios do campus, com telhados de telha vidrada chinesa sobre corpos de estilo colonial europeu, inventaram um estilo próprio — o \"estilo Jiageng\" — que é a tradução arquitetônica exata da identidade minnanesa:"
+        },
+        {
+          "dimension": 6,
+          "score": 3,
+          "justification": "Vários erros e pontos incertos aparecem sem ressalva; o texto, por exemplo, apresenta com certeza a classificação incorreta do Qo Xiong como ramo ocidental. Não há marcações de verificação.",
+          "quoteId": "Q095",
+          "quote": "A língua pertence à família hmong-mien, sem parentesco com o chinês nem com o tujia, e se divide em três grandes ramos mutuamente incompreensíveis; o ramo falado em Fenghuang e no resto de Xiangxi é o ocidental, ou *Qo"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos e preservados; as métricas registram build sem erro novo e edição exclusiva da página avaliada.",
+          "quoteId": "Q001",
+          "quote": "---\r\ntype: pais\r\nslug: china\r\ntopico: etnias\r\ntitle: \"China — Etnias\"\r\norder: 2\r\n---"
+        }
+      ],
+      "sum": 55,
+      "cap": null,
+      "capReasons": [],
+      "final": 55,
+      "mainStrength": "Explica identidades culturais por meio de lugares, práticas e experiências concretas do roteiro.",
+      "priorityFix": "Corrigir os 12 erros relevantes identificados nos fatos checados, começando pela cronologia de Laosicheng, pela classificação do Qo Xiong e pelos dados de Xiamen.",
+      "additionalConcerns": [
+        "Rever afirmações incertas formuladas como certezas e reduzir a repetição do conteúdo já presente nas páginas de cidade e atração."
+      ]
+    },
+    {
+      "id": "C04",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "As 16 afirmações decididas e checadas estão corretas, sem erros relevantes. A atribuição incerta foi excluída da taxa de acerto.",
+          "quoteId": "Q076",
+          "quote": "Guangxi é uma região autônoma Zhuang desde 1958, e a designação reconhece uma presença histórica que vai muito além dos corredores turísticos."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Os cinco grupos pedidos aparecem ligados às paradas correspondentes, com abertura e encerramento. As métricas não registram resquícios do roteiro antigo nem links internos quebrados.",
+          "quoteId": "Q004",
+          "quote": "Ele começa no relevo de Chongqing, entra no oeste de Hunan por Zhangjiajie e Furong, acompanha o rio Tuo em Fenghuang, desce para o Guangxi de Guilin e Yangshuo, e então muda de registro: a Shenzhen de migrantes de toda"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "O texto explica práticas e mecanismos concretos, como a escrita Zhuang, mas alguns trechos recorrem a generalizações sobre paisagem, turismo e culinária.",
+          "quoteId": "Q080",
+          "quote": "Também existe uma tradição gráfica baseada em caracteres, conhecida como *Sawndip*, e uma escrita latina padronizada criada no século XX."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Há orientações úteis para observar e perguntar durante a visita a Fenghuang; a ligação com atividades concretas é menos forte em parte das demais paradas.",
+          "quoteId": "Q066",
+          "quote": "Antes de atribuir a origem de uma peça, pergunte de onde vem, quem a fez e se é usada em cerimônia ou foi criada para venda."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "A prosa é fluida e mantém uma voz consistente, com poucas fórmulas retóricas. O uso de “mestiza” destoa do PT-BR.",
+          "quoteId": "Q077",
+          "quote": "Em centros urbanos e áreas de forte turismo, a vida cotidiana é multilíngue, mestiza e moderna; em muitos interiores, a língua, o parentesco e os ciclos agrícolas Zhuang seguem dando uma gramática particular ao lugar."
+        },
+        {
+          "dimension": 6,
+          "score": 8,
+          "justification": "O texto costuma evitar atribuições categóricas indevidas, mas apresenta como certa a atribuição a uma página específica cujo conteúdo exato permaneceu incerto na checagem fornecida.",
+          "quoteId": "Q086",
+          "quote": "A [introdução oficial sobre os Zhuang](https://english.scio.gov.cn/m/chinafacts/2017-04/17/content_40636697.htm) destaca justamente o valor de canções responsoriais, metáforas e improviso."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos; as métricas registram build concluído e edição restrita ao arquivo avaliado.",
+          "quoteId": "Q001",
+          "quote": "---\ntype: pais\nslug: china\ntopico: etnias\ntitle: \"China — Etnias\"\norder: 2\n---"
+        }
+      ],
+      "sum": 91,
+      "cap": null,
+      "capReasons": [],
+      "final": 91,
+      "mainStrength": "Articula identidades étnicas e regionais ao roteiro com precisão factual e atenção às práticas vivas.",
+      "priorityFix": "Aprofundar as conexões práticas em Guangxi e Shenzhen e conferir a atribuição específica da fonte sobre os cantos Zhuang.",
+      "additionalConcerns": [
+        "Revisar o uso de “mestiza” em PT-BR."
+      ]
+    },
+    {
+      "id": "C05",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 43 unidades decididas estão corretas, inclusive a distinção administrativa entre Zhangjiajie e Xiangxi; não há erro relevante confirmado.",
+          "quoteId": "Q070",
+          "quote": "Não custa evitar um erro comum: Zhangjiajie é uma cidade de nível de prefeitura separada e não pertence à Prefeitura Autônoma de Xiangxi, embora faça parte do mesmo cinturão cultural Tujia."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos pedidos nos trechos correspondentes do roteiro, preserva a estrutura exigida e não traz resquícios do itinerário antigo.",
+          "quoteId": "Q012",
+          "quote": "Os minnaneses de Xiamen e os hakka das antigas aldeias de Shenzhen são han no registro civil."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica mecanismos históricos concretos, como o governo dos tusi, mas retoma assuntos já desenvolvidos nas páginas de cidades e atrações.",
+          "quoteId": "Q055",
+          "quote": "Desde os Tang, e de forma mais organizada sob os Yuan e os Ming, a corte reconhecia chefes hereditários locais, os *tusi* (土司), que recebiam títulos e pagavam tributo e, em troca, mantinham jurisdição própria sobre"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Relaciona os grupos a visitas e escolhas práticas, inclusive a cautela sobre a possível festa Miao nas datas de Fenghuang.",
+          "quoteId": "Q124",
+          "quote": "Se aparecerem roupas bordadas em anil e vermelho ou o som grave dos *lusheng*, tubos de bambu soprados, vindo de algum pátio, vale perguntar na pousada onde é a festa."
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "A prosa é fluida e concreta, com imagens observáveis e ritmo variado; algumas formulações categóricas pedem revisão.",
+          "quoteId": "Q017",
+          "quote": "Com mais frequência, está numa carne defumada pendurada na cozinha, num dialeto ouvido na fila do ferry ou num prédio de oito andares erguido às pressas num beco de dois metros."
+        },
+        {
+          "dimension": 6,
+          "score": 5,
+          "justification": "Várias unidades classificadas como incertas aparecem sem ressalva, como a associação entre inquilinos e ausência de registro local.",
+          "quoteId": "Q181",
+          "quote": "Isso cria uma divisão social que nenhum censo étnico registra: nativos com terra e renda de aluguel de um lado, inquilinos sem registro do outro."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter está preservado e válido; as métricas registram build e auditoria aprovados e edição exclusiva do arquivo alvo.",
+          "quoteId": "Q001",
+          "quote": "---\r\ntype: pais\r\nslug: china\r\ntopico: etnias\r\ntitle: \"China — Etnias\"\r\norder: 2\r\n---"
+        }
+      ],
+      "sum": 89,
+      "cap": null,
+      "capReasons": [],
+      "final": 89,
+      "mainStrength": "Conecta identidades, história e experiências concretas ao longo do roteiro.",
+      "priorityFix": "Qualificar afirmações que a checagem deixou incertas, especialmente genealogia, causas urbanas e generalizações sociais.",
+      "additionalConcerns": [
+        "Reduzir a repetição de conteúdo já desenvolvido nas páginas de cidades e atrações."
+      ]
+    },
+    {
+      "id": "C06",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "As 17 afirmações decididas foram classificadas como corretas, sem erros relevantes ou de armadilha; o texto distingue corretamente Zhangjiajie da prefeitura de Xiangxi.",
+          "quoteId": "Q022",
+          "quote": "Zhangjiajie faz parte desse espaço cultural, mas é uma cidade administrativamente distinta da Prefeitura Autônoma Tujia e Miao de Xiangxi."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos pedidos, distingue Minnan e Hakka das minorias oficiais e segue o roteiro atual; as métricas não registram resquícios do roteiro antigo, links problemáticos ou números de dia.",
+          "quoteId": "Q012",
+          "quote": "Minnan e Hakka, por sua vez, designam comunidades linguísticas e culturais geralmente classificadas como han."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica mecanismos históricos e culturais com exemplos concretos, como as chefias tusi, mas retoma parte do contexto já presente nas páginas de cidade e atração.",
+          "quoteId": "Q031",
+          "quote": "Durante séculos, parte desse mundo montanhoso foi administrada por chefes hereditários reconhecidos pelo poder imperial, os *tusi*."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Relaciona os grupos a lugares do roteiro e oferece formas úteis de observar a arquitetura em Furong; a orientação prática é menos específica para Hakka em Shenzhen.",
+          "quoteId": "Q050",
+          "quote": "Em Furong, observar a relação entre plataforma, declive e rua comercial explica mais que tratar todo beiral como símbolo ancestral."
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "A abertura é fluida e concreta, com português consistente; algumas passagens posteriores reiteram a mesma oposição entre representação turística e vida cotidiana.",
+          "quoteId": "Q003",
+          "quote": "Uma casa apoiada em pilares sobre o Tuojiang, em Fenghuang, e uma tigela de macarrão com molho *shacha*, em Xiamen, contam histórias diferentes sobre pertencimento."
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "O texto ressalva limites da evidência onde cabem, como ao tratar Liu Sanjie como tradição oral, e não apresenta como certas afirmações classificadas como erradas nos fatos fornecidos.",
+          "quoteId": "Q097",
+          "quote": "A história possui numerosas versões e não deve ser lida como biografia verificável de uma cantora específica do século IX."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos; as métricas registram build e auditoria sem erro novo e edição exclusiva do arquivo avaliado.",
+          "quoteId": "Q001",
+          "quote": "---\r\ntype: pais\r\nslug: china\r\ntopico: etnias\r\ntitle: \"China — Etnias\"\r\norder: 2\r\n---"
+        }
+      ],
+      "sum": 94,
+      "cap": null,
+      "capReasons": [],
+      "final": 94,
+      "mainStrength": "Contextualiza identidades sem confundir classificação oficial, cultura regional e representação turística.",
+      "priorityFix": "Dar referências de visita mais concretas à presença Hakka em Shenzhen e condensar trechos já tratados nas páginas de cidade e atração.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C07",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "As 30 afirmações decididas estão corretas; não há erros relevantes nem erros entre as armadilhas.",
+          "quoteId": "Q045",
+          "quote": "O censo de 2020 registrou [9.587.732 Tujia](https://www.neac.gov.cn/seac/ztzl/tjz/gk.shtml)."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre todos os grupos pedidos nos trechos correspondentes do roteiro, preserva a estrutura exigida e não apresenta resquícios do itinerário antigo.",
+          "quoteId": "Q004",
+          "quote": "Basta ampliar o mapa para o sudeste da municipalidade e depois olhar para o outro lado da fronteira de Hunan, porém, para que outros nomes apareçam: Tujia em Zhangjiajie e Furong, Miao e Tujia em Fenghuang."
+        },
+        {
+          "dimension": 3,
+          "score": 13,
+          "justification": "Explica processos históricos e culturais com lugares e mecanismos concretos, embora retome algumas vezes a distinção entre identidade cotidiana e apresentação turística.",
+          "quoteId": "Q058",
+          "quote": "No início do século XVIII, reformas Qing agrupadas sob o nome *gǎitǔ guīliú* substituíram muitas dessas chefias por funcionários nomeados pelo governo central."
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Relaciona as culturas ao que o viajante encontrará e oferece critérios úteis para interpretar atrações, como a diferença entre o espetáculo de Yangshuo e o canto comunitário.",
+          "quoteId": "Q123",
+          "quote": "O nome da cantora lendária cria a ponte com o repertório regional; a montagem, porém, não deve ser confundida com um encontro comunitário de canto."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "A prosa é fluida e visual, com boa voz narrativa; a repetição de ressalvas sobre figurinos e autenticidade reduz um pouco o ritmo.",
+          "quoteId": "Q009",
+          "quote": "A mudança cultural raramente chega vestida para ser reconhecida."
+        },
+        {
+          "dimension": 6,
+          "score": 7,
+          "justification": "O texto distingue bem lenda, classificação oficial e representação turística, mas apresenta como firme a cifra de residentes com hukou local, cujo universo permanece incerto nos fatos fornecidos.",
+          "quoteId": "Q149",
+          "quote": "Em 2020, Shenzhen registrava cerca de 17,56 milhões de residentes permanentes, dos quais aproximadamente [5,88 milhões possuíam *hukou* local](https://www.sz.gov.cn/attachment/0/934/934578/9480770.pdf)."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos; as métricas registram build aprovado e edição restrita à página avaliada.",
+          "quoteId": "Q001",
+          "quote": "---\ntype: pais\nslug: china\ntopico: etnias\ntitle: \"China — Etnias\"\norder: 2\n---"
+        }
+      ],
+      "sum": 92,
+      "cap": null,
+      "capReasons": [],
+      "final": 92,
+      "mainStrength": "Explica diferenças étnicas e culturais por meio de história, língua e experiências concretas do roteiro.",
+      "priorityFix": "Conciliar os universos estatísticos antes de afirmar quantos residentes de Shenzhen tinham hukou local em 2020.",
+      "additionalConcerns": [
+        "Algumas descrições locais e sociolinguísticas permanecem incertas nos fatos fornecidos e merecem ressalva ou verificação."
+      ]
+    },
+    {
+      "id": "C08",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 1,
+          "justification": "Das 28 afirmações decididas, 22 estão corretas (78,57%). Seis erros relevantes distintos reduzem a faixa base de 5–12 para 0–4; incluir Zhangjiajie na prefeitura de Xiangxi é um deles.",
+          "quoteId": "Q025",
+          "quote": "Xiangxi, a área de Zhangjiajie, Furong e Fenghuang, é oficialmente a Prefeitura Autônoma Tujia e Miao de Xiangxi."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Cobre os cinco grupos pedidos, mantém a estrutura exigida e não traz resquícios do roteiro antigo. A seção de Xiamen aparece antes da de Shenzhen, invertendo a ordem da viagem.",
+          "quoteId": "Q104",
+          "quote": "## Minnan: a língua que cruzou o mar (Xiamen)"
+        },
+        {
+          "dimension": 3,
+          "score": 11,
+          "justification": "Explica mecanismos históricos concretos, como a substituição das chefaturas locais, mas parte da discussão sobre Tujia e atrações retoma conteúdo já presente nas páginas de cidades.",
+          "quoteId": "Q045",
+          "quote": "Nas décadas de 1720 e 1730, os Qing aplicaram a política do *gaitu guiliu* (改土归流), a \"substituição dos chefes locais por magistrados nomeados\", que desmontou essa estrutura e abriu a região à colonização han."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Relaciona tradições a visitas e datas úteis, como a diferença entre o espetáculo em Yangshuo e o festival celebrado fora da viagem; algumas orientações sobre observar o cotidiano são genéricas.",
+          "quoteId": "Q096",
+          "quote": "É teatro de altíssima produção e serve como ponte, não como imersão: a canção viva do *sanyuesan* acontece em março ou abril, fora da janela da viagem, e o que o show oferece é um arquivo coreografado dela."
+        },
+        {
+          "dimension": 5,
+          "score": 10,
+          "justification": "A prosa é em geral fluida, mas há repetição da oposição entre cultura vivida e encenada e uma frase incompleta no trecho sobre Yangshuo.",
+          "quoteId": "Q103",
+          "quote": "denuncia a origem zhuang) e nas mesas que servem arroz glutinoso colorido e peixe do rio, que nas ruas turísticas."
+        },
+        {
+          "dimension": 6,
+          "score": 2,
+          "justification": "Há erros apresentados sem ressalva, inclusive a afirmação de que as mulheres Yao nunca cortam o cabelo. As marcações de verificação em outros pontos não compensam essas certezas indevidas.",
+          "quoteId": "Q098",
+          "quote": "Os terraços de arroz de Longji, em camadas de centenas de anos, pertencem a dois povos diferentes: a aldeia de Ping'an é Zhuang, e a de Dazhai, com suas mulheres Yao de cabelo longo nunca cortado, é Yao."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o registro de escopo declara edição exclusiva da página e o front matter preserva tipo, slug e demais campos exigidos.",
+          "quoteId": "Q001",
+          "quote": "---\r\ntype: pais\r\nslug: china\r\ntopico: etnias\r\ntitle: \"China — Etnias\"\r\norder: 2\r\n---"
+        }
+      ],
+      "sum": 51,
+      "cap": 70,
+      "capReasons": [
+        "Dois erros relevantes entre as armadilhas: inclusão de Zhangjiajie na prefeitura de Xiangxi e população Tujia contraditória."
+      ],
+      "final": 51,
+      "mainStrength": "Boa ligação entre história étnica, costumes e paradas concretas do roteiro.",
+      "priorityFix": "Corrigir os seis erros factuais decididos, começando pelas duas armadilhas, e revisar afirmações categóricas sem sustentação.",
+      "additionalConcerns": [
+        "Colocar Shenzhen antes de Xiamen para acompanhar a ordem da viagem.",
+        "Corrigir a frase incompleta sobre Yangshuo."
+      ]
+    },
+    {
+      "id": "C09",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "As 15 afirmações decididas e checadas estão corretas, sem erros relevantes ou nas armadilhas; a distinção entre minnaneses, hakka e minorias oficiais está precisa.",
+          "quoteId": "Q029",
+          "quote": "Minnaneses e hakka, em contraste, são geralmente classificados como han, apesar de possuírem línguas siníticas próprias, histórias migratórias extensas e tradições regionais que não se confundem com o mandarim do norte."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "O texto cobre os grupos pedidos nos trechos correspondentes do roteiro, mantém a estrutura exigida e não apresenta resquícios do itinerário antigo.",
+          "quoteId": "Q003",
+          "quote": "A viagem atravessa a China de oeste para leste e, ao fazê-lo, cruza diferentes maneiras de pertencer ao país."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Há mecanismos históricos e culturais concretos ao longo da página, mas a explicação de Hongyadong retoma conteúdo já desenvolvido na página da atração.",
+          "quoteId": "Q041",
+          "quote": "No centro de Chongqing, Hongyadong usa uma versão monumental e contemporânea das *diaojiaolou*, as casas de “pés suspensos” associadas a diferentes povos montanheses do sudoeste."
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "As identidades são ligadas a lugares do percurso e a formas úteis de observar e interagir, como perguntar pela procedência de um objeto.",
+          "quoteId": "Q211",
+          "quote": "Perguntar de onde vem um objeto e como foi produzido costuma abrir uma troca mais concreta que procurar alguém disposto a representar “seu povo”."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "A prosa é clara e fluida, mas as orientações ao viajante permanecem impessoais, sem o uso de «você» previsto na rubrica.",
+          "quoteId": "Q210",
+          "quote": "Fotografar pessoas pede consentimento, sobretudo quando o interesse está no vestuário ou numa prática familiar."
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "O texto ressalva adequadamente pontos sujeitos a interpretação, como a tradição oral de Liu Sanjie, e não apresenta como certas afirmações checadas como erradas.",
+          "quoteId": "Q121",
+          "quote": "A história possui numerosas versões e não deve ser lida como biografia verificável de uma cantora específica do século IX."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug são válidos; as métricas registram build sem erro novo e edição restrita ao arquivo avaliado.",
+          "quoteId": "Q001",
+          "quote": "---\r\ntype: pais\r\nslug: china\r\ntopico: etnias\r\ntitle: \"China — Etnias\"\r\norder: 2\r\n---"
+        }
+      ],
+      "sum": 93,
+      "cap": null,
+      "capReasons": [],
+      "final": 93,
+      "mainStrength": "Explica como território, história e migração moldam as identidades encontradas no roteiro, com precisão factual nas afirmações checadas.",
+      "priorityFix": "Reduzir a retomada de Hongyadong e adotar com mais constância a voz dirigida ao viajante.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C10",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "As 16 afirmações adjudicadas estão corretas, sem erros relevantes; os dados do censo exemplificam a precisão factual.",
+          "quoteId": "Q008",
+          "quote": "No censo de 2020, os Han representavam 91,11% da população contabilizada no continente; as minorias somavam 125,47 milhões de pessoas."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "O texto cobre os grupos pedidos ao longo do roteiro atual, preserva a estrutura exigida e não apresenta resquícios do roteiro antigo nem links internos quebrados.",
+          "quoteId": "Q006",
+          "quote": "No percurso Chongqing → Zhangjiajie/Furong → Fenghuang → Guilin/Yangshuo → Shenzhen → Xiamen, a diversidade aparece tanto nas montanhas quanto nas cidades de comércio e migração."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Há explicações concretas, como o uso do sawndip, mas a ressalva de que sinais visíveis não determinam identidade reaparece com frequência e reduz a densidade.",
+          "quoteId": "Q113",
+          "quote": "O *sawndip* emprega caracteres chineses e adaptações para registrar palavras Zhuang; seus manuscritos incluem cantos, narrativas e textos rituais."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "As orientações de observação em Furong são úteis e ligadas ao lugar; em outras passagens, a conexão com a experiência do viajante é menos prática.",
+          "quoteId": "Q048",
+          "quote": "Observe como os apoios vencem desníveis, como o piso habitável se separa da encosta e como as galerias aproveitam a borda construída."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "A abertura é fluida e visual, embora a repetição de ressalvas ao longo da página reduza a variedade de ritmo.",
+          "quoteId": "Q003",
+          "quote": "Uma casa de madeira sobre pilares em Furong, uma roupa bordada numa loja de Fenghuang e uma fachada de Gulangyu contam histórias diferentes de pertencimento."
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "O texto distingue possibilidades de eventos previstos, como ao sugerir ouvir nanyin sem prometer uma apresentação durante a visita; não há erros checados apresentados como certeza.",
+          "quoteId": "Q218",
+          "quote": "Ouvir uma gravação antes da passagem por Xiamen permite reconhecer essa dimensão, sem pressupor que haverá uma apresentação durante a visita."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter e slug estão válidos e preservados; as métricas registram build e auditoria concluídos, com edição restrita à página avaliada.",
+          "quoteId": "Q001",
+          "quote": "---\ntype: pais\nslug: china\ntopico: etnias\ntitle: \"China — Etnias\"\norder: 2\n---"
+        }
+      ],
+      "sum": 92,
+      "cap": null,
+      "capReasons": [],
+      "final": 92,
+      "mainStrength": "Explica diferenças entre classificação étnica, língua e identidade com exemplos ligados aos lugares do roteiro.",
+      "priorityFix": "Enxugar ressalvas repetidas sobre a impossibilidade de deduzir identidades pela aparência, preservando os exemplos mais úteis.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C11",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 19 afirmações factuais decididas estão corretas, sem erros relevantes; a distinção administrativa entre Zhangjiajie e Xiangxi exemplifica o cuidado factual.",
+          "quoteId": "Q032",
+          "quote": "Zhangjiajie é uma cidade administrativa separada da prefeitura autônoma Tujia e Miao de Xiangxi, enquanto Furong pertence ao condado de Yongshun, dentro de Xiangxi."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos nos trechos pertinentes, preserva a estrutura exigida e não apresenta resquícios do roteiro antigo, links internos quebrados ou números de dia.",
+          "quoteId": "Q020",
+          "quote": "Minnan e Hakka designam identidades culturais e linguísticas dentro do universo Han, distintas das categorias oficiais Tujia, Miao ou Zhuang."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica práticas específicas, como o uso do sawndip, e acrescenta contexto cultural; algumas passagens reiteram ideias gerais sobre pertencimento e diversidade.",
+          "quoteId": "Q131",
+          "quote": "O *sawndip* emprega caracteres chineses adaptados para escrever Zhuang e aparece em textos de canções, rituais e histórias."
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Relaciona os grupos a experiências concretas do roteiro, como a diferença entre o espetáculo de Yangshuo e o canto comunitário Zhuang.",
+          "quoteId": "Q144",
+          "quote": "Em Yangshuo, o espetáculo [Impressão Liu Sanjie](#atracao/impressao-liu-sanjie), já presente no roteiro, trabalha essa figura em outra escala."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "O português é claro e consistente, mas a repetição de formulações abstratas sobre escalas, relações e pertencimento reduz o ritmo da prosa.",
+          "quoteId": "Q264",
+          "quote": "Os pátios de Hehu ajudam a pensar formas de convivência, enquanto Shenzhen amplia essa pergunta para a cidade que recebe novos moradores."
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "O texto distingue contexto de visita efetiva e trata a lenda e as categorias étnicas com ressalvas adequadas; os fatos checados não apontam afirmações erradas ou incertas.",
+          "quoteId": "Q151",
+          "quote": "A passagem por Guilin, por si só, não significa uma visita a Longsheng; tampouco torna equivalentes esses grupos."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos; as métricas registram build e auditoria sem erro novo e edição restrita ao arquivo-alvo.",
+          "quoteId": "Q001",
+          "quote": "---\ntype: pais\nslug: china\ntopico: etnias\ntitle: \"China — Etnias\"\norder: 2\n---"
+        }
+      ],
+      "sum": 92,
+      "cap": null,
+      "capReasons": [],
+      "final": 92,
+      "mainStrength": "Contextualiza diferenças étnicas e linguísticas com exemplos ligados às paradas da viagem, sem atribuir identidades automaticamente aos moradores.",
+      "priorityFix": "Enxugar as passagens abstratas e repetitivas para dar mais espaço às observações concretas.",
+      "additionalConcerns": []
+    }
+  ],
+  "methodNotes": [
+    {
+      "id": "C01",
+      "notes": []
+    },
+    {
+      "id": "C02",
+      "notes": []
+    },
+    {
+      "id": "C03",
+      "notes": [
+        "D1 usa 23/35 = 65,7%; a faixa final fornecida é [0,4]. As 24 unidades incertas foram excluídas do denominador.",
+        "Nenhum teto se aplica: não há erro entre as armadilhas, resquício do roteiro antigo, invenção constatada, build quebrado ou corpo abaixo de 2.000 palavras."
+      ]
+    },
+    {
+      "id": "C04",
+      "notes": []
+    },
+    {
+      "id": "C05",
+      "notes": [
+        "D1: 43 acertos em 43 unidades decididas; 12 unidades incertas foram excluídas da taxa e avaliadas quanto à linguagem em D6.",
+        "O corpo tem 4.375 palavras; não há teto aplicável."
+      ]
+    },
+    {
+      "id": "C06",
+      "notes": []
+    },
+    {
+      "id": "C07",
+      "notes": []
+    },
+    {
+      "id": "C08",
+      "notes": [
+        "Taxa de D1: 22/28 = 78,57%; incertezas excluídas. A faixa base de 5–12 desce uma faixa por cada um dos seis erros relevantes distintos, resultando em 0–4.",
+        "O teto de 70 decorre exclusivamente das duas armadilhas erradas; não altera a nota final porque a soma é 51."
+      ]
+    },
+    {
+      "id": "C09",
+      "notes": []
+    },
+    {
+      "id": "C10",
+      "notes": [
+        "D1 usa a taxa exata de 16 acertos em 16 afirmações adjudicadas e a faixa [27,30] fornecida; não há erros relevantes distintos."
+      ]
+    },
+    {
+      "id": "C11",
+      "notes": []
+    }
+  ]
+}

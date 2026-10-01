@@ -1,0 +1,58 @@
+{
+  "target": "pesquisa/aprofundamento/paises/china/etnias.md",
+  "findings": [
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 30,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Tujia (土家族) eram 9,59 milhões no censo de 2020, o que os coloca entre as maiores minorias do país. Vivem no"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 32,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — O que marca a história dos Tujia é o sistema *tusi* (土司), mais do que qualquer traço folclórico. Das dinastias"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 44,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Miao (苗族) eram 11,07 milhões em 2020 e estão espalhados por Guizhou, Hunan, Yunnan, Guangxi, Chongqing e Hu"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 78,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — Dafen, a aldeia das pinturas a óleo que o roteiro visita em Longgang, fica exatamente nessa faixa de antigas a"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 80,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — A etnia que define Shenzhen hoje, afinal, é outra: a do migrante. O censo de 2020 contou mais de 17,5 milhões "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 80,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — A etnia que define Shenzhen hoje, afinal, é outra: a do migrante. O censo de 2020 contou mais de 17,5 milhões "
+    }
+  ],
+  "page": {
+    "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+    "type": "pais",
+    "slug": "china",
+    "prose": 4426
+  },
+  "wholeGuideCounts": {
+    "pages": 83,
+    "errors": 40,
+    "warnings": 126
+  }
+}

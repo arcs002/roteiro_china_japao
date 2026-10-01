@@ -1,0 +1,74 @@
+```json
+{
+  "evaluations": [
+    {
+      "id": "C01",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 19,
+          "justification": "Taxa de acerto 96,9% (31/32 adjudicadas) reduzida conforme rubrica de um faixa por 1 erro relevante; faixa base [13-20] mantida; posicionamento no topo reflete acurácia elevada com erro bem localizado e zero erros de armadilha.",
+          "quoteId": "Q023"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Todos os 5 grupos (Tujia, Miao, Zhuang, Minnan, Hakka) cobertos com ligação ao roteiro; zero resquício do roteiro antigo; estrutura íntegra (Abertura + 6 seções + Encerramento); front matter e slug válidos.",
+          "quoteId": "Q010"
+        },
+        {
+          "dimension": 3,
+          "score": 14,
+          "justification": "Acima do piso (4.483 palavras), quase todo parágrafo com nomes/datas/lugares concretos, mecanismos explicados (por que Tujia usa diaojiaolou, por que Fenghuang é fortaleza), sem duplicação com páginas de cidades existentes.",
+          "quoteId": "Q053"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Conexões práticas abundantes: comida específica por parada, datas de Ano Novo Miao alinhadas ao roteiro, aldeias nomeadas para visita, observações de linguagem viva e navegação em restaurantes de migrantes.",
+          "quoteId": "Q215"
+        },
+        {
+          "dimension": 5,
+          "score": 15,
+          "justification": "Prosa fluida com ritmo variado, voz de livro-reportagem consistente, sem clichê ou metalinguagem, PT-BR íntegro com 'você' uniforme, retórica equilibrada (3 estruturas 'não é X — é Y' sob limite, aberturas variadas).",
+          "quoteId": "Q088"
+        },
+        {
+          "dimension": 6,
+          "score": 6,
+          "justification": "Uma falha clara (U020: data lunar apresentada como 'por volta de 10/11' quando é 9/11, dentro do intervalo 08–09/11); múltiplas incertezas reais sem tag [VERIFICAR] (Laosicheng, Muralha 1554, filme 1961) mas com linguagem matizada (cerca de, segundo, resposta honesta).",
+          "quoteId": "Q116"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build passou sem erro novo (exit 0), apenas etnias.md alterado no escopo, front matter intacto e completo (type/slug/topico/title/order), slug válido.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 83,
+      "cap": null,
+      "capReasons": [],
+      "final": 83,
+      "mainStrength": "Estrutura abrangente cobrindo 5 grupos do brief com profundidade histórica (sistema tusi, Muralha de Miaojiang, diáspora minnanesa) e ancoragem prática clara ao roteiro; prosa de livro-reportagem sem duplicação com páginas existentes.",
+      "priorityFix": "Corrigir U020: décimo mês lunar começa em 9 de novembro, não 'por volta de 10', pois 9 fica dentro do intervalo de parada 08–09/11; adicionar sinalização [VERIFICAR] para incertezas reais (genealogia Shen Congwen, data Muralha Ming 1554 vs 1555, filme Liu Sanjie 1960 vs 1961).",
+      "additionalConcerns": [
+        "Genealogia de Shen Congwen (avó Miao, mãe Tujia) sinalizada como 'segundo a biografia mais repetida', mas não explora discordância em fontes sobre classificação materna.",
+        "Afirmação sobre rebelião Miao 1795-1806 'dando à cidade o aspecto de fortaleza' imprecisa: fortificações pré-existiam, rebelião motivou reforços, não construção original.",
+        "Múltiplas afirmações sobre tradições, datas e migrações poderiam ganhar sinalização [VERIFICAR] para máxima clareza epistêmica."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliação única de C01 sem comparação; cego quanto a autoria/modelo.",
+    "Fatos checados contra FACT_SUMMARY (51 unidades, 31 corretas, 1 incorreta U020, 15 incertas) e FACTS.md com vereditos.",
+    "METRICS consultado: 4.483 palavras, build exit 0, front matter preservado, 0 new warnings no build, scopeOnlyTarget=true.",
+    "Duplicação verificada via EXISTING_PAGE_CONTEXT (Hongyadong 2431w, Furong 9228w, Fenghuang 8252w, Shenzhen 13623w, Xiamen 14681w): nenhuma duplicação significativa detectada.",
+    "D1 faixa [13-20] confirmada por factSummary.d1Range; score 19 reflete taxa elevada (96,9%) dentro faixa reduzida por 1 erro relevante.",
+    "D3 sem aplicação de teto 65: 4.483 > 2.000 palavras.",
+    "D6: Uma falha (U020 erro como certeza) + múltiplas incertezas não sinalizadas = 6 pts (limite inferior de 6-8).",
+    "Nenhum teto final: sem build quebrado, sem resquício antigo, 1 erro (não 2+) não em armadilhas, acima piso, sem invenção."
+  ]
+}
+```

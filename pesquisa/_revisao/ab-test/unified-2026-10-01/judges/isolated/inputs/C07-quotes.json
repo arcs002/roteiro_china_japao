@@ -1,0 +1,806 @@
+[
+  {
+    "quoteId": "Q001",
+    "text": "---\ntype: pais\nslug: china\ntopico: etnias\ntitle: \"China — Etnias\"\norder: 2\n---"
+  },
+  {
+    "quoteId": "Q002",
+    "text": "# China — Etnias"
+  },
+  {
+    "quoteId": "Q003",
+    "text": "Em Chongqing, a viagem começa entre arranha-céus, escadas e restaurantes onde o mapa cultural parece inteiramente urbano."
+  },
+  {
+    "quoteId": "Q004",
+    "text": "Basta ampliar o mapa para o sudeste da municipalidade e depois olhar para o outro lado da fronteira de Hunan, porém, para que outros nomes apareçam: Tujia em Zhangjiajie e Furong, Miao e Tujia em Fenghuang."
+  },
+  {
+    "quoteId": "Q005",
+    "text": "Mais ao sul, o Rio Li atravessa Guangxi, região autônoma que leva os Zhuang no próprio nome."
+  },
+  {
+    "quoteId": "Q006",
+    "text": "Shenzhen muda novamente a pergunta: ali, antigas comunidades Hakka dividem território com milhões de pessoas vindas de outras províncias."
+  },
+  {
+    "quoteId": "Q007",
+    "text": "Em Xiamen, a fala Minnan e as conexões familiares com Taiwan e o Sudeste Asiático voltam o olhar para o mar."
+  },
+  {
+    "quoteId": "Q008",
+    "text": "Nada disso forma uma sequência de mundos fechados."
+  },
+  {
+    "quoteId": "Q009",
+    "text": "A mudança cultural raramente chega vestida para ser reconhecida."
+  },
+  {
+    "quoteId": "Q010",
+    "text": "Pode estar no idioma usado entre avó e neto, na madeira de uma casa, no desenho de um altar doméstico, numa canção convertida em espetáculo, no tempero compartilhado por povos vizinhos ou no endereço de origem exibido"
+  },
+  {
+    "quoteId": "Q011",
+    "text": "por um motorista de aplicativo em Shenzhen."
+  },
+  {
+    "quoteId": "Q012",
+    "text": "Traje cerimonial existe, mas costuma aparecer em festas, rituais e encenações turísticas; tomá-lo como prova principal de identidade seria confundir ocasião com vida diária."
+  },
+  {
+    "quoteId": "Q013",
+    "text": "Este percurso, portanto, não atravessa blocos étnicos com bordas nítidas."
+  },
+  {
+    "quoteId": "Q014",
+    "text": "Ele passa por regiões onde categorias oficiais, costumes locais, línguas e migrações se sobrepõem."
+  },
+  {
+    "quoteId": "Q015",
+    "text": "Zhangjiajie pode ser profundamente associada à história Tujia e, ao mesmo tempo, operar como destino nacional."
+  },
+  {
+    "quoteId": "Q016",
+    "text": "Fenghuang reúne heranças Miao e Tujia dentro de uma cidade transformada pelo turismo."
+  },
+  {
+    "quoteId": "Q017",
+    "text": "Guilin e Yangshuo pertencem a Guangxi sem serem cidades exclusivamente Zhuang."
+  },
+  {
+    "quoteId": "Q018",
+    "text": "Shenzhen e Xiamen mostram outra escala: a primeira foi refeita pela mobilidade interna; a segunda conserva uma cultura regional Han cujo alcance ultrapassa o litoral de Fujian."
+  },
+  {
+    "quoteId": "Q019",
+    "text": "Ver essas diferenças exige ouvir relações, não colecionar figurinos."
+  },
+  {
+    "quoteId": "Q020",
+    "text": "## Antes dos nomes: etnia oficial, cultura regional e migração"
+  },
+  {
+    "quoteId": "Q021",
+    "text": "A China organiza oficialmente sua população em 56 *minzu*: a maioria Han e 55 grupos classificados como minorias étnicas. *Minzu* pode ser traduzido como “etnia” ou “nacionalidade”, mas funciona também como categoria de"
+  },
+  {
+    "quoteId": "Q022",
+    "text": "censo, administração pública e políticas culturais."
+  },
+  {
+    "quoteId": "Q023",
+    "text": "No censo de 2020, os Han correspondiam a 91,11% da população e o conjunto das minorias, a 8,89%, segundo o [National Bureau of Statistics da"
+  },
+  {
+    "quoteId": "Q024",
+    "text": "China](https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817185.html)."
+  },
+  {
+    "quoteId": "Q025",
+    "text": "A aparente precisão da conta não elimina a diversidade interna de cada categoria."
+  },
+  {
+    "quoteId": "Q026",
+    "text": "“Tujia”, “Miao” e “Zhuang” são nomes oficiais registrados pelo Estado, mas cada um reúne histórias locais, variedades linguísticas e formas distintas de se apresentar no cotidiano."
+  },
+  {
+    "quoteId": "Q027",
+    "text": "Minnan e Hakka pedem outra lente."
+  },
+  {
+    "quoteId": "Q028",
+    "text": "Minnan designa uma cultura e um conjunto de variedades linguísticas do sul de Fujian, com Xiamen dentro dessa geografia e extensões históricas em Taiwan e comunidades do Sudeste Asiático."
+  },
+  {
+    "quoteId": "Q029",
+    "text": "Hakka — *Kejia*, “famílias convidadas” — identifica populações Han marcadas por língua, memória de deslocamentos e formas próprias de sociabilidade, presentes também no território que se tornou Shenzhen."
+  },
+  {
+    "quoteId": "Q030",
+    "text": "Nenhum dos dois aparece entre as 55 minorias oficiais: em geral, seus integrantes são contabilizados como Han."
+  },
+  {
+    "quoteId": "Q031",
+    "text": "Isso não torna essas identidades superficiais; apenas mostra que cultura regional e classificação étnica oficial medem coisas diferentes."
+  },
+  {
+    "quoteId": "Q032",
+    "text": "“Migrante”, por sua vez, não responde à pergunta sobre etnia."
+  },
+  {
+    "quoteId": "Q033",
+    "text": "Em Shenzhen, pode designar tanto uma engenheira Han de Hubei quanto um trabalhador Tujia de Hunan ou uma empresária Zhuang de Guangxi."
+  },
+  {
+    "quoteId": "Q034",
+    "text": "É uma condição de mobilidade, frequentemente ligada à distância entre o lugar onde a pessoa vive e seu registro domiciliar, o *hukou*."
+  },
+  {
+    "quoteId": "Q035",
+    "text": "A cidade se torna legível menos por uma origem comum do que pelo encontro de origens levado às fábricas, empresas, escolas, restaurantes e bairros."
+  },
+  {
+    "quoteId": "Q036",
+    "text": "Também os nomes administrativos precisam ser lidos sem atalhos."
+  },
+  {
+    "quoteId": "Q037",
+    "text": "Uma região autônoma, uma prefeitura autônoma ou um condado autônomo reconhece a presença histórica de determinado grupo e estabelece formas específicas de representação e política pública; não cria uma fronteira cultural"
+  },
+  {
+    "quoteId": "Q038",
+    "text": "nem garante população homogênea."
+  },
+  {
+    "quoteId": "Q039",
+    "text": "Guangxi não é exclusivamente Zhuang, assim como uma área autônoma Tujia e Miao não contém apenas Tujia e Miao."
+  },
+  {
+    "quoteId": "Q040",
+    "text": "Ao longo do roteiro, portanto, os nomes operam em escalas diferentes: alguns pertencem ao censo, outros à língua e à memória regional, outros ainda ao movimento de pessoas."
+  },
+  {
+    "quoteId": "Q041",
+    "text": "Distingui-los permite perceber continuidade e mistura onde um mapa turístico talvez ofereça apenas tipos humanos prontos."
+  },
+  {
+    "quoteId": "Q042",
+    "text": "## Tujia: o corredor das montanhas Wuling"
+  },
+  {
+    "quoteId": "Q043",
+    "text": "A viagem de Chongqing a Zhangjiajie e Furong aproxima territórios que as divisões provinciais escondem."
+  },
+  {
+    "quoteId": "Q044",
+    "text": "Os Tujia não pertencem a uma única província: sua área histórica acompanha as montanhas Wuling, onde Hunan, Hubei, Chongqing e Guizhou se encontram entre vales fluviais e serras."
+  },
+  {
+    "quoteId": "Q045",
+    "text": "O censo de 2020 registrou [9.587.732 Tujia](https://www.neac.gov.cn/seac/ztzl/tjz/gk.shtml)."
+  },
+  {
+    "quoteId": "Q046",
+    "text": "Em Hunan, a concentração inclui Cili e Sangzhi, sob Zhangjiajie, e os condados de Yongshun e Longshan, mais a oeste."
+  },
+  {
+    "quoteId": "Q047",
+    "text": "Furong pertence justamente a Yongshun, junto ao vale do Youshui."
+  },
+  {
+    "quoteId": "Q048",
+    "text": "Vista assim, a sequência do roteiro não salta entre bolsões isolados de “folclore”: ela percorre diferentes trechos de um mesmo corredor humano, organizado pelas montanhas e pelos rios muito antes das fronteiras"
+  },
+  {
+    "quoteId": "Q049",
+    "text": "administrativas atuais."
+  },
+  {
+    "quoteId": "Q050",
+    "text": "Essa continuidade também corrige uma impressão deixada por Chongqing."
+  },
+  {
+    "quoteId": "Q051",
+    "text": "O centro da municipalidade — vertical, denso, moldado pela confluência do Yangtzé com o Jialing — não representa sozinho todo o seu território."
+  },
+  {
+    "quoteId": "Q052",
+    "text": "A sudeste, Qianjiang e os condados autônomos de Shizhu, Xiushan, Youyang e Pengshui já pertencem ao mundo das Wuling."
+  },
+  {
+    "quoteId": "Q053",
+    "text": "Juntos, formam a única faixa contínua de concentração de minorias étnicas de Chongqing: segundo um [relatório da Assembleia Popular"
+  },
+  {
+    "quoteId": "Q054",
+    "text": "municipal](https://www.cqrd.gov.cn/web/article/1361740402372329472/web/content_1361740402372329472.html), 71,7% de seus 2,496 milhões de habitantes são de minorias, sobretudo Tujia e Miao."
+  },
+  {
+    "quoteId": "Q055",
+    "text": "A comparação entre o centro de Chongqing e o oeste de Hunan não é, portanto, a de dois mundos sem contato: ambos se ligam a uma paisagem social que ocupa o sudeste da municipalidade e continua além de sua fronteira."
+  },
+  {
+    "quoteId": "Q056",
+    "text": "Por séculos, chefias hereditárias conhecidas como *tusi* mediaram a relação entre comunidades das montanhas e os impérios chineses."
+  },
+  {
+    "quoteId": "Q057",
+    "text": "A autoridade desses chefes variava conforme o lugar e a época; não constituía um Estado Tujia uniforme, mas uma rede de poderes locais reconhecidos pela corte em troca de tributos, lealdade e serviços."
+  },
+  {
+    "quoteId": "Q058",
+    "text": "No início do século XVIII, reformas Qing agrupadas sob o nome *gǎitǔ guīliú* substituíram muitas dessas chefias por funcionários nomeados pelo governo central."
+  },
+  {
+    "quoteId": "Q059",
+    "text": "Em Yongshun e áreas vizinhas, a mudança alterou estruturas de poder e acelerou a presença administrativa e migratória Han, sem apagar uma identidade que continuou a ser reelaborada em famílias, aldeias, rituais e"
+  },
+  {
+    "quoteId": "Q060",
+    "text": "técnicas domésticas."
+  },
+  {
+    "quoteId": "Q061",
+    "text": "A língua mostra com clareza tanto a permanência quanto a transformação."
+  },
+  {
+    "quoteId": "Q062",
+    "text": "O Tujia pertence à família sino-tibetana, mas hoje é falado por apenas uma parcela do povo, sobretudo em partes do vale do Youshui, em áreas de Yongshun, Longshan e Laifeng."
+  },
+  {
+    "quoteId": "Q063",
+    "text": "A maioria usa variedades chinesas locais e o mandarim; alguns falantes também dominam Miao."
+  },
+  {
+    "quoteId": "Q064",
+    "text": "Isso significa que uma cidade ou aldeia de maioria Tujia não necessariamente soará linguisticamente distinta ao visitante."
+  },
+  {
+    "quoteId": "Q065",
+    "text": "Identidade étnica, língua cotidiana e registro oficial não coincidem de maneira automática — e reduzir os Tujia a algumas palavras ouvidas numa apresentação turística encobre justamente essa história de multilinguismo e"
+  },
+  {
+    "quoteId": "Q066",
+    "text": "Outros sinais aparecem menos na fala do que no gesto e na matéria."
+  },
+  {
+    "quoteId": "Q067",
+    "text": "A dança *baishou*, baseada em sequências de movimentos das mãos e do corpo, integra calendários rituais e festas comunitárias; o *xilankapu*, brocado tecido tradicionalmente em tear, transforma padrões geométricos em"
+  },
+  {
+    "quoteId": "Q068",
+    "text": "cobertas e peças de uso doméstico; porco curado, vegetais conservados e alimentos defumados respondem ao inverno úmido e à necessidade de armazenar comida nas montanhas."
+  },
+  {
+    "quoteId": "Q069",
+    "text": "Nenhuma dessas práticas existe apenas como figurino de palco, embora todas possam ser convertidas em espetáculo ou mercadoria."
+  },
+  {
+    "quoteId": "Q070",
+    "text": "O mesmo cuidado vale para os *diaojiaolou*, casas de madeira apoiadas em pilares sobre terrenos inclinados ou margens de rios: são uma solução arquitetônica disseminada entre diferentes povos do sul e sudoeste da China,"
+  },
+  {
+    "quoteId": "Q071",
+    "text": "inclusive Tujia e Miao, não uma invenção exclusiva de uma única etnia."
+  },
+  {
+    "quoteId": "Q072",
+    "text": "Em Zhangjiajie e Furong, distinguir adaptação regional, vida cotidiana e encenação turística produz uma leitura muito mais precisa do que procurar uma cultura “intocada”."
+  },
+  {
+    "quoteId": "Q073",
+    "text": "## Fenghuang: Miao e Tujia sem fronteira de vitrine"
+  },
+  {
+    "quoteId": "Q074",
+    "text": "Fenghuang pertence à Prefeitura Autônoma Tujia e Miao de Xiangxi, mas a ordem das palavras não desenha bairros estanques."
+  },
+  {
+    "quoteId": "Q075",
+    "text": "Famílias Miao, Tujia e Han compartilham há gerações mercados, escolas, casamentos, técnicas de construção e repertórios festivos; no sudeste de Chongqing e no oeste de Hunan, as mesmas montanhas também prolongam relações"
+  },
+  {
+    "quoteId": "Q076",
+    "text": "que a divisão administrativa não interrompe."
+  },
+  {
+    "quoteId": "Q077",
+    "text": "A cidade antiga concentra essa história numa margem estreita do rio Tuo, embora sua paisagem de pousadas, lojas iluminadas e retratos com trajes alugados possa sugerir identidades prontas para consumo."
+  },
+  {
+    "quoteId": "Q078",
+    "text": "Fora desse enquadramento, elas aparecem de modo menos simétrico: numa conversa alternando registros linguísticos, num calendário ritual mantido por uma família, numa receita ou num modo de organizar a casa."
+  },
+  {
+    "quoteId": "Q079",
+    "text": "“Miao” é uma categoria oficial ampla, não o nome de uma cultura homogênea."
+  },
+  {
+    "quoteId": "Q080",
+    "text": "Ela reúne comunidades com línguas, autodenominações, histórias locais e maneiras de vestir diferentes; o censo chinês de 2020 registrou [11.067.929 pessoas](https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml) sob essa"
+  },
+  {
+    "quoteId": "Q081",
+    "text": "Em Xiangxi predomina a variedade linguística oriental, também chamada de Xiangxi, presente ainda no oeste de Hunan, nordeste de Guizhou, Hubei e sudeste de Chongqing."
+  },
+  {
+    "quoteId": "Q082",
+    "text": "Por isso, traduzir automaticamente Miao como “Hmong” apaga distinções: Hmong designa sobretudo certos grupos e variedades do conjunto linguístico Hmong-Mien, além de ter uma trajetória internacional ligada às diásporas"
+  },
+  {
+    "quoteId": "Q083",
+    "text": "do Laos e de outros países do Sudeste Asiático."
+  },
+  {
+    "quoteId": "Q084",
+    "text": "Em Fenghuang, o termo local e o contexto da fala importam tanto quanto a categoria impressa num museu ou numa placa."
+  },
+  {
+    "quoteId": "Q085",
+    "text": "O bordado, a prata e o traje cerimonial tornam visível uma gramática social."
+  },
+  {
+    "quoteId": "Q086",
+    "text": "Motivos, combinações de cores, adornos e formas de cobrir a cabeça podem comunicar procedência, idade, ocasião e habilidade artesanal; uma peça trabalhada guarda horas de aprendizado e relações entre gerações."
+  },
+  {
+    "quoteId": "Q087",
+    "text": "Isso não significa que todo morador Miao use roupa festiva no cotidiano."
+  },
+  {
+    "quoteId": "Q088",
+    "text": "Na cidade antiga, conjuntos completos também são figurino de estúdio, mercadoria, lembrança e recurso de trabalho para artesãs, comerciantes e fotógrafos."
+  },
+  {
+    "quoteId": "Q089",
+    "text": "Essas funções coexistem: a comercialização pode simplificar diferenças para o visitante, mas também remunera saberes e permite novas escolhas a quem os produz."
+  },
+  {
+    "quoteId": "Q090",
+    "text": "O olhar atento pergunta em que ocasião uma peça é usada, quem a confeccionou e se ela foi feita para cerimônia, venda ou fotografia — sem exigir uma “autenticidade” congelada."
+  },
+  {
+    "quoteId": "Q091",
+    "text": "O mesmo cuidado vale para os *diaojiaolou*, casas de madeira apoiadas em pilares que acompanham encostas, cursos d’água e terrenos úmidos."
+  },
+  {
+    "quoteId": "Q092",
+    "text": "Em Fenghuang, suas fachadas sobre o Tuo se tornaram um emblema visual; em Xiangxi, porém, essa solução pertence a uma história arquitetônica regional de adaptações e trocas entre Tujia, Miao e Han."
+  },
+  {
+    "quoteId": "Q093",
+    "text": "Não é uma assinatura étnica exclusiva."
+  },
+  {
+    "quoteId": "Q094",
+    "text": "Elevar parte da estrutura responde ao relevo, ajuda a lidar com umidade e libera níveis para usos diferentes; materiais, encaixes e distribuição interna variam conforme recursos, época e condição econômica."
+  },
+  {
+    "quoteId": "Q095",
+    "text": "Chamar qualquer casa sobre estacas de “arquitetura Miao” ou “Tujia” transforma convivência histórica em etiqueta de vitrine."
+  },
+  {
+    "quoteId": "Q096",
+    "text": "A cidade antiga comercializada não é uma fraude diante de aldeias supostamente puras: é um espaço real de renda, representação e negociação, atravessado por moradores e visitantes."
+  },
+  {
+    "quoteId": "Q097",
+    "text": "Ainda assim, palco e vida doméstica obedecem a ritmos distintos."
+  },
+  {
+    "quoteId": "Q098",
+    "text": "Ao caminhar, vale ouvir qual língua surge quando a conversa deixa de atender turistas; notar se o fogo é parte de uma cozinha em uso ou cenografia; distinguir o traje vestido para uma celebração daquele oferecido por"
+  },
+  {
+    "quoteId": "Q099",
+    "text": "hora; observar onde se consertam cestos, se secam alimentos ou se recebem parentes."
+  },
+  {
+    "quoteId": "Q100",
+    "text": "O melhor aprendizado está nessas mudanças de função."
+  },
+  {
+    "quoteId": "Q101",
+    "text": "Fenghuang não revela Miao e Tujia como duas coleções separadas, mas como identidades vividas em contato — algumas vezes afirmadas, outras misturadas, outras convertidas em espetáculo por quem também precisa ganhar a"
+  },
+  {
+    "quoteId": "Q102",
+    "text": "## Zhuang: Guangxi para além do cenário cárstico"
+  },
+  {
+    "quoteId": "Q103",
+    "text": "No convés de um barco no Rio Li, Guangxi parece caber numa composição de calcário, água e bambu."
+  },
+  {
+    "quoteId": "Q104",
+    "text": "O nome oficial da região, porém, acrescenta uma camada humana que o enquadramento costuma cortar: Região Autônoma Zhuang de Guangxi."
+  },
+  {
+    "quoteId": "Q105",
+    "text": "Os Zhuang são a maior das minorias étnicas oficialmente reconhecidas pela China."
+  },
+  {
+    "quoteId": "Q106",
+    "text": "O censo de 2020 registrou [19.568.546 pessoas](https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml), a maioria delas em Guangxi."
+  },
+  {
+    "quoteId": "Q107",
+    "text": "Esses números não transformam Guilin ou Yangshuo numa vitrine homogênea."
+  },
+  {
+    "quoteId": "Q108",
+    "text": "As duas são cidades muito visitadas, urbanizadas e socialmente mistas; nelas, a presença Zhuang pode estar numa conversa familiar, numa canção ou numa palavra ouvida no mercado, não necessariamente numa roupa cerimonial"
+  },
+  {
+    "quoteId": "Q109",
+    "text": "diante da câmera."
+  },
+  {
+    "quoteId": "Q110",
+    "text": "As línguas Zhuang pertencem ao ramo tai da família kra-dai e reúnem variedades regionais, não uma voz única e uniforme."
+  },
+  {
+    "quoteId": "Q111",
+    "text": "Em Guangxi, elas convivem com mandarim, cantonês, Pinghua e outras línguas, conforme a cidade, a comunidade e a geração."
+  },
+  {
+    "quoteId": "Q112",
+    "text": "Essa alternância ajuda a desmontar uma expectativa comum do visitante: identidade étnica não funciona como figurino permanente."
+  },
+  {
+    "quoteId": "Q113",
+    "text": "Uma pessoa pode falar mandarim no trabalho, usar outra língua em casa e participar de costumes compartilhados por vizinhos Han, Yao ou de outros grupos."
+  },
+  {
+    "quoteId": "Q114",
+    "text": "À margem do Li, onde barcos, hotéis e restaurantes atendem viajantes do país inteiro, a mistura é parte da paisagem contemporânea tanto quanto os picos."
+  },
+  {
+    "quoteId": "Q115",
+    "text": "Liu Sanjie ocupa outro território, entre memória e imaginação."
+  },
+  {
+    "quoteId": "Q116",
+    "text": "A tradição a apresenta como uma cantora Zhuang extraordinária, capaz de responder em versos a pretendentes e poderosos; a personagem é uma lenda, não uma biografia que possa ser lida literalmente."
+  },
+  {
+    "quoteId": "Q117",
+    "text": "O chão social dessa narrativa, contudo, é concreto: Guangxi mantém tradições de canto responsorial, nas quais uma voz lança versos e outra responde, muitas vezes com improviso, pergunta, metáfora e desafio."
+  },
+  {
+    "quoteId": "Q118",
+    "text": "Nos encontros de canto, a música serviu como convivência, cortejo e inteligência verbal coletiva."
+  },
+  {
+    "quoteId": "Q119",
+    "text": "O [San Yue San](https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml), no terceiro dia do terceiro mês lunar, tornou-se o grande calendário público dessa cultura em Guangxi, com rodas de canto e arroz glutinoso tingido em"
+  },
+  {
+    "quoteId": "Q120",
+    "text": "cinco cores — contexto regional de primavera, não evento a esperar numa viagem de novembro."
+  },
+  {
+    "quoteId": "Q121",
+    "text": "Em Yangshuo, essa herança foi convertida também em produto turístico de grande escala."
+  },
+  {
+    "quoteId": "Q122",
+    "text": "O espetáculo *Impression Liu Sanjie* usa o próprio Rio Li e a silhueta dos maciços como palco, com grande elenco, luz amplificada e coreografia desenhada para uma plateia numerosa."
+  },
+  {
+    "quoteId": "Q123",
+    "text": "O nome da cantora lendária cria a ponte com o repertório regional; a montagem, porém, não deve ser confundida com um encontro comunitário de canto."
+  },
+  {
+    "quoteId": "Q124",
+    "text": "Ela seleciona motivos, amplia gestos e organiza a tradição segundo a lógica de uma produção noturna."
+  },
+  {
+    "quoteId": "Q125",
+    "text": "Assistir a ela é entender exatamente essa operação: não um acesso intacto a uma aldeia Zhuang, mas a maneira pela qual Yangshuo transformou uma memória musical em imagem pública e indústria cultural."
+  },
+  {
+    "quoteId": "Q126",
+    "text": "Essa distinção muda também o modo de comer e observar."
+  },
+  {
+    "quoteId": "Q127",
+    "text": "O arroz de cinco cores pertence ao repertório festivo Zhuang, mas não autoriza carimbar toda tigela de Guilin *mifen* como “comida étnica Zhuang”."
+  },
+  {
+    "quoteId": "Q128",
+    "text": "O macarrão de arroz de Guilin e o *youcha* circulam numa cozinha regional feita de trocas; o segundo aparece também em tradições Yao."
+  },
+  {
+    "quoteId": "Q129",
+    "text": "Em Guilin e Yangshuo, portanto, procurar os Zhuang exige menos caça a símbolos prontos e mais atenção a sobreposições: a autonomia inscrita no nome de Guangxi, as línguas que mudam de uma casa para outra, uma lenda que"
+  },
+  {
+    "quoteId": "Q130",
+    "text": "sustenta cantos sociais e um palco monumental que reembala esses cantos diante das montanhas."
+  },
+  {
+    "quoteId": "Q131",
+    "text": "## Shenzhen: Hakka antigos, migrantes novos"
+  },
+  {
+    "quoteId": "Q132",
+    "text": "Shenzhen costuma ser narrada como se tivesse começado em 1980, quando a Zona Econômica Especial transformou campos, aldeias e núcleos industriais numa metrópole."
+  },
+  {
+    "quoteId": "Q133",
+    "text": "A velocidade dessa mudança é real, mas o terreno não estava vazio."
+  },
+  {
+    "quoteId": "Q134",
+    "text": "Antes da ZEE, o atual município reunia comunidades de fala cantonesa sobretudo no oeste, numerosas aldeias Hakka no leste e nordeste — com presença marcante em Longgang e Dapeng — e outros grupos costeiros ligados à"
+  },
+  {
+    "quoteId": "Q135",
+    "text": "pesca, ao cultivo e ao comércio do estuário."
+  },
+  {
+    "quoteId": "Q136",
+    "text": "O mapa linguístico não formava blocos perfeitos: mercados, casamentos e deslocamentos aproximavam populações que mantinham repertórios próprios."
+  },
+  {
+    "quoteId": "Q137",
+    "text": "A Shenzhen contemporânea cresceu sobre esse substrato, não em seu lugar."
+  },
+  {
+    "quoteId": "Q138",
+    "text": "Hakka é um subgrupo etnolinguístico Han, não uma das 55 minorias étnicas oficialmente reconhecidas pela China."
+  },
+  {
+    "quoteId": "Q139",
+    "text": "O nome chinês, *Kejia*, costuma ser traduzido como “famílias hóspedes”, referência que alimentou a imagem de um povo condenado a migrar."
+  },
+  {
+    "quoteId": "Q140",
+    "text": "Houve movimentos populacionais importantes em diferentes períodos, mas o termo não autoriza uma genealogia simples, uma única partida do norte ou uma chegada coletiva ao sul."
+  },
+  {
+    "quoteId": "Q141",
+    "text": "As comunidades hoje chamadas Hakka foram se constituindo ao longo do tempo, em contato e por vezes em disputa com outros grupos Han, desenvolvendo variedades linguísticas, redes de parentesco e formas locais de"
+  },
+  {
+    "quoteId": "Q142",
+    "text": "Em Shenzhen, essa história não cabe numa origem única nem numa arquitetura usada como emblema universal."
+  },
+  {
+    "quoteId": "Q143",
+    "text": "Nantou ajuda a corrigir a ilusão de que tudo começou com arranha-céus, mas não deve ser apresentada como uma “atração Hakka”."
+  },
+  {
+    "quoteId": "Q144",
+    "text": "Seu tecido histórico remete ao antigo Bao’an e às sucessivas camadas administrativas e comerciais que precederam a ZEE."
+  },
+  {
+    "quoteId": "Q145",
+    "text": "Ali, o interesse está justamente em perceber a longa duração sob a cidade nova: vielas, fragmentos construídos e usos cotidianos comprimidos entre intervenções recentes."
+  },
+  {
+    "quoteId": "Q146",
+    "text": "Para encontrar o peso histórico Hakka no território, é preciso pensar em outra geografia, voltada para Longgang, Dapeng e antigas aldeias do leste e nordeste."
+  },
+  {
+    "quoteId": "Q147",
+    "text": "Nantou cumpre função diferente: recordar que Shenzhen teve governo local, circulação regional e vida urbana antes de receber o nome mundialmente associado à tecnologia."
+  },
+  {
+    "quoteId": "Q148",
+    "text": "A ruptura demográfica posterior a 1980, porém, foi profunda."
+  },
+  {
+    "quoteId": "Q149",
+    "text": "Em 2020, Shenzhen registrava cerca de 17,56 milhões de residentes permanentes, dos quais aproximadamente [5,88 milhões possuíam *hukou* local](https://www.sz.gov.cn/attachment/0/934/934578/9480770.pdf)."
+  },
+  {
+    "quoteId": "Q150",
+    "text": "Isso significa que a maioria vivia na cidade sem registro domiciliar de Shenzhen, não que todos esses moradores necessariamente tivessem nascido fora dela: *hukou*, nascimento, residência e pertencimento são medidas"
+  },
+  {
+    "quoteId": "Q151",
+    "text": "O mandarim tornou-se a língua comum de fábricas, escritórios, escolas e encontros entre pessoas vindas de muitas províncias, enquanto cantonês e Hakka continuaram presentes em famílias, aldeias e circuitos locais."
+  },
+  {
+    "quoteId": "Q152",
+    "text": "O mesmo processo encheu as ruas de culinárias de chegada: restaurantes e lanchonetes funcionam como pequenos mapas de Sichuan, Hunan, Nordeste, Guangxi e tantas outras origens."
+  },
+  {
+    "quoteId": "Q153",
+    "text": "As *urban villages* materializam o encontro entre os moradores anteriores à metrópole e sua nova força de trabalho."
+  },
+  {
+    "quoteId": "Q154",
+    "text": "Famílias aldeãs e coletivos locais converteram terrenos e casas em edifícios de aluguel, criando uma infraestrutura habitacional que acolheu milhões de trabalhadores quando o mercado formal não oferecia moradia acessível"
+  },
+  {
+    "quoteId": "Q155",
+    "text": "Não são simples sobras rurais nem bairros produzidos apenas por migrantes, mas espaços nascidos dessa relação, com suas oportunidades, tensões e desigualdades."
+  },
+  {
+    "quoteId": "Q156",
+    "text": "Em Huaqiangbei, por trás das vitrines de componentes eletrônicos, há sotaques e trajetórias de toda a China; em Chegongmiao e Tairan, escritórios, restaurantes e deslocamentos diários revelam outra etapa da economia"
+  },
+  {
+    "quoteId": "Q157",
+    "text": "Entre esses polos e Nantou, Shenzhen se deixa ler como uma cidade feita por quem já estava, por quem chegou e por quem nasceu no intervalo entre as duas histórias."
+  },
+  {
+    "quoteId": "Q158",
+    "text": "## Minnan: Xiamen, uma identidade que viajou e voltou"
+  },
+  {
+    "quoteId": "Q159",
+    "text": "Minnan não é uma das 55 minorias étnicas oficialmente reconhecidas pela China."
+  },
+  {
+    "quoteId": "Q160",
+    "text": "É um complexo regional e linguístico Han formado no sul de Fujian, sobretudo em torno de Quanzhou, Zhangzhou e Xiamen, e prolongado por séculos de circulação marítima."
+  },
+  {
+    "quoteId": "Q161",
+    "text": "O termo *Hokkien* — derivado de uma pronúncia local de “Fujian” — tornou-se no exterior uma designação ampla para variedades do *Southern Min*."
+  },
+  {
+    "quoteId": "Q162",
+    "text": "O falar de Xiamen, historicamente conhecido como Amoy, é uma delas, com traços associados tanto a Quanzhou quanto a Zhangzhou."
+  },
+  {
+    "quoteId": "Q163",
+    "text": "Mandarim e Minnan convivem na cidade, mas não ocupam sempre os mesmos espaços: anúncios oficiais e conversas entre jovens tendem ao primeiro; famílias, comércio e redes comunitárias ainda preservam registros do segundo."
+  },
+  {
+    "quoteId": "Q164",
+    "text": "Essa camada aparece melhor entre o cais, os mercados e a Zhongshan Road do que numa busca por “bairro étnico”."
+  },
+  {
+    "quoteId": "Q165",
+    "text": "Xiamen foi construída por mercadores, marinheiros, famílias partidas e parentes que permaneceram."
+  },
+  {
+    "quoteId": "Q166",
+    "text": "No balcão de uma casa de macarrão, o *shacha mian* condensa essa história sem permitir uma genealogia simples: caldo, macarrão e complementos locais recebem o condimento *shacha*, cujo perfil — tostado, salgado,"
+  },
+  {
+    "quoteId": "Q167",
+    "text": "levemente adocicado e picante — guarda ecos dos molhos de *satay* do Sudeste Asiático."
+  },
+  {
+    "quoteId": "Q168",
+    "text": "Não é necessário atribuir o prato a um único porto ou país."
+  },
+  {
+    "quoteId": "Q169",
+    "text": "Sua força está justamente na adaptação: sabores que atravessaram o mar foram refeitos segundo ingredientes e hábitos de Fujian, até parecerem inseparáveis de Xiamen."
+  },
+  {
+    "quoteId": "Q170",
+    "text": "Do outro lado do estreito de Lujiang, Gulangyu transforma circulação em paisagem construída."
+  },
+  {
+    "quoteId": "Q171",
+    "text": "A abertura de Xiamen ao comércio exterior em 1843 e a formação do assentamento internacional na ilha, em 1903, reuniram residentes estrangeiros, chineses locais e emigrantes retornados."
+  },
+  {
+    "quoteId": "Q172",
+    "text": "O [dossiê da UNESCO](https://whc.unesco.org/document/155718) descreve uma arquitetura na qual casas tradicionais do sul de Fujian, varandas coloniais, revivalismos europeus, Art Déco e técnicas locais se combinaram — não"
+  },
+  {
+    "quoteId": "Q173",
+    "text": "como coleção de fachadas importadas, mas como resultado material de capital, repertórios e estilos de vida trazidos de volta."
+  },
+  {
+    "quoteId": "Q174",
+    "text": "Caminhar por Gulangyu é ler o circuito completo: saída para Taiwan ou Sudeste Asiático, prosperidade no exterior, retorno familiar e investimento em residências, jardins, escolas e serviços urbanos."
+  },
+  {
+    "quoteId": "Q175",
+    "text": "A viagem, porém, não transportou apenas dinheiro e arquitetura."
+  },
+  {
+    "quoteId": "Q176",
+    "text": "O [*nanyin*](https://ich.unesco.org/en/RL/nanyin-00199), tradição musical do sul de Fujian com canto, sopros, cordas e percussão contida, acompanhou comunidades de língua Minnan até Taiwan e países do Sudeste Asiático."
+  },
+  {
+    "quoteId": "Q177",
+    "text": "Associações locais, templos e círculos musicais mantiveram repertórios em comunicação através do mar."
+  },
+  {
+    "quoteId": "Q178",
+    "text": "Algo semelhante ocorreu com as [crenças e costumes ligados a Mazu](https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227), protetora de navegantes: templos, procissões e peregrinações formaram uma rede religiosa"
+  },
+  {
+    "quoteId": "Q179",
+    "text": "entre a costa de Fujian, Taiwan e comunidades ultramarinas. *Nanyin* e Mazu não são relíquias isoladas, mas linguagens de pertencimento capazes de conectar portos separados por fronteiras políticas."
+  },
+  {
+    "quoteId": "Q180",
+    "text": "A Universidade de Xiamen oferece a expressão institucional mais clara desse movimento de retorno."
+  },
+  {
+    "quoteId": "Q181",
+    "text": "Ela foi fundada em 1921 por Tan Kah Kee — Chen Jiageng em mandarim —, emigrante de Fujian que construiu sua fortuna no comércio e na indústria de borracha em Singapura e na então Malásia britânica."
+  },
+  {
+    "quoteId": "Q182",
+    "text": "Ao financiar educação em sua terra natal, ele converteu riqueza acumulada no exterior em infraestrutura pública duradoura; a própria [universidade apresenta sua fundação](https://www.xmu.edu.cn/sdgl/xxjj.htm) como"
+  },
+  {
+    "quoteId": "Q183",
+    "text": "pioneira entre instituições chinesas criadas por um líder da diáspora."
+  },
+  {
+    "quoteId": "Q184",
+    "text": "No campus, a biografia do fundador liga Fujian ao Sudeste Asiático com a mesma naturalidade que o ferry liga a ilha principal a Gulangyu."
+  },
+  {
+    "quoteId": "Q185",
+    "text": "Xiamen, assim, não é apenas a origem de uma diáspora."
+  },
+  {
+    "quoteId": "Q186",
+    "text": "É um lugar transformado pelo que partiu e voltou: palavras, receitas, devoções, música, dinheiro e formas arquitetônicas."
+  },
+  {
+    "quoteId": "Q187",
+    "text": "Entre mercado, Zhongshan Road, Gulangyu e universidade, a identidade Minnan aparece menos como fronteira étnica do que como uma cultura Han marítima, regional e continuamente refeita pela distância."
+  },
+  {
+    "quoteId": "Q188",
+    "text": "Entre Chongqing e Zhangjiajie, Furong, Fenghuang, Guilin, Yangshuo, Shenzhen e Xiamen, a palavra “etnia” deixa de funcionar como uma etiqueta suficiente."
+  },
+  {
+    "quoteId": "Q189",
+    "text": "O método mais seguro é separar camadas: categoria oficial, língua falada, território histórico, hábitos cotidianos e representação para visitantes."
+  },
+  {
+    "quoteId": "Q190",
+    "text": "Elas podem coincidir, mas quase nunca se sobrepõem por completo."
+  },
+  {
+    "quoteId": "Q191",
+    "text": "Uma pessoa registrada como Tujia pode falar apenas mandarim; uma casa sobre pilares pode resultar de uma solução regional compartilhada; uma dança apresentada num palco pode conservar gestos antigos e, ao mesmo tempo,"
+  },
+  {
+    "quoteId": "Q192",
+    "text": "obedecer à duração, à iluminação e às expectativas do turismo."
+  },
+  {
+    "quoteId": "Q193",
+    "text": "Também importa não encaixar todas as diferenças no mesmo sistema."
+  },
+  {
+    "quoteId": "Q194",
+    "text": "Tujia, Miao e Zhuang são *minzu* oficialmente reconhecidos, com histórias territoriais e políticas próprias."
+  },
+  {
+    "quoteId": "Q195",
+    "text": "Hakka e Minnan pertencem ao universo Han, embora idioma, migração, redes familiares, culinária e memória regional produzam identidades vigorosas."
+  },
+  {
+    "quoteId": "Q196",
+    "text": "Em Shenzhen, por sua vez, “migrante” descreve uma condição urbana antes de designar uma cultura única: moradores vindos de províncias distintas constroem pertencimentos por trabalho, bairro, geração e acesso à cidade."
+  },
+  {
+    "quoteId": "Q197",
+    "text": "O olhar ganha precisão quando procura quem usa uma língua em casa, quem prepara determinado prato sem plateia, quem financia um templo ou uma escola e quem decide como uma tradição será exibida."
+  },
+  {
+    "quoteId": "Q198",
+    "text": "Em Xiamen, essa atenção chega ao mar."
+  },
+  {
+    "quoteId": "Q199",
+    "text": "A água que sustentou partidas para Taiwan e o Sudeste Asiático abre agora a próxima etapa, rumo a Fukuoka."
+  },
+  {
+    "quoteId": "Q200",
+    "text": "A travessia não autoriza equivalências apressadas entre China e Japão, nem transforma identidades costeiras em versões umas das outras."
+  },
+  {
+    "quoteId": "Q201",
+    "text": "Ela apenas oferece uma boa pergunta para levar adiante: diante de cada nome coletivo, que parte vem do Estado, que parte do território, que parte da família — e o que a vida diária faz com todas elas?"
+  }
+]

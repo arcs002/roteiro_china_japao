@@ -1,0 +1,64 @@
+{
+  "evaluations": [
+    {
+      "id": "C03",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 1,
+          "justification": "A taxa exata é 23 acertos em 35 afirmações decididas (65,7%), dentro da faixa final de 0 a 4. Há 12 erros relevantes distintos, entre eles atribuir à sede de Laosicheng todos os 818 anos de domínio Peng.",
+          "quoteId": "Q061"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os grupos pedidos e os liga ao roteiro atual, com abertura, tópicos e encerramento. As métricas não registram resquícios do roteiro antigo, links internos quebrados nem numeração de dias.",
+          "quoteId": "Q016"
+        },
+        {
+          "dimension": 3,
+          "score": 11,
+          "justification": "Há explicações históricas e culturais concretas, mas a passagem sobre as palafitas e Hongyadong retoma extensamente conteúdo já presente nas páginas de cidade e atração.",
+          "quoteId": "Q074"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "A distinção entre as aldeias Zhuang de Ping’an e as Yao de Dazhai dá ao viajante uma forma útil de reconhecer os grupos no percurso. A ancoragem perde força em algumas generalizações sobre o que encontrará.",
+          "quoteId": "Q138"
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "A prosa em português brasileiro é fluida e produz imagens precisas, como na descrição da arquitetura do campus. Há alguma metalinguagem e repetição de oposições retóricas, embora a contagem medida permaneça dentro do limite.",
+          "quoteId": "Q164"
+        },
+        {
+          "dimension": 6,
+          "score": 3,
+          "justification": "Vários erros e pontos incertos aparecem sem ressalva; o texto, por exemplo, apresenta com certeza a classificação incorreta do Qo Xiong como ramo ocidental. Não há marcações de verificação.",
+          "quoteId": "Q095"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos e preservados; as métricas registram build sem erro novo e edição exclusiva da página avaliada.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 55,
+      "cap": null,
+      "capReasons": [],
+      "final": 55,
+      "mainStrength": "Explica identidades culturais por meio de lugares, práticas e experiências concretas do roteiro.",
+      "priorityFix": "Corrigir os 12 erros relevantes identificados nos fatos checados, começando pela cronologia de Laosicheng, pela classificação do Qo Xiong e pelos dados de Xiamen.",
+      "additionalConcerns": [
+        "Rever afirmações incertas formuladas como certezas e reduzir a repetição do conteúdo já presente nas páginas de cidade e atração."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "D1 usa 23/35 = 65,7%; a faixa final fornecida é [0,4]. As 24 unidades incertas foram excluídas do denominador.",
+    "Nenhum teto se aplica: não há erro entre as armadilhas, resquício do roteiro antigo, invenção constatada, build quebrado ou corpo abaixo de 2.000 palavras."
+  ]
+}

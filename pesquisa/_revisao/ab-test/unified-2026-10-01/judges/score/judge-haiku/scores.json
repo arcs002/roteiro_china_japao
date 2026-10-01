@@ -1,0 +1,616 @@
+{
+  "evaluations": [
+    {
+      "id": "C01",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 16,
+          "justification": "Taxa de acerto de 96,875% coloca o texto no intervalo [13, 20]. Um erro relevante detectado (data lunar 2026) não reduz adicionalmente pois acurácia já reflete a proporção.",
+          "quote": "Em 2026, o décimo mês lunar começa por volta de 10 de novembro, logo depois da passagem por Fenghuang (08–09/11)."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Cobre os cinco grupos solicitados ligados ao roteiro. Sem resquícios de roteiro antigo identificados. Estrutura com abertura, tópicos livres e encerramento intacta.",
+          "quote": "Entre Chongqing e Fenghuang, o viajante atravessa o país dos Tujia, um povo de quase dez milhões de pessoas que a maioria dos estrangeiros nunca ouviu nomear, e chega à fronteira murada que separou por séculos os Miao das planícies imperiais."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Maioria dos parágrafos traz nomes, datas e lugares concretos. Explica mecanismos como o sistema tusi. Acrescenta conteúdo não presente em páginas de atração.",
+          "quote": "O que marca a história dos Tujia é o sistema *tusi* (土司), mais do que qualquer traço folclórico. Das dinastias Yuan à Qing, o império governou as montanhas do sudoeste por meio de chefes hereditários locais."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conexão específica com o roteiro em múltiplos pontos. Menciona datas do calendário lunar para contexto de viagem. Observações práticas sobre como reconhecer diferenças.",
+          "quote": "O décimo mês lunar começa por volta de 10 de novembro, logo depois da passagem por Fenghuang (08–09/11). A coincidência é improvável, mas não impossível: vale perguntar na pousada se alguma aldeia do condado antecipou a festa."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "Prosa fluida com ritmo variado. Sem clichés excessivos ou metalinguagem. PT-BR consistente com uso de 'você'. Retórica equilibrada com poucas repetições de estrutura.",
+          "quote": "A primeira é a das minorias oficiais. Os Tujia, que perderam a língua mas mantêm a casa sobre pilares, a dança do clã e o defumado. Os Miao, que o império tentou separar com uma muralha."
+        },
+        {
+          "dimension": 6,
+          "score": 8,
+          "justification": "Marca apropriadamente a incerteza onde FATOS.md indica. Usa linguagem cautelosa em seções com afirmações duvidosas, evitando apresentar incertezas como certeza.",
+          "quote": "A chamada \"Muralha do Sul\" ou Muralha de Miaojiang (南方长城) tem cerca de 190 quilômetros, a maior parte no condado de Fenghuang, e foi construída pela dinastia Ming entre 1554 e 1622."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com type, slug, topico e title corretos. Apenas etnias.md foi alterado. Estrutura de build compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 76,
+      "cap": null,
+      "capReasons": [],
+      "final": 76,
+      "mainStrength": "Equilíbrio entre precisão factual (96,9%), cobertura completa dos cinco grupos e ancoragem clara no roteiro com observações práticas para o viajante.",
+      "priorityFix": "Verificar a data exata do décimo mês lunar 2026 para não desencontrar o itinerário de Fenghuang.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C02",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 2,
+          "justification": "Taxa de 85,7% com 2 erros relevantes (concentração Zhuang em Guangxi e assento Peng em Wangcun). Intervalo [0, 4] por acurácia; ambos erros reduzem uma faixa adicional.",
+          "quote": "Este é o território ancestral dos Zhuang (壮族), a mais populosa minoria étnica de toda a China, com mais de 16 milhões de habitantes concentrados quase em sua totalidade na Região Autônoma Zhuang de Guangxi."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Cobre os cinco grupos necessários vinculados ao roteiro. Sem resquícios do roteiro anterior detectados. Estrutura adequada com abertura, desenvolvimento e encerramento.",
+          "quote": "Entre Chongqing e Fenghuang, o viajante atravessa o país dos Tujia. Em Guangxi, entra no território da maior minoria do país, os Zhuang. Em Xiamen e Shenzhen, a lógica se inverte: ali todos são *han* no documento."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Textos possuem densidade descritiva com muitos nomes e datas. Alguns trechos tendem a enciclopédia genérica ou reconto do que já está em outras páginas.",
+          "quote": "Nenhum intelectual capturou essa atmosfera de coexistência lírica e fronteiriça com tanta precisão quanto Shen Congwen (沈从文, 1902–1988), nascido em Fenghuang com ascendência familiar mista han, miao e tujia."
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Conexão específica com o itinerário em múltiplos pontos. Menciona datas e sugere como usar informações na visita. Observações práticas sobre como distinguir identidades.",
+          "quote": "Assistir sabendo o que é: uma produção de massa sobre uma lenda Zhuang, não um *gexu*."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "Prosa sofisticada com estruturas variadas. Sem clichés pronunciados. Consistência em PT-BR. Retórica bem distribuída, embora texto longo possa ter algumas redundâncias.",
+          "quote": "É a materialização urbana de magnatas da diáspora que enriqueceram além-mar e enviaram capitais de volta à terra natal — movimento simbolizado com clareza na figura de Tan Kah Kee."
+        },
+        {
+          "dimension": 6,
+          "score": 7,
+          "justification": "Algumas afirmações apresentadas com certeza quando há incerteza documentada. Não usa marcação de incerteza de forma sistemática onde apropriado.",
+          "quote": "O clã Peng (彭), por exemplo, governou o senhorio tusi de Yongshun por mais de oito séculos a partir de sua base regional em Wangcun — o povoado cravado sobre a falésia que hoje atende pelo nome de Furong Town."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido. Arquivo único etnias.md modificado. Estrutura de build compatível com especificações.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 62,
+      "cap": null,
+      "capReasons": [],
+      "final": 62,
+      "mainStrength": "Estrutura sofisticada e cobertura abrangente de todos os grupos étnicos com grande profundidade descritiva.",
+      "priorityFix": "Corrigir afirmação sobre Zhuang concentrados 'quase em sua totalidade' em Guangxi (na verdade ~80%) e verificar assento primário do clã Peng em Wangcun versus outras sedes históricas.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C03",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 1,
+          "justification": "Taxa de 65,7% com 12 erros relevantes, muito abaixo do aceitável. Intervalo [0, 4] por acurácia; múltiplos erros reduzem ainda mais, resultando em score mínimo.",
+          "quote": "Em Yongshun — o condado onde fica Furong — a linhagem Peng governou como *tusi* por 818 anos ininterruptos, do fim da dinastia Tang até 1728, a partir de uma capital fortificada nas montanhas chamada Laosicheng."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Cobre os cinco grupos necessários com ligações ao roteiro. Sem resquícios do roteiro anterior. Estrutura com abertura, tópicos livres e encerramento mantida.",
+          "quote": "Entre Chongqing e Fenghuang, o viajante atravessa o país dos Tujia. Em Guangxi, entra no território da maior minoria do país, os Zhuang, cuja presença é tão diluída na paisagem que muitos visitantes saem de Guilin sem saber que estiveram numa região autônoma."
+        },
+        {
+          "dimension": 3,
+          "score": 10,
+          "justification": "Texto muito longo (5.621 palavras) com densidade de detalhes, mas metade tem caráter genérico ou reconto de informações já presentes em outras páginas.",
+          "quote": "Os Tujia (土家族) chamam a si mesmos *Bizika* — \"gente nativa daqui\" — e o nome oficial chinês diz basicamente o mesmo: *tu* (土), terra, *jia* (家), família, \"as famílias da terra\", em oposição aos *kejia*."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conecta a maioria dos grupos aos pontos do roteiro. Observações práticas sobre como reconhecer diferenças culturais. Alguns detalhes sobre timing de festivais.",
+          "quote": "No dia 20 de novembro o roteiro atravessa para Fukuoka, pelo mesmo mar por onde os juncos de Quanzhou levavam mercadorias a Hakata oito séculos atrás."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "Prosa clara e bem estruturada. Sem clichés excessivos. PT-BR consistente. Algumas redundâncias em trechos sobre grupos étnicos.",
+          "quote": "A lista de 56 etnias tem menos de um século. Quando a República Popular foi fundada, em 1949, o novo governo convocou os povos do país a se registrarem, e recebeu mais de 400 autoidentificações."
+        },
+        {
+          "dimension": 6,
+          "score": 4,
+          "justification": "Múltiplas afirmações erradas ou duvidosas escritas como certeza. Laosicheng não foi capital por 818 anos; distância a Furong exagerada. Classificação Qo Xiong incorreta.",
+          "quote": "A língua tujia, um ramo tibeto-birmanês sem relação com o chinês e sem escrita própria, sobreviveu apenas nos vales mais isolados."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido. Único arquivo modificado. Build mecanicamente compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 54,
+      "cap": 70,
+      "capReasons": [
+        "12 erros relevantes ultrapassam o limite de 2+ que reduz teto a 70"
+      ],
+      "final": 54,
+      "mainStrength": "Cobertura extremamente abrangente com tentativa de unificar múltiplas dimensões da vida étnica ao longo do roteiro.",
+      "priorityFix": "Revisar todas as afirmações sobre duração de chefaturas (não foi 818 anos em Laosicheng), distâncias (Laosicheng fica a ~48km de Furong, não 'poucos km'), e classificações linguísticas (Qo Xiong é Miao oriental, não ocidental).",
+      "additionalConcerns": [
+        "Texto extremamente longo pode dificultar revisão; múltiplos erros factuais fundamentais questionam confiabilidade geral"
+      ]
+    },
+    {
+      "id": "C04",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "Acurácia de 100% sobre os 16 fatos adjudicados. Nenhum erro relevante detectado. Taxa máxima do intervalo [27, 30].",
+          "quote": "O Estado chinês reconhece 56 *minzu*: a maioria han e 55 grupos minoritários."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Todos os cinco grupos cobertos e conectados ao roteiro. Sem resquícios de roteiro anterior. Estrutura completa com abertura e encerramento.",
+          "quote": "Minnan e Hakka, por exemplo, não são \"minorias étnicas\" oficiais: são formações históricas han, marcadas por fala, parentesco, culinária e deslocamentos muito próprios."
+        },
+        {
+          "dimension": 3,
+          "score": 10,
+          "justification": "Texto mais conciso (2.916 palavras) reduz densidade de detalhes específicos. Cobre pontos principais mas com menos profundidade que textos mais longos.",
+          "quote": "Conhecer Hongyadong não equivale, portanto, a conhecer uma comunidade Tujia do sudeste: o complexo contemporâneo utiliza referências regionais de arquitetura suspensa."
+        },
+        {
+          "dimension": 4,
+          "score": 7,
+          "justification": "Conecta os grupos aos trechos do roteiro. Observações práticas sobre distinção entre encenação e vida cotidiana. Menos detalhe do que textos mais longos.",
+          "quote": "Entender Hongyadong não equivale a entender uma comunidade Tujia do sudeste."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "Prosa clara e sem clichés. PT-BR consistente. Bom equilíbrio nas estruturas, embora brevidade limite variação de ritmo.",
+          "quote": "A primeira é a das minorias oficiais com território próprio, como os Tujia e os Miao em Xiangxi."
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Calibração epistêmica excelente. Usa linguagem apropriadamente cautelosa em afirmações. Não confunde incerteza com erro.",
+          "quote": "Vale lembrar que 'Xiangxi' aparece tanto como nome de uma unidade administrativa quanto, em uso mais amplo, como referência ao oeste de Hunan."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com todos os campos corretos. Único arquivo modificado. Build mecanicamente compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 86,
+      "cap": null,
+      "capReasons": [],
+      "final": 86,
+      "mainStrength": "Acurácia factual perfeita (100%) combinada com calibração epistêmica excelente e estrutura clara que evita reducionismos.",
+      "priorityFix": "Aumentar profundidade específica adicionando mais exemplos concretos, datas e nomes próprios para atingir potencial máximo de score em D3.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C05",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "Acurácia de 100% sobre 43 fatos adjudicados. Sem erros relevantes. Máximo do intervalo [27, 30].",
+          "quote": "Os Tujia (土家族) passam de 9,5 milhões de pessoas, segundo o censo de 2020, e vivem sobretudo nas serras Wuling, o maciço que junta o oeste de Hunan."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Cobre todos os cinco grupos com conexão clara ao itinerário. Sem resquícios do roteiro anterior. Estrutura de abertura, tópicos livres e encerramento intacta.",
+          "quote": "Entre 31 de outubro e 20 de novembro, o roteiro cruza pelo menos cinco identidades que um visitante tende a juntar sob o rótulo \"chinês\"."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Quase todo parágrafo traz nomes, datas e lugares concretos. Explica mecanismos históricos. Acrescenta conteúdo não repetido em páginas de atrações específicas.",
+          "quote": "Durante quase mil anos, a região não foi governada diretamente pelos imperadores. Desde os Tang, e de forma mais organizada sob os Yuan e os Ming, a corte reconhecia chefes hereditários locais, os *tusi* (土司)."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conexão específica com roteiro em múltiplos pontos. Menciona datas da viagem (31 de outubro a 20 de novembro). Observações práticas sobre distinção entre apresentação e vida cotidiana.",
+          "quote": "Em Furong Town, entre o sábado 7 e o domingo 8 de novembro, a identidade Tujia é também a principal atração da cidade."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "Prosa fluida com ritmo bem controlado. Sem clichés pronunciados. PT-BR consistente. Retórica equilibrada com estrutura variada.",
+          "quote": "A identidade Tujia raramente se revela pelo ouvido. Ela aparece em outros lugares: na casa, no calendário ritual e sobretudo na cozinha."
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Incerteza sinalizada apropriadamente onde FATOS.md indica. Afirmações incertas marcadas com linguagem cautelosa. Nenhuma afirmação errada apresentada como certeza.",
+          "quote": "A data muda de aldeia para aldeia e de ano para ano, porque segue calendário próprio, e não há anúncio confirmado para 8 e 9 de novembro de 2026."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com estrutura completa. Único arquivo modificado. Build mecanicamente compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 89,
+      "cap": null,
+      "capReasons": [],
+      "final": 89,
+      "mainStrength": "Combinação de acurácia factual perfeita (100%), calibração epistêmica excelente e profundidade específica que cobre os cinco grupos com detalhes únicos por parada.",
+      "priorityFix": "Pequeno ajuste de ancoragem pode incluir observações ainda mais específicas sobre o que o viajante reconhecerá em tempo real em cada local.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C06",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "Acurácia de 100% sobre 17 fatos adjudicados. Sem erros relevantes. Máximo do intervalo [27, 30].",
+          "quote": "Os Tujia habitam uma região que atravessa fronteiras provinciais: o oeste de Hunan, áreas de Hubei e Guizhou e o território de Chongqing, sobretudo sua porção sudeste."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Todos os cinco grupos cobertos e conectados aos trechos do roteiro. Sem resquícios do roteiro anterior detectados. Estrutura apropriada.",
+          "quote": "Zhangjiajie faz parte desse espaço cultural, mas é uma cidade administrativamente distinta da Prefeitura Autônoma Tujia e Miao de Xiangxi."
+        },
+        {
+          "dimension": 3,
+          "score": 10,
+          "justification": "Maioria dos parágrafos traz nomes e lugares concretos. Alguns trechos tendem a generalidades ou repetição de informações conhecidas. Profundidade moderada.",
+          "quote": "As casas *diaojiaolou*, apoiadas parcialmente em pilares para ocupar encostas e margens, também exigem leitura cuidadosa."
+        },
+        {
+          "dimension": 4,
+          "score": 7,
+          "justification": "Conecta os grupos aos pontos do roteiro. Observações práticas sobre distinção entre encenação turística e vida cotidiana. Menos detalhado que textos mais longos.",
+          "quote": "O cenário não reúne e não esgota a cidade cultural. Pela manhã, antes de as lojas abrirem, o rio volta a ser eixo de trabalho."
+        },
+        {
+          "dimension": 5,
+          "score": 11,
+          "justification": "Prosa clara e bem estruturada. Sem clichés excessivos. PT-BR consistente. Alguma repetição temática entre seções reduz variação.",
+          "quote": "A primeira é a das minorias oficiais com território próprio, como os Tujia e os Miao em Xiangxi e no sudeste de Chongqing."
+        },
+        {
+          "dimension": 6,
+          "score": 8,
+          "justification": "Calibração epistêmica apropriada. Evita apresentar incertezas como certezas. Uma ou duas situações onde maior cautela seria útil.",
+          "quote": "Reconhecer nomes é apenas o começo."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com estrutura completa. Único arquivo modificado. Build mecanicamente compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 84,
+      "cap": null,
+      "capReasons": [],
+      "final": 84,
+      "mainStrength": "Acurácia factual perfeita (100%) com estrutura bem pensada que equilibra precisão administrativa (distinção Zhangjiajie vs. Xiangxi) com acessibilidade ao viajante.",
+      "priorityFix": "Aumentar profundidade específica em D3 adicionando mais exemplos concretos, datas e nomes próprios para se aproximar do máximo potencial.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C07",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "Acurácia de 100% sobre 30 fatos adjudicados. Sem erros relevantes detectados. Máximo do intervalo [27, 30].",
+          "quote": "Nenhuma desses respostas, sozinha, determina etnia. Shenzhen convida a conservar essa abertura."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Cobre todos os cinco grupos com conexões claras ao roteiro. Sem resquícios do roteiro anterior. Estrutura com abertura, tópicos livres e encerramento mantida.",
+          "quote": "Mais ao sul, o Rio Li atravessa Guangxi, região autônoma que leva os Zhuang no próprio nome."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Quase todo parágrafo traz nomes, datas ou lugares concretos. Explica mecanismos de forma clara. Acrescenta perspectivas não presentes em outras páginas.",
+          "quote": "Por isso, a pergunta pode ir além de identificar um estilo: quem encomendou aquela casa, onde viveu e quais recursos conseguiu mobilizar?"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conexão específica com o itinerário em múltiplos pontos. Observações práticas sobre como reconhecer e respeitar diferenças. Datas e timing mencionados.",
+          "quote": "A partir de 9 de novembro, com Guilin e depois Yangshuo até o dia 12, o roteiro entra na Região Autônoma Zhuang de Guangxi."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "Prosa fluida com ritmo variado. Sem clichés pronunciados. PT-BR consistente com bom uso de 'você'. Retórica bem distribuída.",
+          "quote": "Entre a casa herdada e a residência escolhida, há muitas maneiras de organizar uma vida."
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Incerteza sinalizada apropriadamente onde FATOS.md indica. Não apresenta afirmações incertas como certeza. Calibração epistêmica excelente ao longo do texto.",
+          "quote": "De onde você veio? Pode render uma província, uma cidade, uma aldeia ou uma história familiar. Nenhuma dessas respostas, sozinha, determina etnia."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com todos os campos corretos. Único arquivo etnias.md modificado. Build mecanicamente compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 89,
+      "cap": null,
+      "capReasons": [],
+      "final": 89,
+      "mainStrength": "Acurácia factual perfeita combinada com profundidade específica que conecta teoria administrativa com prática vivida, oferecendo perspectiva epistemicamente calibrada.",
+      "priorityFix": "Pode aumentar ainda mais a ancoragem em D4 com exemplos ainda mais específicos sobre observações que o viajante fará em tempo real.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C08",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 1,
+          "justification": "Taxa de 78,6% com 6 erros relevantes, incluindo 2 erros de armadilha. Intervalo [0, 4] por acurácia; erros de armadilha (xiangxi-admin e tujia-population) comprovam falhas graves.",
+          "quote": "Xiangxi, a área de Zhangjiajie, Furong e Fenghuang, é oficialmente a Prefeitura Autônoma Tujia e Miao de Xiangxi."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Cobre os cinco grupos necessários ligados ao roteiro. Sem resquícios do roteiro anterior detectados. Estrutura apropriada com abertura e encerramento.",
+          "quote": "O maior deles em Shenzhen é Hehu Xinju (鹤湖新居), em Longgang, construído pelo clã Luo, que veio de Xingning, e concluído por volta de 1817."
+        },
+        {
+          "dimension": 3,
+          "score": 11,
+          "justification": "Maioria dos parágrafos traz nomes e datas concretas. Trechos com [VERIFICAR] indicam pontos com incerteza. Algumas partes tendem a generalidades.",
+          "quote": "Os Tujia (土家族) são o grupo minoritário mais presente neste roteiro e o que mais o atravessa. Somam entre 8 e 9 milhões de pessoas [VERIFICAR número exato]."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conecta os grupos aos trechos do roteiro. Observações práticas sobre distinção entre apresentação e vida cotidiana. Datas mencionadas.",
+          "quote": "O lugar onde o viajante chega mais perto do cotidiano Tujia está nas ruas de trás de Furong, nos blocos de madeira escura acima da cachoeira, onde a vida cotidiana segue sem câmera."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "Prosa clara e bem estruturada. Sem clichés excessivos. PT-BR consistente. Tags [VERIFICAR] são marcações honestas de rascunho, não jargão de bastidor.",
+          "quote": "Na prática, a palavra 'autonomia' quer dizer representação formal, quotas e algumas políticas culturais, não autogoverno."
+        },
+        {
+          "dimension": 6,
+          "score": 8,
+          "justification": "Usa tags [VERIFICAR] para marcar incerteza, o que é apropriado. Algumas afirmações incertas carecem de tal marcação. Calibração razoável mas com lacunas.",
+          "quote": "Somam entre 8 e 9 milhões de pessoas (o censo de 2010 registrou cerca de 8,35 milhões; o de 2020 subiu para perto de 9,6 milhões [VERIFICAR número exato])."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com estrutura apropriada. Único arquivo modificado. Build mecanicamente compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 59,
+      "cap": 70,
+      "capReasons": [
+        "2 erros de armadilha detectados (xiangxi-admin-overextension, tujia-population-8-to-9m) aplicam cap automático de 70"
+      ],
+      "final": 59,
+      "mainStrength": "Tentativa honesta de marcar incerteza com tags [VERIFICAR] demonstra autoconsciência editorial, mas erros de fatos básicos (Zhangjiajie na prefeitura, população Tujia) comprometem credibilidade.",
+      "priorityFix": "Urgente: Zhangjiajie não pertence à Prefeitura Autônoma de Xiangxi desde 1988. Verificar população exata de Tujia no censo de 2020 (9,59 milhões, não 8-9 milhões).",
+      "additionalConcerns": [
+        "Contradição interna sobre população Tujia (abre com 8-9 milhões, depois refere-se a 9,6 no parêntese); múltiplos [VERIFICAR] sugerem draft incompleto"
+      ]
+    },
+    {
+      "id": "C09",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "Acurácia de 100% sobre 15 fatos adjudicados. Nenhum erro relevante detectado. Máximo do intervalo [27, 30].",
+          "quote": "A classificação oficial das nacionalidades chinesas tomou forma sobretudo a partir da década de 1950."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Todos os cinco grupos cobertos com conexão clara ao itinerário. Sem resquícios do roteiro anterior. Estrutura de abertura, desenvolvimento e encerramento intacta.",
+          "quote": "A viagem atravessa a China de oeste para leste e, ao fazê-lo, cruza diferentes maneiras de pertencer ao país."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Quase todo parágrafo traz nomes, datas e lugares concretos. Explica mecanismos históricos. Acrescenta perspectivas não presentes em outras páginas.",
+          "quote": "Hakka designa uma identidade histórica, cultural e linguística situada dentro do universo Han; na classificação oficial chinesa, não constitui uma minoria nacional separada como Tujia ou Zhuang."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conexão específica com o roteiro em múltiplos pontos. Observações práticas sobre distinção entre apresentação e vida cotidiana. Timing de viagem integrado.",
+          "quote": "Em Yangshuo, a personagem que concentra a memória Zhuang é Liu Sanjie, a \"Terceira Irmã Liu\"."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "Prosa fluida com ritmo bem variado. Sem clichés pronunciados. PT-BR consistente com bom uso de 'você'. Retórica equilibrada e reflexiva.",
+          "quote": "Pertencer também envolve escolhas, mudanças e relações que o visitante talvez nunca conheça."
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Incerteza sinalizada apropriadamente onde necessário. Não apresenta afirmações incertas como certeza. Calibração epistêmica excelente ao longo.",
+          "quote": "A história de um grande benfeitor tampouco resume a experiência de todos os emigrantes e descendentes."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com estrutura completa. Único arquivo modificado. Build mecanicamente compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 90,
+      "cap": null,
+      "capReasons": [],
+      "final": 90,
+      "mainStrength": "Acurácia factual perfeita combinada com profundidade específica e calibração epistemicamente excelente que equilibra rigor com acessibilidade ao viajante.",
+      "priorityFix": "Apenas refinamentos menores; pode considerar ainda mais exemplos concretos de observações que o viajante fará em tempo real.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C10",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "Acurácia de 100% sobre 16 fatos adjudicados. Sem erros relevantes detectados. Máximo do intervalo [27, 30].",
+          "quote": "Minnan designa o sul de Fujian, associado a Xiamen, Quanzhou e Zhangzhou, e uma identidade cultural dentro do universo Han."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Cobre todos os cinco grupos com conexões claras ao itinerário. Sem resquícios do roteiro anterior detectados. Estrutura apropriada com abertura e encerramento.",
+          "quote": "Uma casa apoiada em pilares sobre o Tuojiang, em Fenghuang, e uma tigela de macarrão com molho *shacha*, em Xiamen, contam histórias diferentes sobre pertencimento."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Quase todos os parágrafos trazem nomes, datas ou lugares concretos. Explica mecanismos de forma clara. Acrescenta perspectivas não presentes em outras páginas.",
+          "quote": "A escalas da pertencimento. Escalas podem ser aproximadas de formas diferentes. Uma construção pode suscitar perguntas sobre uso; um alimento, sobre preparo; uma conversa, sobre o nome que alguém dá à própria origem."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conecta grupos aos pontos do roteiro com especificidade. Observações práticas sobre reconhecimento de diferenças. Timing mencionado apropriadamente.",
+          "quote": "Na [Zhongshan Road](#atracao/zhongshan-road-xiamen), também presente no roteiro, os *qilou* apresentam outra relação entre edifício e vida urbana."
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "Prosa clara e bem estruturada. Sem clichés pronunciados. PT-BR consistente. Bom uso de links internos que mostram referências em vez de repetir.",
+          "quote": "Diante de uma fachada, portanto, a pergunta pode ir além de identificar um estilo: quem encomendou aquela casa, onde viveu e quais recursos conseguiu mobilizar?"
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Incerteza apropriadamente sinalizada. Não apresenta afirmações incertas como certezas. Calibração epistêmica excelente.",
+          "quote": "Uma família Hakka estabelecida há gerações em Shenzhen e uma família que acaba de chegar do interior participam de tempos diferentes da cidade."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com estrutura completa. Único arquivo etnias.md modificado. Build mecanicamente compatível. Links internos válidos.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 89,
+      "cap": null,
+      "capReasons": [],
+      "final": 89,
+      "mainStrength": "Acurácia factual perfeita (100%) combinada com uso efetivo de links internos e profundidade que conecta teoria com observação concreta do viajante.",
+      "priorityFix": "Pequeno refinamento: alguns links internos poderiam ser validados contra a estrutura final de destinos.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C11",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "Acurácia de 100% sobre 19 fatos adjudicados. Sem erros relevantes detectados. Máximo do intervalo [27, 30].",
+          "quote": "A presença Tujia se distribui pela região montanhosa de Wuling, no oeste de Hunan e Hubei e no sudeste de Chongqing."
+        },
+        {
+          "dimension": 2,
+          "score": 14,
+          "justification": "Todos os cinco grupos cobertos com conexão clara ao roteiro. Sem resquícios do roteiro anterior. Estrutura com abertura, desenvolvimento e encerramento mantida.",
+          "quote": "De Chongqing ao litoral de Xiamen, o roteiro atravessa diferentes maneiras de pertencer à China."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Quase todos os parágrafos trazem nomes, datas ou lugares concretos. Explica mecanismos com clareza. Acrescenta perspectivas distintas de outras páginas.",
+          "quote": "Pilares permitem apoiar parte do edifício onde a encosta ou a margem dificulta uma base contínua; a forma resulta de soluções presentes entre diferentes populações da região."
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Excelente conexão específica com o itinerário em múltiplos pontos. Observações práticas sobre como reconhecer diferenças. Datas e timing bem integrados.",
+          "quote": "A presença anterior à expansão estavam falantes de variedades cantonesas e de Hakka. O passado não começou com os arranha-céus, embora tenha se tornado menos visível entre eles."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "Prosa fluida com ritmo variado e reflexivo. Sem clichés pronunciados. PT-BR consistente com bom uso de 'você'. Retórica bem distribuída.",
+          "quote": "Uma trama de *xilankapu*, uma peça de prata martelada e o som do *nanyin* pedem atenções diferentes."
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Incerteza apropriadamente sinalizada onde necessário. Não apresenta afirmações incertas como certeza. Calibração epistêmica excelente ao longo do texto.",
+          "quote": "Nenhuma das respostas, sozinha, determina etnia. O nome Hakka descreve uma identidade cultural; migrante descreve uma relação entre origem e residência."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter válido com todos os campos corretos. Único arquivo modificado. Build mecanicamente compatível.",
+          "quote": "type: pais; slug: china; topico: etnias; title: \"China — Etnias\""
+        }
+      ],
+      "sum": 91,
+      "cap": null,
+      "capReasons": [],
+      "final": 91,
+      "mainStrength": "Acurácia factual perfeita (100%) combinada com profundidade excepcional, calibração epistêmica excelente e reflexão sofisticada sobre identidade que transcende categorias administrativas.",
+      "priorityFix": "Apenas refinamentos menores; este é um dos textos mais equilibrados entre precisão, profundidade e acessibilidade.",
+      "additionalConcerns": []
+    }
+  ],
+  "methodNotes": [
+    "Avaliação cega de 11 candidatos (C01-C11) usando rubrica v2 com 7 dimensões (máximo 100 pontos).",
+    "D1 (Precisão Factual): Intervalos de acurácia determinados por FACT_SUMMARY; erros relevantes e armadilhas aplicam redução de faixa segundo rubrica.",
+    "D2-D7: Avaliados qualitativamente baseado em conteúdo do texto, sem acesso a relatórios do agente ou contexto de processo.",
+    "Tetos aplicados quando condições da rubrica são atendidas: C03 (cap 70 por 12 erros), C08 (cap 70 por 2 erros de armadilha).",
+    "Citações extraídas literalmente do texto de cada candidato, limitadas a 20-180 caracteres, sem reticências adicionadas.",
+    "Nenhuma identificação de modelo ou comparação relativa entre candidatos além da aplicação objetiva da rubrica.",
+    "Calibração epistêmica (D6) considera marcação de incerteza apropriada e linguagem cautelosa onde FATOS.md indica incerteza verdadeira.",
+    "Conformidade mecânica (D7): todas as páginas apresentam front matter válido, formato apropriado, sem indicações de quebra de build."
+  ]
+}

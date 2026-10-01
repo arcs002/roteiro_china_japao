@@ -1,0 +1,68 @@
+{
+  "evaluations": [
+    {
+      "id": "C07",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "Precisão factual de 100% em 30 afirmações verificadas. Todas as cifras de população (Tujia 9.587.732, Miao 11.067.929, Zhuang 19.568.546), datas históricas (reformas gaitu guiliu século XVIII, 1843/1903 Xiamen, 1921 universidade, 1980 ZEE) e nomenclatura administrativa estão corretas. Nenhum erro relevante nas armadilhas listadas.",
+          "quoteId": "Q045"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Todos os 5 grupos pedidos cobertos: Tujia em Chongqing/Zhangjiajie/Furong, Miao em Fenghuang, Zhuang em Guilin/Yangshuo, Hakka em Shenzhen, Minnan em Xiamen. Nenhum resquício do roteiro antigo. Estrutura completa (Abertura + 7 tópicos livres + Encerramento) com front matter intacto.",
+          "quoteId": "Q042"
+        },
+        {
+          "dimension": 3,
+          "score": 14,
+          "justification": "Quase todo parágrafo traz nomes concretos, datas e lugares (Wuling, Yongshun, Rio Tuo, Rio Li, Gulangyu, Huaqiangbei). Explica mecanismos: por que diaojiaolou existem (adaptação ao relevo, não exclusividade étnica), por que Impression Liu Sanjie é produto turístico (seleção, ampliação, lógica noturna), como diáspora retorna em Xiamen. Acrescenta contexto etnográfico que páginas de cidades não cobrem sem replicar conteúdo existente.",
+          "quoteId": "Q066"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Todas as conexões práticas: observações de como reconhecer diferenças (ouvir qual língua surge, notar se fogo é uso real ou cenografia, distinguir ocasião de identidade cotidiana em Fenghuang); distinção entre memória social e produto turístico em Guilin/Yangshuo; explicação de hukou para Shenzhen; shacha mian e Gulangyu observáveis em Xiamen. Falta apenas contexto de datas específicas (ex.: Ano Novo Miao vs. viagem em novembro) para máximo.",
+          "quoteId": "Q098"
+        },
+        {
+          "dimension": 5,
+          "score": 15,
+          "justification": "Prosa fluida com ritmo variado, voz de livro-reportagem consistente. Sem clichê, jargão de bastidor ou metalinguagem. PT-BR correto (\"prefeitura\", \"concerto\") com \"você\" usado sistematicamente. Retórica limpa: uso moderado de negação-inversão (\"não é X; é Y\" presente mas não abusivo). Aberturas de seção (Abertura → 7 seções tópicas → Encerramento) são não-repetitivas.",
+          "quoteId": "Q031"
+        },
+        {
+          "dimension": 6,
+          "score": 6,
+          "justification": "Nenhuma afirmação errada é apresentada como certa (todos os 30 fatos verificados). Porém, 3 afirmações documentadas como incertas em FACT_SUMMARY (U257, U276, U278) carecem de sinalização ou ressalva: compartilhamento de mercados/escolas/casamentos em Fenghuang; distribuição específica de Mandarim/Minnan em Xiamen; microlocalizações de Huaqiangbei/Chegongmiao/Tairan. U264 recebe ressalva retroativa em prosa, mas sem tag explícita.",
+          "quoteId": "Q149"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build passa sem erros (buildExit: 0). Apenas etnias.md foi alterado (scopeOnlyTarget: true). Front matter válido e completo (type, slug, topico, title, order). Nenhuma tag [VERIFICAR] no corpo, conformidade mecânica perfeita.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 94,
+      "cap": null,
+      "capReasons": [],
+      "final": 94,
+      "mainStrength": "Precisão factual 100% combinada com profundidade etnográfica que diferencia categoria oficial, língua, território e representação turística — sem repetir conteúdo de páginas de cidades. Estrutura editorial impecável e cobertura integral dos 5 grupos pedidos.",
+      "priorityFix": "Adicionar [VERIFICAR] tags ou ressalvas em prosa para as 3-4 afirmações documentadas como incertas (convivência multiétnica em Fenghuang, distribuição de idiomas em Xiamen, características microlocais de bairros Shenzhen) para alcançar máximo em D6.",
+      "additionalConcerns": [
+        "D4: Faltam observações sobre datas específicas de celebrações (San Yue San em terceiro mês lunar) para ancoragem temporal completa.",
+        "D6: Callibre epistemológica seria fortalecida com tags explícitas em lugar de ressalvas retroativas em prosa."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliação cega, isolada, texto C07 único. FACT_SUMMARY fornecido mostra 30 corretas / 0 incorretas / 4 incertas; taxa = 100%, faixa base [27,30]. Nenhum erro relevante em trapErrors ou relevantErrors.",
+    "Build e audit passaram sem erros novos. Escopo verificado: apenas etnias.md alterado. Word count (3.981) bem acima do piso de 2.000.",
+    "Contagem retórica de 'Não é X — é Y': 1-2 instâncias exatas, estruturas próximas somam ~3-4, abaixo do limite de 3; D5 não penalizado.",
+    "Incertezas em FACT_SUMMARY: U257, U264, U276, U278. U264 recebe ressalva em C07 ('não que todos...nascido fora'); U257, U276, U278 carecem de sinalização. D6 reduzido de 9 para 6.",
+    "Nenhum teto aplicável: build OK, resquício zero, erros nas armadilhas zero, piso atendido, nenhuma invenção detectada."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "_doc": "Config da skill travel-final-review (auditoria mecânica). Fonte: pesquisa/voos.md + roteiro TripIt em pesquisa/perfil-viajantes.md. Atualize aqui quando o roteiro mudar — o script não sabe nada de China/Japão além do que está neste arquivo.",
+  "year": 2026,
+  "contentRoot": "pesquisa",
+  "reportDir": "C:\\dev\\pessoal\\roteiro_china_japao\\pesquisa\\_revisao\\ab-test\\unified-2026-10-01\\mechanical\\C03",
+  "stops": [
+    {
+      "city": "chongqing",
+      "checkin": "2026-10-31",
+      "checkout": "2026-11-04",
+      "hotel": null
+    },
+    {
+      "city": "zhangjiajie",
+      "checkin": "2026-11-04",
+      "checkout": "2026-11-07",
+      "hotel": "No. 106 Guihua Road Inn (Wulingyuan)"
+    },
+    {
+      "city": "furong-town",
+      "checkin": "2026-11-07",
+      "checkout": "2026-11-08",
+      "hotel": "Baihe Wharf Inn"
+    },
+    {
+      "city": "fenghuang",
+      "checkin": "2026-11-08",
+      "checkout": "2026-11-09",
+      "hotel": null
+    },
+    {
+      "city": "guilin",
+      "checkin": "2026-11-09",
+      "checkout": "2026-11-10",
+      "hotel": null
+    },
+    {
+      "city": "yangshuo",
+      "checkin": "2026-11-10",
+      "checkout": "2026-11-12",
+      "hotel": null
+    },
+    {
+      "city": "shenzhen",
+      "checkin": "2026-11-12",
+      "checkout": "2026-11-16",
+      "hotel": "COCO FLORAL XIJU"
+    },
+    {
+      "city": "xiamen",
+      "checkin": "2026-11-16",
+      "checkout": "2026-11-20",
+      "hotel": null
+    },
+    {
+      "city": "fukuoka",
+      "checkin": "2026-11-20",
+      "checkout": "2026-11-22",
+      "hotel": "WELLCABIN TENJIN"
+    },
+    {
+      "city": "kurokawa",
+      "checkin": "2026-11-22",
+      "checkout": "2026-11-23",
+      "hotel": "Ryokan Misato"
+    },
+    {
+      "city": "beppu",
+      "checkin": "2026-11-23",
+      "checkout": "2026-11-28",
+      "hotel": "Super Hotel Beppu Ekimae"
+    }
+  ],
+  "removedDestinations": [
+    "Xi'an",
+    "Xian",
+    "Hong Kong",
+    "Guizhou",
+    "Zhaoxing",
+    "Xijiang",
+    "Terracota"
+  ],
+  "wordFloors": {
+    "city": 6000,
+    "dia": 1800,
+    "atracao": 300,
+    "pais": 1500,
+    "provincia": 1000
+  },
+  "backstageHeaders": "^(Imagens|Fontes|Lugares reais pesquisados|Eventos.*pesquisad|Brief|Notas? de pesquisa|Pend[êe]ncias)",
+  "mandatoryCitySections": [
+    "O que está acontecendo"
+  ]
+}

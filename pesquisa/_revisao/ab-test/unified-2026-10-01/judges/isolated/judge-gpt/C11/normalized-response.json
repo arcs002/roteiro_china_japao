@@ -1,0 +1,59 @@
+{
+  "evaluations": [
+    {
+      "id": "C11",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 19 afirmações factuais decididas estão corretas, sem erros relevantes; a distinção administrativa entre Zhangjiajie e Xiangxi exemplifica o cuidado factual.",
+          "quoteId": "Q032"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos nos trechos pertinentes, preserva a estrutura exigida e não apresenta resquícios do roteiro antigo, links internos quebrados ou números de dia.",
+          "quoteId": "Q020"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica práticas específicas, como o uso do sawndip, e acrescenta contexto cultural; algumas passagens reiteram ideias gerais sobre pertencimento e diversidade.",
+          "quoteId": "Q131"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Relaciona os grupos a experiências concretas do roteiro, como a diferença entre o espetáculo de Yangshuo e o canto comunitário Zhuang.",
+          "quoteId": "Q144"
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "O português é claro e consistente, mas a repetição de formulações abstratas sobre escalas, relações e pertencimento reduz o ritmo da prosa.",
+          "quoteId": "Q264"
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "O texto distingue contexto de visita efetiva e trata a lenda e as categorias étnicas com ressalvas adequadas; os fatos checados não apontam afirmações erradas ou incertas.",
+          "quoteId": "Q151"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos; as métricas registram build e auditoria sem erro novo e edição restrita ao arquivo-alvo.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 92,
+      "cap": null,
+      "capReasons": [],
+      "final": 92,
+      "mainStrength": "Contextualiza diferenças étnicas e linguísticas com exemplos ligados às paradas da viagem, sem atribuir identidades automaticamente aos moradores.",
+      "priorityFix": "Enxugar as passagens abstratas e repetitivas para dar mais espaço às observações concretas.",
+      "additionalConcerns": []
+    }
+  ],
+  "methodNotes": []
+}

@@ -1,0 +1,73 @@
+```json
+{
+  "evaluations": [
+    {
+      "id": "C03",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 2,
+          "justification": "Taxa de acerto 65,71% (23 corretas em 35 unidades factualmente adjudicadas) coloca o texto abaixo de 70%, faixa mínima. Detectados 12 erros relevantes distintos incluindo datas, ranking e classificações: censo de 400 em 1953 vs 1949 (U085), Miao como quinta minoria vs quarta (U103), Tujia sem relação com chinês vs sino-tibetana (U098), Laosicheng 818 anos inteiros vs 589 na sede (U094), Hehu iniciada em 1817 vs 1782 (U126), Qo Xiong ocidental vs oriental (U104). Alguns erros são quantitativos significativos (48 km descrito como 'poucos').",
+          "quoteId": "Q020"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Todos os cinco grupos solicitados cobertos com ligação ao roteiro: Tujia (Chongqing/Furong/Fenghuang), Miao (Fenghuang/muralha), Zhuang (Guilin/Yangshuo/Longji), Minnan (Xiamen), Hakka (Shenzhen). Nenhum resquício de roteiro antigo (Xi'an, Xijiang, Zhaoxing). Estrutura íntegra com Abertura, seis seções temáticas e Encerramento; front matter preservado. Sem links quebrados ou numeração de dia.",
+          "quoteId": "Q011"
+        },
+        {
+          "dimension": 3,
+          "score": 13,
+          "justification": "Texto atinge 5.621 palavras, bem acima do piso de 2.000. Quase todos os parágrafos trazem nomes precisos (Peng, Tan Kah Kee, Shen Congwen, Nong Zhigao), datas específicas (1726-1735 de gaitu guiliu, 1615 muralha Ming, 1921 universidade) e locais concretos. Explica mecanismos: por que Tujia desenvolveu diaojiaolou (terreno montanhoso), por que minnaneses emigraram (geografia e portos). Acrescenta o que atrações não têm (contexto histórico, cosmologia). Alguma duplicação com página de Hongyadong existente, mas não substancial.",
+          "quoteId": "Q061"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Conexões específicas e práticas entre povos e experiências do viajante: diaojiaolou visíveis em Furong/Fenghuang (Q074), prata em fila de turismo vs tradição em casamentos Miao (Q108), youcha em balcão de Guilin (Q142), ferry de Gulangyu com minnanês falado entre moradores (Q171), casas Hakka em Shenzhen (Q189). Oferece pistas de reconhecimento: "saber distinguir dança de turismo da vida cotidiana" (Q051), observações de horários (mercado cedo, antes dos ônibus), exemplos de culinária vinculada a roteiros específicos. Alguma repetição decorativa.",
+          "quoteId": "Q074"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "Prosa fluida com ritmo variado entre parágrafos curtos e longos. Voz narrativa de livro-reportagem consistente. Sem tags [VERIFICAR] (auditExit: 0). Sem jargão de bastidor detectado. PT-BR correto com uso consistente de \"você\" e \"viajante\". Retórica controlada com dois exemplos documentados de \"Não é X — é Y\" (craft vs realidade, minoria oficial vs subgrupo han). Aberturas e fechamento não repetitivos. Uma leve sobrecarga retórica no fecho, mas dentro dos limites.",
+          "quoteId": "Q217"
+        },
+        {
+          "dimension": 6,
+          "score": 2,
+          "justification": "Vários erros factualmente verificados são apresentados como certeza sem ressalva ou sinalização: descrição de Tujia como \"ramo tibeto-birmanês sem relação com o chinês\" (U098, mas é sino-tibetana), Miao \"quinta maior minoria\" (U103, mas é quarta), Laosicheng como sede por \"oito séculos\" (U094, mas 589 anos). Das 24 unidades incertas mapeadas, poucas recebem qualificadores como \"talvez\", \"provavelmente\" ou marcações epistêmicas. Afirmações sobre genealogia (avó Miao), proporções (99% Han em Xiamen) e causalidades únicas (dispersão minnanesa exclusivamente geográfica) são apresentadas sem indicação de incerteza.",
+          "quoteId": "Q068"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build script `node build/build.js` passou com exit code 0, auditExit também 0. Front matter íntegro preservado (type/slug/topico/title/order conforme Q001). Apenas etnias.md foi alterado, nenhuma entrada em newBuildWarnings. Six audit findings sobre \"destino-removido\" (Guizhou, Hong Kong) são avisos de conteúdo, não erros estruturais de build.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 60,
+      "cap": null,
+      "capReasons": [],
+      "final": 60,
+      "mainStrength": "Cobertura integral e bem estruturada dos cinco grupos étnicos do roteiro, com excelente profundidade em nomes, datas, costumes e explicações históricas, prosa fluida de nível reportagem e ancoragem prática no que o viajante encontrará em cada parada.",
+      "priorityFix": "Corrigir 12 erros relevantes verificados: censos (1949 vs 1953), ranking Miao (quarta, não quinta), Tujia como sino-tibetana não desvinculada do chinês, Laosicheng 589 anos de sede não 818 inteiros, datas Hehu (1782 não 1817), dialectologia Qo Xiong (oriental não ocidental), reconstrução da muralha (durante, não após 1795-1806), proporção Xiamen (96,13% não 99%), Qianjiang como distrito não condado autônomo, e revisão de afirmações universalizantes sem suporte (maogusi, prata, causalidades únicas).",
+      "additionalConcerns": [
+        "12 erros apresentados como fatos estabelecidos sem ressalva epistêmica; nenhuma tagagem de incerteza onde FACTS indica questionabilidade real.",
+        "Alguns erros quantitativos são significativos para cartografia e planejamento (48 km vs 'poucos quilômetros').",
+        "Duplicação parcial com página Hongyadong existente, embora não substituindo conteúdo de atração.",
+        "Duas seções (U083, U090) contêm universalizações frágeis (ali TODOS são Han) sem suporte comprovado."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliador: sub-agente novo sem acesso a relatórios dos três modelos, apenas texto blindado como C03, rubrica v2, FACTS.md checado mecanicamente antes da leitura de prosa.",
+    "Acurácia calculada por taxa: 23 corretas ÷ 35 adjudicadas (excluindo 24 incertas e 4 não-factuais) = 65,71%, faixa <70% = [0-4] em D1.",
+    "RelevantErrors de FACTS.md: 12 erros distintos listados. trapErrors vazio, logo nenhum é das armadilhas específicas da rubrica. Teto70 não ativado.",
+    "Métricas de suporte: 5.621 palavras (acima de 2.000), 8 seções, verificationTags=0, buildExit=0, auditExit=0, nenhum link quebrado. Sem teto aplicável.",
+    "D6 calibração: 24 unidades marcadas incertas em FACTS; texto não diferencia estabelecido de incerto em boa parte. Exemplo U098 (Tujia) é erro verificado porém fraseado como verdade factual.",
+    "Citações: cada dimensão usa quoteId do candidato C03; todas retornarão o trecho literal correspondente ao ser processado pelo sistema."
+  ]
+}
+```

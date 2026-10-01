@@ -1,0 +1,58 @@
+{
+  "target": "pesquisa/aprofundamento/paises/china/etnias.md",
+  "findings": [
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 32,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Tujia (土家族) chamam a si mesmos *Bizika* — \"gente nativa daqui\" — e o nome oficial chinês diz basicamente o "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 34,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — A história política dos Tujia é a história do sistema *tusi* (土司), as chefaturas hereditárias que os imperador"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 48,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Miao (苗族) são um caso bem diferente dos Tujia. Com pouco mais de 11 milhões de pessoas, são a quinta maior "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 52,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — A prata é o elemento visual que domina a experiência Miao em Fenghuang, e vale entender por quê. Numa cultura "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 82,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — Shenzhen é apresentada como a cidade sem passado — uma aldeia de pescadores que virou metrópole de dezoito mil"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 86,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — O hakka tem uma importância particular para o Brasil que vale registrar aqui: boa parte da primeira imigração "
+    }
+  ],
+  "page": {
+    "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+    "type": "pais",
+    "slug": "china",
+    "prose": 5480
+  },
+  "wholeGuideCounts": {
+    "pages": 83,
+    "errors": 40,
+    "warnings": 126
+  }
+}

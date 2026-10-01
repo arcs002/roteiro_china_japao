@@ -1,0 +1,93 @@
+{
+  "target": "pesquisa/aprofundamento/paises/china/etnias.md",
+  "findings": [
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 28,
+      "sev": "erro",
+      "cat": "pendência",
+      "msg": "Os Tujia (土家族) são o grupo minoritário mais presente neste roteiro e o que mais o atravessa. Somam entre 8 e 9 milhões d"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 38,
+      "sev": "erro",
+      "cat": "pendência",
+      "msg": "Em Fenghuang (08/11), a confluência dos dois povos é visível a cada esquina, e é também onde a pergunta \"quem é quem\" ma"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 40,
+      "sev": "erro",
+      "cat": "pendência",
+      "msg": "A história do Miao de Xiangxi é de fronteira militarizada. A partir do século XVI, e com ampliação no XVII [VERIFICAR da"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 42,
+      "sev": "erro",
+      "cat": "pendência",
+      "msg": "A arquitetura ribeirinha de Fenghuang, as casas de palafita sobre o Tuojiang que a página `pesquisa/atracoes/rio-tuojian"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 48,
+      "sev": "erro",
+      "cat": "pendência",
+      "msg": "Quando o roteiro chega a Guilin e Yangshuo (09 a 12/11), entra no território dos Zhuang (壮族), o maior grupo minoritário "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 74,
+      "sev": "erro",
+      "cat": "pendência",
+      "msg": "O outro povo anterior à cidade é o dos Punti, cantoneses de aldeias antigas, como as de Nantou. A cidade velha de Ela fo"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 20,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — A lista de 56 etnias é bem mais recente do que parece. Nos anos 1950, o governo comunista enviou equipes de pe"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 28,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Os Tujia (土家族) são o grupo minoritário mais presente neste roteiro e o que mais o atravessa. Somam entre 8 e 9"
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 38,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Guizhou\" — Em Fenghuang (08/11), a confluência dos dois povos é visível a cada esquina, e é também onde a pergunta \"quem "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 70,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — Shenzhen (12 a 16/11) apresenta um tipo de diversidade diferente das anteriores: não de povos com território, "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 72,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — Sob essa camada, porém, existem os habitantes anteriores, e entre eles estão os Hakka (客家, \"povo hóspede\"). Os"
+    }
+  ],
+  "page": {
+    "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+    "type": "pais",
+    "slug": "china",
+    "prose": 3820
+  },
+  "wholeGuideCounts": {
+    "pages": 83,
+    "errors": 46,
+    "warnings": 125
+  }
+}

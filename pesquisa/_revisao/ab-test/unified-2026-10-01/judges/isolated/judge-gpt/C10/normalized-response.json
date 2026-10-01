@@ -1,0 +1,61 @@
+{
+  "evaluations": [
+    {
+      "id": "C10",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "As 16 afirmações adjudicadas estão corretas, sem erros relevantes; os dados do censo exemplificam a precisão factual.",
+          "quoteId": "Q008"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "O texto cobre os grupos pedidos ao longo do roteiro atual, preserva a estrutura exigida e não apresenta resquícios do roteiro antigo nem links internos quebrados.",
+          "quoteId": "Q006"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Há explicações concretas, como o uso do sawndip, mas a ressalva de que sinais visíveis não determinam identidade reaparece com frequência e reduz a densidade.",
+          "quoteId": "Q113"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "As orientações de observação em Furong são úteis e ligadas ao lugar; em outras passagens, a conexão com a experiência do viajante é menos prática.",
+          "quoteId": "Q048"
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "A abertura é fluida e visual, embora a repetição de ressalvas ao longo da página reduza a variedade de ritmo.",
+          "quoteId": "Q003"
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "O texto distingue possibilidades de eventos previstos, como ao sugerir ouvir nanyin sem prometer uma apresentação durante a visita; não há erros checados apresentados como certeza.",
+          "quoteId": "Q218"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Front matter e slug estão válidos e preservados; as métricas registram build e auditoria concluídos, com edição restrita à página avaliada.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 92,
+      "cap": null,
+      "capReasons": [],
+      "final": 92,
+      "mainStrength": "Explica diferenças entre classificação étnica, língua e identidade com exemplos ligados aos lugares do roteiro.",
+      "priorityFix": "Enxugar ressalvas repetidas sobre a impossibilidade de deduzir identidades pela aparência, preservando os exemplos mais úteis.",
+      "additionalConcerns": []
+    }
+  ],
+  "methodNotes": [
+    "D1 usa a taxa exata de 16 acertos em 16 afirmações adjudicadas e a faixa [27,30] fornecida; não há erros relevantes distintos."
+  ]
+}

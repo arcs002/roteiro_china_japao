@@ -1,0 +1,30 @@
+{
+  "target": "pesquisa/aprofundamento/paises/china/etnias.md",
+  "findings": [
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 64,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Terracota\" — Essa vocação ultramarina é visível na fisionomia arquitetônica e no traçado urbano de Xiamen. Ao longo da Rua "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 84,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — Esse choque transformador converteu Shenzhen no que sociólogos chineses chamam de uma autêntica \"cidade de est"
+    }
+  ],
+  "page": {
+    "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+    "type": "pais",
+    "slug": "china",
+    "prose": 4703
+  },
+  "wholeGuideCounts": {
+    "pages": 83,
+    "errors": 40,
+    "warnings": 122
+  }
+}

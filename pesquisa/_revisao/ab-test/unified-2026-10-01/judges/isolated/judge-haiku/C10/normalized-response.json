@@ -1,0 +1,68 @@
+{
+  "evaluations": [
+    {
+      "id": "C10",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "Taxa de acerto de 100% (16 afirmações corretas de 16 checadas); nenhum erro relevante nem ativação de armadilhas. Todas as datas, populações e classificações verificadas (56 minzu, censo 2020, Laosicheng 2015, Tan Kah Kee 1921, Xiamen 1843) estão corretas.",
+          "quoteId": "Q007"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobertura completa dos cinco grupos solicitados em seções próprias (Tujia, Miao, Zhuang, Hakka, Minnan), cada um ligado ao roteiro. Ausência total de resquíciosdo roteiro antigo (Xi'an/Hui/Xijiang/Zhaoxing). Dez links para atrações válidas. Estrutura: Abertura + 5 tópicos + Encerramento; front matter intacto.",
+          "quoteId": "Q006"
+        },
+        {
+          "dimension": 3,
+          "score": 15,
+          "justification": "Parágrafos trazem nomes concretos (Youyang, Xiushan, Meizhou, Quanzhou), datas (1837, 1843, 1903, 1921, 2015), sistemas específicos (tusi, *sawndip*, *nanyin*, *hukou*). Mecanismos explicados: penetração imperial em Fenghuang, canto responsorial como interlocução Zhuang, pilares em encosta. Diferencia-se de páginas de atrações por contextualização étnico-política.",
+          "quoteId": "Q041"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Conexão específica com vivências do viajante em todos os grupos: diaojiaolou no Tuojiang (Fenghuang), Liu Sanjie e rio Li (Yangshuo), vilas urbanas (Shenzhen), Gulangyu (Xiamen). Recomendações práticas incluídas: questionar sobre trajetória profissional, observar quem posa vs. quem reside, ler Shen Congwen antes. Faltam datas explícitas do roteiro (e.g., 'dia 2 em Fenghuang', 'Lìdōng em 7 de nov.') para ancoragem temporal completa.",
+          "quoteId": "Q087"
+        },
+        {
+          "dimension": 5,
+          "score": 15,
+          "justification": "Prosa fluida com voz de livro-reportagem; abertura elegante ('Uma casa de madeira sobre pilares...'); ausência de clichê turístico, metalinguagem ('nesta seção veremos') e jargão de bastidor. PT-BR consistente (uso correto de 'você', regência verbal apropriada). Encerramento reflexivo e não repetitivo.",
+          "quoteId": "Q003"
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "Diferenciação clara entre identidade, língua e localidade mantida em toda a prosa. Exemplos: 'língua e pertencimento tampouco coincidem perfeitamente'; 'O próprio nome Zhuang abriga diferenças internas'; 'mandarim ouvido no balcão informa a língua daquela conversa; para conhecer a pessoa, ainda é preciso escutar o que ela conta'. Nenhuma afirmação errada como certeza (100% de acerto em FACTS.md); nenhuma tag [VERIFICAR] necessária.",
+          "quoteId": "Q030"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build sem erros novos (buildExit: 0); apenas etnias.md modificado (scopeOnlyTarget: true). Front matter com type, slug e topico válidos preservado. Nenhum teto aplicado: 3.979 palavras > 2.000 (piso atendido); sem resquíciosou erros de armadilha.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 99,
+      "cap": null,
+      "capReasons": [],
+      "final": 99,
+      "mainStrength": "Articulação exemplar entre precisão factual (100%), cobertura completa com ancoragem prática a cinco grupos étnicos no roteiro, e editorial de qualidade que diferencia identidade, língua e território sem redução a rótulos. A prosa ensina tanto sobre comunidades quanto sobre ética de observação do viajante.",
+      "priorityFix": "Integrar datas explícitas do roteiro de viagem ('08 de nov. em Chongqing', '7 de nov. em Guilin coincide com Lìdōng'; 'segundo dia em Fenghuang de madrugada') para ancoragem temporal completa e reforço da conexão entre ciclos sazonais/familiares e o percurso vivido.",
+      "additionalConcerns": [
+        "Dois apontamentos de audit (auditFindings) mencionam 'Hong Kong' em contexto de referência educacional sobre etnias (Departamento de Educação de HK), não como destino; a rubrica reconhece isso, mas uma substituição por referência a Taiwan ou Conselho de Estado poderia eliminar ambiguidade visual.",
+        "Encerramento faz ponte para o Japão sem desenvolver o que muda de contexto; está apropriado para desinência da seção China, mas leitores podem buscar transição mais explícita."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliador novo, sem acesso a relatórios dos agentes. Informações baseadas apenas em pacote: FACT_SUMMARY, FACTS (42 unidades extraídas mecanicamente; 16 ajudicadas), METRICS, EXISTING_PAGE_CONTEXT, CANDIDATE, QUOTE_BANK, RUBRICA v2.",
+    "Verificação de armadilhas: Zhangjiajie/Xiangxi (ausente, correto — saiu 1988), Tujia noroeste/sudeste (mencionado apropriadamente), Minnan/Hakka como Han (confirmado), populações 2020 (não afirmadas numericamente no texto, apenas referido 'minorias somavam 125,47 mi'), Laosicheng UNESCO 2015 (confirmado), Ping'an/Dazhai/Huangluo (não mencionados).",
+    "Taxa de acerto: 100% (16/16 corretas; 0 incorretas; 26 unidades não-factuais como links/enquadramentos excluídas do cálculo). D1Range fornecido: [27,30]; faixa máxima aplicada sem gravidade adicional.",
+    "Tetos: nenhum ativado. Build: ok (exit 0). Piso: 3.979 > 2.000. Resquíciosantigos: zero. Erros de armadilha: zero.",
+    "Nota final: 99/100 (soma 99, sem cap aplicado). Faixa de leitura: 90–100 'Publicável com revisão mínima'."
+  ]
+}

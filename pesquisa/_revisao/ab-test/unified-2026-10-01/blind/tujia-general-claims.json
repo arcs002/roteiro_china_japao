@@ -1,0 +1,3251 @@
+[
+  {
+    "id": "C01-F001",
+    "candidate": "C01",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "Em Chongqing, os andares de Hongyadong despencam pela encosta sobre colunas de madeira que imitam as *diaojiaolou* (吊脚楼, \"casas de pés suspensos\") dos Tujia, e o complexo inteiro é de 2006, concreto com acabamento de madeira.",
+    "numbers": [
+      "2006,"
+    ],
+    "names": [
+      "Em Chongqing",
+      "Hongyadong",
+      "Tujia"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C01-F001",
+        "candidate": "C01",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U001",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F012",
+    "candidate": "C01",
+    "bodyLine": 13,
+    "section": "Minzu e minxi: como a China decide quem é \"etnia\"",
+    "text": "Ele saiu do projeto de identificação étnica (民族识别, *minzu shibie*) que o governo da República Popular conduziu sobretudo entre os anos 1950 e 1980.",
+    "numbers": [
+      "1950",
+      "1980."
+    ],
+    "names": [
+      "Ele",
+      "República Popular"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F012",
+        "candidate": "C01",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U003",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F013",
+    "candidate": "C01",
+    "bodyLine": 13,
+    "section": "Minzu e minxi: como a China decide quem é \"etnia\"",
+    "text": "Quando o censo de 1953 pediu que cada um declarasse a própria identidade, apareceram mais de 400 respostas diferentes.",
+    "numbers": [
+      "1953",
+      "400"
+    ],
+    "names": [
+      "Quando"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F013",
+        "candidate": "C01",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U004",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F014",
+    "candidate": "C01",
+    "bodyLine": 13,
+    "section": "Minzu e minxi: como a China decide quem é \"etnia\"",
+    "text": "Equipes de linguistas e etnógrafos foram a campo e, usando critérios adaptados da definição de nação de Stálin (língua, território, vida econômica e \"constituição psicológica\" em comum), reduziram a lista a 55 minorias, além dos han.",
+    "numbers": [
+      "55"
+    ],
+    "names": [
+      "Equipes",
+      "Stálin"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F014",
+        "candidate": "C01",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U005",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F015",
+    "candidate": "C01",
+    "bodyLine": 13,
+    "section": "Minzu e minxi: como a China decide quem é \"etnia\"",
+    "text": "A última a entrar foi a dos Jino, de Yunnan, em 1979.",
+    "numbers": [
+      "1979."
+    ],
+    "names": [
+      "Jino",
+      "Yunnan"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F015",
+        "candidate": "C01",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U006",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F016",
+    "candidate": "C01",
+    "bodyLine": 13,
+    "section": "Minzu e minxi: como a China decide quem é \"etnia\"",
+    "text": "Dali em diante a lista ficou fechada, e a identidade de cada cidadão passou a ser uma das 56 opções do formulário.",
+    "numbers": [
+      "56"
+    ],
+    "names": [
+      "Dali"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F016",
+        "candidate": "C01",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U007",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F024",
+    "candidate": "C01",
+    "bodyLine": 17,
+    "section": "Minzu e minxi: como a China decide quem é \"etnia\"",
+    "text": "Os han somam mais de 1,2 bilhão de pessoas e não formam um bloco.",
+    "numbers": [
+      "1,2"
+    ],
+    "names": [
+      "Os"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F024",
+        "candidate": "C01",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U008",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F031",
+    "candidate": "C01",
+    "bodyLine": 23,
+    "section": "Tujia: o povo dos tusi, de Chongqing a Furong",
+    "text": "Os Tujia (土家族) eram 9,59 milhões no censo de 2020, o que os coloca entre as maiores minorias do país.",
+    "numbers": [
+      "9,59 mil",
+      "2020,"
+    ],
+    "names": [
+      "Os Tujia"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C01-F031",
+        "candidate": "C01",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U009",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F040",
+    "candidate": "C01",
+    "bodyLine": 25,
+    "section": "Tujia: o povo dos tusi, de Chongqing a Furong",
+    "text": "Sua capital, Laosicheng (老司城), ficava rio acima de Furong e hoje está em ruínas.",
+    "numbers": [],
+    "names": [
+      "Sua",
+      "Laosicheng",
+      "Furong"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C01-F040",
+        "candidate": "C01",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U010",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F041",
+    "candidate": "C01",
+    "bodyLine": 25,
+    "section": "Tujia: o povo dos tusi, de Chongqing a Furong",
+    "text": "Em 2015 ela entrou para a lista do Patrimônio Mundial da UNESCO, junto com Tangya (Hubei) e Hailongtun (Guizhou), no conjunto chamado \"Sítios Tusi\".",
+    "numbers": [
+      "2015"
+    ],
+    "names": [
+      "Em",
+      "Patrimônio Mundial",
+      "UNESCO",
+      "Tangya",
+      "Hubei",
+      "Hailongtun",
+      "Guizhou",
+      "Sítios Tusi"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F041",
+        "candidate": "C01",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U011",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F043",
+    "candidate": "C01",
+    "bodyLine": 25,
+    "section": "Tujia: o povo dos tusi, de Chongqing a Furong",
+    "text": "No oeste de Hunan, a mudança aconteceu no quinto ano do reinado, por volta de 1727–1728: o último Peng entregou o selo, e a corte passou a nomear magistrados han de fora.",
+    "numbers": [
+      "1727",
+      "1728"
+    ],
+    "names": [
+      "No",
+      "Hunan",
+      "Peng"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F043",
+        "candidate": "C01",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U012",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F058",
+    "candidate": "C01",
+    "bodyLine": 31,
+    "section": "Tujia: o povo dos tusi, de Chongqing a Furong",
+    "text": "Zhangjiajie não pertence mais a Xiangxi.",
+    "numbers": [],
+    "names": [
+      "Zhangjiajie",
+      "Xiangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C01-F058",
+        "candidate": "C01",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U013",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F059",
+    "candidate": "C01",
+    "bodyLine": 31,
+    "section": "Tujia: o povo dos tusi, de Chongqing a Furong",
+    "text": "Até 1988, a antiga cidade de Dayong e o condado de Sangzhi faziam parte da prefeitura autônoma.",
+    "numbers": [
+      "1988,"
+    ],
+    "names": [
+      "Até",
+      "Dayong",
+      "Sangzhi"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C01-F059",
+        "candidate": "C01",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U014",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F051",
+    "candidate": "C01",
+    "bodyLine": 27,
+    "section": "Tujia: o povo dos tusi, de Chongqing a Furong",
+    "text": "Nas aldeias, ainda aparecem em datas fixas do calendário, como o Sheba (社巴节), no primeiro mês lunar, e o \"Seis de Junho\" (六月六).",
+    "numbers": [],
+    "names": [
+      "Nas",
+      "Sheba",
+      "Seis",
+      "Junho"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F051",
+        "candidate": "C01",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U043",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F005",
+    "candidate": "C01",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "Isso dá cinco paisagens humanas, que não cabem num mesmo tipo de categoria.",
+    "numbers": [],
+    "names": [
+      "Isso"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F005",
+        "candidate": "C01",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U049",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C01-F026",
+    "candidate": "C01",
+    "bodyLine": 17,
+    "section": "Minzu e minxi: como a China decide quem é \"etnia\"",
+    "text": "Para o Estado, porém, são han, e o documento de identidade não registra a diferença.",
+    "numbers": [],
+    "names": [
+      "Para",
+      "Estado"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C01-F026",
+        "candidate": "C01",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U050",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F001",
+    "candidate": "C02",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "O mapa oficial da China reconhece 56 grupos étnicos: a maioria han, que responde por pouco mais de 91% da população continental, e outras 55 nacionalidades agrupadas sob a designação genérica de minorias étnicas (少数民族, *shaoshu minzu*), somando mais de 125 milhões de pessoas.",
+    "numbers": [
+      "56",
+      "91%",
+      "55",
+      "125 mil"
+    ],
+    "names": [
+      "China"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C02-F001",
+        "candidate": "C02",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U052",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F008",
+    "candidate": "C02",
+    "bodyLine": 11,
+    "section": "O mosaico oficial: 56 grupos, o projeto minzu e a autonomia no papel",
+    "text": "A divisão contemporânea da China em exatamente 56 etnias não é uma herança imperial imemorial, mas o desfecho de um vasto esforço de engenharia social e classificação antropológica conduzido pelo governo comunista a partir de 1953: a Identificação Étnica (民族识别, *minzu shibie*).",
+    "numbers": [
+      "56",
+      "1953"
+    ],
+    "names": [
+      "China",
+      "Identificação Étnica"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C02-F008",
+        "candidate": "C02",
+        "bodyLine": 11
+      }
+    ],
+    "unit": "U053",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F011",
+    "candidate": "C02",
+    "bodyLine": 11,
+    "section": "O mosaico oficial: 56 grupos, o projeto minzu e a autonomia no papel",
+    "text": "O processo consolidou 54 minorias nas primeiras duas décadas e encerrou-se provisoriamente em 1979 com o reconhecimento dos Jino de Yunnan como o 55º grupo não-han.",
+    "numbers": [
+      "54",
+      "1979",
+      "55"
+    ],
+    "names": [
+      "Jino",
+      "Yunnan"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C02-F011",
+        "candidate": "C02",
+        "bodyLine": 11
+      }
+    ],
+    "unit": "U054",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F015",
+    "candidate": "C02",
+    "bodyLine": 15,
+    "section": "O mosaico oficial: 56 grupos, o projeto minzu e a autonomia no papel",
+    "text": "Simultaneamente, o apetite voraz da classe média urbana por turismo cultural transformou aldeias históricas em cenários de entretenimento cênico.",
+    "numbers": [],
+    "names": [
+      "Simultaneamente"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C02-F015",
+        "candidate": "C02",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U069",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F032",
+    "candidate": "C02",
+    "bodyLine": 27,
+    "section": "Tujia: os mestres da madeira, o regime tusi e os desfiladeiros de Wuling",
+    "text": "A tecelagem de brocado Xilankapu (西兰卡普), confeccionada em teares manuais de madeira com fios de seda e algodão coloridos, registra essa cosmologia em figuras geométricas que estilizam flores, pássaros, cobras e o sol.",
+    "numbers": [],
+    "names": [
+      "Xilankapu"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C02-F032",
+        "candidate": "C02",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U073",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F014",
+    "candidate": "C02",
+    "bodyLine": 15,
+    "section": "O mosaico oficial: 56 grupos, o projeto minzu e a autonomia no papel",
+    "text": "Na prática cotidiana das últimas quatro décadas, no entanto, essa autonomia formal operou sob a pressão constante da modernização acelerada e da integração econômica.",
+    "numbers": [],
+    "names": [
+      "Na"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C02-F014",
+        "candidate": "C02",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U075",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F023",
+    "candidate": "C02",
+    "bodyLine": 21,
+    "section": "Tujia: os mestres da madeira, o regime tusi e os desfiladeiros de Wuling",
+    "text": "O clã Peng (彭), por exemplo, governou o senhorio tusi de Yongshun por mais de oito séculos a partir de sua base regional em Wangcun — o povoado cravado sobre a falésia que hoje atende pelo nome de Furong Town.",
+    "numbers": [],
+    "names": [
+      "Peng",
+      "Yongshun",
+      "Wangcun",
+      "Furong Town"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C02-F023",
+        "candidate": "C02",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U076",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F026",
+    "candidate": "C02",
+    "bodyLine": 23,
+    "section": "Tujia: os mestres da madeira, o regime tusi e os desfiladeiros de Wuling",
+    "text": "Em Furong Town, essa malha de madeira debruça-se sobre a catarata natural com uma ousadia que transcende o pitoresco: era uma fortaleza defensiva e um entreposto mercantil fluvial onde a riqueza acumulada pelos tusi se traduzia em beirais recurvos que apontavam para o céu.",
+    "numbers": [],
+    "names": [
+      "Em Furong Town"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C02-F026",
+        "candidate": "C02",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U077",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C02-F110",
+    "candidate": "C02",
+    "bodyLine": 85,
+    "section": "Encerramento",
+    "text": "Uma palafita à beira do rio deixa de ser apenas um enquadramento fotográfico atraente ao pôr do sol e revela-se como o refúgio engenhoso de um povo livre contra a imposição de um império; uma canção à beira d'água deixa de ser música ambiente para teatro e reafirma-se como a história oral de gerações que cantavam para não esquecer sua identidade; uma tigela de caldo picante ou uma taça de chá amargo expõe a sabedoria biológica de comunidades que precisavam sobreviver à fumaça, à umidade do inverno e à vastidão do oceano.",
+    "numbers": [],
+    "names": [
+      "Uma"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C02-F110",
+        "candidate": "C02",
+        "bodyLine": 85
+      }
+    ],
+    "unit": "U078",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F001",
+    "candidate": "C03",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "O documento de identidade de todo cidadão chinês traz um campo chamado *minzu* (民族), \"nacionalidade\" ou \"etnia\", preenchido com uma de 56 opções.",
+    "numbers": [
+      "56"
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F001",
+        "candidate": "C03",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U079",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F002",
+    "candidate": "C03",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "Em pouco mais de nove de cada dez carteiras está escrito *han*; nas demais, um dos 55 nomes que o Estado reconhece como \"minorias étnicas\" — somadas, mais de 125 milhões de pessoas, uma população maior que a do Japão.",
+    "numbers": [
+      "55",
+      "125 mil"
+    ],
+    "names": [
+      "Em",
+      "Estado",
+      "Japão"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F002",
+        "candidate": "C03",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U080",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F011",
+    "candidate": "C03",
+    "bodyLine": 13,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "A lista de 56 etnias tem menos de um século.",
+    "numbers": [
+      "56"
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F011",
+        "candidate": "C03",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U084",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F012",
+    "candidate": "C03",
+    "bodyLine": 13,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "Quando a República Popular foi fundada, em 1949, o novo governo convocou os povos do país a se registrarem, e recebeu mais de 400 autoidentificações.",
+    "numbers": [
+      "1949,",
+      "400"
+    ],
+    "names": [
+      "Quando",
+      "República Popular"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F012",
+        "candidate": "C03",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U085",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F015",
+    "candidate": "C03",
+    "bodyLine": 13,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "Os Tujia, que hoje somam quase dez milhões, só foram reconhecidos em 1957; os Jino, de Yunnan, em 1979, o último acrescentado.",
+    "numbers": [
+      "1957",
+      "1979,"
+    ],
+    "names": [
+      "Os Tujia",
+      "Jino",
+      "Yunnan"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F015",
+        "candidate": "C03",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U086",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F022",
+    "candidate": "C03",
+    "bodyLine": 17,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "Há duas coisas que a lista de 56 não conta, e ambas importam para este roteiro.",
+    "numbers": [
+      "56"
+    ],
+    "names": [
+      "Há"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F022",
+        "candidate": "C03",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U089",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F027",
+    "candidate": "C03",
+    "bodyLine": 19,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "O número de Tujia oficialmente contados quase triplicou entre os censos de 1982 e 2000, e nenhuma explosão demográfica explica isso; foi reclassificação.",
+    "numbers": [
+      "1982",
+      "2000,"
+    ],
+    "names": [
+      "Tujia"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F027",
+        "candidate": "C03",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U091",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F031",
+    "candidate": "C03",
+    "bodyLine": 21,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "A indústria de turismo doméstico chinês descobriu as minorias étnicas nos anos 2000 e as transformou num produto: espetáculos noturnos de duas mil cadeiras, trajes de prata alugados para fotos, \"vilas tradicionais\" com bilheteria e horário de fechamento.",
+    "numbers": [
+      "2000"
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F031",
+        "candidate": "C03",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U092",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F035",
+    "candidate": "C03",
+    "bodyLine": 25,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "Com pouco mais de 9,5 milhões de pessoas no censo de 2020, são a sétima maior minoria da China, e o seu território coincide quase exatamente com o trecho central deste roteiro: o maciço de Wuling, a cadeia de montanhas de arenito e calcário que ocupa o oeste de Hunan, o sudeste de Chongqing, o sudoeste de Hubei e a ponta nordeste de Guizhou.",
+    "numbers": [
+      "9,5 mil",
+      "2020,"
+    ],
+    "names": [
+      "Com",
+      "China",
+      "Wuling",
+      "Hunan",
+      "Chongqing",
+      "Hubei",
+      "Guizhou"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F035",
+        "candidate": "C03",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U093",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F038",
+    "candidate": "C03",
+    "bodyLine": 27,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "Em Yongshun — o condado onde fica Furong — a linhagem Peng governou como *tusi* por 818 anos ininterruptos, do fim da dinastia Tang até 1728, a partir de uma capital fortificada nas montanhas chamada Laosicheng (老司城), \"a velha cidade do tusi\".",
+    "numbers": [
+      "818",
+      "1728,"
+    ],
+    "names": [
+      "Em Yongshun",
+      "Furong",
+      "Peng",
+      "Tang",
+      "Laosicheng"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F038",
+        "candidate": "C03",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U094",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F039",
+    "candidate": "C03",
+    "bodyLine": 27,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "As ruínas dessa capital, a poucos quilômetros de Furong, foram inscritas pela UNESCO em 2015 junto com outros dois sítios *tusi* de Hubei e Guizhou — um reconhecimento de que ali existiu, durante oito séculos, uma forma de Estado que não era nem a China imperial nem a sua ausência, mas uma terceira coisa negociada.",
+    "numbers": [
+      "2015"
+    ],
+    "names": [
+      "As",
+      "Furong",
+      "UNESCO",
+      "Hubei",
+      "Guizhou",
+      "Estado",
+      "China"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F039",
+        "candidate": "C03",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U095",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F041",
+    "candidate": "C03",
+    "bodyLine": 29,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "A linhagem Peng entregou o selo em 1728.",
+    "numbers": [
+      "1728."
+    ],
+    "names": [
+      "Peng"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F041",
+        "candidate": "C03",
+        "bodyLine": 29
+      }
+    ],
+    "unit": "U097",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F042",
+    "candidate": "C03",
+    "bodyLine": 29,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "A língua tujia, um ramo tibeto-birmanês sem relação com o chinês e sem escrita própria, sobreviveu apenas nos vales mais isolados; hoje é falada por poucas dezenas de milhares de pessoas, quase todas idosas, num punhado de aldeias do norte de Xiangxi.",
+    "numbers": [],
+    "names": [
+      "Xiangxi"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F042",
+        "candidate": "C03",
+        "bodyLine": 29
+      }
+    ],
+    "unit": "U098",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F046",
+    "candidate": "C03",
+    "bodyLine": 33,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "Ela foi inscrita em 2006 na primeira lista de patrimônio imaterial nacional da China, e é exatamente isso que aparece nos espetáculos noturnos de Furong e no Charming Xiangxi de Zhangjiajie, junto com a dança *maogusi* (毛古斯), em que os dançarinos se cobrem de palha para representar os ancestrais antes da agricultura, com o ritual do *tima* (梯玛), o xamã que fazia a ponte entre a comunidade e os espíritos, e com o *kujia* (哭嫁), o \"choro de casamento\" — uma tradição em que a noiva, suas irmãs e a mãe cantavam lamentos por dias antes da cerimônia, num gênero poético próprio que era ao mesmo tempo ritual de passagem e uma das poucas formas socialmente aceitas de uma mulher Tujia reclamar publicamente do próprio destino.",
+    "numbers": [
+      "2006"
+    ],
+    "names": [
+      "Ela",
+      "China",
+      "Furong",
+      "Charming Xiangxi",
+      "Zhangjiajie",
+      "Tujia"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F046",
+        "candidate": "C03",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U100",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F048",
+    "candidate": "C03",
+    "bodyLine": 35,
+    "section": "Tujia: o povo do maciço de Wuling",
+    "text": "A cozinha Tujia é a cozinha da montanha sem cadeia de frio: carne defumada no fumeiro sobre o fogão durante todo o inverno (*larou*, 腊肉), legumes em conserva ácida, arroz misturado com milho ou batata-doce onde o arrozal não dava, tofu fermentado, e pimenta seca — não a pimenta anestésica de Sichuan e Chongqing, mas uma pimenta direta, de calor limpo, que marca a fronteira gastronômica entre Chongqing e Hunan tão claramente quanto qualquer placa.",
+    "numbers": [],
+    "names": [
+      "Tujia",
+      "Sichuan",
+      "Chongqing",
+      "Chongqing",
+      "Hunan"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C03-F048",
+        "candidate": "C03",
+        "bodyLine": 35
+      }
+    ],
+    "unit": "U101",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F124",
+    "candidate": "C03",
+    "bodyLine": 87,
+    "section": "Encerramento",
+    "text": "Há um fio que costura os povos deste roteiro, e ele não é a lista de 56 etnias.",
+    "numbers": [
+      "56"
+    ],
+    "names": [
+      "Há"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C03-F124",
+        "candidate": "C03",
+        "bodyLine": 87
+      }
+    ],
+    "unit": "U129",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F033",
+    "candidate": "C03",
+    "bodyLine": 21,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "Saber distinguir uma coisa da outra é o fio que atravessa esta página.",
+    "numbers": [],
+    "names": [
+      "Saber"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C03-F033",
+        "candidate": "C03",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U132",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F003",
+    "candidate": "C03",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "Esse campo do documento, porém, esconde tanto quanto revela.",
+    "numbers": [],
+    "names": [
+      "Esse"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C03-F003",
+        "candidate": "C03",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U133",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C03-F016",
+    "candidate": "C03",
+    "bodyLine": 13,
+    "section": "O mosaico oficial: 56 etnias e o que a lista não conta",
+    "text": "Desde então a lista não mudou, apesar de dezenas de comunidades ainda reivindicarem reconhecimento próprio.",
+    "numbers": [],
+    "names": [
+      "Desde"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C03-F016",
+        "candidate": "C03",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U135",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C04-F004",
+    "candidate": "C04",
+    "bodyLine": 8,
+    "section": "Abertura",
+    "text": "O Estado chinês reconhece 56 *minzu*: a maioria han e 55 grupos minoritários.",
+    "numbers": [
+      "56",
+      "55"
+    ],
+    "names": [
+      "Estado"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C04-F004",
+        "candidate": "C04",
+        "bodyLine": 8
+      }
+    ],
+    "unit": "U142",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C04-F031",
+    "candidate": "C04",
+    "bodyLine": 22,
+    "section": "Tujia: a serra entre Chongqing e Xiangxi",
+    "text": "A [UNESCO descreve](https://www.unesco.org/en/iggp/shennongjia-unesco-global-geopark?hub=67817) a Baishou como expressão que combina canto, música e ópera, com dezenas de gestos simbólicos.",
+    "numbers": [
+      "67817"
+    ],
+    "names": [
+      "UNESCO",
+      "Baishou"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C04-F031",
+        "candidate": "C04",
+        "bodyLine": 22
+      }
+    ],
+    "unit": "U144",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C04-F017",
+    "candidate": "C04",
+    "bodyLine": 16,
+    "section": "Tujia: a serra entre Chongqing e Xiangxi",
+    "text": "Seu território histórico se espalha pelos relevos de Hunan ocidental, Hubei, Guizhou e sudeste de Chongqing.",
+    "numbers": [],
+    "names": [
+      "Seu",
+      "Hunan",
+      "Hubei",
+      "Guizhou",
+      "Chongqing"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C04-F017",
+        "candidate": "C04",
+        "bodyLine": 16
+      }
+    ],
+    "unit": "U163",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F003",
+    "candidate": "C05",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "O prédio, porém, é de concreto armado, terminado em 2006.",
+    "numbers": [
+      "2006."
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F003",
+        "candidate": "C05",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U164",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F004",
+    "candidate": "C05",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "Os Tujia que inventaram aquela forma de casa vivem de fato a algumas centenas de quilômetros a sudeste, nas serras que o roteiro atravessa a caminho de Zhangjiajie.",
+    "numbers": [],
+    "names": [
+      "Os Tujia",
+      "Zhangjiajie"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C05-F004",
+        "candidate": "C05",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U165",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F006",
+    "candidate": "C05",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "Entre 31 de outubro e 20 de novembro, o roteiro cruza pelo menos cinco identidades que um visitante tende a juntar sob o rótulo \"chinês\".",
+    "numbers": [
+      "31",
+      "20"
+    ],
+    "names": [
+      "Entre"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F006",
+        "candidate": "C05",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U166",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F011",
+    "candidate": "C05",
+    "bodyLine": 13,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "A China reconhece oficialmente 56 *minzu* (民族), palavra que costuma ser traduzida por \"etnia\" ou \"nacionalidade\".",
+    "numbers": [
+      "56"
+    ],
+    "names": [
+      "China"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F011",
+        "candidate": "C05",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U168",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F012",
+    "candidate": "C05",
+    "bodyLine": 13,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "Os han somam cerca de 91% da população, segundo o censo de 2020.",
+    "numbers": [
+      "91%",
+      "2020."
+    ],
+    "names": [
+      "Os"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F012",
+        "candidate": "C05",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U169",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F013",
+    "candidate": "C05",
+    "bodyLine": 13,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "As outras 55, chamadas em conjunto de *shaoshu minzu* (少数民族, \"nacionalidades minoritárias\"), passam de 120 milhões de pessoas.",
+    "numbers": [
+      "55,",
+      "120 mil"
+    ],
+    "names": [
+      "As"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F013",
+        "candidate": "C05",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U170",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F015",
+    "candidate": "C05",
+    "bodyLine": 15,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "Nasceu de um projeto de classificação étnica (民族识别, *minzu shibie*) que o governo comunista conduziu sobretudo nos anos 1950.",
+    "numbers": [
+      "1950."
+    ],
+    "names": [
+      "Nasceu"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F015",
+        "candidate": "C05",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U171",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F016",
+    "candidate": "C05",
+    "bodyLine": 15,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "Equipes de linguistas e etnógrafos percorreram o país e receberam mais de 400 autodenominações de grupos.",
+    "numbers": [
+      "400"
+    ],
+    "names": [
+      "Equipes"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F016",
+        "candidate": "C05",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U172",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F018",
+    "candidate": "C05",
+    "bodyLine": 15,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "Os Tujia só foram reconhecidos em 1957, depois de um debate sobre se eram um povo distinto ou han \"atrasados\" do interior de Hunan.",
+    "numbers": [
+      "1957,"
+    ],
+    "names": [
+      "Os Tujia",
+      "Hunan"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F018",
+        "candidate": "C05",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U173",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F019",
+    "candidate": "C05",
+    "bodyLine": 15,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "A última etnia entrou na lista em 1979, e desde então ela não mudou.",
+    "numbers": [
+      "1979,"
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F019",
+        "candidate": "C05",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U174",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F025",
+    "candidate": "C05",
+    "bodyLine": 19,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "A lista oficial também tem um limite: dentro dos 91% classificados como han cabem grupos cujas línguas não se entendem entre si.",
+    "numbers": [
+      "91%"
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F025",
+        "candidate": "C05",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U177",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F028",
+    "candidate": "C05",
+    "bodyLine": 19,
+    "section": "Antes das etnias: o que \"minzu\" quer dizer",
+    "text": "As duas últimas paradas chinesas do roteiro mostram esse lado da questão, que a classificação de 56 grupos não registra.",
+    "numbers": [
+      "56"
+    ],
+    "names": [
+      "As"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F028",
+        "candidate": "C05",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U178",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F029",
+    "candidate": "C05",
+    "bodyLine": 23,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "Os Tujia (土家族) passam de 9,5 milhões de pessoas, segundo o censo de 2020, e vivem sobretudo nas serras Wuling, o maciço que junta o oeste de Hunan, o sudoeste de Hubei e o sudeste de Chongqing.",
+    "numbers": [
+      "9,5 mil",
+      "2020,"
+    ],
+    "names": [
+      "Os Tujia",
+      "Wuling",
+      "Hunan",
+      "Hubei",
+      "Chongqing"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C05-F029",
+        "candidate": "C05",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U179",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F030",
+    "candidate": "C05",
+    "bodyLine": 23,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "É exatamente o território que o roteiro atravessa entre 4 e 8 de novembro.",
+    "numbers": [
+      "4",
+      "8"
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F030",
+        "candidate": "C05",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U180",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F041",
+    "candidate": "C05",
+    "bodyLine": 27,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "A capital dos Peng, Laosicheng (老司城), fica no mesmo condado.",
+    "numbers": [],
+    "names": [
+      "Peng",
+      "Laosicheng"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C05-F041",
+        "candidate": "C05",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U181",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F042",
+    "candidate": "C05",
+    "bodyLine": 27,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "Suas ruínas foram inscritas em 2015 na lista de Patrimônio Mundial da UNESCO, junto com outros sítios tusi da China central.",
+    "numbers": [
+      "2015"
+    ],
+    "names": [
+      "Suas",
+      "Patrimônio Mundial",
+      "UNESCO",
+      "China"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F042",
+        "candidate": "C05",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U182",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F047",
+    "candidate": "C05",
+    "bodyLine": 29,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "**O que ver em cada parada.** Em Chongqing, entre 31 de outubro e 4 de novembro, os Tujia aparecem só em citação.",
+    "numbers": [
+      "31",
+      "4"
+    ],
+    "names": [
+      "Em Chongqing",
+      "Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F047",
+        "candidate": "C05",
+        "bodyLine": 29
+      }
+    ],
+    "unit": "U184",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F051",
+    "candidate": "C05",
+    "bodyLine": 31,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "Em Zhangjiajie, entre 4 e 7 de novembro, os Tujia passam a fazer parte do cotidiano da cidade.",
+    "numbers": [
+      "4",
+      "7"
+    ],
+    "names": [
+      "Em Zhangjiajie",
+      "Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F051",
+        "candidate": "C05",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U185",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F052",
+    "candidate": "C05",
+    "bodyLine": 31,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "Não custa evitar um erro comum: Zhangjiajie é uma cidade de nível de prefeitura separada e não pertence à Prefeitura Autônoma de Xiangxi, embora faça parte do mesmo cinturão cultural Tujia.",
+    "numbers": [],
+    "names": [
+      "Não",
+      "Zhangjiajie",
+      "Prefeitura Autônoma",
+      "Xiangxi",
+      "Tujia"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C05-F052",
+        "candidate": "C05",
+        "bodyLine": 31
+      }
+    ],
+    "unit": "U186",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F057",
+    "candidate": "C05",
+    "bodyLine": 33,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "Em Furong Town, entre o sábado 7 e o domingo 8 de novembro, a identidade Tujia é também a principal atração da cidade.",
+    "numbers": [
+      "7",
+      "8"
+    ],
+    "names": [
+      "Em Furong Town",
+      "Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F057",
+        "candidate": "C05",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U187",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F058",
+    "candidate": "C05",
+    "bodyLine": 33,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "O antigo povoado de Wangcun ganhou o nome atual em 2007, emprestado do filme *Furong Zhen* (芙蓉镇), de Xie Jin, rodado ali em 1986.",
+    "numbers": [
+      "2007,",
+      "1986."
+    ],
+    "names": [
+      "Wangcun",
+      "Furong Zhen",
+      "Xie Jin"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F058",
+        "candidate": "C05",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U188",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F176",
+    "candidate": "C05",
+    "bodyLine": 91,
+    "section": "Encerramento",
+    "text": "A classificação oficial em 56 grupos serve para situar as prefeituras autônomas e explica por que os letreiros de Furong mostram o nome Bizika.",
+    "numbers": [
+      "56"
+    ],
+    "names": [
+      "Furong",
+      "Bizika"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F176",
+        "candidate": "C05",
+        "bodyLine": 91
+      }
+    ],
+    "unit": "U216",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F179",
+    "candidate": "C05",
+    "bodyLine": 93,
+    "section": "Encerramento",
+    "text": "No dia 20 de novembro o roteiro atravessa para Fukuoka, pelo mesmo mar por onde os juncos de Quanzhou levavam mercadorias a Hakata oito séculos atrás.",
+    "numbers": [
+      "20"
+    ],
+    "names": [
+      "No",
+      "Fukuoka",
+      "Quanzhou",
+      "Hakata"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C05-F179",
+        "candidate": "C05",
+        "bodyLine": 93
+      }
+    ],
+    "unit": "U217",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F175",
+    "candidate": "C05",
+    "bodyLine": 91,
+    "section": "Encerramento",
+    "text": "Não existe um padrão que junte todas essas histórias numa única ideia de \"China étnica\", e isso é o mais importante a levar desta leitura.",
+    "numbers": [],
+    "names": [
+      "Não",
+      "China"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C05-F175",
+        "candidate": "C05",
+        "bodyLine": 91
+      }
+    ],
+    "unit": "U218",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F035",
+    "candidate": "C05",
+    "bodyLine": 25,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "A maioria dos Tujia fala o dialeto de mandarim do sudoeste que se ouve em Zhangjiajie.",
+    "numbers": [],
+    "names": [
+      "Tujia",
+      "Zhangjiajie"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C05-F035",
+        "candidate": "C05",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U219",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F062",
+    "candidate": "C05",
+    "bodyLine": 33,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "Há o *maogusi* (茅古斯), dança de figuras cobertas de palha que encena a origem do povo.",
+    "numbers": [],
+    "names": [
+      "Há"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C05-F062",
+        "candidate": "C05",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U223",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C05-F039",
+    "candidate": "C05",
+    "bodyLine": 27,
+    "section": "Tujia: o povo que se chama Bizika",
+    "text": "Desde os Tang, e de forma mais organizada sob os Yuan e os Ming, a corte reconhecia chefes hereditários locais, os *tusi* (土司), que recebiam títulos e pagavam tributo e, em troca, mantinham jurisdição própria sobre terra, leis e ritos.",
+    "numbers": [],
+    "names": [
+      "Desde",
+      "Tang",
+      "Yuan",
+      "Ming"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C05-F039",
+        "candidate": "C05",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U225",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F004",
+    "candidate": "C06",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "A China reconhece oficialmente 56 grupos étnicos: os han e 55 minorias.",
+    "numbers": [
+      "56",
+      "55"
+    ],
+    "names": [
+      "China"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C06-F004",
+        "candidate": "C06",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U228",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F005",
+    "candidate": "C06",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "Essa classificação ganhou sua forma atual sobretudo a partir dos trabalhos de identificação conduzidos depois de 1949.",
+    "numbers": [
+      "1949."
+    ],
+    "names": [
+      "Essa"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C06-F005",
+        "candidate": "C06",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U229",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F015",
+    "candidate": "C06",
+    "bodyLine": 15,
+    "section": "Tujia — um território entre Zhangjiajie, Furong e o sudeste de Chongqing",
+    "text": "Os Tujia habitam uma região que atravessa fronteiras provinciais: o oeste de Hunan, áreas de Hubei e Guizhou e o território de Chongqing, sobretudo sua porção sudeste.",
+    "numbers": [],
+    "names": [
+      "Os Tujia",
+      "Hunan",
+      "Hubei",
+      "Guizhou",
+      "Chongqing"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C06-F015",
+        "candidate": "C06",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U232",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F025",
+    "candidate": "C06",
+    "bodyLine": 19,
+    "section": "Tujia — um território entre Zhangjiajie, Furong e o sudeste de Chongqing",
+    "text": "Conhecer Hongyadong não equivale, portanto, a conhecer uma comunidade Tujia do sudeste: o complexo contemporâneo utiliza referências regionais de arquitetura suspensa, mas não substitui o território social de onde algumas dessas formas vêm.",
+    "numbers": [],
+    "names": [
+      "Conhecer Hongyadong",
+      "Tujia"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C06-F025",
+        "candidate": "C06",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U234",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F031",
+    "candidate": "C06",
+    "bodyLine": 23,
+    "section": "Tujia — um território entre Zhangjiajie, Furong e o sudeste de Chongqing",
+    "text": "Não apagou imediatamente a cultura Tujia, assim como o reconhecimento oficial do grupo, em 1957, não criou do nada sua identidade.",
+    "numbers": [
+      "1957,"
+    ],
+    "names": [
+      "Não",
+      "Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C06-F031",
+        "candidate": "C06",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U235",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F027",
+    "candidate": "C06",
+    "bodyLine": 21,
+    "section": "Tujia — um território entre Zhangjiajie, Furong e o sudeste de Chongqing",
+    "text": "Eles não governavam simplesmente “fora da China”: negociavam títulos, tributos e obrigações militares com as dinastias, mantendo autoridade local em diferentes graus.",
+    "numbers": [],
+    "names": [
+      "Eles",
+      "China"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C06-F027",
+        "candidate": "C06",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U240",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F142",
+    "candidate": "C06",
+    "bodyLine": 101,
+    "section": "Encerramento",
+    "text": "Essas perguntas mudam a visita porque deslocam a atenção do emblema para a relação.",
+    "numbers": [],
+    "names": [
+      "Essas"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C06-F142",
+        "candidate": "C06",
+        "bodyLine": 101
+      },
+      {
+        "id": "C09-F149",
+        "candidate": "C09",
+        "bodyLine": 107
+      }
+    ],
+    "unit": "U241",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F146",
+    "candidate": "C06",
+    "bodyLine": 103,
+    "section": "Encerramento",
+    "text": "Não se deduz a identidade de alguém pelo rosto, pela roupa ou pelo endereço; nem toda conversa de mercado está disponível ao visitante.",
+    "numbers": [],
+    "names": [
+      "Não"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C06-F146",
+        "candidate": "C06",
+        "bodyLine": 103
+      },
+      {
+        "id": "C09-F153",
+        "candidate": "C09",
+        "bodyLine": 109
+      }
+    ],
+    "unit": "U243",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F040",
+    "candidate": "C06",
+    "bodyLine": 29,
+    "section": "Tujia — um território entre Zhangjiajie, Furong e o sudeste de Chongqing",
+    "text": "As casas *diaojiaolou*, apoiadas parcialmente em pilares para ocupar encostas e margens, também exigem leitura cuidadosa.",
+    "numbers": [],
+    "names": [
+      "As"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C06-F040",
+        "candidate": "C06",
+        "bodyLine": 29
+      }
+    ],
+    "unit": "U245",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C06-F014",
+    "candidate": "C06",
+    "bodyLine": 11,
+    "section": "Abertura",
+    "text": "Nas paradas desta viagem, a diversidade aparece tanto nos palcos de apresentações culturais quanto nas conversas de mercado, nos alimentos conservados, na organização das casas e nas maneiras de manter vínculos com um lugar distante.",
+    "numbers": [],
+    "names": [
+      "Nas"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C06-F014",
+        "candidate": "C06",
+        "bodyLine": 11
+      }
+    ],
+    "unit": "U246",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C07-F016",
+    "candidate": "C07",
+    "bodyLine": 13,
+    "section": "Antes dos nomes: etnia oficial, cultura regional e migração",
+    "text": "A China organiza oficialmente sua população em 56 *minzu*: a maioria Han e 55 grupos classificados como minorias étnicas. *Minzu* pode ser traduzido como “etnia” ou “nacionalidade”, mas funciona também como categoria de censo, administração pública e políticas culturais.",
+    "numbers": [
+      "56",
+      "55"
+    ],
+    "names": [
+      "China",
+      "Han",
+      "Minzu"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C07-F016",
+        "candidate": "C07",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U250",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C07-F017",
+    "candidate": "C07",
+    "bodyLine": 13,
+    "section": "Antes dos nomes: etnia oficial, cultura regional e migração",
+    "text": "No censo de 2020, os Han correspondiam a 91,11% da população e o conjunto das minorias, a 8,89%, segundo o [National Bureau of Statistics da China](https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817185.html).",
+    "numbers": [
+      "2020,",
+      "91,11%",
+      "8,89%",
+      "202105"
+    ],
+    "names": [
+      "No",
+      "Han",
+      "National Bureau",
+      "Statistics",
+      "China",
+      "PressRelease"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C07-F017",
+        "candidate": "C07",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U251",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C07-F021",
+    "candidate": "C07",
+    "bodyLine": 15,
+    "section": "Antes dos nomes: etnia oficial, cultura regional e migração",
+    "text": "Nenhum dos dois aparece entre as 55 minorias oficiais: em geral, seus integrantes são contabilizados como Han.",
+    "numbers": [
+      "55"
+    ],
+    "names": [
+      "Nenhum",
+      "Han"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C07-F021",
+        "candidate": "C07",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U253",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C07-F032",
+    "candidate": "C07",
+    "bodyLine": 23,
+    "section": "Tujia: o corredor das montanhas Wuling",
+    "text": "O censo de 2020 registrou [9.587.732 Tujia](https://www.neac.gov.cn/seac/ztzl/tjz/gk.shtml).",
+    "numbers": [
+      "2020",
+      "9.587.732"
+    ],
+    "names": [
+      "Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C07-F032",
+        "candidate": "C07",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U255",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C07-F043",
+    "candidate": "C07",
+    "bodyLine": 27,
+    "section": "Tujia: o corredor das montanhas Wuling",
+    "text": "No início do século XVIII, reformas Qing agrupadas sob o nome *gǎitǔ guīliú* substituíram muitas dessas chefias por funcionários nomeados pelo governo central.",
+    "numbers": [],
+    "names": [
+      "No",
+      "XVIII",
+      "Qing"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C07-F043",
+        "candidate": "C07",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U274",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C07-F041",
+    "candidate": "C07",
+    "bodyLine": 27,
+    "section": "Tujia: o corredor das montanhas Wuling",
+    "text": "Por séculos, chefias hereditárias conhecidas como *tusi* mediaram a relação entre comunidades das montanhas e os impérios chineses.",
+    "numbers": [],
+    "names": [
+      "Por"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C07-F041",
+        "candidate": "C07",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U275",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F001",
+    "candidate": "C08",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "O mapa oficial da China reconhece 56 grupos étnicos: os han, que somam cerca de 91% da população, e outros 55 chamados de \"minorias\" (少数民族), que ainda assim passam de 125 milhões de pessoas.",
+    "numbers": [
+      "56",
+      "91%",
+      "55",
+      "125 mil"
+    ],
+    "names": [
+      "China"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F001",
+        "candidate": "C08",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U283",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F010",
+    "candidate": "C08",
+    "bodyLine": 9,
+    "section": "Abertura",
+    "text": "Esta página percorre esses povos na ordem do roteiro (31/10 a 20/11 de 2026), sempre ancorada nos lugares que o viajante de fato vai pisar.",
+    "numbers": [
+      "31",
+      "10",
+      "20",
+      "11",
+      "2026"
+    ],
+    "names": [
+      "Esta"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F010",
+        "candidate": "C08",
+        "bodyLine": 9
+      }
+    ],
+    "unit": "U284",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F013",
+    "candidate": "C08",
+    "bodyLine": 13,
+    "section": "Como a China conta seus povos",
+    "text": "A lista de 56 etnias é bem mais recente do que parece.",
+    "numbers": [
+      "56"
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F013",
+        "candidate": "C08",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U285",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F014",
+    "candidate": "C08",
+    "bodyLine": 13,
+    "section": "Como a China conta seus povos",
+    "text": "Nos anos 1950, o governo comunista enviou equipes de pesquisadores para identificar e classificar os povos do país, num programa chamado *minzu shibie* (民族识别).",
+    "numbers": [
+      "1950,"
+    ],
+    "names": [
+      "Nos"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F014",
+        "candidate": "C08",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U286",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F015",
+    "candidate": "C08",
+    "bodyLine": 13,
+    "section": "Como a China conta seus povos",
+    "text": "Mais de 400 autodenominações chegaram à mesa; depois de critérios como língua, território, economia e \"psicologia coletiva\", restaram 55 minorias além dos han.",
+    "numbers": [
+      "400",
+      "55"
+    ],
+    "names": [
+      "Mais"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F015",
+        "candidate": "C08",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U287",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F016",
+    "candidate": "C08",
+    "bodyLine": 13,
+    "section": "Como a China conta seus povos",
+    "text": "O último grupo a ser reconhecido, os Jino de Yunnan, entrou na lista em 1979.",
+    "numbers": [
+      "1979."
+    ],
+    "names": [
+      "Jino",
+      "Yunnan"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F016",
+        "candidate": "C08",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U288",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F027",
+    "candidate": "C08",
+    "bodyLine": 21,
+    "section": "Tujia: o povo da montanha entre Chongqing, Zhangjiajie e Furong",
+    "text": "Somam entre 8 e 9 milhões de pessoas (o censo de 2010 registrou cerca de 8,35 milhões; o de 2020 subiu para perto de 9,6 milhões [VERIFICAR número exato]), concentradas no oeste de Hunan, no oeste de Hubei, no sudeste de Chongqing e no nordeste de Guizhou, a região montanhosa do Wuling.",
+    "numbers": [
+      "8",
+      "9 mil",
+      "2010",
+      "8,35 mil",
+      "2020",
+      "9,6 mil"
+    ],
+    "names": [
+      "Somam",
+      "VERIFICAR",
+      "Hunan",
+      "Hubei",
+      "Chongqing",
+      "Guizhou",
+      "Wuling"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F027",
+        "candidate": "C08",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U291",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F032",
+    "candidate": "C08",
+    "bodyLine": 23,
+    "section": "Tujia: o povo da montanha entre Chongqing, Zhangjiajie e Furong",
+    "text": "Nas décadas de 1720 e 1730, os Qing aplicaram a política do *gaitu guiliu* (改土归流), a \"substituição dos chefes locais por magistrados nomeados\", que desmontou essa estrutura e abriu a região à colonização han.",
+    "numbers": [
+      "1720",
+      "1730,"
+    ],
+    "names": [
+      "Nas",
+      "Qing"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F032",
+        "candidate": "C08",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U292",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F034",
+    "candidate": "C08",
+    "bodyLine": 23,
+    "section": "Tujia: o povo da montanha entre Chongqing, Zhangjiajie e Furong",
+    "text": "O sítio de Laosicheng, em Yongshun, perto de Furong, é uma cidade tusi inscrita pela UNESCO em 2015, junto com outros dois sítios do sistema (Tangya e Hailongtun).",
+    "numbers": [
+      "2015,"
+    ],
+    "names": [
+      "Laosicheng",
+      "Yongshun",
+      "Furong",
+      "UNESCO",
+      "Tangya",
+      "Hailongtun"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F034",
+        "candidate": "C08",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U293",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F037",
+    "candidate": "C08",
+    "bodyLine": 25,
+    "section": "Tujia: o povo da montanha entre Chongqing, Zhangjiajie e Furong",
+    "text": "Em Chongqing, o complexo de Hongyadong (`pesquisa/atracoes/hongyadong.md`) é a versão urbana e reconstruída (2006) dessa tradição, que a cidade usou como vitrine, e a página dele é explícita: é reconstrução, não conjunto histórico intacto.",
+    "numbers": [
+      "2006"
+    ],
+    "names": [
+      "Em Chongqing",
+      "Hongyadong"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F037",
+        "candidate": "C08",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U294",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F043",
+    "candidate": "C08",
+    "bodyLine": 27,
+    "section": "Tujia: o povo da montanha entre Chongqing, Zhangjiajie e Furong",
+    "text": "O show de Charming Xiangxi, em Zhangjiajie, é um espetáculo competente para 2.800 pessoas, e o de Furong tem produção de ponta, mas ambos são feitos para grupos de ônibus e não substituem a observação de um dia comum.",
+    "numbers": [
+      "2.800"
+    ],
+    "names": [
+      "Charming Xiangxi",
+      "Zhangjiajie",
+      "Furong"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C08-F043",
+        "candidate": "C08",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U295",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F105",
+    "candidate": "C08",
+    "bodyLine": 73,
+    "section": "Encerramento",
+    "text": "A China que este roteiro atravessa não é a dos 56 cartazes, e sim a de quatro camadas sobrepostas.",
+    "numbers": [
+      "56"
+    ],
+    "names": [
+      "China"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C08-F105",
+        "candidate": "C08",
+        "bodyLine": 73
+      }
+    ],
+    "unit": "U321",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F019",
+    "candidate": "C08",
+    "bodyLine": 15,
+    "section": "Como a China conta seus povos",
+    "text": "A China tem regiões, prefeituras e condados \"autônomos\" nomeados por etnia, e vários deles estão no percurso deste roteiro.",
+    "numbers": [],
+    "names": [
+      "China"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C08-F019",
+        "candidate": "C08",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U324",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C08-F040",
+    "candidate": "C08",
+    "bodyLine": 25,
+    "section": "Tujia: o povo da montanha entre Chongqing, Zhangjiajie e Furong",
+    "text": "A cozinha do oeste de Hunan é de defumados, carnes curadas no fogão de lenha, pimenta seca em vez de pasta de pimenta, e a \"panela seca de defumados Tujia\" (干锅土家腊味), servida a um almoço em Furong, é a tradução mais direta disso.",
+    "numbers": [],
+    "names": [
+      "Hunan",
+      "Tujia",
+      "Furong"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C08-F040",
+        "candidate": "C08",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U329",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C09-F007",
+    "candidate": "C09",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "A República Popular reconhece oficialmente 56 grupos étnicos: os han e 55 *minzu*, categoria que combina ancestralidade, história, língua, território e reconhecimento estatal.",
+    "numbers": [
+      "56",
+      "55"
+    ],
+    "names": [
+      "República Popular"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C09-F007",
+        "candidate": "C09",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U334",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C09-F012",
+    "candidate": "C09",
+    "bodyLine": 13,
+    "section": "Antes do mapa: o que significa “etnia” na China",
+    "text": "A classificação oficial das nacionalidades chinesas tomou forma sobretudo a partir da década de 1950.",
+    "numbers": [
+      "1950."
+    ],
+    "names": [],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C09-F012",
+        "candidate": "C09",
+        "bodyLine": 13
+      }
+    ],
+    "unit": "U335",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C09-F025",
+    "candidate": "C09",
+    "bodyLine": 23,
+    "section": "Tujia: das montanhas de Wuling ao sudeste de Chongqing",
+    "text": "O território histórico Tujia acompanha as montanhas de Wuling, atravessando o oeste de Hunan, o sudoeste de Hubei, partes de Guizhou e o leste e sudeste da municipalidade de Chongqing.",
+    "numbers": [],
+    "names": [
+      "Tujia",
+      "Wuling",
+      "Hunan",
+      "Hubei",
+      "Guizhou",
+      "Chongqing"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C09-F025",
+        "candidate": "C09",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U338",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C09-F044",
+    "candidate": "C09",
+    "bodyLine": 33,
+    "section": "Tujia: das montanhas de Wuling ao sudeste de Chongqing",
+    "text": "Antes de receber o nome popularizado pelo filme de 1986, o lugar era conhecido como Wangcun e fazia parte do domínio de Yongshun.",
+    "numbers": [
+      "1986,"
+    ],
+    "names": [
+      "Antes",
+      "Wangcun",
+      "Yongshun"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C09-F044",
+        "candidate": "C09",
+        "bodyLine": 33
+      }
+    ],
+    "unit": "U339",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C09-F020",
+    "candidate": "C09",
+    "bodyLine": 19,
+    "section": "Antes do mapa: o que significa “etnia” na China",
+    "text": "Há ainda a diferença entre cultura vivida e cultura representada.",
+    "numbers": [],
+    "names": [
+      "Há"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C09-F020",
+        "candidate": "C09",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U341",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C09-F026",
+    "candidate": "C09",
+    "bodyLine": 23,
+    "section": "Tujia: das montanhas de Wuling ao sudeste de Chongqing",
+    "text": "O roteiro entra nesse arco antes mesmo de chegar a Zhangjiajie.",
+    "numbers": [],
+    "names": [
+      "Zhangjiajie"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C09-F026",
+        "candidate": "C09",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U342",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F004",
+    "candidate": "C10",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "A classificação oficial chinesa reconhece 56 grupos étnicos, os *minzu*: Han e 55 minorias.",
+    "numbers": [
+      "56",
+      "55"
+    ],
+    "names": [
+      "Han"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F004",
+        "candidate": "C10",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U344",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F005",
+    "candidate": "C10",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "No censo de 2020, os Han representavam 91,11% da população contabilizada no continente; as minorias somavam 125,47 milhões de pessoas.",
+    "numbers": [
+      "2020,",
+      "91,11%",
+      "125,47 mil"
+    ],
+    "names": [
+      "No",
+      "Han"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F005",
+        "candidate": "C10",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U345",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F008",
+    "candidate": "C10",
+    "bodyLine": 7,
+    "section": "Abertura",
+    "text": "[Departamento de Educação de Hong Kong — grupos étnicos](https://www.edb.gov.hk/attachment/en/curriculum-development/kla/pshe/national-geography/national-geography-resource-portal/Info_Sheet_03-ethnic_minorities-eng.pdf); [Departamento Nacional de Estatísticas — censo de 2020](https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817187.html).",
+    "numbers": [
+      "2020",
+      "202105"
+    ],
+    "names": [
+      "Departamento",
+      "Educação",
+      "Hong Kong",
+      "Info",
+      "Departamento Nacional",
+      "Estatísticas",
+      "PressRelease"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F008",
+        "candidate": "C10",
+        "bodyLine": 7
+      }
+    ],
+    "unit": "U347",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F020",
+    "candidate": "C10",
+    "bodyLine": 15,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Chongqing — organização regional](https://source.ichongqing.info/2020/01/Chongqing-Foreign-Investment-Environment-Evaluation-Report-2019.pdf).",
+    "numbers": [
+      "2020",
+      "01",
+      "2019."
+    ],
+    "names": [
+      "Chongqing",
+      "Chongqing-Foreign-Investment-Environment-Evaluation-Report-"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F020",
+        "candidate": "C10",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U348",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F026",
+    "candidate": "C10",
+    "bodyLine": 17,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Perfil Tujia do Conselho de Estado](https://english.scio.gov.cn/chinafacts/2017-06/06/content_40975371.htm); [The Tujia Language](https://journals.linguisticsociety.org/booknotices/?p=498).",
+    "numbers": [
+      "2017",
+      "06",
+      "06",
+      "498"
+    ],
+    "names": [
+      "Perfil Tujia",
+      "Conselho",
+      "Estado",
+      "The Tujia Language"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F026",
+        "candidate": "C10",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U349",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F031",
+    "candidate": "C10",
+    "bodyLine": 19,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Furong — governo de Hunan](https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806806.html); [UNESCO — Tusi Sites](https://whc.unesco.org/en/list/1474/).",
+    "numbers": [
+      "201507",
+      "1474"
+    ],
+    "names": [
+      "Furong",
+      "Hunan",
+      "Tourism",
+      "TourHunan",
+      "TouristAttractions",
+      "UNESCO",
+      "Tusi Sites"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F031",
+        "candidate": "C10",
+        "bodyLine": 19
+      }
+    ],
+    "unit": "U350",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F032",
+    "candidate": "C10",
+    "bodyLine": 21,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "O patrimônio mundial relacionado a esse sistema reúne Laosicheng, Tangya e Hailongtun.",
+    "numbers": [],
+    "names": [
+      "Laosicheng",
+      "Tangya",
+      "Hailongtun"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C10-F032",
+        "candidate": "C10",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U351",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F033",
+    "candidate": "C10",
+    "bodyLine": 21,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "Laosicheng ajuda a compreender a história de Yongshun, mas é outro sítio: passear por Furong não equivale a visitá-lo.",
+    "numbers": [],
+    "names": [
+      "Laosicheng",
+      "Yongshun",
+      "Furong"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C10-F033",
+        "candidate": "C10",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U352",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F037",
+    "candidate": "C10",
+    "bodyLine": 21,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "[UNESCO — componentes e conservação dos sítios tusi](https://whc.unesco.org/en/list/1474/).",
+    "numbers": [
+      "1474"
+    ],
+    "names": [
+      "UNESCO"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F037",
+        "candidate": "C10",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U353",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F047",
+    "candidate": "C10",
+    "bodyLine": 25,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Furong — turismo e produção cultural](https://enghunan.gov.cn/hneng/News/Localnews/202601/t20260106_33887388.html).",
+    "numbers": [
+      "202601"
+    ],
+    "names": [
+      "Furong",
+      "News",
+      "Localnews"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C10-F047",
+        "candidate": "C10",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U355",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F016",
+    "candidate": "C10",
+    "bodyLine": 15,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "A escala importa: o município de Chongqing vai muito além da metrópole à beira do Yangtzé.",
+    "numbers": [],
+    "names": [
+      "Chongqing",
+      "Yangtzé"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C10-F016",
+        "candidate": "C10",
+        "bodyLine": 15
+      }
+    ],
+    "unit": "U377",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F038",
+    "candidate": "C10",
+    "bodyLine": 23,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "Nas casas apoiadas em pilares, chamadas *diaojiaolou*, o terreno oferece uma primeira chave de leitura.",
+    "numbers": [],
+    "names": [
+      "Nas"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C10-F038",
+        "candidate": "C10",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U380",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F190",
+    "candidate": "C10",
+    "bodyLine": 93,
+    "section": "Encerramento",
+    "text": "Se houver abertura, perguntar como aquele trabalho mudou ao longo da vida costuma produzir uma resposta mais pessoal do que pedir explicações sobre “o seu povo”.",
+    "numbers": [],
+    "names": [
+      "Se"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C10-F190",
+        "candidate": "C10",
+        "bodyLine": 93
+      }
+    ],
+    "unit": "U381",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C10-F024",
+    "candidate": "C10",
+    "bodyLine": 17,
+    "section": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+    "text": "Por isso, ouvir mandarim numa loja, numa hospedagem ou numa conversa entre moradores não resolve a identidade de quem fala.",
+    "numbers": [],
+    "names": [
+      "Por"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C10-F024",
+        "candidate": "C10",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U385",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F002",
+    "candidate": "C11",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "A classificação oficial reconhece 56 grupos, incluindo os Han.",
+    "numbers": [
+      "56"
+    ],
+    "names": [
+      "Han"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F002",
+        "candidate": "C11",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U386",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F003",
+    "candidate": "C11",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "No censo de 2020, a população Han correspondia a 91,11% do total; as minorias étnicas somavam 8,89%, ou 125,47 milhões de pessoas.",
+    "numbers": [
+      "2020,",
+      "91,11%",
+      "8,89%",
+      "125,47 mil"
+    ],
+    "names": [
+      "No",
+      "Han"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F003",
+        "candidate": "C11",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U387",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F004",
+    "candidate": "C11",
+    "bodyLine": 5,
+    "section": "Abertura",
+    "text": "[Censo de 2020](https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817187.html)",
+    "numbers": [
+      "2020",
+      "202105"
+    ],
+    "names": [
+      "Censo",
+      "PressRelease"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F004",
+        "candidate": "C11",
+        "bodyLine": 5
+      }
+    ],
+    "unit": "U388",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F019",
+    "candidate": "C11",
+    "bodyLine": 17,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "A presença Tujia se distribui pela região montanhosa de Wuling, no oeste de Hunan e Hubei e no sudeste de Chongqing.",
+    "numbers": [],
+    "names": [
+      "Tujia",
+      "Wuling",
+      "Hunan",
+      "Hubei",
+      "Chongqing"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C11-F019",
+        "candidate": "C11",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U390",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F022",
+    "candidate": "C11",
+    "bodyLine": 17,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "Na viagem, Chongqing funciona como contexto regional; visitar sua área central não equivale a percorrer as comunidades Tujia do sudeste.",
+    "numbers": [],
+    "names": [
+      "Na",
+      "Chongqing",
+      "Tujia"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C11-F022",
+        "candidate": "C11",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U391",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F023",
+    "candidate": "C11",
+    "bodyLine": 17,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Distribuição regional das minorias — Instituto Nacional de Estatística](https://www.stats.gov.cn/sj/ndsj/2012/html/B0113e.htm)",
+    "numbers": [
+      "2012"
+    ],
+    "names": [
+      "Distribuição",
+      "Instituto Nacional",
+      "Estatística"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F023",
+        "candidate": "C11",
+        "bodyLine": 17
+      }
+    ],
+    "unit": "U392",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F031",
+    "candidate": "C11",
+    "bodyLine": 21,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "Laosicheng, em Yongshun, foi um centro dessa administração e integra o conjunto de sítios *tusi* reconhecido pela UNESCO.",
+    "numbers": [],
+    "names": [
+      "Laosicheng",
+      "Yongshun",
+      "UNESCO"
+    ],
+    "priority": "trap",
+    "occurrences": [
+      {
+        "id": "C11-F031",
+        "candidate": "C11",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U394",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F035",
+    "candidate": "C11",
+    "bodyLine": 21,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Sítios Tusi — UNESCO](https://whc.unesco.org/en/list/1474/)",
+    "numbers": [
+      "1474"
+    ],
+    "names": [
+      "Sítios Tusi",
+      "UNESCO"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F035",
+        "candidate": "C11",
+        "bodyLine": 21
+      }
+    ],
+    "unit": "U395",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F040",
+    "candidate": "C11",
+    "bodyLine": 23,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Furong — Governo de Hunan](https://enghunan.gov.cn/hneng/News/Localnews/202601/t20260106_33887388.html), [Cultura Tujia](https://english.scio.gov.cn/chinafacts/2017-06/06/content_40975371.htm)",
+    "numbers": [
+      "202601",
+      "2017",
+      "06",
+      "06"
+    ],
+    "names": [
+      "Furong",
+      "Governo",
+      "Hunan",
+      "News",
+      "Localnews",
+      "Cultura Tujia"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F040",
+        "candidate": "C11",
+        "bodyLine": 23
+      }
+    ],
+    "unit": "U396",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F045",
+    "candidate": "C11",
+    "bodyLine": 25,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "[Língua e cultura Tujia](https://english.scio.gov.cn/chinafacts/2017-06/06/content_40975371.htm), [Xilankapu em Zhangjiajie](https://www.enghunan.gov.cn/hneng/AboutHunan/HistoryCulture/CulturalHeritage/202602/t20260220_33916324.html)",
+    "numbers": [
+      "2017",
+      "06",
+      "06",
+      "202602"
+    ],
+    "names": [
+      "Língua",
+      "Tujia",
+      "Xilankapu",
+      "Zhangjiajie",
+      "AboutHunan",
+      "HistoryCulture",
+      "CulturalHeritage"
+    ],
+    "priority": "numeric",
+    "occurrences": [
+      {
+        "id": "C11-F045",
+        "candidate": "C11",
+        "bodyLine": 25
+      }
+    ],
+    "unit": "U397",
+    "theme": "tujia-general"
+  },
+  {
+    "id": "C11-F048",
+    "candidate": "C11",
+    "bodyLine": 27,
+    "section": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+    "text": "Madeira, vãos inferiores e espaços elevados merecem atenção antes de qualquer tentativa de atribuir a casa a uma etnia exclusiva.",
+    "numbers": [],
+    "names": [
+      "Madeira"
+    ],
+    "priority": "uniform-pool",
+    "occurrences": [
+      {
+        "id": "C11-F048",
+        "candidate": "C11",
+        "bodyLine": 27
+      }
+    ],
+    "unit": "U422",
+    "theme": "tujia-general"
+  }
+]

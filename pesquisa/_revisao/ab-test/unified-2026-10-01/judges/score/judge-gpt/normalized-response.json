@@ -1,0 +1,606 @@
+{
+  "evaluations": [
+    {
+      "id": "C01",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 19,
+          "justification": "Acertou 31 de 32 unidades decididas; o erro relevante sobre o início do décimo mês lunar reduz a faixa factual.",
+          "quote": "Em 2026, o décimo mês lunar começa por volta de 10 de novembro, logo depois da passagem por Fenghuang (08–09/11)."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos nos trechos pedidos, sem resquício do roteiro antigo, e mantém abertura, desenvolvimento, encerramento e front matter.",
+          "quote": "Isso dá cinco paisagens humanas, que não cabem num mesmo tipo de categoria."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica mecanismos históricos e culturais com detalhes concretos, embora retome parte da descrição arquitetônica já desenvolvida em Hongyadong.",
+          "quote": "O que marca a história dos Tujia é o sistema *tusi* (土司), mais do que qualquer traço folclórico."
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Liga costumes e instituições a paradas e datas da viagem, com orientações úteis para distinguir cotidiano e espetáculo.",
+          "quote": "vale perguntar na pousada se alguma aldeia do condado antecipou a festa"
+        },
+        {
+          "dimension": 5,
+          "score": 12,
+          "justification": "A prosa é fluida e visual, mas algumas frases explicam a organização da própria página e o fecho generaliza a experiência japonesa.",
+          "quote": "Esta página segue a ordem do roteiro."
+        },
+        {
+          "dimension": 6,
+          "score": 7,
+          "justification": "Ressalva algumas genealogias e práticas, mas afirma com segurança a cronologia lunar errada e diversas relações causais que ficaram incertas.",
+          "quote": "tinha uma ascendência que resume Fenghuang: família paterna han com avó Miao e mãe Tujia, segundo a biografia mais repetida"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e o registro histórico declara edição exclusiva do arquivo alvo.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 79,
+      "cap": null,
+      "capReasons": [],
+      "final": 79,
+      "mainStrength": "Articula a classificação étnica com lugares e experiências concretas do roteiro.",
+      "priorityFix": "Corrigir a data lunar e qualificar causalidades e atribuições históricas incertas.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C02",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 2,
+          "justification": "Acertou 12 de 14 unidades decididas, mas dois erros relevantes distintos derrubam a nota para a faixa indicada.",
+          "quote": "o clã Peng (彭), por exemplo, governou o senhorio tusi de Yongshun por mais de oito séculos a partir de sua base regional em Wangcun"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Abrange os cinco grupos e as paradas correspondentes, com estrutura e front matter preservados; hui gan é sabor do chá.",
+          "quote": "Povos como os Tujia, os Miao e os Zhuang preservaram modos de habitar desfiladeiros e encostas montanhosas"
+        },
+        {
+          "dimension": 3,
+          "score": 11,
+          "justification": "Traz costumes, arquitetura e comida específicos, mas acumula descrições extensas e causalidades amplas que enfraquecem a profundidade analítica.",
+          "quote": "A tecelagem de brocado Xilankapu (西兰卡普), confeccionada em teares manuais de madeira com fios de seda e algodão coloridos"
+        },
+        {
+          "dimension": 4,
+          "score": 7,
+          "justification": "Conecta grupos às cidades e a algumas experiências observáveis, porém oferece poucas instruções situadas no calendário e na visita efetiva.",
+          "quote": "Ao longo da Rua Pedestre Zhongshan e nas vielas da ilha de Gulangyu, o estilo *qilou* (骑楼) domina as fachadas"
+        },
+        {
+          "dimension": 5,
+          "score": 10,
+          "justification": "O português é legível, mas a adjetivação enfática, os superlativos e o encerramento grandiloquente prejudicam a voz de reportagem.",
+          "quote": "a maior migração interna da história moderna ergueu uma metrópole de estranhos"
+        },
+        {
+          "dimension": 6,
+          "score": 4,
+          "justification": "Os dois erros decididos aparecem sem ressalva, assim como vários superlativos e nexos causais que a checagem deixou incertos.",
+          "quote": "concentrados quase em sua totalidade na Região Autônoma Zhuang de Guangxi"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e o registro histórico declara edição exclusiva do arquivo alvo.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 54,
+      "cap": null,
+      "capReasons": [],
+      "final": 54,
+      "mainStrength": "Oferece repertório concreto de práticas culturais e culinárias.",
+      "priorityFix": "Rever a concentração Zhuang em Guangxi, a sede dos Peng e as afirmações categóricas sem suporte.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C03",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 1,
+          "justification": "A taxa decidida é 23 de 35, abaixo de 70%, com numerosos erros relevantes; permanece na faixa factual de 0 a 4.",
+          "quote": "Em Xiamen, o campo *minzu* do documento de identidade diz *han* para 99% dos moradores"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre todos os grupos e trechos solicitados, sem ocorrência do roteiro antigo, e conserva a estrutura exigida.",
+          "quote": "Entre Chongqing e Fenghuang, o viajante atravessa o país dos Tujia"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Há muitos nomes, lugares e mecanismos históricos, mas a densidade vem acompanhada de passagens extensas já tratadas nas páginas de cidade.",
+          "quote": "O número de Tujia oficialmente contados quase triplicou entre os censos de 1982 e 2000"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Vincula história, língua e comida às paradas e sugere observações de mercado, teatro e paisagem úteis ao viajante.",
+          "quote": "no mercado de Yongding às sete horas, na fila do ferry de Gulangyu, no balcão de chá de óleo de Guilin"
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "Mantém ritmo narrativo e imagens concretas, embora algumas generalizações e oposições enfáticas soem excessivas.",
+          "quote": "Esse campo do documento, porém, esconde tanto quanto revela."
+        },
+        {
+          "dimension": 6,
+          "score": 1,
+          "justification": "Datas, classificações e atribuições erradas são repetidas como certezas, inclusive em pontos centrais da história Tujia e Miao.",
+          "quote": "o ramo falado em Fenghuang e no resto de Xiangxi é o ocidental, ou *Qo Xiong*"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e o registro histórico declara edição exclusiva do arquivo alvo.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 56,
+      "cap": null,
+      "capReasons": [],
+      "final": 56,
+      "mainStrength": "Transforma temas étnicos em uma narrativa de viagem específica.",
+      "priorityFix": "Refazer a checagem histórica e linguística antes de aproveitar a prosa.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C04",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 16 unidades factuais decididas foram consideradas corretas; uma unidade permaneceu incerta e não reduz D1.",
+          "quote": "Guangxi é uma região autônoma Zhuang desde 1958"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Apresenta os cinco grupos ligados às paradas, sem resquícios do roteiro antigo, e preserva a estrutura requerida.",
+          "quote": "Minnan e Hakka, por exemplo, não são “minorias étnicas” oficiais"
+        },
+        {
+          "dimension": 3,
+          "score": 9,
+          "justification": "Há mecanismos e exemplos próprios, mas várias seções curtas privilegiam recomendações gerais e desenvolvem pouco a história local.",
+          "quote": "Pátios, muros, portões e fileiras de quartos organizavam defesa, parentesco e trabalho agrícola"
+        },
+        {
+          "dimension": 4,
+          "score": 7,
+          "justification": "Oferece gestos práticos de observação em Fenghuang e Xiamen, embora parte das conexões às paradas seja panorâmica.",
+          "quote": "Antes de atribuir a origem de uma peça, pergunte de onde vem, quem a fez e se é usada em cerimônia ou foi criada para venda."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "O texto é claro e respeitoso, com boa fluência; repete em alguns trechos a formulação de perguntas ao viajante.",
+          "quote": "Há arte e trabalho reais nessas formas; a pergunta útil é outra: o que elas significam fora do palco e da vitrine?"
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Distingue categorias, práticas compartilhadas e limites de inferência; a única unidade incerta é uma atribuição de fonte.",
+          "quote": "seria imprudente atribuir cada vila, arrozal ou prato à cultura Zhuang sem saber quem vive e trabalha ali"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e a edição exclusiva foi verificada no registro histórico.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 87,
+      "cap": null,
+      "capReasons": [],
+      "final": 87,
+      "mainStrength": "Calibra bem o que o viajante pode inferir de roupas, casas e apresentações.",
+      "priorityFix": "Aprofundar mecanismos e episódios próprios de cada região, sobretudo nas seções mais breves.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C05",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 43 unidades decididas foram consideradas corretas; as 12 incertas ficam fora da taxa de D1.",
+          "quote": "Zhangjiajie é uma cidade de nível de prefeitura separada e não pertence à Prefeitura Autônoma de Xiangxi"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos, as etapas e a transição para o Japão, sem resquícios antigos e com estrutura válida.",
+          "quote": "Os minnaneses de Xiamen e os hakka das antigas aldeias de Shenzhen são han no registro civil."
+        },
+        {
+          "dimension": 3,
+          "score": 13,
+          "justification": "Acrescenta mecanismos políticos, migratórios e linguísticos às referências do roteiro; algumas atrações recebem descrições já presentes nas páginas de cidade.",
+          "quote": "Entre 1661 e 1669, a dinastia Qing ordenou a evacuação forçada do litoral do sul (迁界令) para isolar a resistência de Koxinga"
+        },
+        {
+          "dimension": 4,
+          "score": 10,
+          "justification": "Usa datas da viagem e distingue o que será visto, o que é apenas contexto e o que está fora do calendário.",
+          "quote": "A maior acontece no terceiro dia do terceiro mês lunar (三月三), na primavera, bem longe da janela de novembro."
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "A voz narrativa é fluida e concreta, com ritmo variado e poucas formulações de bastidor.",
+          "quote": "Às vezes a resposta está num palco com trezentos dançarinos. Com mais frequência, está numa carne defumada pendurada na cozinha"
+        },
+        {
+          "dimension": 6,
+          "score": 8,
+          "justification": "Não há erro decidido, mas algumas unidades incertas, como genealogia e autoria arquitetônica, aparecem sem ressalva suficiente.",
+          "quote": "Os Tujia que inventaram aquela forma de casa vivem de fato a algumas centenas de quilômetros a sudeste"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e o registro histórico declara edição exclusiva do arquivo alvo.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 94,
+      "cap": null,
+      "capReasons": [],
+      "final": 94,
+      "mainStrength": "Integra contexto histórico, roteiro datado e observações úteis com prosa forte.",
+      "priorityFix": "Qualificar atribuições de origem e genealogias que a checagem deixou incertas.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C06",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 17 unidades factuais decididas foram consideradas corretas, sem erro ou incerteza no resumo de fatos.",
+          "quote": "Zhangjiajie faz parte desse espaço cultural, mas é uma cidade administrativamente distinta da Prefeitura Autônoma Tujia e Miao de Xiangxi."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Trata os cinco grupos nas áreas solicitadas e mantém abertura, tópicos e encerramento sem resquícios antigos.",
+          "quote": "Tujia, Miao e Zhuang são grupos reconhecidos separadamente dos han. Minnan e Hakka, por sua vez, designam comunidades linguísticas"
+        },
+        {
+          "dimension": 3,
+          "score": 10,
+          "justification": "Explica bem categorias e relações sociais, mas Fenghuang, Guangxi e Shenzhen recorrem várias vezes a formulações gerais.",
+          "quote": "A paisagem não é apenas uma escultura agrícola para fotografia: é infraestrutura produtiva"
+        },
+        {
+          "dimension": 4,
+          "score": 7,
+          "justification": "Conecta as culturas a lugares observáveis e oferece cuidados práticos, com pouca precisão de datas ou situações particulares da viagem.",
+          "quote": "Conhecer Hongyadong não equivale, portanto, a conhecer uma comunidade Tujia do sudeste"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "A prosa é limpa, consistente e respeitosa, com poucas frases formulaicas.",
+          "quote": "Uma apresentação profissional pode preservar técnicas, remunerar artistas e criar novas formas de circulação"
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "Distingue classificação, língua e identidade, e evita transformar práticas compartilhadas em propriedades exclusivas.",
+          "quote": "uma conversa inteiramente em mandarim num mercado de Zhangjiajie não demonstra ausência de identidade Tujia"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e o registro histórico declara edição exclusiva do arquivo alvo.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 90,
+      "cap": null,
+      "capReasons": [],
+      "final": 90,
+      "mainStrength": "Precisão e cautela ao tratar identidades contemporâneas.",
+      "priorityFix": "Substituir parte das passagens gerais por episódios e observações mais próprios de cada parada.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C07",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 30 unidades decididas foram consideradas corretas; quatro unidades incertas não reduzem a taxa factual.",
+          "quote": "O censo de 2020 registrou [19.568.546 pessoas](https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml)"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre todos os grupos e locais previstos, sem resquícios antigos e com estrutura e front matter preservados.",
+          "quote": "Shenzhen muda novamente a pergunta: ali, antigas comunidades Hakka dividem território com milhões de pessoas vindas de outras províncias."
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Combina números, lugares e mecanismos sociais, acrescentando contexto cultural; alguns parágrafos reiteram a cautela contra rótulos.",
+          "quote": "Famílias aldeãs e coletivos locais converteram terrenos e casas em edifícios de aluguel"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Relaciona grupos a Furong, Fenghuang, Yangshuo, Nantou e Gulangyu, com indicações práticas, embora raramente use datas da estadia.",
+          "quote": "O [San Yue San](https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml), no terceiro dia do terceiro mês lunar"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "O português é fluido e a voz mantém sobriedade mesmo ao tratar de turismo e identidade.",
+          "quote": "A cidade antiga comercializada não é uma fraude diante de aldeias supostamente puras"
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Calibra distinções entre nascimento, hukou e pertencimento; alguns detalhes microlocais permanecem afirmados sem apoio conclusivo.",
+          "quote": "*hukou*, nascimento, residência e pertencimento são medidas diferentes"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e a edição exclusiva foi verificada no registro histórico.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 92,
+      "cap": null,
+      "capReasons": [],
+      "final": 92,
+      "mainStrength": "Une dados específicos e leitura social cuidadosa do percurso.",
+      "priorityFix": "Qualificar algumas caracterizações muito locais e reduzir repetições sobre identidade e espetáculo.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C08",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 2,
+          "justification": "Acertou 22 de 28 unidades decididas; seis erros relevantes, incluindo duas armadilhas, situam D1 na faixa de 0 a 4.",
+          "quote": "Xiangxi, a área de Zhangjiajie, Furong e Fenghuang, é oficialmente a Prefeitura Autônoma Tujia e Miao de Xiangxi."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Os cinco grupos e as etapas estão presentes, sem resquício confirmado do roteiro antigo; Guizhou e Hong Kong aparecem como contexto.",
+          "quote": "Em Shenzhen, o que define a cidade é uma forma diferente de \"outro\": migrantes de todas as províncias e os Hakka"
+        },
+        {
+          "dimension": 3,
+          "score": 10,
+          "justification": "Há lugares, pratos e práticas concretos, mas algumas descrições repetem páginas de cidade e uma passagem termina incompleta.",
+          "quote": "Um detalhe ajuda a calibrar a expectativa: na cidade de Yangshuo, a maior parte dos moradores é han"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Relaciona os temas a atrações e janelas de viagem, mas algumas orientações dependem de cenas não comprovadas.",
+          "quote": "a canção viva do *sanyuesan* acontece em março ou abril, fora da janela da viagem"
+        },
+        {
+          "dimension": 5,
+          "score": 8,
+          "justification": "A prosa tem trechos vivos, porém conserva seis marcações de revisão e uma frase truncada.",
+          "quote": "nos nomes de lugar (em que o prefixo *na-*, \"campo de arroz\", denuncia a origem zhuang) e nas mesas que servem arroz glutinoso colorido e peixe do rio, que nas ruas turísticas."
+        },
+        {
+          "dimension": 6,
+          "score": 2,
+          "justification": "As tags sinalizam alguns pontos, mas não corrigem contradição interna nem erros decisivos apresentados como certeza.",
+          "quote": "Somam entre 8 e 9 milhões de pessoas (o censo de 2010 registrou cerca de 8,35 milhões; o de 2020 subiu para perto de 9,6 milhões [VERIFICAR número exato])"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e o registro histórico declara edição exclusiva; os alertas de pendência pertencem à revisão editorial.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 50,
+      "cap": 70,
+      "capReasons": [
+        "Duas armadilhas factuais relevantes: inclusão administrativa de Zhangjiajie em Xiangxi e população Tujia contraditória."
+      ],
+      "final": 50,
+      "mainStrength": "Relaciona culturas a experiências concretas do itinerário.",
+      "priorityFix": "Corrigir as armadilhas e demais erros factuais, resolver as pendências e completar a frase truncada.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C09",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 15 unidades factuais decididas foram consideradas corretas, sem erros ou incertezas no resumo.",
+          "quote": "Fenghuang integra a Prefeitura Autônoma Tujia e Miao de Xiangxi"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Contempla os cinco grupos e suas paradas, preservando abertura, tópicos, encerramento e front matter.",
+          "quote": "Em Xiamen, a diferença não corresponde a uma minoria oficialmente reconhecida: os minnaneses são classificados como han"
+        },
+        {
+          "dimension": 3,
+          "score": 10,
+          "justification": "A seção Tujia traz lugares e práticas específicos, enquanto outras seções permanecem mais gerais ou retomam contexto já desenvolvido.",
+          "quote": "O clã Peng governou o domínio de Yongshun por uma longa sucessão de gerações"
+        },
+        {
+          "dimension": 4,
+          "score": 7,
+          "justification": "Aponta experiências em Hongyadong, Furong e Shenzhen, mas oferece menos observações úteis nas demais paradas.",
+          "quote": "Em Zhangjiajie, o *sanxiaguo* reúne diferentes carnes, miúdos, tofu e legumes numa mesma panela."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "A escrita é clara e coerente, embora repita explicações sobre palco, autenticidade e vida cotidiana.",
+          "quote": "Uma roupa cerimonial pode ser herança familiar numa aldeia e figurino alugado no centro turístico."
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "Evita exclusividades étnicas e distingue representação turística de uso comunitário sem erro factual decidido.",
+          "quote": "Chamar toda *diaojiaolou* de exclusivamente Tujia seria simplificar"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e o registro histórico declara edição exclusiva do arquivo alvo.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 89,
+      "cap": null,
+      "capReasons": [],
+      "final": 89,
+      "mainStrength": "Boa distinção entre categorias oficiais, práticas compartilhadas e representação turística.",
+      "priorityFix": "Aumentar a especificidade e a utilidade para o viajante nas seções menos desenvolvidas.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C10",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 16 unidades factuais decididas foram consideradas corretas, sem erro ou incerteza no resumo de fatos.",
+          "quote": "Xiamen abriu seu porto ao comércio em 1843; em 1903, a ilha tornou-se um assentamento internacional."
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Todos os grupos aparecem ligados às paradas corretas, com referências internas válidas e estrutura requerida.",
+          "quote": "No percurso Chongqing → Zhangjiajie/Furong → Fenghuang → Guilin/Yangshuo → Shenzhen → Xiamen"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica técnicas, instituições e usos sociais específicos; algumas passagens alongam a reflexão geral sobre identidade e observação.",
+          "quote": "A residência ancestral Longtian, em Pingshan, foi construída em 1837 por uma família Huang vinda de Meizhou"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "As referências internas aproximam o texto das atrações efetivas e distinguem explicitamente sítios de contexto fora do percurso.",
+          "quote": "Laosicheng ajuda a compreender a história de Yongshun, mas é outro sítio: passear por Furong não equivale a visitá-lo."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "A prosa é clara e controlada, mas por vezes assume tom instrutivo repetitivo e explicita demais a cautela interpretativa.",
+          "quote": "Convém manter separadas três perguntas: como alguém se identifica, que língua fala e onde vive."
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "Distingue categorias, representação e inferência pessoal, sem erro ou unidade incerta no resumo factual.",
+          "quote": "O espetáculo oferece uma interpretação da região, sem resumir sua vida musical ou a identidade de cada integrante da produção."
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e a edição exclusiva foi verificada no registro histórico.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 93,
+      "cap": null,
+      "capReasons": [],
+      "final": 93,
+      "mainStrength": "Ancoragem precisa em atrações e explicação cuidadosa de mecanismos culturais.",
+      "priorityFix": "Enxugar repetições de orientação interpretativa para dar mais espaço à vida local.",
+      "additionalConcerns": []
+    },
+    {
+      "id": "C11",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "As 19 unidades factuais decididas foram consideradas corretas, sem erro ou incerteza no resumo.",
+          "quote": "Zhangjiajie é uma cidade administrativa separada da prefeitura autônoma Tujia e Miao de Xiangxi"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos e as etapas, preserva links internos e mantém a estrutura e o front matter exigidos.",
+          "quote": "Minnan e Hakka designam identidades culturais e linguísticas dentro do universo Han"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Desenvolve processos de fabricação, língua, literatura e migração com exemplos próprios, embora alguns parágrafos reiterem cautelas gerais.",
+          "quote": "*Cidade de Fronteira* se passa em Chadong, hoje Biancheng, e não em Fenghuang."
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Conecta a análise a Furong, Tuojiang, Shen Congwen, Yangshuo e Xiamen; parte das referências de Shenzhen fica fora das visitas previstas.",
+          "quote": "Hehu e os testemunhos de Guanlan entram aqui como contexto histórico, fora das visitas previstas."
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "A redação é sóbria e fluida, mas algumas passagens descritivas e recomendações finais prolongam ideias já estabelecidas.",
+          "quote": "Uma trama de *xilankapu*, uma peça de prata martelada e o som do *nanyin* pedem atenções diferentes."
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "Distingue tradição, representação e limites da visita sem erro ou unidade incerta no resumo factual.",
+          "quote": "a cidade natal de um escritor e o cenário de um romance são vínculos diferentes"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O build passou, o front matter é válido e o registro histórico declara edição exclusiva do arquivo alvo.",
+          "quote": "title: \"China — Etnias\"\norder: 2"
+        }
+      ],
+      "sum": 92,
+      "cap": null,
+      "capReasons": [],
+      "final": 92,
+      "mainStrength": "Detalhes culturais precisos, especialmente em Fenghuang e Xiamen.",
+      "priorityFix": "Condensar passagens gerais e reforçar a observação nas paradas efetivamente visitadas.",
+      "additionalConcerns": []
+    }
+  ],
+  "methodNotes": [
+    "D1 usa apenas unidades corretas e incorretas decididas; unidades incertas foram avaliadas em D6 conforme relevância e linguagem. Os intervalos do fact-summary foram respeitados.",
+    "Em D3, as páginas de atração identificadas como placeholders não foram tratadas como conteúdo desenvolvido; a duplicação foi considerada sobretudo onde o contexto existente traz prosa substantiva.",
+    "Menções contextuais a Guizhou e Hong Kong, e hui gan como sabor de chá, não foram contadas como resquícios. [VERIFICAR] foi tratado como marca de rascunho, com adequação julgada em D6.",
+    "D7 aceita a evidência histórica de escopo exclusivo fornecida no pacote; o diff original não foi reverificado. Build aprovado e front matter válido foram considerados conforme as métricas fornecidas."
+  ]
+}

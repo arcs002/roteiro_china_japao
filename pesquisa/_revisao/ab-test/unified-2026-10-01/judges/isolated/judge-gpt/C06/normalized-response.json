@@ -1,0 +1,59 @@
+{
+  "evaluations": [
+    {
+      "id": "C06",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "As 17 afirmações decididas foram classificadas como corretas, sem erros relevantes ou de armadilha; o texto distingue corretamente Zhangjiajie da prefeitura de Xiangxi.",
+          "quoteId": "Q022"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos pedidos, distingue Minnan e Hakka das minorias oficiais e segue o roteiro atual; as métricas não registram resquícios do roteiro antigo, links problemáticos ou números de dia.",
+          "quoteId": "Q012"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica mecanismos históricos e culturais com exemplos concretos, como as chefias tusi, mas retoma parte do contexto já presente nas páginas de cidade e atração.",
+          "quoteId": "Q031"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Relaciona os grupos a lugares do roteiro e oferece formas úteis de observar a arquitetura em Furong; a orientação prática é menos específica para Hakka em Shenzhen.",
+          "quoteId": "Q050"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "A abertura é fluida e concreta, com português consistente; algumas passagens posteriores reiteram a mesma oposição entre representação turística e vida cotidiana.",
+          "quoteId": "Q003"
+        },
+        {
+          "dimension": 6,
+          "score": 10,
+          "justification": "O texto ressalva limites da evidência onde cabem, como ao tratar Liu Sanjie como tradição oral, e não apresenta como certas afirmações classificadas como erradas nos fatos fornecidos.",
+          "quoteId": "Q097"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug estão válidos; as métricas registram build e auditoria sem erro novo e edição exclusiva do arquivo avaliado.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 94,
+      "cap": null,
+      "capReasons": [],
+      "final": 94,
+      "mainStrength": "Contextualiza identidades sem confundir classificação oficial, cultura regional e representação turística.",
+      "priorityFix": "Dar referências de visita mais concretas à presença Hakka em Shenzhen e condensar trechos já tratados nas páginas de cidade e atração.",
+      "additionalConcerns": []
+    }
+  ],
+  "methodNotes": []
+}

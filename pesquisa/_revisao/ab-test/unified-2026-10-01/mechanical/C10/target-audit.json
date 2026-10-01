@@ -1,0 +1,30 @@
+{
+  "target": "pesquisa/aprofundamento/paises/china/etnias.md",
+  "findings": [
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 14,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — A classificação oficial chinesa reconhece 56 grupos étnicos, os *minzu*: Han e 55 minorias. No censo de 2020, "
+    },
+    {
+      "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+      "line": 46,
+      "sev": "aviso",
+      "cat": "destino-removido",
+      "msg": "\"Hong Kong\" — Na [Casa Natal de Shen Congwen](#atracao/shen-congwen), a passagem da experiência para a representação assume "
+    }
+  ],
+  "page": {
+    "file": "pesquisa\\aprofundamento\\paises\\china\\etnias.md",
+    "type": "pais",
+    "slug": "china",
+    "prose": 4298
+  },
+  "wholeGuideCounts": {
+    "pages": 83,
+    "errors": 40,
+    "warnings": 122
+  }
+}

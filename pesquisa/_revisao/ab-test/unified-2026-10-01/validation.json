@@ -1,0 +1,150 @@
+[
+  {
+    "judge": "judge-haiku",
+    "model": "claude-haiku-4-5-20251001",
+    "promptSha256": "16a445f246eb783875f457ea883c64dc106d6e5399ebba27cd780fd1f80da515",
+    "errors": [],
+    "totals": [
+      {
+        "id": "C01",
+        "sum": 83,
+        "cap": null,
+        "final": 83
+      },
+      {
+        "id": "C02",
+        "sum": 63,
+        "cap": null,
+        "final": 63
+      },
+      {
+        "id": "C03",
+        "sum": 60,
+        "cap": null,
+        "final": 60
+      },
+      {
+        "id": "C04",
+        "sum": 97,
+        "cap": null,
+        "final": 97
+      },
+      {
+        "id": "C05",
+        "sum": 94,
+        "cap": null,
+        "final": 94
+      },
+      {
+        "id": "C06",
+        "sum": 97,
+        "cap": null,
+        "final": 97
+      },
+      {
+        "id": "C07",
+        "sum": 94,
+        "cap": null,
+        "final": 94
+      },
+      {
+        "id": "C08",
+        "sum": 62,
+        "cap": 70,
+        "final": 62
+      },
+      {
+        "id": "C09",
+        "sum": 95,
+        "cap": null,
+        "final": 95
+      },
+      {
+        "id": "C10",
+        "sum": 99,
+        "cap": null,
+        "final": 99
+      },
+      {
+        "id": "C11",
+        "sum": 94,
+        "cap": null,
+        "final": 94
+      }
+    ]
+  },
+  {
+    "judge": "judge-gpt",
+    "model": "gpt-6-sol",
+    "promptSha256": "16a445f246eb783875f457ea883c64dc106d6e5399ebba27cd780fd1f80da515",
+    "errors": [],
+    "totals": [
+      {
+        "id": "C01",
+        "sum": 79,
+        "cap": null,
+        "final": 79
+      },
+      {
+        "id": "C02",
+        "sum": 57,
+        "cap": null,
+        "final": 57
+      },
+      {
+        "id": "C03",
+        "sum": 55,
+        "cap": null,
+        "final": 55
+      },
+      {
+        "id": "C04",
+        "sum": 91,
+        "cap": null,
+        "final": 91
+      },
+      {
+        "id": "C05",
+        "sum": 89,
+        "cap": null,
+        "final": 89
+      },
+      {
+        "id": "C06",
+        "sum": 94,
+        "cap": null,
+        "final": 94
+      },
+      {
+        "id": "C07",
+        "sum": 92,
+        "cap": null,
+        "final": 92
+      },
+      {
+        "id": "C08",
+        "sum": 51,
+        "cap": 70,
+        "final": 51
+      },
+      {
+        "id": "C09",
+        "sum": 93,
+        "cap": null,
+        "final": 93
+      },
+      {
+        "id": "C10",
+        "sum": 92,
+        "cap": null,
+        "final": 92
+      },
+      {
+        "id": "C11",
+        "sum": 92,
+        "cap": null,
+        "final": 92
+      }
+    ]
+  }
+]

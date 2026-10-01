@@ -1,0 +1,67 @@
+{
+  "evaluations": [
+    {
+      "id": "C11",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 29,
+          "justification": "Taxa de acerto de 100% nas 19 unidades factuais verificadas (nenhuma incorreta ou incerta). Cobre dados censitários precisos (91,11% Han, 125,47 milhões minorias em 2020) e detalha armadilhas críticas: Zhangjiajie como separada de Xiangxi, distribuição Tujia no noroeste de Hunan e sudeste de Chongqing, Minnan/Hakka como subgrupos Han oficialmente distintos de minorias.",
+          "quoteId": "Q032"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "As cinco etnias requeridas (Tujia, Miao, Zhuang, Hakka, Minnan) estão cobertas e ligadas a trechos específicos do roteiro (Chongqing/Zhangjiajie/Furong, Fenghuang, Guilin/Yangshuo, Shenzhen, Xiamen). Nenhum resquício do itinerário antigo (Xi'an/Hui, Xijiang, Zhaoxing). Todos os links internos funcionam; front matter intacto (type, slug, topico, title, order); estrutura preserva Abertura-Tópicos-Encerramento.",
+          "quoteId": "Q003"
+        },
+        {
+          "dimension": 3,
+          "score": 14,
+          "justification": "Praticamente cada parágrafo traz dados concretos e explica mecanismo: Wuling como geografia do Tujia, Sanyuesan no terceiro dia lunar, prata via trefilação e martelamento, ZEE 1980, sha cha mian como reimportação de satay, Amoy Deco. Não duplica páginas existentes de cidades; oferece perspectiva comparativa entre etnias e quadro epistemológico (escalas: oficial vs vivida) ausente em atracoes individuais. Acima do piso de 2000 palavras (4675).",
+          "quoteId": "Q056"
+        },
+        {
+          "dimension": 4,
+          "score": 8,
+          "justification": "Ancoragem específica em quase todos grupos: Zhangjiajie oferece mercados e práticas de tecelagem, Fenghuang diaojiaolou e casa de Shen Congwen, Shenzhen Hehu e Huaqiangbei como espaços econômicos, Xiamen Gulangyu e sha cha mian. Lacuna: faltam datas exatas de viagem (tipo Ano Novo Miao ou sincronismo com dias 8 de novembro). Abordagem é epistemológica, não puramente turística, justificável pela tarefa.",
+          "quoteId": "Q257"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "Prosa ensaística fluida, sem clichê ('quando você visitar'), metalinguagem ou jargão de bastidor. PT-BR consistente. Retórica limpa: nenhuma ocorrência literal de 'Não é X — é Y'; aberturas por seção (Tujia, Fenghuang, Zhuang, Shenzhen, Xiamen) e fechos diferenciados. Ritmo variado entre parágrafos. Imperativo/genérico adequado ao registro ensaístico.",
+          "quoteId": "Q110"
+        },
+        {
+          "dimension": 6,
+          "score": 9,
+          "justification": "Diferencia categoria oficial de identidade vivida em todo o texto: 'Tujia e Miao são grupos oficialmente reconhecidos. Seus nomes, porém, não autorizam...' Sinaliza incerteza apropriada: lenda Liu Sanjie vs história, Shen Congwen ficção vs documento, apresentação turística como recorte. Nenhuma afirmação verificada como incorreta (0 erros em FACTS). Calibração sustentada por 100% acerto factual.",
+          "quoteId": "Q081"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build passou sem erros novos (exit 0, newBuildWarnings vazio). Apenas etnias.md foi alterado (scopeOnlyTarget: true). Front matter válido: type pais, slug china, topico etnias, title presente, order 2.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 94,
+      "cap": null,
+      "capReasons": [],
+      "final": 94,
+      "mainStrength": "Calibração epistemológica clara: C11 não reifica categorias étnicas oficiais como identidades vividas. Diferencia Han de Minnan/Hakka, categoria oficial de experiência pessoal, lenda de história (Liu Sanjie), apresentação turística de prática cotidiana. Oferece marco conceitual portável (escalas: nacional→regional→urbana→pessoal) que atravessa todo texto sem cair em essencialismo.",
+      "priorityFix": "Incorporar calendário específico de viagem: datas reais (8 de novembro = Lìdōng em 2026), festas sincronizadas ao itinerário (Sanyuesan terceiro dia do terceiro mês lunar), Ano Novo Miao se aplicável. Adicionar 1-2 cenas vivas ou vozes de pessoas para fortalecer tom de livro-reportagem além do ensaio acadêmico.",
+      "additionalConcerns": [
+        "D4 reduzido de 9 para 8: texto é conceitual (apropriado para skill etnias), mas rubrica de ancoragem viajante espera calendário e cronometria prática explícitos.",
+        "D5 em 14 (não 15): voz é ensaística, não 'livro-reportagem clássica'. Escolha deliberada, funciona bem, mas não atinge padrão exemplar."
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliação cega baseada em: FACT_SUMMARY (19 corretas, 0 incorretas, 0 incertas, accuracy=1), FACTS.md (nenhum relevantError, nenhum trapError), METRICS (wordsWc 4675, buildExit 0, scopeOnlyTarget true, frontMatterPreserved true), EXISTING_PAGE_CONTEXT (nenhum exactDuplicateParagraph), QUOTE_BANK (269 citações do candidato).",
+    "Rubrica v2 aplicada integralmente: D1 taxa ≥97% sem erros relevantes → 27-30, atribuído 29 (margem conservadora); D2 5+4+3+3 = 15 (todos critérios cumpridos); D3 especificidade em quase todo parágrafo, mecanismos explicados, acrescenta perspectiva comparativa → 14 (não 15 por ser ensaístico não narrativo); D4 ancoragem forte mas sem calendário específico viagem → 8 (6-8 faixa); D5 prosa fluida, limpa, PT-BR, retórica OK → 14 (não 15 por não ser livro-reportagem clássico); D6 calibração epistêmica perfeita, 100% acerto sustenta confiança → 9 (9-10 faixa); D7 build/escopo/frontmatter 100% → 5.",
+    "Tetos checados: nenhum acionado (build OK, nenhum resquício roteiro antigo, nenhum trapError=2+, acima piso 2000 palavras, nenhuma invenção factual).",
+    "Soma 29+15+14+8+14+9+5 = 94. Final = min(94, cap nenhum) = 94 pontos. Faixa 90-100 = Publicável com revisão mínima (nível gold standard), segunda maior nota possível."
+  ]
+}

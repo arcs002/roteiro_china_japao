@@ -1,0 +1,86 @@
+[
+  {
+    "model": "Opus 5.5",
+    "harness": "Claude Code",
+    "historicalLetter": "D",
+    "source": "candidatos/etnias.D-opus-5.5-claude-code.md",
+    "id": "C01",
+    "sha256": "b5b63b02ccf7772751f5c7714047a694d30a8c7b975e33bba4f9bfc19bb1959e"
+  },
+  {
+    "model": "Gemini 3.8 Flash",
+    "harness": "Copilot",
+    "historicalLetter": "A",
+    "source": "candidatos/etnias.A-gemini-3.8-flash-copilot.md",
+    "id": "C02",
+    "sha256": "c9f6c45dc1ae7b92ac36ddbb096e34bb7e8d46745daaa51c4d14d7fd0d4ac086"
+  },
+  {
+    "model": "Fable 5.1",
+    "harness": "Claude Code",
+    "historicalLetter": "B",
+    "source": "candidatos/etnias.B-fable-5.1-claude-code.md",
+    "id": "C03",
+    "sha256": "611d0c2fed45258cf4383de25d4629b9c7448ee6a28b0baf36abf2833a338949"
+  },
+  {
+    "model": "gpt-5.6-terra",
+    "harness": "Codex CLI 0.155.1",
+    "source": "codex-2026-10-01/gpt-5.6-terra/candidate.md",
+    "id": "C04",
+    "sha256": "dd42a2906e7d02ba8bae1db056cb9eddbe4ac93ddfd03747401efd6c00763629"
+  },
+  {
+    "model": "Opus 5.5",
+    "harness": "Copilot",
+    "historicalLetter": "F",
+    "source": "candidatos/etnias.F-opus-5.5-copilot.md",
+    "id": "C05",
+    "sha256": "35f2083224dfd4a3c1c61e3ecef84d1e49c23f4abe0b135cff92e97d6024f590"
+  },
+  {
+    "model": "GPT-6.1 Sol",
+    "harness": "Copilot",
+    "historicalLetter": "E",
+    "source": "candidatos/etnias.E-gpt-6.1-sol-copilot.md",
+    "id": "C06",
+    "sha256": "3feb72f88f4cad37cdeba6867ba5d185d77d3cd3631e1c585c0bfb5065e7bf97"
+  },
+  {
+    "model": "gpt-5.6-sol",
+    "harness": "Codex CLI 0.155.1",
+    "source": "codex-2026-10-01/gpt-5.6-sol/candidate.md",
+    "id": "C07",
+    "sha256": "bd617fb39c002b299a1ffbecf4a13ea3414c7cdeecef54d46a8c109ec33cb56c"
+  },
+  {
+    "model": "Sonnet 5.5",
+    "harness": "Claude Code",
+    "historicalLetter": "C",
+    "source": "candidatos/etnias.C-sonnet-5.5-claude-code.md",
+    "id": "C08",
+    "sha256": "3baf4785b0ff4511ba822be6c1778c188e20b722a6471c752284b538425397f7"
+  },
+  {
+    "model": "GPT-5.6 Sol",
+    "harness": "Copilot",
+    "historicalLetter": "G",
+    "source": "candidatos/etnias.G-gpt-5.6-sol-copilot.md",
+    "id": "C09",
+    "sha256": "d47c287f746a9ec48b07aa084e82ad928dfa29b4e1c93d9687c05546769141d5"
+  },
+  {
+    "model": "gpt-6-astra",
+    "harness": "Codex CLI 0.155.1",
+    "source": "codex-2026-10-01/gpt-6-astra/candidate.md",
+    "id": "C10",
+    "sha256": "972120ef94e532a4f999727f4dfbcab30534593ec81399c8eb98f68ef4754c45"
+  },
+  {
+    "model": "gpt-6.1-sol",
+    "harness": "Codex — subagente nativo",
+    "source": "codex-2026-10-01/gpt-6.1-sol/candidate.md",
+    "id": "C11",
+    "sha256": "669ba0fa1214e4b5e7175838924e77fbedaf14f728bef4ccc55546137153b7c3"
+  }
+]

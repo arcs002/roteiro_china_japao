@@ -1,0 +1,10 @@
+{
+  "base": "d8de411c19ce21847fe0cb1c717d65e3f5c794d5",
+  "sandbox": "C:\\Users\\MARCOM~1\\AppData\\Local\\Temp\\travel-unified-eval-d1BDOv",
+  "auditScript": ".claude/skills/travel-final-review/scripts/audit.mjs",
+  "auditScriptSha256": "b23c7b16b1f94d3530a31e0289573415b21383d539cbf16a39d3db958b43c538",
+  "configSha256": "6d521cd36160fd62a0fc05c935aad8e98297b9e52d10c01120e210a39118034e",
+  "completedAt": "2026-10-01T18:51:57.899Z",
+  "baselineWarnings": 21,
+  "candidates": 11
+}

@@ -1,0 +1,2789 @@
+[
+  {
+    "unit": "U002",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Hakka/Minnan são Han. Maioria Han entre migrantes é inferência por limites: minorias somam 6,21% da população, muito abaixo da metade do contingente migrante majoritário.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/attachment/1/1540/1540105/10688160.pdf",
+        "title": "Shenzhen Statistics Bureau — Censo 2020, tabela 2-1",
+        "evidence": "Han: 16.468.798 pessoas, 93,79%."
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6313338/",
+        "title": "Yang, Dijst e Helbich — migração por hukou e nascimento (2018)",
+        "evidence": "Pesquisa distingue hukou/nascimento; ambos indicam maioria migrante."
+      }
+    ]
+  },
+  {
+    "unit": "U027",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Época, porto e redes estão sustentados; não foi verificada a combinação de volume, todos os destinos e a causalidade específica guerras/fome/abertura.",
+    "sources": [
+      {
+        "url": "https://nrl.northumbria.ac.uk/31707/1/neal.stan_phd.pdf",
+        "title": "Stan Neal — tese, Treaty Ports and mass migration",
+        "evidence": "Amoy e portos de tratado; migração 1843–1853."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Treaty_of_Nanking",
+        "title": "Tratado de Nanquim — transcrição do documento",
+        "evidence": "1842, artigo II inclui Amoy entre cinco portos."
+      }
+    ]
+  },
+  {
+    "unit": "U028",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "2017 confirmado. A UNESCO documenta contribuição chinesa e estrangeira, sem quantificar quem construiu a maioria das mansões.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U029",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Fundação, fundador e mistura arquitetônica confirmados; a conclusão sobre identidade é interpretação do autor, compatível com a leitura institucional.",
+    "sources": [
+      {
+        "url": "https://zzxq.xmu.edu.cn/zzxq_en/info/1004/1031.htm",
+        "title": "Xiamen University — Architectural Legacy of Tan Kah Kee",
+        "evidence": "Fundação 1921; arquitetura Jiageng sino-ocidental."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/image-detail?cmsuuid=d38e8b9c-319d-447e-8cd2-c5e1935729dd",
+        "title": "NLB — Portrait of Tan Kah Kee",
+        "evidence": "Borracha; fundador de Amoy University em 1921."
+      }
+    ]
+  },
+  {
+    "unit": "U030",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "População aproximada correta. Distribuição montanhosa é documentada, mas há She também em Xiamen; ausência no percurso urbano não é verificável como afirmação sobre pessoas.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/sz/gk.shtml",
+        "title": "NEAC — She, visão geral",
+        "evidence": "746.385 em 2020; montanhas Fujian/Zhejiang."
+      },
+      {
+        "url": "https://www.fjdaily.com/app/content/2023-06/13/content_1919092.html",
+        "title": "Xiamen Daily/Fujian Daily — etnias no censo de Xiamen",
+        "evidence": "Censo 2020: 96,13% Han; todas as 55 minorias."
+      }
+    ]
+  },
+  {
+    "unit": "U031",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Descreve uma narrativa corrente e, no contexto C 01, a corrige em seguida. A história municipal anterior a 1980 está documentada.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/mpost_10395164.html",
+        "title": "Arquivo Municipal — Bao’an e Xin’an",
+        "evidence": "Bao’an 331; Xin’an 1573; renomeação 1914."
+      },
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      }
+    ]
+  },
+  {
+    "unit": "U032",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A linhagem administrativa procede: Xin’an foi separado de Dongguan em 1573 e passou a chamar-se Bao’an em 1914. Usar o nome posterior pode ser abreviação, não erro inequívoco. A alegação de dois mundos que mal se misturavam não foi comprovada.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/mpost_10395164.html",
+        "title": "Arquivo Municipal — Bao’an e Xin’an",
+        "evidence": "Bao’an 331; Xin’an 1573; renomeação 1914."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      }
+    ]
+  },
+  {
+    "unit": "U033",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "23/01/1979 foi a decisão provincial que extinguiu Bao’an e criou Shenzhen; 05/03 foi a aprovação nacional, etapa distinta. A formulação simplifica a sequência sem errar a data da decisão.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "Decisão provincial23/01/1979; aprovação05/03; ZEE26/08/1980."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstoryfr/202212/content/post_10329871.html",
+        "title": "Arquivo Municipal — Bao’an torna-se Shenzhen",
+        "evidence": "Aprovação 05/03/1979; implementação 22/03."
+      }
+    ]
+  },
+  {
+    "unit": "U034",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Classificação e tradução estão corretas; nome como síntese histórica é recurso interpretativo.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://sign.hakka.gov.tw/File/Attach/45088/File_92998.pdf",
+        "title": "Hakka Affairs Council — Language Use by Hakka in Sabah",
+        "evidence": "Hakka significa famílias hóspedes."
+      }
+    ]
+  },
+  {
+    "unit": "U035",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Clã, origem e localização confirmados. Fontes oficiais divergem/simplificam a data: uma diz 1817; o gazetteer distingue núcleo 1817 e exterior 1829. Superlativo absoluto não demonstrado.",
+    "sources": [
+      {
+        "url": "https://www.lg.gov.cn/xxgk/zwgk/zdlyxxgk/whjg/gwgk/content/post_1389047.html",
+        "title": "Governo Longgang — Hehu Xinju",
+        "evidence": "Luo de Xingning; ~25.000 m²; 179 unidades; museu."
+      },
+      {
+        "url": "https://pnr.sz.gov.cn/attachment/1/1285/1285348/10537364.pdf",
+        "title": "Shenzhen — Gazetteer de topônimos, p. 685",
+        "evidence": "Início 1782; núcleo 1817; exterior 1829."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11135741.html",
+        "title": "Shenzhen — Museums to open at night",
+        "evidence": "Texto turístico data Hehu em 1817."
+      }
+    ]
+  },
+  {
+    "unit": "U036",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Mais de 170 unidades, torres e museu confirmados; a fonte municipal dá aproximadamente 25 mil m², não 28 mil. Sem reconciliação dos perímetros medidos, área permanece incerta.",
+    "sources": [
+      {
+        "url": "https://www.lg.gov.cn/xxgk/zwgk/zdlyxxgk/whjg/gwgk/content/post_1389047.html",
+        "title": "Governo Longgang — Hehu Xinju",
+        "evidence": "Luo de Xingning; ~25.000 m²; 179 unidades; museu."
+      }
+    ]
+  },
+  {
+    "unit": "U037",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "UNESCO confirma data e função comunal defensiva; dizer que os redondos existem não exclui os exemplares quadrados.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1113/",
+        "title": "UNESCO — Fujian Tulou",
+        "evidence": "Casas defensivas coletivas; inscrição 2008."
+      }
+    ]
+  },
+  {
+    "unit": "U038",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Data e função costeira confirmadas; pesquisa linguística descreve Dapeng como variedade de contato Hakka–cantonês, embora a filiação classificatória tenha debate.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202212/content/post_10330794.html",
+        "title": "Arquivo Municipal — Why Shenzhen is called Roc City",
+        "evidence": "Dapeng: fortaleza Ming de 1394."
+      },
+      {
+        "url": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/13568/files/2022/05/WICL6_2B-1_Chen.pdf",
+        "title": "Litong Chen — On the Vitality of Dapeng Dialect",
+        "evidence": "Pesquisa descreve contato Hakka–cantonês."
+      }
+    ]
+  },
+  {
+    "unit": "U039",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 01 é Dafen: aldeia rural pequena e chegada de Huang Jiang em 1989 confirmadas.",
+    "sources": [
+      {
+        "url": "https://drc.sz.gov.cn/ywb/szcs/xdsz/content/post_8706592.html",
+        "title": "Governo Shenzhen — Dafen",
+        "evidence": "Huang Jiang levou 26 pintores em 1989."
+      },
+      {
+        "url": "https://www.newtowninstitute.org/pdf/MasterThesisMarieKrop_CreativeIndustry_web4.pdf",
+        "title": "Marie Krop — Creative Industry thesis",
+        "evidence": "Dafen rural: cerca de 300 nativos nos anos 1980."
+      }
+    ]
+  },
+  {
+    "unit": "U040",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "População e crescimento confirmados; a pesquisa sobre nascimento e hukou sustenta a maioria migrante em termos gerais, mas não comprova a proporção exata na data indicada. Mantida incerteza sobre a formulação temporal/intensidade.",
+    "sources": [
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6313338/",
+        "title": "Yang, Dijst e Helbich — migração por hukou e nascimento (2018)",
+        "evidence": "Pesquisa distingue hukou/nascimento; ambos indicam maioria migrante."
+      }
+    ]
+  },
+  {
+    "unit": "U041",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Migração de muitas províncias confirmada; não há evidência consultada para quantificar trabalhadores das montanhas específicas do percurso nos anos 1990.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      }
+    ]
+  },
+  {
+    "unit": "U062",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Atribui oito tons fonéticos ao Hokkien no contexto Xiamen, cuja descrição linguística lista sete. O absoluto sobre nunca viver da agricultura também não se sustenta.",
+    "sources": [
+      {
+        "url": "https://assets.cambridge.org/97805215/30828/excerpt/9780521530828_excerpt.pdf",
+        "title": "Chaofen Sun — Chinese: A Linguistic Introduction",
+        "evidence": "Xiamen: sete tons; distinções siníticas."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ],
+    "correction": "Distinguir oito categorias históricas de sete tons de Xiamen; reconhecer agricultura e comércio.",
+    "errorKey": "xiamen-hokkien-tone-count"
+  },
+  {
+    "unit": "U063",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Datas biográficas, borracha, financiamento pessoal e instituições educativas correspondem às fontes.",
+    "sources": [
+      {
+        "url": "https://www.roots.gov.sg/stories-landing/stories/tan-kah-kee/story",
+        "title": "National Heritage Board — Tan Kah Kee",
+        "evidence": "1874–1961; empresário e filantropo em Singapura."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/image-detail?cmsuuid=d38e8b9c-319d-447e-8cd2-c5e1935729dd",
+        "title": "NLB — Portrait of Tan Kah Kee",
+        "evidence": "Borracha; fundador de Amoy University em 1921."
+      },
+      {
+        "url": "https://zzxq.xmu.edu.cn/zzxq_en/info/1004/1031.htm",
+        "title": "Xiamen University — Architectural Legacy of Tan Kah Kee",
+        "evidence": "Fundação 1921; arquitetura Jiageng sino-ocidental."
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/xiamen-china-celebrates-100th-anniversary-of-jimei-school-village-with-opening-of-malaysia-tan-kahkee-memorial-museum-in-kuala-lumpur-227804671.html",
+        "title": "Governo de Xiamen — centenário de Jimei (2013)",
+        "evidence": "Tan nasceu Jimei 1874; escolas iniciadas 1913."
+      }
+    ]
+  },
+  {
+    "unit": "U064",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "História Hakka e enorme crescimento são reais; autóctone como origem exclusiva e maior experimento da história são superlativos não demonstrados.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      }
+    ]
+  },
+  {
+    "unit": "U065",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Agosto de 1980 confirmado. O ato formal foi aprovado pela comissão da Assembleia, e não se encontrou base para maioria Hakka no condado; atribuir declaração pessoal a Deng exige fonte.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      }
+    ]
+  },
+  {
+    "unit": "U066",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tradução e narrativa migratória tradicional existem, mas a cronologia particular e a maior intensidade após a queda Song são apresentadas como genealogia uniforme sem demonstração.",
+    "sources": [
+      {
+        "url": "https://english.hakka.gov.tw/Content/Content?LanguageType=ENG&NodeID=676&PageID=39926",
+        "title": "Hakka Affairs Council — Origin, Development and Establishment",
+        "evidence": "Migrações e interação cultural; cronologia tradicional."
+      },
+      {
+        "url": "https://sign.hakka.gov.tw/File/Attach/45088/File_92998.pdf",
+        "title": "Hakka Affairs Council — Language Use by Hakka in Sabah",
+        "evidence": "Hakka significa famílias hóspedes."
+      }
+    ]
+  },
+  {
+    "unit": "U067",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "O crescimento após a ZEE e absorção de áreas rurais são documentados; a expressão soterrou é metafórica.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      }
+    ]
+  },
+  {
+    "unit": "U068",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A pesquisa de 2018 descreve mais de 70% por origem e maioria sem hukou local, mas não permite transportar a proporção para a população atual. A atribuição da expressão a sociólogos também não foi demonstrada.",
+    "sources": [
+      {
+        "url": "https://www.szps.gov.cn/attachment/0/67/67665/817576.pdf",
+        "title": "Governo Pingshan — desenvolvimento social Shenzhen",
+        "evidence": "Fim de 2020: 5,874 milhões de registros locais."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6313338/",
+        "title": "Yang, Dijst e Helbich — migração por hukou e nascimento (2018)",
+        "evidence": "Pesquisa distingue hukou/nascimento; ambos indicam maioria migrante."
+      }
+    ]
+  },
+  {
+    "unit": "U070",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "No contexto C 02 o referente é a comunidade Minnan, classificada Han; coesão/singularidade é avaliação retórica.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U071",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Redes comerciais ultramarinas são documentadas, mas a enumeração de rotas clandestinas sob haijin e os agentes locais exige evidência mais específica.",
+    "sources": [
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      },
+      {
+        "url": "https://nrl.northumbria.ac.uk/31707/1/neal.stan_phd.pdf",
+        "title": "Stan Neal — tese, Treaty Ports and mass migration",
+        "evidence": "Amoy e portos de tratado; migração 1843–1853."
+      }
+    ]
+  },
+  {
+    "unit": "U074",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Panorama tem componentes plausíveis, mas as fontes costeiras não validam todas as proposições geológicas, jurídicas e arquitetônicas das demais etapas.",
+    "sources": [
+      {
+        "url": "https://www.unesco.org/en/articles/heritage-so-young-youth-telling-stories-quanzhou-world-heritage-city-red-brick-walls-and-ancient",
+        "title": "UNESCO — Quanzhou",
+        "evidence": "Empório marítimo durante Song e Yuan."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/mpost_10395164.html",
+        "title": "Arquivo Municipal — Bao’an e Xin’an",
+        "evidence": "Bao’an 331; Xin’an 1573; renomeação 1914."
+      }
+    ]
+  },
+  {
+    "unit": "U083",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Todos os moradores de Xiamen e Shenzhen não são Han. Xiamen registra todas as 55 minorias, somando 3,87% em 2020.",
+    "sources": [
+      {
+        "url": "https://www.fjdaily.com/app/content/2023-06/13/content_1919092.html",
+        "title": "Xiamen Daily/Fujian Daily — etnias no censo de Xiamen",
+        "evidence": "Censo 2020: 96,13% Han; todas as 55 minorias."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/attachment/1/1540/1540105/10688160.pdf",
+        "title": "Shenzhen Statistics Bureau — Censo 2020, tabela 2-1",
+        "evidence": "Han: 16.468.798 pessoas, 93,79%."
+      }
+    ],
+    "correction": "Minnan e Hakka são Han; as cidades também abrigam minorias oficiais.",
+    "errorKey": "coastal-cities-all-han"
+  },
+  {
+    "unit": "U096",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 03/C 05 é o governo hereditário Peng/Tujia regional; a cronologia 1726–1735 e o fim de Yongshun em 1728 são documentados. Não interpretar como extinção de todos os tusi chineses.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/c103391/202306/1165317.shtml",
+        "title": "NEAC — reforma regional tusi",
+        "evidence": "Reformas 1726–1735; Peng em 1728."
+      }
+    ]
+  },
+  {
+    "unit": "U114",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "O percentual atribuído aos moradores de Xiamen é incompatível com o censo disponível.",
+    "sources": [
+      {
+        "url": "https://www.fjdaily.com/app/content/2023-06/13/content_1919092.html",
+        "title": "Xiamen Daily/Fujian Daily — etnias no censo de Xiamen",
+        "evidence": "Censo 2020: 96,13% Han; todas as 55 minorias."
+      }
+    ],
+    "correction": "Em 2020, 96,13% eram Han.",
+    "errorKey": "xiamen-han-share"
+  },
+  {
+    "unit": "U115",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Quanzhou como grande empório Song/Yuan está confirmado; distância exata de 80 km, topografia agrária e causalidade cultural total não foram verificadas integralmente.",
+    "sources": [
+      {
+        "url": "https://www.unesco.org/en/articles/heritage-so-young-youth-telling-stories-quanzhou-world-heritage-city-red-brick-walls-and-ancient",
+        "title": "UNESCO — Quanzhou",
+        "evidence": "Empório marítimo durante Song e Yuan."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U116",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Amoy aparece entre os cinco portos do tratado de 1842; não confundir o tratado com abertura operacional posterior.",
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Treaty_of_Nanking",
+        "title": "Tratado de Nanquim — transcrição do documento",
+        "evidence": "1842, artigo II inclui Amoy entre cinco portos."
+      },
+      {
+        "url": "https://nrl.northumbria.ac.uk/31707/1/neal.stan_phd.pdf",
+        "title": "Stan Neal — tese, Treaty Ports and mass migration",
+        "evidence": "Amoy e portos de tratado; migração 1843–1853."
+      }
+    ]
+  },
+  {
+    "unit": "U117",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Migrações e comércio Hokkien estão confirmados, mas milhões no intervalo exato, todos os destinos e língua franca de todo o comércio marítimo não foram demonstrados.",
+    "sources": [
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      },
+      {
+        "url": "https://nrl.northumbria.ac.uk/31707/1/neal.stan_phd.pdf",
+        "title": "Stan Neal — tese, Treaty Ports and mass migration",
+        "evidence": "Amoy e portos de tratado; migração 1843–1853."
+      }
+    ]
+  },
+  {
+    "unit": "U118",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Registro 2013 e sistema de remessas/correspondência confirmados; dezenas de milhares é limite inferior verdadeiro de acervo superior a 160 mil.",
+    "sources": [
+      {
+        "url": "https://www.unesco.org/en/memory-world/qiaopi-and-yinxin-correspondence-and-remittance-documents-overseas-chinese?hub=1081",
+        "title": "UNESCO — Qiaopi and Yinxin",
+        "evidence": "Correspondência/remessas; registro 2013."
+      },
+      {
+        "url": "https://media.unesco.org/sites/default/files/webform/mow001/china_qiaopi_and_yinxin.pdf",
+        "title": "UNESCO — candidatura Qiaopi",
+        "evidence": "Mais de 160 mil documentos preservados."
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U119",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Datas biográficas, nascimento em Jimei, borracha/abacaxi, escolas desde 1913 e fundação universitária 1921 confirmados conjuntamente.",
+    "sources": [
+      {
+        "url": "https://www.roots.gov.sg/stories-landing/stories/tan-kah-kee/story",
+        "title": "National Heritage Board — Tan Kah Kee",
+        "evidence": "1874–1961; empresário e filantropo em Singapura."
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/xiamen-china-celebrates-100th-anniversary-of-jimei-school-village-with-opening-of-malaysia-tan-kahkee-memorial-museum-in-kuala-lumpur-227804671.html",
+        "title": "Governo de Xiamen — centenário de Jimei (2013)",
+        "evidence": "Tan nasceu Jimei1874; escolas iniciadas1913."
+      },
+      {
+        "url": "https://chemistry.berkeley.edu/news/tan-kah-kee-hall",
+        "title": "UC Berkeley — Tan Kah Kee Hall (biografia republicada)",
+        "evidence": "Borracha/abacaxi; escolas Jimei desde1913."
+      },
+      {
+        "url": "https://zzxq.xmu.edu.cn/zzxq_en/info/1004/1031.htm",
+        "title": "Xiamen University — Architectural Legacy of Tan Kah Kee",
+        "evidence": "Fundação 1921; arquitetura Jiageng sino-ocidental."
+      }
+    ]
+  },
+  {
+    "unit": "U120",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cronologia do assentamento e arquitetura híbrida corretas; desejo de morar entre europeus e origem específica Filipinas/Malásia dos proprietários exigem demonstração.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U121",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Inscrição 2017 confirmada e superlativo de pianos aparece em fonte oficial de 2021; falta comprovação da continuidade atual e de toda a cadeia missionários→famílias retornadas.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      },
+      {
+        "url": "https://wb.fujian.gov.cn/English/momentsinfujian/202109/t20210927_5696795.htm",
+        "title": "Relações Exteriores Fujian — Riding the Drum Waves (2021)",
+        "evidence": "Afirma maior posse per capita de pianos na China."
+      }
+    ]
+  },
+  {
+    "unit": "U122",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A sentença atribui e relativiza a narrativa da aldeia de pescadores; 18 milhões é aproximação compatível com a ordem de grandeza municipal.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      }
+    ]
+  },
+  {
+    "unit": "U123",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Síntese histórica compatível com arquivo municipal e documentação de repovoamento. Distribuição oeste/leste é predominância regional, não separação absoluta.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/mpost_10395164.html",
+        "title": "Arquivo Municipal — Bao’an e Xin’an",
+        "evidence": "Bao’an 331; Xin’an 1573; renomeação 1914."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      },
+      {
+        "url": "https://www.aab.gov.hk/filemanager/aab/common/199meeting/HIA_Report_CKLV.pdf",
+        "title": "Hong Kong AAB — Heritage Impact Assessment",
+        "evidence": "Repovoamento Hakka após evacuação."
+      }
+    ]
+  },
+  {
+    "unit": "U124",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Classificação Han correta; povo à parte é interpretação cultural, não categoria estatal.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U125",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Tulou e 2008 estão corretos; chamar conjuntamente weilongwu e weiwu de vilas retangulares apaga a cauda semicircular característica dos weilongwu.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1113/",
+        "title": "UNESCO — Fujian Tulou",
+        "evidence": "Casas defensivas coletivas; inscrição 2008."
+      },
+      {
+        "url": "https://www.nature.com/articles/s40494-026-02359-0",
+        "title": "npj Heritage Science — Chinese Weilongwu houses",
+        "evidence": "Weilongwu caracteriza-se pela cauda semicircular."
+      }
+    ],
+    "correction": "Distinguir casas com envoltório semicircular dos conjuntos murados quadrangulares.",
+    "errorKey": "weilongwu-rectangular"
+  },
+  {
+    "unit": "U126",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "1817 corresponde à conclusão do núcleo, não ao início de Hehu, situado no reinado Qianlong e datado 1782 pelo gazetteer.",
+    "sources": [
+      {
+        "url": "https://pnr.sz.gov.cn/attachment/1/1285/1285348/10537364.pdf",
+        "title": "Shenzhen — Gazetteer de topônimos, p. 685",
+        "evidence": "Início 1782; núcleo 1817; exterior 1829."
+      },
+      {
+        "url": "https://www.lg.gov.cn/xxgk/zwgk/zdlyxxgk/whjg/gwgk/content/post_1389047.html",
+        "title": "Governo Longgang — Hehu Xinju",
+        "evidence": "Luo de Xingning; ~25.000 m²; 179 unidades; museu."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202212/content/post_10360615.html",
+        "title": "Arquivo Municipal — Dawan Shiju",
+        "evidence": "Zeng; Pingshan; início ~1763, conclusão antes de1791."
+      }
+    ],
+    "correction": "Hehu começou em 1782; núcleo concluído em 1817 e exterior em 1829 segundo o gazetteer.",
+    "errorKey": "hehu-start-year"
+  },
+  {
+    "unit": "U127",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Não especifica origem, rota, espera e caminhada. Proximidade de estações não confirma uma hora de metrô para ambos os conjuntos.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11135741.html",
+        "title": "Shenzhen — Museums to open at night",
+        "evidence": "Texto turístico data Hehu em 1817."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/travel/cultural/content/post_9711725.html",
+        "title": "Governo Shenzhen — Longtian Ancestral Residence",
+        "evidence": "1837; família Huang de Meizhou; Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U128",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "1989 e indústria de cópias confirmados. Propriedade atual das casas originais, identidade de todos os proprietários e mesmo modelo em todas as aldeias são generalizações sem verificação.",
+    "sources": [
+      {
+        "url": "https://drc.sz.gov.cn/ywb/szcs/xdsz/content/post_8706592.html",
+        "title": "Governo Shenzhen — Dafen",
+        "evidence": "Huang Jiang levou 26 pintores em 1989."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      }
+    ]
+  },
+  {
+    "unit": "U130",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "É síntese interpretativa apoiada em migração marítima, retornados e classificação Han; não lê-se como biografia de cada minnanês.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U131",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Classificação correta, mas sempre chegar por último e causa única das casas muradas não são fatos demonstrados para todas as comunidades.",
+    "sources": [
+      {
+        "url": "https://english.hakka.gov.tw/Content/Content?LanguageType=ENG&NodeID=676&PageID=39926",
+        "title": "Hakka Affairs Council — Origin, Development and Establishment",
+        "evidence": "Migrações e interação cultural; cronologia tradicional."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U134",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Mandarim comum e diversidade migrante confirmados. Exclusividade entre grandes cidades de Guangdong e mapeamento da culinária por pertencimento não estão comprovados.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      }
+    ]
+  },
+  {
+    "unit": "U137",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Causalidade geográfica única para identidade/diáspora não é estabelecida pela documentação consultada.",
+    "sources": [
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U138",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A fonte local atribui o retorno/adaptação do satay a Chen Youxiang segundo um gastrônomo. O prato tem apoio documental; adaptação por gerações minnanesas não ficou demonstrada.",
+    "sources": [
+      {
+        "url": "https://www.investxiamen.org.cn/detail/169.html",
+        "title": "Invest Xiamen — Dining",
+        "evidence": "Shacha: caldo satay com amendoim/camarão."
+      }
+    ]
+  },
+  {
+    "unit": "U140",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "~18 milhões é arredondamento; censo 2020 registra 93,79% Han. Distinção de origem/hukou é interpretação social apoiada na diversidade migrante, sem criar minzu oficial.",
+    "sources": [
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/attachment/1/1540/1540105/10688160.pdf",
+        "title": "Shenzhen Statistics Bureau — Censo 2020, tabela 2-1",
+        "evidence": "Han: 16.468.798 pessoas, 93,79%."
+      },
+      {
+        "url": "https://www.szps.gov.cn/attachment/0/67/67665/817576.pdf",
+        "title": "Governo Pingshan — desenvolvimento social Shenzhen",
+        "evidence": "Fim de 2020: 5,874 milhões de registros locais."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6313338/",
+        "title": "Yang, Dijst e Helbich — migração por hukou e nascimento (2018)",
+        "evidence": "Pesquisa distingue hukou/nascimento; ambos indicam maioria migrante."
+      }
+    ]
+  },
+  {
+    "unit": "U143",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U148",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Minnan é sul de Fujian e esfera cultural Han ligada a Xiamen, Quanzhou e Zhangzhou; Hokkien/Amoy usados com a abrangência contextual indicada.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U149",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U150",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cronologia 1843/1903 e formação multicultural correspondem à UNESCO.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U151",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cronologia 1843/1903 e formação multicultural correspondem à UNESCO.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U152",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tradução, classificação Han, migrações e presença regional são compatíveis com as fontes.",
+    "sources": [
+      {
+        "url": "https://sign.hakka.gov.tw/File/Attach/45088/File_92998.pdf",
+        "title": "Hakka Affairs Council — Language Use by Hakka in Sabah",
+        "evidence": "Hakka significa famílias hóspedes."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://english.hakka.gov.tw/Content/Content?LanguageType=ENG&NodeID=676&PageID=39926",
+        "title": "Hakka Affairs Council — Origin, Development and Establishment",
+        "evidence": "Migrações e interação cultural; cronologia tradicional."
+      }
+    ]
+  },
+  {
+    "unit": "U153",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Migração nacional e ruptura demográfica após criação da ZEE estão documentadas.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      }
+    ]
+  },
+  {
+    "unit": "U155",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pergunta, transição, título ou enquadramento editorial do percurso; contexto lido no candidato. Não constitui proposição histórica independente a pontuar.",
+    "sources": []
+  },
+  {
+    "unit": "U157",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pergunta, transição, título ou enquadramento editorial do percurso; contexto lido no candidato. Não constitui proposição histórica independente a pontuar.",
+    "sources": []
+  },
+  {
+    "unit": "U158",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Migração regional e retornos de capitais/repertórios arquitetônicos são documentados.",
+    "sources": [
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      },
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U159",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "No contexto trata-se das casas coletivas Hakka; defesa, parentesco e organização produtiva são funções documentadas.",
+    "sources": [
+      {
+        "url": "https://www.lg.gov.cn/xxgk/zwgk/zdlyxxgk/whjg/gwgk/content/post_1389047.html",
+        "title": "Governo Longgang — Hehu Xinju",
+        "evidence": "Luo de Xingning; ~25.000 m²; 179 unidades; museu."
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/1113/",
+        "title": "UNESCO — Fujian Tulou",
+        "evidence": "Casas defensivas coletivas; inscrição 2008."
+      }
+    ]
+  },
+  {
+    "unit": "U160",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 04 é Ong Chun: a UNESCO confirma prática compartilhada entre costa de Fujian e Melaka; a situação no roteiro é enquadramento editorial.",
+    "sources": [
+      {
+        "url": "https://ich.unesco.org/en/RL/ong-chun-wangchuan-wangkang-ceremony-rituals-and-related-practices-for-maintaining-the-sustainable-connection-between-man-and-the-ocean-01608?RL=01608",
+        "title": "UNESCO — Ong Chun",
+        "evidence": "Ritual compartilhado Xiamen/Quanzhou/Melaka."
+      }
+    ]
+  },
+  {
+    "unit": "U167",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U183",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 03/C 05 é o governo hereditário Peng/Tujia regional; a cronologia 1726–1735 e o fim de Yongshun em 1728 são documentados. Não interpretar como extinção de todos os tusi chineses.",
+    "sources": [
+      {
+        "url": "https://www.neac.gov.cn/seac/c103391/202306/1165317.shtml",
+        "title": "NEAC — reforma regional tusi",
+        "evidence": "Reformas 1726–1735; Peng em 1728."
+      }
+    ]
+  },
+  {
+    "unit": "U201",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pergunta, transição, título ou enquadramento editorial do percurso; contexto lido no candidato. Não constitui proposição histórica independente a pontuar.",
+    "sources": []
+  },
+  {
+    "unit": "U202",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A ressalva à simplificação aldeia de pescadores procede: história administrativa e população regional são anteriores a 1980.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/mpost_10395164.html",
+        "title": "Arquivo Municipal — Bao’an e Xin’an",
+        "evidence": "Bao’an 331; Xin’an 1573; renomeação 1914."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      }
+    ]
+  },
+  {
+    "unit": "U203",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Município em 1979, ZEE em agosto de 1980 e ordem de grandeza de 300 mil correspondem aos registros.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstoryfr/202212/content/post_10329871.html",
+        "title": "Arquivo Municipal — Bao’an torna-se Shenzhen",
+        "evidence": "Aprovação 05/03/1979; implementação 22/03."
+      },
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      }
+    ]
+  },
+  {
+    "unit": "U204",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Hakka é Han e sua variedade sinítica é geralmente ininteligível a falantes monolíngues de cantonês/mandarim; leitura usual não exclui bilíngues.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1650047754486213&disposition=inline",
+        "title": "Ohio State — Cockrum, tese",
+        "evidence": "Ramos siníticos geralmente mutuamente ininteligíveis."
+      }
+    ]
+  },
+  {
+    "unit": "U205",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Intervalo e objetivo de interromper apoio às forças de Zheng são documentados.",
+    "sources": [
+      {
+        "url": "https://www.amo.gov.hk/en/heritage-trails/greater-bay-area-education-trail/theme-a/chou-wong-yi-kung-study-hall/index.html",
+        "title": "Hong Kong AMO — Chou Wong Yi Kung Study Hall",
+        "evidence": "Evacuação 1661–1669 contra forças de Zheng."
+      }
+    ]
+  },
+  {
+    "unit": "U206",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Nantou em Nanshan e sua antiguidade confirmados; exclusividade no roteiro depende de itinerário externo não disponibilizado a esta checagem.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_8042871.html",
+        "title": "Shenzhen — New appeal in ancient town",
+        "evidence": "Nantou/Nanshan, sede Xin’an 1573."
+      }
+    ]
+  },
+  {
+    "unit": "U207",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Xin’an em 1573 e sucessão administrativa de Bao’an confirmados.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_8042871.html",
+        "title": "Shenzhen — New appeal in ancient town",
+        "evidence": "Nantou/Nanshan, sede Xin’an 1573."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/mpost_10395164.html",
+        "title": "Arquivo Municipal — Bao’an e Xin’an",
+        "evidence": "Bao’an 331; Xin’an 1573; renomeação 1914."
+      }
+    ]
+  },
+  {
+    "unit": "U208",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Edifícios de aluguel em aldeias urbanas documentados; causalidade e cronologia específicas de corrida antes das regras de demolição não verificadas.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      },
+      {
+        "url": "https://web.mit.edu/dusp/dusp_extension_unsec/news/Shenzhen_2008.pdf",
+        "title": "MIT DUSP — Shenzhen urban villages",
+        "evidence": "Pesquisa de habitação e aldeias urbanas."
+      }
+    ]
+  },
+  {
+    "unit": "U209",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "População e crescimento confirmados; a pesquisa sobre nascimento e hukou sustenta a maioria migrante em termos gerais, mas não comprova a proporção exata na data indicada. Mantida incerteza sobre a formulação temporal/intensidade.",
+    "sources": [
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6313338/",
+        "title": "Yang, Dijst e Helbich — migração por hukou e nascimento (2018)",
+        "evidence": "Pesquisa distingue hukou/nascimento; ambos indicam maioria migrante."
+      }
+    ]
+  },
+  {
+    "unit": "U210",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pergunta, transição, título ou enquadramento editorial do percurso; contexto lido no candidato. Não constitui proposição histórica independente a pontuar.",
+    "sources": []
+  },
+  {
+    "unit": "U211",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U212",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tratado e relação entre portos abertos e recrutamento/tráfego de trabalho estão documentados; 1842 refere-se ao tratado.",
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Treaty_of_Nanking",
+        "title": "Tratado de Nanquim — transcrição do documento",
+        "evidence": "1842, artigo II inclui Amoy entre cinco portos."
+      },
+      {
+        "url": "https://nrl.northumbria.ac.uk/31707/1/neal.stan_phd.pdf",
+        "title": "Stan Neal — tese, Treaty Ports and mass migration",
+        "evidence": "Amoy e portos de tratado; migração 1843–1853."
+      }
+    ]
+  },
+  {
+    "unit": "U213",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "2017 e estilos híbridos confirmados; planta com altar familiar e ornamento especificamente Manila/Penang generalizados às mansões não demonstrados.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U214",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Ano, fundador, fortuna e composição de volumes ocidentais com coberturas do sul de Fujian sustentados.",
+    "sources": [
+      {
+        "url": "https://zzxq.xmu.edu.cn/zzxq_en/info/1004/1031.htm",
+        "title": "Xiamen University — Architectural Legacy of Tan Kah Kee",
+        "evidence": "Fundação 1921; arquitetura Jiageng sino-ocidental."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/image-detail?cmsuuid=d38e8b9c-319d-447e-8cd2-c5e1935729dd",
+        "title": "NLB — Portrait of Tan Kah Kee",
+        "evidence": "Borracha; fundador de Amoy University em 1921."
+      }
+    ]
+  },
+  {
+    "unit": "U215",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Fontes confirmam pai de Fujian/mãe japonesa, vitória 1662, base em Xiamen/Gulangyu e monumento de granito.",
+    "sources": [
+      {
+        "url": "https://pages.ucsd.edu/~dkjordan/chin/chin/chinahistory/MingChingTransition.html",
+        "title": "UC San Diego — Ming–Qing transition",
+        "evidence": "Koxinga filho de Zheng Zhilong e Tagawa Matsu."
+      },
+      {
+        "url": "https://historic.tainan.gov.tw/index.php?id=207&index=6&lang=en&option=module&task=pageinfo",
+        "title": "Tainan Cultural Affairs — Koxinga Shrine",
+        "evidence": "Vitória sobre holandeses; comemoração desde 1662."
+      },
+      {
+        "url": "https://ph.china-embassy.gov.cn/eng/zggk/zgly/666/200605/t20060517_1336352.htm",
+        "title": "Embaixada chinesa — Xiamen Attractions",
+        "evidence": "Tropas Zheng em Gulangyu; jardim/estátua."
+      },
+      {
+        "url": "https://www.fujian.gov.cn/english/UsefulInformation/PlacestoVisit/201701/t20170125_1869531.htm",
+        "title": "Governo de Fujian — Xiamen",
+        "evidence": "Estátua de Zheng em granito; tropas na ilha."
+      }
+    ]
+  },
+  {
+    "unit": "U221",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Divisão proprietário/inquilino tem base, mas inquilino não equivale universalmente a pessoa sem registro local; o absoluto nenhum censo registra também não é demonstrado.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      },
+      {
+        "url": "https://www.szps.gov.cn/attachment/0/67/67665/817576.pdf",
+        "title": "Governo Pingshan — desenvolvimento social Shenzhen",
+        "evidence": "Fim de 2020: 5,874 milhões de registros locais."
+      }
+    ]
+  },
+  {
+    "unit": "U222",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Museu confirmado. Início do século XIX aparece em resumo oficial, mas o gazetteer distingue início no século XVIII e conclusões no XIX.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11135741.html",
+        "title": "Shenzhen — Museums to open at night",
+        "evidence": "Texto turístico data Hehu em 1817."
+      },
+      {
+        "url": "https://pnr.sz.gov.cn/attachment/1/1285/1285348/10537364.pdf",
+        "title": "Shenzhen — Gazetteer de topônimos, p. 685",
+        "evidence": "Início 1782; núcleo 1817; exterior 1829."
+      }
+    ]
+  },
+  {
+    "unit": "U224",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pergunta, transição, título ou enquadramento editorial do percurso; contexto lido no candidato. Não constitui proposição histórica independente a pontuar.",
+    "sources": []
+  },
+  {
+    "unit": "U230",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U231",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Possibilidade de mesma classificação com línguas e histórias familiares diferentes é sustentada pela diversidade intrahan.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1650047754486213&disposition=inline",
+        "title": "Ohio State — Cockrum, tese",
+        "evidence": "Ramos siníticos geralmente mutuamente ininteligíveis."
+      }
+    ]
+  },
+  {
+    "unit": "U236",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A ressalva à simplificação aldeia de pescadores procede: história administrativa e população regional são anteriores a 1980.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/mpost_10395164.html",
+        "title": "Arquivo Municipal — Bao’an e Xin’an",
+        "evidence": "Bao’an 331; Xin’an 1573; renomeação 1914."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      }
+    ]
+  },
+  {
+    "unit": "U237",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U238",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Migração nacional e ruptura demográfica após criação da ZEE estão documentadas.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      }
+    ]
+  },
+  {
+    "unit": "U242",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 06 trata de emigração de trabalho: pesquisa histórica documenta condições precárias e que nem toda migração resultou em prosperidade.",
+    "sources": [
+      {
+        "url": "https://nrl.northumbria.ac.uk/31707/1/neal.stan_phd.pdf",
+        "title": "Stan Neal — tese, Treaty Ports and mass migration",
+        "evidence": "Amoy e portos de tratado; migração 1843–1853."
+      }
+    ]
+  },
+  {
+    "unit": "U244",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pesquisa de campo da UWA relaciona a variedade regional dos restaurantes ao influxo de migrantes.",
+    "sources": [
+      {
+        "url": "https://research-repository.uwa.edu.au/files/3239567/Wang_Da_Wei_David_2013.pdf",
+        "title": "Wang — Shenzhen’s Urban Villages (UWA)",
+        "evidence": "Pesquisa de campo vincula restaurantes regionais à migração."
+      }
+    ]
+  },
+  {
+    "unit": "U252",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tradução, classificação Han, migrações e presença regional são compatíveis com as fontes.",
+    "sources": [
+      {
+        "url": "https://sign.hakka.gov.tw/File/Attach/45088/File_92998.pdf",
+        "title": "Hakka Affairs Council — Language Use by Hakka in Sabah",
+        "evidence": "Hakka significa famílias hóspedes."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://english.hakka.gov.tw/Content/Content?LanguageType=ENG&NodeID=676&PageID=39926",
+        "title": "Hakka Affairs Council — Origin, Development and Establishment",
+        "evidence": "Migrações e interação cultural; cronologia tradicional."
+      }
+    ]
+  },
+  {
+    "unit": "U260",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "ZEE de 1980 e subsequente crescimento metropolitano confirmados.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      }
+    ]
+  },
+  {
+    "unit": "U261",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U262",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Formação histórica relacional e redes culturais Hakka são explicitamente descritas pelo Hakka Affairs Council.",
+    "sources": [
+      {
+        "url": "https://english.hakka.gov.tw/Content/Content?LanguageType=ENG&NodeID=676&PageID=39926",
+        "title": "Hakka Affairs Council — Origin, Development and Establishment",
+        "evidence": "Migrações e interação cultural; cronologia tradicional."
+      }
+    ]
+  },
+  {
+    "unit": "U263",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Migração nacional e ruptura demográfica após criação da ZEE estão documentadas.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      }
+    ]
+  },
+  {
+    "unit": "U264",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "17,56 milhões correto; ~5,88 milhões corresponde a registros locais totais, mas o anuário distingue residentes registrados (~5,14 milhões no fim de 2020). Não confirmar dos quais sem conciliar universos e data.",
+    "sources": [
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://www.szps.gov.cn/attachment/0/67/67665/817576.pdf",
+        "title": "Governo Pingshan — desenvolvimento social Shenzhen",
+        "evidence": "Fim de 2020: 5,874 milhões de registros locais."
+      },
+      {
+        "url": "https://www.sz.gov.cn/attachment/1/1382/1382770/10390921.pdf",
+        "title": "Shenzhen Statistical Yearbook 2022",
+        "evidence": "2020: residentes com registro local 5,141 milhões."
+      }
+    ]
+  },
+  {
+    "unit": "U265",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U266",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cronologia 1843/1903 e formação multicultural correspondem à UNESCO.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U267",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A caracterização de fusão arquitetônica e repertórios de retornados coincide com o valor universal documentado pela UNESCO.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U268",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Prática Minnan e diáspora, tipos de instrumentos, pipa horizontal e canto de Quanzhou confirmados.",
+    "sources": [
+      {
+        "url": "https://ich.unesco.org/en/RL/nanyin-00199?RL=00199",
+        "title": "UNESCO — Nanyin",
+        "evidence": "Minnan/diáspora; dongxiao, pipa horizontal; Quanzhou."
+      }
+    ]
+  },
+  {
+    "unit": "U269",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Culto costeiro e circulação além-mar confirmados; no contexto C 11 o pronome refere-se a Mazu, não exclusivamente ao universo Minnan.",
+    "sources": [
+      {
+        "url": "https://www.unesco.org/archives/multimedia/document-334",
+        "title": "UNESCO — The Mazu Belief and Customs",
+        "evidence": "Culto costeiro e internacional; templos/procissões."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U270",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tan Kah Kee/Chen Jiageng, borracha em Singapura e fundação universitária em 1921 confirmados.",
+    "sources": [
+      {
+        "url": "https://www.nlb.gov.sg/main/image-detail?cmsuuid=d38e8b9c-319d-447e-8cd2-c5e1935729dd",
+        "title": "NLB — Portrait of Tan Kah Kee",
+        "evidence": "Borracha; fundador de Amoy University em 1921."
+      },
+      {
+        "url": "https://zzxq.xmu.edu.cn/zzxq_en/info/1004/1031.htm",
+        "title": "Xiamen University — Architectural Legacy of Tan Kah Kee",
+        "evidence": "Fundação 1921; arquitetura Jiageng sino-ocidental."
+      },
+      {
+        "url": "https://www.roots.gov.sg/stories-landing/stories/tan-kah-kee/story",
+        "title": "National Heritage Board — Tan Kah Kee",
+        "evidence": "1874–1961; empresário e filantropo em Singapura."
+      }
+    ]
+  },
+  {
+    "unit": "U271",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Síntese cultural regional, marítima e Han apoiada nas fontes; não é afirmação de exclusividade populacional.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U272",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U276",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Dificuldades de transmissão entre jovens confirmadas; distribuição específica de anúncios, famílias e comércio em Xiamen não totalmente verificada.",
+    "sources": [
+      {
+        "url": "https://chinese.xmu.edu.cn/info/1721/42132.htm",
+        "title": "Xiamen University — transmissão Minnan entre jovens",
+        "evidence": "Dificuldades de transmissão entre jovens."
+      }
+    ]
+  },
+  {
+    "unit": "U278",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Diversidade migrante municipal confirmada; caracterização microlocal de Huaqiangbei/Chegongmiao/Tairan exigiria observação ou fontes desses bairros.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      }
+    ]
+  },
+  {
+    "unit": "U280",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Migrante como condição urbana heterogênea é compatível com documentação de procedências, habitação e registro.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      },
+      {
+        "url": "https://www.szps.gov.cn/attachment/0/67/67665/817576.pdf",
+        "title": "Governo Pingshan — desenvolvimento social Shenzhen",
+        "evidence": "Fim de 2020: 5,874 milhões de registros locais."
+      }
+    ]
+  },
+  {
+    "unit": "U281",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Papel habitacional de aldeias, proprietários/coletivos e acolhimento de milhões encontra apoio na pesquisa urbana e dados municipais.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      },
+      {
+        "url": "https://web.mit.edu/dusp/dusp_extension_unsec/news/Shenzhen_2008.pdf",
+        "title": "MIT DUSP — Shenzhen urban villages",
+        "evidence": "Pesquisa de habitação e aldeias urbanas."
+      }
+    ]
+  },
+  {
+    "unit": "U309",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto é a identidade predominante Minnan/Han, não ausência de minorias na cidade. Datas são metadados do itinerário fora desta checagem.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.fjdaily.com/app/content/2023-06/13/content_1919092.html",
+        "title": "Xiamen Daily/Fujian Daily — etnias no censo de Xiamen",
+        "evidence": "Censo 2020: 96,13% Han; todas as 55 minorias."
+      }
+    ]
+  },
+  {
+    "unit": "U310",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção linguística e ininteligibilidade geralmente procedem; mais de 40 milhões com diáspora adicional exige delimitar o que se conta como Minnan e o ano.",
+    "sources": [
+      {
+        "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1650047754486213&disposition=inline",
+        "title": "Ohio State — Cockrum, tese",
+        "evidence": "Ramos siníticos geralmente mutuamente ininteligíveis."
+      },
+      {
+        "url": "https://assets.cambridge.org/97805215/30828/excerpt/9780521530828_excerpt.pdf",
+        "title": "Chaofen Sun — Chinese: A Linguistic Introduction",
+        "evidence": "Xiamen: sete tons; distinções siníticas."
+      }
+    ]
+  },
+  {
+    "unit": "U311",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Tratado de 1842 foi após a Primeira Guerra do Ópio; a formulação depois das Guerras coloca-o indevidamente depois também da Segunda (1856–1860).",
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Treaty_of_Nanking",
+        "title": "Tratado de Nanquim — transcrição do documento",
+        "evidence": "1842, artigo II inclui Amoy entre cinco portos."
+      },
+      {
+        "url": "https://nrl.northumbria.ac.uk/31707/1/neal.stan_phd.pdf",
+        "title": "Stan Neal — tese, Treaty Ports and mass migration",
+        "evidence": "Amoy e portos de tratado; migração 1843–1853."
+      }
+    ],
+    "correction": "Depois da Primeira Guerra do Ópio, o Tratado de Nanquim de 1842 abriu Amoy.",
+    "errorKey": "nanking-after-opium-wars"
+  },
+  {
+    "unit": "U312",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Registro 2013 e influência de capital da diáspora nas instituições e edifícios confirmados; muito não é apresentado como percentual.",
+    "sources": [
+      {
+        "url": "https://www.unesco.org/en/memory-world/qiaopi-and-yinxin-correspondence-and-remittance-documents-overseas-chinese?hub=1081",
+        "title": "UNESCO — Qiaopi and Yinxin",
+        "evidence": "Correspondência/remessas; registro 2013."
+      },
+      {
+        "url": "https://zzxq.xmu.edu.cn/zzxq_en/info/1004/1031.htm",
+        "title": "Xiamen University — Architectural Legacy of Tan Kah Kee",
+        "evidence": "Fundação 1921; arquitetura Jiageng sino-ocidental."
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U313",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tan Kah Kee/Chen Jiageng, borracha em Singapura e fundação universitária em 1921 confirmados.",
+    "sources": [
+      {
+        "url": "https://www.nlb.gov.sg/main/image-detail?cmsuuid=d38e8b9c-319d-447e-8cd2-c5e1935729dd",
+        "title": "NLB — Portrait of Tan Kah Kee",
+        "evidence": "Borracha; fundador de Amoy University em 1921."
+      },
+      {
+        "url": "https://zzxq.xmu.edu.cn/zzxq_en/info/1004/1031.htm",
+        "title": "Xiamen University — Architectural Legacy of Tan Kah Kee",
+        "evidence": "Fundação 1921; arquitetura Jiageng sino-ocidental."
+      },
+      {
+        "url": "https://www.roots.gov.sg/stories-landing/stories/tan-kah-kee/story",
+        "title": "National Heritage Board — Tan Kah Kee",
+        "evidence": "1874–1961; empresário e filantropo em Singapura."
+      }
+    ]
+  },
+  {
+    "unit": "U314",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "1903 e casas híbridas de retornados do Sudeste Asiático confirmados; as procedências específicas Manila/Penang não foram demonstradas pelas fontes verificadas.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U315",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Diversidade migrante é correta; oposição povos com território/migrantes unidos por um projeto não é descrição demonstrável de toda a população.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/mpost_10395164.html",
+        "title": "Arquivo Municipal — Bao’an e Xin’an",
+        "evidence": "Bao’an 331; Xin’an 1573; renomeação 1914."
+      }
+    ]
+  },
+  {
+    "unit": "U316",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Confunde população de um núcleo urbano com o antigo condado/município, que tinha mais de 300 mil residentes em 1979.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202303/content/mpost_10458576.html",
+        "title": "Arquivo Municipal — Shenzhen Bus Group",
+        "evidence": "1979: mais de 300 mil residentes."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstoryfr/202212/content/post_10329871.html",
+        "title": "Arquivo Municipal — Bao’an torna-se Shenzhen",
+        "evidence": "Aprovação 05/03/1979; implementação 22/03."
+      }
+    ],
+    "correction": "Distinguir a pequena cidade-mercado do território municipal de cerca de 300 mil moradores.",
+    "errorKey": "baoan-1979-population"
+  },
+  {
+    "unit": "U317",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "População e crescimento confirmados; a pesquisa sobre nascimento e hukou sustenta a maioria migrante em termos gerais, mas não comprova a proporção exata na data indicada. Mantida incerteza sobre a formulação temporal/intensidade.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6313338/",
+        "title": "Yang, Dijst e Helbich — migração por hukou e nascimento (2018)",
+        "evidence": "Pesquisa distingue hukou/nascimento; ambos indicam maioria migrante."
+      }
+    ]
+  },
+  {
+    "unit": "U318",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Classificação e distinção sinítica corretas; próximo do chinês antigo é genealogia vaga sem critério linguístico, não uma medida demonstrada.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1650047754486213&disposition=inline",
+        "title": "Ohio State — Cockrum, tese",
+        "evidence": "Ramos siníticos geralmente mutuamente ininteligíveis."
+      }
+    ]
+  },
+  {
+    "unit": "U319",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Longgang e data/função de Dapeng confirmadas; descendência dos moradores atuais e composição Hakka/cantonesa exigem documentação genealógica.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      },
+      {
+        "url": "https://www.sz.gov.cn/szstory/202212/content/post_10330794.html",
+        "title": "Arquivo Municipal — Why Shenzhen is called Roc City",
+        "evidence": "Dapeng: fortaleza Ming de 1394."
+      }
+    ]
+  },
+  {
+    "unit": "U320",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 08 torna claro que Ela retoma Nantou, sem inventar topônimo. 1573 confirmado; descrição atual universalizada de fiação e prédios não foi verificada após intervenções urbanas.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_8042871.html",
+        "title": "Shenzhen — New appeal in ancient town",
+        "evidence": "Nantou/Nanshan, sede Xin’an 1573."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      }
+    ]
+  },
+  {
+    "unit": "U326",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Conclusão interpretativa dirigida ao viajante, sem fato histórico independente adicional.",
+    "sources": []
+  },
+  {
+    "unit": "U328",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Etimologia de tea tem base em fala meridional; atribuir a palavra especificamente à cidade de Xiamen exige reconstrução histórica mais precisa.",
+    "sources": [
+      {
+        "url": "https://wb.fujian.gov.cn/English/momentsinfujian/202303/t20230313_6130231.htm",
+        "title": "Fujian Foreign Affairs — An Air of Coastal Cool",
+        "evidence": "Tea deriva de pronúncia chinesa meridional."
+      }
+    ]
+  },
+  {
+    "unit": "U330",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tradição de pés não atados e trabalho agrícola confirmada; nunca universaliza a prática além do que a pesquisa afirma como geral.",
+    "sources": [
+      {
+        "url": "https://english.hakka.gov.tw/Content/Content?LanguageType=ENG&NodeID=676&PageID=39922",
+        "title": "Hakka Affairs Council — Historical Overview",
+        "evidence": "Tradição feminina Hakka de pés não atados e agricultura."
+      },
+      {
+        "url": "https://www.drnh.gov.tw/var/file/3/1003/img/32/033.pdf",
+        "title": "Academia Historica — estudo de sapatos Hakka",
+        "evidence": "Prática geral; fonte evita universalizar todas as mulheres."
+      }
+    ]
+  },
+  {
+    "unit": "U333",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U337",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U343",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Hukou/origem migrante constituem divisões materiais documentadas; muitas vezes é leitura social, não proporção mensurada.",
+    "sources": [
+      {
+        "url": "https://www.szps.gov.cn/attachment/0/67/67665/817576.pdf",
+        "title": "Governo Pingshan — desenvolvimento social Shenzhen",
+        "evidence": "Fim de 2020: 5,874 milhões de registros locais."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      }
+    ]
+  },
+  {
+    "unit": "U346",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U365",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U366",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U367",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U368",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Local, data, sobrenome Huang e origem Meizhou expressamente confirmados pelo governo local.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/travel/cultural/content/post_9711725.html",
+        "title": "Governo Shenzhen — Longtian Ancestral Residence",
+        "evidence": "1837; família Huang de Meizhou; Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U369",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Minnan é sul de Fujian e esfera cultural Han ligada a Xiamen, Quanzhou e Zhangzhou; Hokkien/Amoy usados com a abrangência contextual indicada.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U370",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U371",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cronologia 1843/1903 e formação multicultural correspondem à UNESCO.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U372",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U373",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Tan Kah Kee/Chen Jiageng, borracha em Singapura e fundação universitária em 1921 confirmados.",
+    "sources": [
+      {
+        "url": "https://www.nlb.gov.sg/main/image-detail?cmsuuid=d38e8b9c-319d-447e-8cd2-c5e1935729dd",
+        "title": "NLB — Portrait of Tan Kah Kee",
+        "evidence": "Borracha; fundador de Amoy University em 1921."
+      },
+      {
+        "url": "https://zzxq.xmu.edu.cn/zzxq_en/info/1004/1031.htm",
+        "title": "Xiamen University — Architectural Legacy of Tan Kah Kee",
+        "evidence": "Fundação 1921; arquitetura Jiageng sino-ocidental."
+      },
+      {
+        "url": "https://www.roots.gov.sg/stories-landing/stories/tan-kah-kee/story",
+        "title": "National Heritage Board — Tan Kah Kee",
+        "evidence": "1874–1961; empresário e filantropo em Singapura."
+      }
+    ]
+  },
+  {
+    "unit": "U374",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U375",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U376",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 10 são vilas urbanas: função habitacional, proximidade de trabalho e serviços está documentada.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11275915.html",
+        "title": "Shenzhen — urban village renewal",
+        "evidence": "Moradia migrante acessível; 60% da população em 2022."
+      },
+      {
+        "url": "https://web.mit.edu/dusp/dusp_extension_unsec/news/Shenzhen_2008.pdf",
+        "title": "MIT DUSP — Shenzhen urban villages",
+        "evidence": "Pesquisa de habitação e aldeias urbanas."
+      }
+    ]
+  },
+  {
+    "unit": "U378",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pergunta, transição, título ou enquadramento editorial do percurso; contexto lido no candidato. Não constitui proposição histórica independente a pontuar.",
+    "sources": []
+  },
+  {
+    "unit": "U383",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Prática Minnan e diáspora, tipos de instrumentos, pipa horizontal e canto de Quanzhou confirmados.",
+    "sources": [
+      {
+        "url": "https://ich.unesco.org/en/RL/nanyin-00199?RL=00199",
+        "title": "UNESCO — Nanyin",
+        "evidence": "Minnan/diáspora; dongxiao, pipa horizontal; Quanzhou."
+      }
+    ]
+  },
+  {
+    "unit": "U389",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Distinção entre identidades Minnan/Hakka e minorias oficiais está correta.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_7893367.html",
+        "title": "Governo de Shenzhen — Hakka culture depicted in paintings",
+        "evidence": "Hakka: subgrupo Han; casas em Longgang/Pingshan."
+      }
+    ]
+  },
+  {
+    "unit": "U407",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "ZEE de 1980 e subsequente crescimento metropolitano confirmados.",
+    "sources": [
+      {
+        "url": "https://www.szdag.gov.cn/dawh/tqssn/content/post_98517.html",
+        "title": "Arquivo Municipal — evolução administrativa",
+        "evidence": "ZEE formalmente estabelecida em 26/08/1980."
+      },
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      }
+    ]
+  },
+  {
+    "unit": "U408",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Os dois valores correspondem exatamente ao comunicado censitário.",
+    "sources": [
+      {
+        "url": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+        "title": "Shenzhen Statistics Bureau — Census 2020, nº 1",
+        "evidence": "17.560.061; aumento 2010–2020: 7.136.088."
+      }
+    ]
+  },
+  {
+    "unit": "U409",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U410",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Minnan é sul de Fujian e esfera cultural Han ligada a Xiamen, Quanzhou e Zhangzhou; Hokkien/Amoy usados com a abrangência contextual indicada.",
+    "sources": [
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka: Han."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U411",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Cronologia 1843/1903 e formação multicultural correspondem à UNESCO.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1541/",
+        "title": "UNESCO — Kulangsu",
+        "evidence": "1843/1903; fusão cultural; inscrição 2017."
+      }
+    ]
+  },
+  {
+    "unit": "U412",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U413",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U414",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Culto costeiro e circulação além-mar confirmados; no contexto C 11 o pronome refere-se a Mazu, não exclusivamente ao universo Minnan.",
+    "sources": [
+      {
+        "url": "https://www.unesco.org/archives/multimedia/document-334",
+        "title": "UNESCO — The Mazu Belief and Customs",
+        "evidence": "Culto costeiro e internacional; templos/procissões."
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U415",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U416",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U418",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pergunta, transição, título ou enquadramento editorial do percurso; contexto lido no candidato. Não constitui proposição histórica independente a pontuar.",
+    "sources": []
+  },
+  {
+    "unit": "U419",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Pergunta, transição, título ou enquadramento editorial do percurso; contexto lido no candidato. Não constitui proposição histórica independente a pontuar.",
+    "sources": []
+  },
+  {
+    "unit": "U420",
+    "verdict": "not-factual",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Link/citação isolada. O URL serve como referência, não como proposição numérica independente.",
+    "sources": []
+  },
+  {
+    "unit": "U421",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Arquivo municipal confirma migração nacional e raízes locais Hakka/cantonesas.",
+    "sources": [
+      {
+        "url": "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+        "title": "Arquivo Municipal — Local officials learn Mandarin",
+        "evidence": "Raízes multilíngues; migrantes; mandarim predominante."
+      }
+    ]
+  },
+  {
+    "unit": "U423",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 11 é Minnan e a designação Hokkien na diáspora; correspondência correta.",
+    "sources": [
+      {
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+        "title": "NLB — Hokkien community",
+        "evidence": "Sul de Fujian; comércio e diáspora."
+      }
+    ]
+  },
+  {
+    "unit": "U425",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Contexto C 11 é Nanyin: circulação em comunidades emigrantes e função de continuidade cultural documentadas.",
+    "sources": [
+      {
+        "url": "https://ich.unesco.org/en/RL/nanyin-00199?RL=00199",
+        "title": "UNESCO — Nanyin",
+        "evidence": "Minnan/diáspora; dongxiao, pipa horizontal; Quanzhou."
+      }
+    ]
+  }
+]

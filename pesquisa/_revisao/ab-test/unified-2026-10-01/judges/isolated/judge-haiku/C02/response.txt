@@ -1,0 +1,70 @@
+```json
+{
+  "evaluations": [
+    {
+      "id": "C02",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 2,
+          "justification": "Taxa de acerto 85,71% (12 de 14 adjudicadas) enquadra-se na faixa [13,20], mas dois erros relevantes — superestimar Zhuang concentrados 'quase em sua totalidade' em Guangxi (são ~80%) e atribuir 8 séculos de governo do clã Peng à 'base regional em Wangcun' (era palácio temporário) — reduzem para faixa mínima [0,4].",
+          "quoteId": "Q095"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre completamente os cinco grupos solicitados (Tujia, Miao, Zhuang, Minnan, Hakka) com aderência clara ao roteiro (Chongqing/Zhangjiajie, Fenghuang, Guilin/Yangshuo, Xiamen, Shenzhen); sem resquício de roteiro antigo; estrutura íntegra com front matter válido, abertura, tópicos e encerramento.",
+          "quoteId": "Q001"
+        },
+        {
+          "dimension": 3,
+          "score": 14,
+          "justification": "Quase todos os parágrafos trazem nomes (Peng, Shen Congwen, Tan Kah Kee, Liu Sanjie), datas (1704, 1934, 1980), lugares (Tuojiang, Wuling, Longsheng) e costumes concretos (diaojiaolou, Baishou, you cha, xieba ya, weitang); explica mecanismos (por que prata é reserva de capital, por que chá de óleo tonifica); acrescenta etnografia não presente nas páginas de atração.",
+          "quoteId": "Q043"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Conexão útil em todos os grupos: diaojiaolou → Zhangjiajie/Furong; prata/lusheng → Fenghuang; you cha/Longsheng → Guilin; qilou/gongfu cha → Xiamen; weitang/migração → Shenzhen; inclui datas sazonais (Lìdōng 7 nov, Ano Novo Miao após colheita) e orienta leitor a distinguir vivência real de performance cênica.",
+          "quoteId": "Q091"
+        },
+        {
+          "dimension": 5,
+          "score": 14,
+          "justification": "Prosa fluida em tom livro-reportagem com ritmo variado; sem clichê, metalinguagem ou jargão; PT-BR consistente com 'você' e 'viajante' bem empregados; explica vocabulário técnico (minzu shibie, hui gan, hukou); estrutura retórica com inversões 'deixa de ser/revela-se' concentrada no encerramento dentro do limite esperado.",
+          "quoteId": "Q087"
+        },
+        {
+          "dimension": 6,
+          "score": 4,
+          "justification": "Dois erros factuais (U061 concentração Zhuang, U076 base Peng em Wangcun) apresentados sem ressalva, e 13 afirmações marcadas como incertas em FATOS.md (consolidação 1704, genealogia Shen Congwen, 240 metros contínuos, tons do Hokkien, etc.) não recebem qualificação epistêmica; calibração fraca em pontos centrais.",
+          "quoteId": "Q063"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build passa sem erro novo (buildExit 0, auditExit 0, newBuildWarnings vazio); apenas etnias.md foi alterado; front matter completo e slug válidos.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 63,
+      "cap": null,
+      "capReasons": [],
+      "final": 63,
+      "mainStrength": "Cobertura etnográfica genuína dos cinco grupos com especificidade de nomes, datas e costumes concretos (diaojiaolou, Baishou, you cha, xieba ya, weitang); prosa fluida e ancoragem clara em cada etapa do roteiro.",
+      "priorityFix": "Corrigir dois erros factuais: Zhuang não concentram-se 'quase em sua totalidade' em Guangxi (~80%, não ~100%); clã Peng governou a partir de múltiplas sedes, não exclusivamente de Wangcun. Sinalar com ressalva as 13+ afirmações incertas (data 1704, genealogia étnica Shen Congwen, causalidades históricas estendidas sem fonte primária clara).",
+      "additionalConcerns": [
+        "Incerteza sobre continuidade de 240 metros de diaojiaolou em Fenghuang não sinalizada; FATOS.md marca como incerta",
+        "Causalidades históricas (palafita como refúgio anti-imperial, caldo/chá como adaptação a fatores ambientais) carecem de fonte primária explícita"
+      ]
+    }
+  ],
+  "methodNotes": [
+    "Avaliador sub-agente cego, sem acesso a relatórios de modelos anteriores ou identidade de autoria",
+    "D1: taxa 85,71% (12/14 afirmações adjudicadas) na faixa [13,20]; 2 erros relevantes reduzem para faixa mínima [0,4]",
+    "Nenhum teto aplicado: build válido, sem resquício de roteiro antigo, zero erros das armadilhas listadas, 4815 palavras > 2000",
+    "D6 reduzida por calibração epistêmica fraca: 2 afirmações erradas + 13 incertas não sinalizadas no corpo do texto",
+    "Enquadramento final: 60–74 (rascunho aproveitável com retrabalho substancial)"
+  ]
+}
+```

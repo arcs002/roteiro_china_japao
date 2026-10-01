@@ -1,0 +1,67 @@
+```json
+{
+  "evaluations": [
+    {
+      "id": "C04",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 30,
+          "justification": "Taxa de acerto 100% (16 unidades corretas de 16 checadas, excluindo incertas); sem erros relevantes nas armadilhas listadas (Zhangjiajie/Xiangxi, Tujia território, Minnan/Hakka como han, etc.). Faixa confirmada por d1Range [27,30].",
+          "quoteId": "Q010"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cinco grupos cobertos e ligados ao roteiro (Tujia em Chongqing–Zhangjiajie–Furong; Miao/Tujia em Fenghuang; Zhuang em Guangxi; Minnan em Xiamen; Hakka/migrantes em Shenzhen); nenhum resquício do itinerário antigo (Xi'an, Xijiang, Zhaoxing); estrutura Abertura+tópicos+Encerramento e front matter preservados.",
+          "quoteId": "Q001"
+        },
+        {
+          "dimension": 3,
+          "score": 15,
+          "justification": "Quase todo parágrafo articula nomes, datas, lugares concretos; explica mecanismos (função defensiva de casas muradas, significado de prata/bordado como memória cerimonial, fluxos migratórios transnacionais); acrescenta análise conceitual/étnica não disponível nas páginas de atração; complementa sem duplicação com fenghuang.md, xiamen.md, shenzhen.md. Acima do piso (2.916 palavras).",
+          "quoteId": "Q060"
+        },
+        {
+          "dimension": 4,
+          "score": 10,
+          "justification": "Conexão específica e útil com experiência do viajante em todos os grupos: observar pilares e encaixes em Furong (Q037), perguntar origem de artesanato em Fenghuang (Q066), reconhecer sotaques em Xiamen (Q115), compreender aldeias muradas Hakka em Shenzhen (Q128). Oferece respeito e método concreto, evita essencialismo.",
+          "quoteId": "Q066"
+        },
+        {
+          "dimension": 5,
+          "score": 15,
+          "justification": "Prosa fluida com ritmo variado (períodos longos alternados com frases curtas; reflexão ensaística intercalada com descrição prática); voz de livro-reportagem apropriada; sem clichê, metalinguagem ou jargão de bastidor; zero tags [VERIFICAR]; PT-BR consistente (imperativo + 'o viajante' como modo de endereçamento); estrutura 'Não é X — é Y' contida em ~3 ocorrências estritas.",
+          "quoteId": "Q037"
+        },
+        {
+          "dimension": 6,
+          "score": 7,
+          "justification": "A afirmação U147 sobre Zhuang (\"destaca justamente o valor de canções...\") é apresentada com confiança sem sinalizar que a atribuição ao texto SCIO específico é incerta (FATOS.md: conteúdo corroborado em NEAC, mas página SCIO não respondeu). Uma falha em calibração epistêmica: incerteza real não sinalizada na prosa ou por tag.",
+          "quoteId": "Q086"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "Build executado com sucesso (buildExit: 0, sem erros novos); apenas etnias.md foi alterado (scopeOnlyTarget: true); front matter completo e válido (type: pais, slug: china, topico: etnias, title, order: 2).",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 97,
+      "cap": null,
+      "capReasons": [],
+      "final": 97,
+      "mainStrength": "Articulação conceitual exemplar: cada seção oferece não apenas fatos, mas ferramentas de leitura para o viajante (como observar identidades em contexto, que perguntas fazer, como respeitar diferenças). Complementa páginas de atração e cidade (fenghuang.md, xiamen.md, shenzhen.md) com camadas genealógicas, étnicas e sociológicas sem duplicação. Precisão factual perfeita (100%).",
+      "priorityFix": "Sinalizar a incerteza sobre a atribuição ao SCIO da declaração Zhuang (U147): adicionar ressalva de tipo 'segundo fontes' ou usar [VERIFICAR] em conteúdo com verificação pendente de fonte específica.",
+      "additionalConcerns": "Nenhuma grave. Seção Zhuang poderia ganhar 1–2 datas específicas adicionais (ex.: Região Autônoma estabelecida em 1958, confirmando Q076) para aumentar densidade factual; atualmente menos volumosa em nomes próprios/cronologia que seções Tujia e Minnan."
+    }
+  ],
+  "methodNotes": [
+    "Avaliação cega de texto único (C04) conforme rubrica v2 integral.",
+    "FACT_SUMMARY: 16 unidades corretas de 22 checadas; accuracy 1.0 = faixa [27,30] em D1; nenhum trapError ou relevantError.",
+    "U147 (Zhuang/SCIO) listada como 'uncertain' em FACTS mas não sinalizada por tag ou ressalva no texto; D6 penalizado conforme rubrica '6–8: Uma ou duas falhas'.",
+    "Nenhum teto aplicado: build ok, sem resquício antigo, sem erros em armadilhas, 2.916 > 2.000 palavras.",
+    "Soma 97 = final 97 (min sem tetos)."
+  ]
+}
+```

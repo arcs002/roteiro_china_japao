@@ -1,0 +1,197 @@
+[
+  {
+    "unit": "U017",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A cidade já possuía fortificações anteriores a 1795, mas a frase fala no aspecto militar produzido pela reação Qing, não afirma construção inicial. A fonte local documenta reconstrução desde 1797 e novas muralhas, torres, portões e postos ao redor de Fenghuang. Não foi demonstrado quanto do aspecto atual resulta especificamente dessa fase.",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/5337",
+        "title": "UNESCO — candidatura chinesa de Fenghuang",
+        "evidence": "Fortificação e construções de pedra anteriores ao levante; obras concluídas em 1715."
+      },
+      {
+        "url": "https://www.fhxww.cn/content/2020/10/26/8544123.html",
+        "title": "Fenghuang County Broadcasting — China Southern Great Wall",
+        "evidence": "Reconstrução desde 1797 e expansão de muralhas, torres, portões e postos ao redor da cidade em reação ao levante iniciado em 1795."
+      }
+    ],
+    "errorKeys": [],
+    "auditReason": "O veredito original acrescentou 'configuração inicial', expressão ausente da unidade. A cronologia anterior não refuta contribuição causal de obras posteriores. Incerteza preservada quanto ao alcance da atribuição."
+  },
+  {
+    "unit": "U062",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Xiamen tem sete tons de citação, mas Hokkien/Minnan abrange variantes: há descrições institucionais de oito tons em Singapura e em variedade de Quanzhou. A unidade fala em Hokkien/Minnanhua e Minnan em geral, sem fixar a variante para a contagem. A ênfase marítima é retórica; não equivale a dizer que nunca houve agricultores Minnan.",
+    "sources": [
+      {
+        "url": "https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/643.pdf",
+        "title": "ICPhS 2023 — Syntactic and prosodic effects on Xiamen tone sandhi",
+        "evidence": "Inventário de Xiamen: sete tons, cinco smooth e dois checked."
+      },
+      {
+        "url": "https://culturepaedia.singaporeccc.org.sg/language-education/the-hokkien-dialect-in-singapore/",
+        "title": "Singapore Chinese Cultural Centre — Hokkien dialect in Singapore",
+        "evidence": "Descrição do sistema fonético de Singapura: 18 consoantes iniciais, 88 vogais e oito tons; mistura de Quanzhou, Zhangzhou e Xiamen."
+      },
+      {
+        "url": "https://ws.yunlin.gov.tw/001/Upload/422/ebook/ebook_202321/pdf/full.pdf",
+        "title": "Yunlin — estudo do sistema fonológico de Taixi Minnan",
+        "evidence": "Resumo acadêmico descreve variante de Quanzhou em Taixi com oito tons."
+      }
+    ],
+    "errorKeys": [],
+    "auditReason": "Não converter automaticamente Hokkien amplo em Xiamen estrito para condenar o número. Manter incerto e recomendar especificar variante; não promover a correto nem validar a universalização."
+  },
+  {
+    "unit": "U083",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A expressão 'ali todos são Han' é imprecisa. No parágrafo contrasta os grupos culturais abordados no roteiro (Minnan, cantoneses e Hakka) com minorias oficiais, admitindo esse referente restrito. Se lida como toda a população das cidades, é falsa: Xiamen tem 96,13% Han. A referência adicional aos migrantes não permite validar a universalização.",
+    "sources": [
+      {
+        "url": "https://www.fjdaily.com/app/content/2023-06/13/content_1919092.html",
+        "title": "Xiamen Daily — composição étnica de Xiamen, censo 2020",
+        "evidence": "96,13% Han e presença de todas as 55 minorias; dados atribuídos ao órgão estatístico municipal."
+      },
+      {
+        "url": "https://english.www.gov.cn/archive/202007/28/content_WS5f1f8c45c6d029c1c2636d06.html",
+        "title": "Conselho de Estado — Basic facts about Taiwan",
+        "evidence": "Minnan e Hakka classificados entre os grupos Han."
+      }
+    ],
+    "errorKeys": [],
+    "auditReason": "A condenação original adotou exclusivamente a leitura de todos os moradores, embora o contexto seja contraste entre identidades culturais. Não há base para PASS universal; fica uncertain. U114, que explicita 99% dos moradores, permanece incorrect e separado."
+  },
+  {
+    "unit": "U094",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "Os 818 anos referem-se ao domínio regional Peng, não à permanência da sede em Laosicheng: a fonte estadual registra 589 anos nessa sede e transferência em 1724. 'Fim da dinastia Tang' é periodização aproximada da transição Tang/Cinco Dinastias; não gera um segundo erro relevante independente.",
+    "sources": [
+      {
+        "url": "https://mzt.hunan.gov.cn/mzt/sxdmx/202008/t20200807_13352559.html",
+        "title": "Departamento de Assuntos Civis de Hunan — Topônimos Tujia",
+        "evidence": "818 anos de domínio, sedes sucessivas; Laosicheng usada por 589 anos até 1724."
+      },
+      {
+        "url": "https://skxb.jsu.edu.cn/CN/10.3969/j.issn.1007-4074.2013.06.020",
+        "title": "Jishou University — Preservation of Yongshun Laosicheng",
+        "evidence": "Mudança da sede em 1724 e reforma em 1728."
+      },
+      {
+        "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003260455",
+        "title": "The Emergence and Origins of the Peng Clan ... during the Late Tang and Five Dynasties",
+        "evidence": "Pesquisa histórica enquadra a ascensão Peng na transição Tang tardio/Cinco Dinastias; título e resumo indexados, fetch indisponível."
+      }
+    ],
+    "errorKeys": [
+      "laosicheng-entire-818-years"
+    ],
+    "auditReason": "Preserva o erro material de sede/duração, compartilhado com U095; remove a chave peng-start-tang para não transformar referência de época em erro cronológico autônomo adicional."
+  },
+  {
+    "unit": "U103",
+    "verdict": "incorrect",
+    "relevantError": true,
+    "trapError": false,
+    "reason": "O total de pouco mais de 11 milhões é compatível com 2020. O ranking de quinta minoria está errado: os Miao são a quarta minoria por população, após Zhuang, Uyghur e Hui. Ranking é erro relevante, mas não é a armadilha de população 2020 enumerada na rubrica.",
+    "sources": [
+      {
+        "url": "https://epc.swu.edu.cn/info/1078/4026.htm",
+        "title": "Southwest University — Miao",
+        "evidence": "11.067.929 Miao, fonte China Statistical Yearbook 2021."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+        "title": "NEAC — Zhuang",
+        "evidence": "19.568.546 em 2020."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/wwez/gk.shtml",
+        "title": "NEAC — Uyghur",
+        "evidence": "11.774.538 em 2020."
+      },
+      {
+        "url": "https://www.neac.gov.cn/seac/ztzl/201806/1066622.shtml",
+        "title": "NEAC — Hui",
+        "evidence": "11.377.914 em 2020."
+      }
+    ],
+    "errorKey": "miao-minority-rank",
+    "auditReason": "Apenas retira trapError: a armadilha da rubrica é população (~11,1 milhões), valor que a frase acerta. Não ampliar a lista de armadilhas para qualquer erro sobre a etnia."
+  },
+  {
+    "unit": "U125",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A tipologia acadêmica de weilongwu destaca a cauda semicircular, mas o uso local não é unívoco: o órgão municipal de Shenzhen chama Dawan Shiju de 围龙屋 e descreve planta quadrada. A frase contextualiza as construções de Bao'an, tornando insuficiente condená-la somente pela definição genérica da tipologia.",
+    "sources": [
+      {
+        "url": "https://www.nature.com/articles/s40494-026-02359-0",
+        "title": "npj Heritage Science — Administrative power and Weilongwu houses",
+        "evidence": "Tipologia tradicional acadêmica caracteriza weilongwu pela cauda semicircular."
+      },
+      {
+        "url": "https://cgj.sz.gov.cn/xsmh/szlh/jpld/content/post_2053158.html",
+        "title": "Shenzhen Urban Management — Pingshan Dashanpi Greenway",
+        "evidence": "Dawan Shiju descrita como 客家围龙屋; planta 平面呈方形, quadrada."
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/1113/",
+        "title": "UNESCO — Fujian Tulou",
+        "evidence": "Inscrição 2008; habitações coletivas defensivas."
+      }
+    ],
+    "errorKeys": [],
+    "auditReason": "Confronto entre nomenclatura regional oficial e tipologia acadêmica. Rebaixar para uncertain e recomendar distinguir formas e nomes; a fonte genérica não prova erro inequívoco no contexto Bao'an."
+  },
+  {
+    "unit": "U190",
+    "verdict": "correct",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "A periodização 1795–1797 tem suporte acadêmico explícito para o levante em Hunan ocidental/Guizhou nordeste. O ciclo amplo também é datado até 1806, mas isso não torna falsa a datação do episódio principal usada no contexto de Fenghuang.",
+    "sources": [
+      {
+        "url": "https://www1.ihp.sinica.edu.tw/en/Publications/AsiaMajor/638/Article/118",
+        "title": "Donald S. Sutton — Ethnic Revolt in the Qing Empire: The Miao Uprising of 1795–1797 Reexamined",
+        "evidence": "Asia Major 16.2 (2003), pp. 105–152, adota a periodização 1795–1797."
+      },
+      {
+        "url": "https://uw.manifoldapp.org/read/f53eaa89-d3e1-42d9-a820-bce1265b853f/section/e692a3de-4f81-434d-aad6-85bba195d40a",
+        "title": "University of Washington — capítulo sobre levantes Miao",
+        "evidence": "A própria fonte original refere uma grande insurreição de 1795–1797 em Guizhou nordeste/Hunan ocidental, além do ciclo amplo até 1806."
+      }
+    ],
+    "errorKeys": [],
+    "auditReason": "Falso positivo derrubado por evidência positiva, inclusive na própria fonte inicialmente citada. Diferentes recortes historiográficos não são contradição automática; 'mais grave' está no contexto regional do parágrafo."
+  },
+  {
+    "unit": "U329",
+    "verdict": "uncertain",
+    "relevantError": false,
+    "trapError": false,
+    "reason": "Há molhos, pimenta picada e pimenta seca na culinária de Hunan. Contudo, a frase é uma caracterização de estilo culinário ligada ao prato do roteiro; um inventário comercial de produtos não estabelece sozinho que a preferência comparativa descrita é falsa. A oposição rígida pede qualificação e não foi validada.",
+    "sources": [
+      {
+        "url": "https://www.hunan.gov.cn/hnszf/jxxx/hxwh/cwd/201711/t20171111_4685388.html",
+        "title": "Governo de Hunan — costumes alimentares",
+        "evidence": "Lista preparações diversas de pimenta, incluindo seca, picada e conservada; menciona uso de pimenta seca em aldeias de Xiangxi."
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/xxgk/jyta/201908/t20190807_5411025.html",
+        "title": "Departamento de Agricultura de Hunan — resposta sobre pimenta",
+        "evidence": "Produção regional inclui pimenta seca, molhos salgados, pimenta picada e produtos em óleo."
+      }
+    ],
+    "errorKeys": [],
+    "auditReason": "O veredito inicial tratou a caracterização comparativa como proibição absoluta de pastas. A evidência demonstra diversidade, não a proporção de uso da receita ou tradição específica; uncertain evita essa inferência excessiva."
+  }
+]

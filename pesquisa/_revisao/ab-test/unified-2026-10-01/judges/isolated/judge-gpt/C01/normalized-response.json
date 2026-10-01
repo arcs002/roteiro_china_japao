@@ -1,0 +1,59 @@
+{
+  "evaluations": [
+    {
+      "id": "C01",
+      "dimensions": [
+        {
+          "dimension": 1,
+          "score": 20,
+          "justification": "A taxa é 31/32 (96,875%); o erro relevante sobre o calendário lunar rebaixa a nota uma faixa, para 13–20. Não há erro entre as armadilhas.",
+          "quoteId": "Q116"
+        },
+        {
+          "dimension": 2,
+          "score": 15,
+          "justification": "Cobre os cinco grupos pedidos nos trechos correspondentes, mantém abertura e encerramento e não apresenta resquícios do roteiro antigo, links quebrados ou números de dia.",
+          "quoteId": "Q010"
+        },
+        {
+          "dimension": 3,
+          "score": 12,
+          "justification": "Explica mecanismos históricos concretos, como o governo por chefes hereditários, mas retoma parte do conteúdo já desenvolvido nas páginas de cidades e atrações.",
+          "quoteId": "Q054"
+        },
+        {
+          "dimension": 4,
+          "score": 9,
+          "justification": "Liga costumes a lugares e ações reconhecíveis pelo viajante, incluindo mercado, comida e língua nas paradas do roteiro.",
+          "quoteId": "Q215"
+        },
+        {
+          "dimension": 5,
+          "score": 13,
+          "justification": "A prosa é fluida e usa português brasileiro consistente; perde um pouco de naturalidade quando anuncia a organização da própria página.",
+          "quoteId": "Q015"
+        },
+        {
+          "dimension": 6,
+          "score": 5,
+          "justification": "A data de início do mês lunar é apresentada com uma conclusão errada sobre a passagem por Fenghuang; outras afirmações classificadas como incertas também aparecem sem ressalva.",
+          "quoteId": "Q116"
+        },
+        {
+          "dimension": 7,
+          "score": 5,
+          "justification": "O front matter e o slug são válidos e preservados; as métricas registram build sem erro novo e edição exclusiva do arquivo alvo.",
+          "quoteId": "Q001"
+        }
+      ],
+      "sum": 79,
+      "cap": null,
+      "capReasons": [],
+      "final": 79,
+      "mainStrength": "Integra classificação étnica, história e observações concretas ao longo do roteiro.",
+      "priorityFix": "Corrigir o calendário lunar de 2026 e revisar a linguagem das afirmações classificadas como incertas.",
+      "additionalConcerns": []
+    }
+  ],
+  "methodNotes": []
+}

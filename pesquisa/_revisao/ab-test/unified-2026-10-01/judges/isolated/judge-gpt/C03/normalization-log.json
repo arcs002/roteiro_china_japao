@@ -1,0 +1,9 @@
+{
+  "syntaxOnly": true,
+  "changes": [
+    {
+      "kind": "remove redundant closing delimiters",
+      "removed": "]}"
+    }
+  ]
+}
