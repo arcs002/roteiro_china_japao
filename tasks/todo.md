@@ -28,6 +28,6 @@ Avaliação factual/editorial dos quatro candidatos incorporada à rodada unific
 - [x] Repetir build e audit.mjs em ambiente comum e checar fatos com fontes.
 - [x] Executar dois avaliadores independentes e validar notas, citações e tetos.
 - [x] Consolidar todos os modelos/ferramentas, explicitar duplicatas e divergências.
-- [ ] Atualizar registros e publicar os resultados autorizados no repositório.
+- [x] Atualizar registros e publicar os resultados autorizados no repositório.
 
 Pendência condicional: se uma versão for escolhida para publicação do guia, corrigir os fatos e pisos indicados no relatório em uma nova branch, preservando as amostras do teste. Nenhuma arbitragem obrigatória por dimensão ficou pendente; a diferença total de 11 pontos no Sonnet está sinalizada.
