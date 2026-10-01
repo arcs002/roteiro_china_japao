@@ -6,21 +6,22 @@
 
 | Pos. | Modelo | Ferramenta | Média (Haiku / GPT-6 Sol) | Situação |
 |---|---|---|---:|---|
-| 1 | **GPT-6.1 Sol** ‡ | Copilot | **95,5** (97 / 94) | Publicável com revisão mínima |
 | 1 | **GPT-6 Astra** | Codex CLI 0.155.1 | **95,5** (99 / 92) | Publicável com revisão mínima |
-| 3 | GPT-5.6 Terra | Codex CLI 0.155.1 | **94** (97 / 91) | Publicável com revisão mínima |
-| 3 | GPT-5.6 Sol ‡ | Copilot | **94** (95 / 93) | Publicável com revisão mínima |
-| 5 | GPT-5.6 Sol | Codex CLI 0.155.1 | **93** (94 / 92) | Publicável com revisão mínima |
-| 5 | GPT-6.1 Sol | Codex — subagente nativo | **93** (94 / 92) | Publicável com revisão mínima |
-| 7 | Opus 5.5 | Copilot | **91,5** (94 / 89) | Publicável com revisão mínima |
-| 8 | Opus 5.5 | Claude Code | **81** (83 / 79) | Bom; revisão de fatos/estilo |
-| 9 | Gemini 3.8 Flash † | Copilot | **60** (63 / 57) | Rascunho; retrabalho |
-| 10 | Fable 5.1 | Claude Code | **57,5** (60 / 55) | Reescrever |
-| 11 | Sonnet 5.5 | Claude Code | **56,5** (62 / 51) | Reescrever ⚠ divergência total |
+| 2 | GPT-5.6 Terra | Codex CLI 0.155.1 | **94** (97 / 91) | Publicável com revisão mínima |
+| 2 | GPT-5.6 Sol ‡ | Copilot | **94** (95 / 93) | Publicável com revisão mínima |
+| 4 | GPT-5.6 Sol | Codex CLI 0.155.1 | **93** (94 / 92) | Publicável com revisão mínima |
+| 4 | GPT-6.1 Sol | Codex — subagente nativo | **93** (94 / 92) | Publicável com revisão mínima |
+| 6 | Opus 5.5 | Copilot | **91,5** (94 / 89) | Publicável com revisão mínima |
+| 7 | Opus 5.5 | Claude Code | **81** (83 / 79) | Bom; revisão de fatos/estilo |
+| 8 | Gemini 3.8 Flash † | Copilot | **60** (63 / 57) | Rascunho; retrabalho |
+| 9 | Fable 5.1 | Claude Code | **57,5** (60 / 55) | Reescrever |
+| 10 | Sonnet 5.5 | Claude Code | **56,5** (62 / 51) | Reescrever ⚠ divergência total |
 
-Maior média nesta tarefa: **GPT-6.1 Sol — Copilot; GPT-6 Astra — Codex CLI 0.155.1**, 95,5. Nenhuma divergência por dimensão ultrapassou os dez pontos definidos para arbitragem. Uma amostra por configuração não permite concluir superioridade geral nem significância estatística de diferenças pequenas.
+**Fora do ranking — Candidato histórico E/C06: 95,5 (97 / 94).** O usuário informou que não utilizou GPT-6.1 Sol no Copilot. O rótulo foi herdado do nome do arquivo e do relatório histórico, sem logs que comprovem essa atribuição. A nota pertence ao texto, não a uma execução confirmada dessa combinação. A nota histórica era 83,5 (Haiku 88 / Sonnet 79); a nova é 95,5 (Haiku 97 / GPT-6 Sol 94). O texto não mudou. GPT-6.1 Sol efetivamente executado no Codex é C11, com 93 pontos. O mapa original e os registros brutos foram preservados; a [correção de procedência](unified-2026-10-01/provenance-corrections.json) prevalece sobre o rótulo antigo.
 
-‡ **Os dois Sol/Copilot compartilham 33 parágrafos longos**; suas posições medem variantes fortemente sobrepostas, não duas amostras independentes. Entre as quatro novas execuções Codex, Astra tem a maior média e cumpre todos os pisos de seção.
+Maior média nesta tarefa: **GPT-6 Astra — Codex CLI 0.155.1**, 95,5. Nenhuma divergência por dimensão ultrapassou os dez pontos definidos para arbitragem. Uma amostra por configuração não permite concluir superioridade geral nem significância estatística de diferenças pequenas.
+
+‡ **GPT-5.6 Sol/Copilot e o candidato histórico E/C06, de autoria contestada, compartilham 33 parágrafos longos**; são variantes fortemente sobrepostas, não duas amostras independentes. Entre as quatro novas execuções Codex, Astra tem a maior média e cumpre todos os pisos de seção.
 
 As faixas da tabela são a leitura numérica da v2, não uma dispensa dos requisitos da skill. Terra/Codex, apesar de 94 pontos, tem seis seções abaixo do piso; GPT-5.6 Sol/Codex tem três. As limitações de estrutura permanecem pendentes e aparecem em §5.
 
@@ -35,14 +36,14 @@ As faixas da tabela são a leitura numérica da v2, não uma dispensa dos requis
 | C03 | Fable 5.1 — Claude Code | [candidato](candidatos/etnias.B-fable-5.1-claude-code.md) | `611d0c2fed45258c` |
 | C04 | GPT-5.6 Terra — Codex CLI 0.155.1 | [candidato](codex-2026-10-01/gpt-5.6-terra/candidate.md) | `dd42a2906e7d02ba` |
 | C05 | Opus 5.5 — Copilot | [candidato](candidatos/etnias.F-opus-5.5-copilot.md) | `35f2083224dfd4a3` |
-| C06 | GPT-6.1 Sol — Copilot | [candidato](candidatos/etnias.E-gpt-6.1-sol-copilot.md) | `3feb72f88f4cad37` |
+| C06 | Candidato histórico E/C06 — Autoria e ferramenta não confirmadas | [candidato](candidatos/etnias.E-gpt-6.1-sol-copilot.md) | `3feb72f88f4cad37` |
 | C07 | GPT-5.6 Sol — Codex CLI 0.155.1 | [candidato](codex-2026-10-01/gpt-5.6-sol/candidate.md) | `bd617fb39c002b29` |
 | C08 | Sonnet 5.5 — Claude Code | [candidato](candidatos/etnias.C-sonnet-5.5-claude-code.md) | `3baf4785b0ff4511` |
 | C09 | GPT-5.6 Sol — Copilot | [candidato](candidatos/etnias.G-gpt-5.6-sol-copilot.md) | `d47c287f746a9ec4` |
 | C10 | GPT-6 Astra — Codex CLI 0.155.1 | [candidato](codex-2026-10-01/gpt-6-astra/candidate.md) | `972120ef94e532a4` |
 | C11 | GPT-6.1 Sol — Codex — subagente nativo | [candidato](codex-2026-10-01/gpt-6.1-sol/candidate.md) | `669ba0fa1214e4b5` |
 
-- **GPT-6.1 Sol/Copilot e GPT-5.6 Sol/Copilot:** 33 parágrafos idênticos após normalização de espaços, entre parágrafos de pelo menos 30 palavras (45 e 47 no total). São textos diferentes, mas não amostras independentes. O relatório histórico registrava 35 com outro critério; a medição reproduzível desta rodada é 33.
+- **Candidato histórico E/C06/Autoria e ferramenta não confirmadas e GPT-5.6 Sol/Copilot:** 33 parágrafos idênticos após normalização de espaços, entre parágrafos de pelo menos 30 palavras (45 e 47 no total). São textos diferentes, mas não amostras independentes. O relatório histórico registrava 35 com outro critério; a medição reproduzível desta rodada é 33.
 - O original de master é referência, sem posição no ranking. Os candidatos, a rubrica e as branches de geração foram preservados.
 - GPT-6.1 Sol/Codex foi gerado por subagente nativo após recusa do modelo no CLI; as outras três execuções Codex usaram CLI 0.155.1. Essa diferença de ferramenta impede atribuir todo efeito ao modelo.
 
@@ -65,7 +66,7 @@ Formato **Haiku / GPT-6 Sol**. Máximos: D1 30, D2 15, D3 15, D4 10, D5 15, D6 1
 
 | Modelo × ferramenta | D1 | D2 | D3 | D4 | D5 | D6 | D7 | Soma | Teto | Final |
 |---|---|---|---|---|---|---|---|---|---|---|
-| GPT-6.1 Sol — Copilot | 30 / 30 | 15 / 15 | 14 / 12 | 10 / 8 | 14 / 14 | 9 / 10 | 5 / 5 | 97 / 94 | — / — | **95,5** |
+| Candidato histórico E/C06 — Autoria e ferramenta não confirmadas | 30 / 30 | 15 / 15 | 14 / 12 | 10 / 8 | 14 / 14 | 9 / 10 | 5 / 5 | 97 / 94 | — / — | **95,5** |
 | GPT-6 Astra — Codex CLI 0.155.1 | 30 / 30 | 15 / 15 | 15 / 12 | 9 / 8 | 15 / 12 | 10 / 10 | 5 / 5 | 99 / 92 | — / — | **95,5** |
 | GPT-5.6 Terra — Codex CLI 0.155.1 | 30 / 30 | 15 / 15 | 15 / 12 | 10 / 8 | 15 / 13 | 7 / 8 | 5 / 5 | 97 / 91 | — / — | **94** |
 | GPT-5.6 Sol — Copilot | 30 / 30 | 15 / 15 | 13 / 12 | 9 / 9 | 14 / 12 | 9 / 10 | 5 / 5 | 95 / 93 | — / — | **94** |
@@ -83,7 +84,7 @@ Justificativas e citações completas: [Haiku](unified-2026-10-01/judges/isolate
 
 | Modelo × ferramenta | Corretas | Incorretas | Incertas | Não factuais | Taxa / denominador | Erros relevantes distintos |
 |---|---:|---:|---:|---:|---:|---:|
-| GPT-6.1 Sol — Copilot | 17 | 0 | 0 | 4 | 100,0% / 17 | 0 |
+| Candidato histórico E/C06 — Autoria e ferramenta não confirmadas | 17 | 0 | 0 | 4 | 100,0% / 17 | 0 |
 | GPT-6 Astra — Codex CLI 0.155.1 | 16 | 0 | 0 | 26 | 100,0% / 16 | 0 |
 | GPT-5.6 Terra — Codex CLI 0.155.1 | 16 | 0 | 1 | 5 | 100,0% / 16 | 0 |
 | GPT-5.6 Sol — Copilot | 15 | 0 | 0 | 5 | 100,0% / 15 | 0 |
@@ -101,7 +102,7 @@ Uma classificação incerta significa que a checagem não resolveu a alegação 
 
 | Modelo × ferramenta | Palavras (wc -w) | Seções abaixo do piso | Build | Avisos novos | Links internos quebrados | Regex retórica | [VERIFICAR] |
 |---|---:|---:|---|---:|---:|---:|---:|
-| GPT-6.1 Sol — Copilot | 3.322 | 4 | Passou | 0 | 0 | 2 | 0 |
+| Candidato histórico E/C06 — Autoria e ferramenta não confirmadas | 3.322 | 4 | Passou | 0 | 0 | 2 | 0 |
 | GPT-6 Astra — Codex CLI 0.155.1 | 3.979 | 0 | Passou | 0 | 0 | 0 | 0 |
 | GPT-5.6 Terra — Codex CLI 0.155.1 | 2.916 | 6 | Passou | 0 | 0 | 1 | 0 |
 | GPT-5.6 Sol — Copilot | 3.781 | 4 | Passou | 0 | 0 | 2 | 0 |
@@ -129,7 +130,7 @@ Diferenças superiores a dez na **nota total**, destacadas como sinal de instabi
 
 | Modelo × ferramenta | Erros decididos a corrigir | Incertezas a revisar | Seções abaixo do piso |
 |---|---|---:|---:|
-| GPT-6.1 Sol — Copilot | Nenhum demonstrado na amostra | 0 | 4 |
+| Candidato histórico E/C06 — Autoria e ferramenta não confirmadas | Nenhum demonstrado na amostra | 0 | 4 |
 | GPT-6 Astra — Codex CLI 0.155.1 | Nenhum demonstrado na amostra | 0 | 0 |
 | GPT-5.6 Terra — Codex CLI 0.155.1 | Nenhum demonstrado na amostra | 1 | 6 |
 | GPT-5.6 Sol — Copilot | Nenhum demonstrado na amostra | 0 | 4 |
@@ -148,7 +149,7 @@ Diferenças superiores a dez na **nota total**, destacadas como sinal de instabi
 
 | Configuração anterior | Média histórica (Haiku / Sonnet) | Nova média (Haiku / GPT-6 Sol) | Variação |
 |---|---:|---:|---:|
-| GPT-6.1 Sol — Copilot | 83,5 | 95,5 | +12 |
+| Candidato histórico E/C06 — Autoria e ferramenta não confirmadas | 83,5 | 95,5 | +12 |
 | GPT-5.6 Sol — Copilot | 84 | 94 | +10 |
 | Opus 5.5 — Copilot | 88 | 91,5 | +3,5 |
 | Opus 5.5 — Claude Code | 88,5 | 81 | -7,5 |
@@ -161,7 +162,7 @@ Os textos são os mesmos. A variação decorre de nova checagem, aplicação ope
 ## 8. Limites da comparação
 
 - Uma única tarefa e uma única amostra por configuração; sem intervalos de confiança ou repetições para medir variância.
-- Identidade dos modelos históricos é a declarada no arquivo recebido; não há logs de execução para autenticar novamente todos os rótulos. Gemini/Terra e os dois Sol/Copilot possuem as anomalias descritas.
+- Identidade dos modelos históricos é a declarada no arquivo recebido; não há logs de execução para autenticar novamente todos os rótulos. Gemini/Terra possui atribuição incerta; o candidato E/C06 tem autoria contestada pelo usuário e foi retirado do ranking. Os rótulos preservados no mapa original são históricos, não comprovação de execução.
 - A qualidade da checagem e a seleção factual influenciam D1/D6. Incertezas, fontes conflitantes, cobertura da auditoria e correções estão publicadas. A deduplicação inicial é literal; unidades semanticamente próximas podem permanecer, mas erros relevantes repetidos usam a mesma chave.
 - Os contextos de cidade/atração para D3 incluem páginas integrais curtas e excertos culturais limitados; ausência de parágrafos literalmente iguais não prova ausência de repetição conceitual.
 - Haiku teve ferramentas desabilitadas; GPT recebeu sandbox somente leitura, pesquisa desabilitada e instrução de não usar ferramentas, conferida nos logs. Sistemas internos dos provedores e esforço de raciocínio não são idênticos.

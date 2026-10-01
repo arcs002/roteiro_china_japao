@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:26:07.377Z",
+  "generatedAt": "2026-10-01T22:14:16.721Z",
   "judges": [
     {
       "id": "judge-haiku",
@@ -14,8 +14,10 @@
   "rows": [
     {
       "id": "C06",
-      "model": "GPT-6.1 Sol",
-      "harness": "Copilot",
+      "model": "Candidato histórico E/C06",
+      "harness": "Autoria e ferramenta não confirmadas",
+      "rankingEligible": false,
+      "provenanceStatus": "disputed",
       "mean": 95.5,
       "scores": [
         97,
@@ -51,6 +53,8 @@
       "id": "C10",
       "model": "GPT-6 Astra",
       "harness": "Codex CLI 0.155.1",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 95.5,
       "scores": [
         99,
@@ -86,6 +90,8 @@
       "id": "C04",
       "model": "GPT-5.6 Terra",
       "harness": "Codex CLI 0.155.1",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 94,
       "scores": [
         97,
@@ -121,6 +127,8 @@
       "id": "C09",
       "model": "GPT-5.6 Sol",
       "harness": "Copilot",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 94,
       "scores": [
         95,
@@ -156,6 +164,8 @@
       "id": "C07",
       "model": "GPT-5.6 Sol",
       "harness": "Codex CLI 0.155.1",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 93,
       "scores": [
         94,
@@ -191,6 +201,8 @@
       "id": "C11",
       "model": "GPT-6.1 Sol",
       "harness": "Codex — subagente nativo",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 93,
       "scores": [
         94,
@@ -226,6 +238,8 @@
       "id": "C05",
       "model": "Opus 5.5",
       "harness": "Copilot",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 91.5,
       "scores": [
         94,
@@ -261,6 +275,8 @@
       "id": "C01",
       "model": "Opus 5.5",
       "harness": "Claude Code",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 81,
       "scores": [
         83,
@@ -296,6 +312,8 @@
       "id": "C02",
       "model": "Gemini 3.8 Flash",
       "harness": "Copilot",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 60,
       "scores": [
         63,
@@ -331,6 +349,8 @@
       "id": "C03",
       "model": "Fable 5.1",
       "harness": "Claude Code",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 57.5,
       "scores": [
         60,
@@ -366,6 +386,8 @@
       "id": "C08",
       "model": "Sonnet 5.5",
       "harness": "Claude Code",
+      "rankingEligible": true,
+      "provenanceStatus": "as-recorded",
       "mean": 56.5,
       "scores": [
         62,

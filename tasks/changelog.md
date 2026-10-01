@@ -38,3 +38,11 @@
 - Candidatos, arquivo de produção e rubrica mantidos intactos. Artefatos, respostas brutas, fontes, auditorias, scripts e protocolo da rodada em `pesquisa/_revisao/ab-test/unified-2026-10-01/`; página de entrada em `ab-test/readme.md`.
 - Publicados relatório e evidências em `origin/main`, commit `032396e`; 69 links locais e 175 JSON/JSONL conferidos. Bytes dos onze candidatos preservados também nos blobs Git. Processos de avaliação encerrados.
 - Pareceres automáticos mantidos literalmente, com ressalvas explícitas para sugestões do Haiku incompatíveis com o calendário e contagens retóricas. Essas sugestões não foram promovidas a recomendações factuais nem corrigidas silenciosamente nas notas.
+
+### Correção de autoria e ranking após esclarecimento do usuário
+
+- O usuário informou que não utilizou GPT-6.1 Sol no Copilot. A atribuição histórica de E/C06 vinha do nome do arquivo e do relatório antigo, sem logs comprobatórios; foi contestada e retirada do ranking de modelos.
+- C06 mantém a nota do texto (95,5), separado do ranking. GPT-6.1 Sol efetivamente executado no Codex é C11, com 93. Astra/Codex passa a liderar sozinho o ranking com 95,5; demais notas inalteradas.
+- Correção registrada em provenance-corrections.json e aplicada pelo gerador ao relatório e a results.json. Mapa original, candidatos, prompts e respostas brutas preservados; página de entrada atualizada.
+- Nova sincronização de todas as alterações solicitada pelo usuário. Main e os quatro worktrees estavam limpos antes desta correção documental; nenhum candidato foi reexecutado.
+- Conferidos os onze conjuntos de notas contra a versão anterior, os onze hashes dos textos e 40 links locais; ranking com dez entradas e C06 separado. Sintaxe do gerador e diff verificados antes do commit de publicação.

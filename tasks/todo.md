@@ -31,3 +31,11 @@ Avaliação factual/editorial dos quatro candidatos incorporada à rodada unific
 - [x] Atualizar registros e publicar os resultados autorizados no repositório.
 
 Pendência condicional: se uma versão for escolhida para publicação do guia, corrigir os fatos e pisos indicados no relatório em uma nova branch, preservando as amostras do teste. Nenhuma arbitragem obrigatória por dimensão ficou pendente; a diferença total de 11 pontos no Sonnet está sinalizada.
+
+## Correção de autoria e sincronização — 2026-10-01
+
+- [x] Conferir alterações locais e os quatro worktrees de candidatos; todos estavam limpos.
+- [x] Registrar a contestação de autoria de E/C06 e removê-lo do ranking de modelos, preservando as notas e os registros originais.
+- [x] Verificar relatório e dados corrigidos e preparar o envio de todas as alterações locais para origin/main.
+
+Pendência de procedência: autoria real de E/C06 não resolvida; mantê-lo fora do ranking até haver evidência de execução.

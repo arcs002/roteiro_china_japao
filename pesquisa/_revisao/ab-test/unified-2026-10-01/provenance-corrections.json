@@ -1,0 +1,12 @@
+{
+  "C06": {
+    "date": "2026-10-01",
+    "status": "disputed",
+    "display": "Candidato histórico E/C06",
+    "harness": "Autoria e ferramenta não confirmadas",
+    "rankingEligible": false,
+    "previousModel": "GPT-6.1 Sol",
+    "previousHarness": "Copilot",
+    "reason": "O usuário informou que não utilizou GPT-6.1 Sol no Copilot. O rótulo foi herdado do nome do arquivo e do relatório histórico, sem logs que comprovem essa atribuição. A nota pertence ao texto, não a uma execução confirmada dessa combinação."
+  }
+}
