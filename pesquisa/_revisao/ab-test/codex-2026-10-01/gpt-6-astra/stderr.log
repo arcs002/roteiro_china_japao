@@ -1,0 +1,4 @@
+2026-10-01T15:35:07.357243Z ERROR codex_skills_extension::host_service: failed to install system skills: io error while remove existing system skills dir: Access is denied. (os error 5)
+2026-10-01T15:35:09.425009Z  WARN codex_core_plugins::remote::remote_installed_plugin_sync: failed to remove stale remote plugin cache entries error=failed to remove stale remote plugin cache entry C:\Users\MarcoMattos\.codex\plugins/cache\openai-curated-remote\sites: Access is denied. (os error 5)
+2026-10-01T15:35:12.682625Z  WARN codex_core::shell_snapshot: Failed to create shell snapshot for powershell: Shell snapshot not supported yet for PowerShell
+2026-10-01T15:41:46.142240Z ERROR codex_core::tools::router: error=apply_patch verification failed: invalid patch: multiple operations target C:\dev\pessoal\roteiro_china_japao\.claude\worktrees\codex-gpt-6-astra-etnias\pesquisa\aprofundamento\paises\china\etnias.md

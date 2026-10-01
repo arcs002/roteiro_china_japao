@@ -1,0 +1,8 @@
+Reescreva pesquisa/aprofundamento/paises/china/etnias.md usando a skill travel-deepdive-writer.
+Contexto: o arquivo foi escrito para um roteiro antigo (Hui/Xi'an, Miao/Xijiang, Dong/Zhaoxing) e
+links para atrações removidas. O roteiro atual é Chongqing → Zhangjiajie/Furong → Fenghuang →
+Guilin/Yangshuo → Shenzhen → Xiamen → Fukuoka/Kurokawa/Beppu. Cubra: Tujia (Zhangjiajie, Furong,
+SE de Chongqing), Miao e Tujia em Fenghuang, Zhuang (Guangxi), Minnan/diáspora (Xiamen), Hakka e
+migrantes (Shenzhen). Mantenha o front matter obrigatório, respeite o piso de tamanho da skill, não
+linke atrações inexistentes, rode node build/build.js ao final e reporte os avisos.
+Não edite nenhum outro arquivo.

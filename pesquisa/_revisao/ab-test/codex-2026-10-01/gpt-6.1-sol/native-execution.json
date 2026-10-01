@@ -1,0 +1,22 @@
+{
+  "harness": "Codex desktop / collaboration.spawn_agent",
+  "task": "/root/ab_gpt_61_sol",
+  "model": "gpt-6.1-sol",
+  "reasoningEffort": "medium",
+  "forkTurns": "none",
+  "fallbackReason": "CLI endpoint rejected gpt-6.1-sol with HTTP 400: model not supported with a ChatGPT account.",
+  "userPromptFile": "../prompt.txt",
+  "status": "completed",
+  "contextDifference": "Same user task and execution instructions; native worker system/tools and global session instructions differ from the CLI. Worktree path explicitly supplied. No earlier candidate content was passed.",
+  "completionRecordedAt": "2026-10-01T15:49:29.767Z",
+  "subagents": [
+    {
+      "name": "/root/ab_gpt_61_sol/section_writer",
+      "writingInvocations": 7,
+      "reviewInvocations": 1,
+      "modelOverride": false
+    }
+  ],
+  "tokens": null,
+  "durationSeconds": null
+}

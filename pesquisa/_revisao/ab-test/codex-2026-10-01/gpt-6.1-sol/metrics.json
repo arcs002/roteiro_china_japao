@@ -1,0 +1,158 @@
+{
+  "model": "gpt-6.1-sol",
+  "branch": "ab/codex-gpt-6.1-sol-etnias",
+  "cwd": "C:\\dev\\pessoal\\roteiro_china_japao\\.claude\\worktrees\\codex-gpt-6.1-sol-etnias",
+  "sha256": "669ba0fa1214e4b5e7175838924e77fbedaf14f728bef4ccc55546137153b7c3",
+  "bodySha256": "c7a756b92e3bc9f9fd413bd6736b72886dc285dbbac9129bde0ea0056cbf4ca8",
+  "words": 4675,
+  "frontMatter": {
+    "type": "pais",
+    "slug": "china",
+    "topico": "etnias",
+    "title": "China — Etnias",
+    "order": 2
+  },
+  "frontMatterPreserved": true,
+  "sections": [
+    {
+      "title": "Abertura",
+      "words": 342
+    },
+    {
+      "title": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+      "words": 732
+    },
+    {
+      "title": "Fenghuang — Miao, Tujia e a cidade de fronteira",
+      "words": 795
+    },
+    {
+      "title": "Zhuang — Guangxi para além da paisagem de Guilin",
+      "words": 816
+    },
+    {
+      "title": "Shenzhen — Hakka, raízes locais e uma cidade de migrantes",
+      "words": 806
+    },
+    {
+      "title": "Xiamen — Minnan e a diáspora que voltou pelo mar",
+      "words": 803
+    },
+    {
+      "title": "Encerramento",
+      "words": 321
+    }
+  ],
+  "hasOpening": true,
+  "hasClosing": true,
+  "floorMet": true,
+  "buildExit": 0,
+  "warnings": 21,
+  "newWarnings": [],
+  "removedWarnings": [],
+  "internalLinks": [
+    "#city/furong-town",
+    "#atracao/rio-tuojiang-diaojiaolou",
+    "#atracao/shen-congwen",
+    "#atracao/impressao-liu-sanjie",
+    "#atracao/huaqiangbei",
+    "#atracao/oct-loft",
+    "#atracao/gulangyu",
+    "#atracao/zhongshan-road-xiamen"
+  ],
+  "brokenLinks": [],
+  "externalLinks": [
+    "https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817187.html",
+    "https://www.stats.gov.cn/sj/ndsj/2012/html/B0113e.htm",
+    "https://enghunan.gov.cn/hneng/Tourism/TourHunan/Zhangjiajie_1/index.html",
+    "https://whc.unesco.org/en/list/1474/",
+    "https://enghunan.gov.cn/hneng/News/Localnews/202601/t20260106_33887388.html",
+    "https://english.scio.gov.cn/chinafacts/2017-06/06/content_40975371.htm",
+    "https://english.scio.gov.cn/chinafacts/2017-06/06/content_40975371.htm",
+    "https://www.enghunan.gov.cn/hneng/AboutHunan/HistoryCulture/CulturalHeritage/202602/t20260220_33916324.html",
+    "https://whhlyt.hunan.gov.cn/whhlyt/english/Tourism/Recommendations/202205/t20220523_24628092.html",
+    "https://sthjt.hunan.gov.cn/sthjt/english/Picturenews/201406/t20140603_4703565.html",
+    "https://glottolog.org/resource/languoid/id/hmon1337",
+    "https://whhlyt.hunan.gov.cn/whhlyt/english/Culture/IntangibleCulturalHeritage/202302/t20230217_29250418.html",
+    "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/202308/t20230825_29468975.html",
+    "https://english.scio.gov.cn/m/chinafacts/2017-04/17/content_40636697.htm",
+    "https://www.niu.edu/landform/papers/luoetal_kinship_scg07.pdf",
+    "https://brill.com/previewpdf/book/9789004352223/BP000007.xml",
+    "https://english.scio.gov.cn/m/chinafacts/2017-04/17/content_40636697.htm",
+    "https://english.scio.gov.cn/pressroom/2023-04/23/content_85246720.htm",
+    "https://www.sz.gov.cn/en_szgov/news/latest/content/post_7819184.html",
+    "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_8771927.html",
+    "https://english.hakka.gov.tw/Content/Content?LanguageType=ENG&NodeID=676&PageID=39926",
+    "https://www.yantian.gov.cn/English/govt/aboutyantian/content/post_12533981.html",
+    "https://www.szlhq.gov.cn/english/GuanlanCultureTown/index.html",
+    "https://www.lg.gov.cn/english/travel/culture/content/post_12840953.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8290908/",
+    "https://in.china-embassy.gov.cn/eng/zggk/",
+    "https://whc.unesco.org/en/list/1541/",
+    "https://ich.unesco.org/en/RL/nanyin-00199",
+    "https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227",
+    "https://www.investxiamen.org.cn/detail_en/169.html"
+  ],
+  "verificationTags": 0,
+  "oldItineraryMentions": [],
+  "changedFiles": [
+    "pesquisa/aprofundamento/paises/china/etnias.md"
+  ],
+  "untrackedFiles": [],
+  "skillReadInCli": false,
+  "agentBuildCommands": [],
+  "threadId": "01a0f81a-ef8f-7860-832c-aec26472f12e",
+  "cliWebSearchCalls": 0,
+  "cliDelegations": [],
+  "sectionFloors": [
+    {
+      "title": "Abertura",
+      "words": 342,
+      "floor": 250,
+      "meetsFloor": true
+    },
+    {
+      "title": "Tujia — um território entre Chongqing, Zhangjiajie e Furong",
+      "words": 732,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Fenghuang — Miao, Tujia e a cidade de fronteira",
+      "words": 795,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Zhuang — Guangxi para além da paisagem de Guilin",
+      "words": 816,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Shenzhen — Hakka, raízes locais e uma cidade de migrantes",
+      "words": 806,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Xiamen — Minnan e a diáspora que voltou pelo mar",
+      "words": 803,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Encerramento",
+      "words": 321,
+      "floor": 250,
+      "meetsFloor": true
+    }
+  ],
+  "sourceSimilarity": {
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 43,
+    "paragraphsB": 12,
+    "eightWordJaccard": 0
+  }
+}

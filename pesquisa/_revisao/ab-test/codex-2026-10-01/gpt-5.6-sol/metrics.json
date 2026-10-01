@@ -1,0 +1,243 @@
+{
+  "model": "gpt-5.6-sol",
+  "branch": "ab/codex-gpt-5.6-sol-etnias",
+  "cwd": "C:\\dev\\pessoal\\roteiro_china_japao\\.claude\\worktrees\\codex-gpt-5.6-sol-etnias",
+  "sha256": "bd617fb39c002b299a1ffbecf4a13ea3414c7cdeecef54d46a8c109ec33cb56c",
+  "bodySha256": "9d6074dbc848a53a02ce6a5ec822b7dc90502e6b340367db61ddf16ac6ba62d1",
+  "words": 3981,
+  "frontMatter": {
+    "type": "pais",
+    "slug": "china",
+    "topico": "etnias",
+    "title": "China — Etnias",
+    "order": 2
+  },
+  "frontMatterPreserved": true,
+  "sections": [
+    {
+      "title": "Abertura",
+      "words": 295
+    },
+    {
+      "title": "Antes dos nomes: etnia oficial, cultura regional e migração",
+      "words": 387
+    },
+    {
+      "title": "Tujia: o corredor das montanhas Wuling",
+      "words": 608
+    },
+    {
+      "title": "Fenghuang: Miao e Tujia sem fronteira de vitrine",
+      "words": 601
+    },
+    {
+      "title": "Zhuang: Guangxi para além do cenário cárstico",
+      "words": 565
+    },
+    {
+      "title": "Shenzhen: Hakka antigos, migrantes novos",
+      "words": 580
+    },
+    {
+      "title": "Minnan: Xiamen, uma identidade que viajou e voltou",
+      "words": 605
+    },
+    {
+      "title": "Encerramento",
+      "words": 283
+    }
+  ],
+  "hasOpening": true,
+  "hasClosing": true,
+  "floorMet": true,
+  "buildExit": 0,
+  "warnings": 21,
+  "newWarnings": [],
+  "removedWarnings": [],
+  "internalLinks": [],
+  "brokenLinks": [],
+  "externalLinks": [
+    "https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817185.html",
+    "https://www.neac.gov.cn/seac/ztzl/tjz/gk.shtml",
+    "https://www.cqrd.gov.cn/web/article/1361740402372329472/web/content_1361740402372329472.html",
+    "https://www.neac.gov.cn/seac/ztzl/mz/gk.shtml",
+    "https://www.neac.gov.cn/seac/ztzl/201806/1066832.shtml",
+    "https://www.neac.gov.cn/seac/ztzl/zhz/fsxg.shtml",
+    "https://www.sz.gov.cn/attachment/0/934/934578/9480770.pdf",
+    "https://whc.unesco.org/document/155718",
+    "https://ich.unesco.org/en/RL/nanyin-00199",
+    "https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227",
+    "https://www.xmu.edu.cn/sdgl/xxjj.htm"
+  ],
+  "verificationTags": 0,
+  "oldItineraryMentions": [],
+  "changedFiles": [
+    "pesquisa/aprofundamento/paises/china/etnias.md"
+  ],
+  "untrackedFiles": [],
+  "skillReadInCli": true,
+  "agentBuildCommands": [
+    {
+      "command": "\"C:\\\\Program Files\\\\PowerShell\\\\7\\\\pwsh.exe\" -Command 'node build/build.js'",
+      "exitCode": 0
+    }
+  ],
+  "threadId": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+  "usage": {
+    "input_tokens": 6052265,
+    "cached_input_tokens": 5873664,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 27218,
+    "reasoning_output_tokens": 5464
+  },
+  "cliWebSearchCalls": 7,
+  "cliDelegations": [
+    {
+      "id": "item_21",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_22",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_23",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_24",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_25",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_27",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_31",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_39",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_40",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a0f81a-effb-75d3-894a-729a5e74f4bf",
+      "receiver_thread_ids": [],
+      "prompt": null,
+      "agents_states": {},
+      "status": "completed"
+    }
+  ],
+  "sectionFloors": [
+    {
+      "title": "Abertura",
+      "words": 295,
+      "floor": 250,
+      "meetsFloor": true
+    },
+    {
+      "title": "Antes dos nomes: etnia oficial, cultura regional e migração",
+      "words": 387,
+      "floor": 600,
+      "meetsFloor": false
+    },
+    {
+      "title": "Tujia: o corredor das montanhas Wuling",
+      "words": 608,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Fenghuang: Miao e Tujia sem fronteira de vitrine",
+      "words": 601,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Zhuang: Guangxi para além do cenário cárstico",
+      "words": 565,
+      "floor": 600,
+      "meetsFloor": false
+    },
+    {
+      "title": "Shenzhen: Hakka antigos, migrantes novos",
+      "words": 580,
+      "floor": 600,
+      "meetsFloor": false
+    },
+    {
+      "title": "Minnan: Xiamen, uma identidade que viajou e voltou",
+      "words": 605,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Encerramento",
+      "words": 283,
+      "floor": 250,
+      "meetsFloor": true
+    }
+  ],
+  "sourceSimilarity": {
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 36,
+    "paragraphsB": 12,
+    "eightWordJaccard": 0
+  }
+}

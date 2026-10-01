@@ -1,0 +1,15 @@
+{
+  "threadId": "01a0f81a-ef57-7be3-8bfe-bdc4dde46b10",
+  "cliVersion": "0.155.1",
+  "source": "exec",
+  "requestedModel": "gpt-6-astra",
+  "contexts": [
+    {
+      "model": "gpt-6-astra",
+      "effort": "medium",
+      "cwd": "C:\\dev\\pessoal\\roteiro_china_japao\\.claude\\worktrees\\codex-gpt-6-astra-etnias"
+    }
+  ],
+  "sessionFile": "C:\\Users\\MarcoMattos\\.codex\\sessions\\2026\\10\\01\\rollout-2026-10-01T12-35-10-01a0f81a-ef57-7be3-8bfe-bdc4dde46b10.jsonl",
+  "selectionEvidenceOnly": true
+}

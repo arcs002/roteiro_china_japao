@@ -1,0 +1,136 @@
+{
+  "model": "gpt-5.6-terra",
+  "branch": "ab/codex-gpt-5.6-terra-etnias",
+  "cwd": "C:\\dev\\pessoal\\roteiro_china_japao\\.claude\\worktrees\\codex-gpt-5.6-terra-etnias",
+  "sha256": "dd42a2906e7d02ba8bae1db056cb9eddbe4ac93ddfd03747401efd6c00763629",
+  "bodySha256": "b7752c210e6bdfa9fabce26a9b3c3edafe290e66f29e60cb6ceecbdd0abd838b",
+  "words": 2916,
+  "frontMatter": {
+    "type": "pais",
+    "slug": "china",
+    "topico": "etnias",
+    "title": "China — Etnias",
+    "order": 2
+  },
+  "frontMatterPreserved": true,
+  "sections": [
+    {
+      "title": "Abertura",
+      "words": 363
+    },
+    {
+      "title": "Tujia: a serra entre Chongqing e Xiangxi",
+      "words": 508
+    },
+    {
+      "title": "Miao e Tujia em Fenghuang: uma cidade, muitas camadas",
+      "words": 463
+    },
+    {
+      "title": "Zhuang: Guangxi não é somente um pano de fundo cárstico",
+      "words": 484
+    },
+    {
+      "title": "Minnan e diáspora: Xiamen olha para o mar",
+      "words": 457
+    },
+    {
+      "title": "Hakka e migrantes: Shenzhen como cidade de chegadas",
+      "words": 363
+    },
+    {
+      "title": "Encerramento",
+      "words": 223
+    }
+  ],
+  "hasOpening": true,
+  "hasClosing": true,
+  "floorMet": true,
+  "buildExit": 0,
+  "warnings": 21,
+  "newWarnings": [],
+  "removedWarnings": [],
+  "internalLinks": [],
+  "brokenLinks": [],
+  "externalLinks": [
+    "https://www.unesco.org/en/iggp/shennongjia-unesco-global-geopark?hub=67817",
+    "https://whhlyt.hunan.gov.cn/whhlyt/english/Culture/IntangibleCulturalHeritage/202302/t20230217_29250418.html",
+    "https://english.scio.gov.cn/m/chinafacts/2017-04/17/content_40636697.htm",
+    "https://whc.unesco.org/en/list/1541",
+    "https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Explore/CitywalkRoutes/VentureSZ/content/post_11894160.html"
+  ],
+  "verificationTags": 0,
+  "oldItineraryMentions": [],
+  "changedFiles": [
+    "pesquisa/aprofundamento/paises/china/etnias.md"
+  ],
+  "untrackedFiles": [],
+  "skillReadInCli": true,
+  "agentBuildCommands": [
+    {
+      "command": "\"C:\\\\Program Files\\\\PowerShell\\\\7\\\\pwsh.exe\" -Command '$file = '\"'pesquisa/aprofundamento/paises/china/etnias.md'; \"'$text = Get-Content -Raw $file; $body = $text -replace '\"'(?s)\"'^---.*?---'\"\\\\s*', ''; \"'$words = [regex]::Matches($body, \"['\"\\\\p{L}\\\\p{N}]+(?:['’\\\\-][\\\\p{L}\\\\p{N}]+)*\\\").Count; \"'$lines = (Get-Content $file).Count; \"words=$words lines=$lines\"; git diff --check -- $file; node build/build.js'",
+      "exitCode": 0
+    }
+  ],
+  "threadId": "01a0f81b-1b5a-7821-bce0-32b3e5d609dc",
+  "usage": {
+    "input_tokens": 537379,
+    "cached_input_tokens": 472320,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 12251,
+    "reasoning_output_tokens": 1065
+  },
+  "cliWebSearchCalls": 2,
+  "cliDelegations": [],
+  "sectionFloors": [
+    {
+      "title": "Abertura",
+      "words": 363,
+      "floor": 250,
+      "meetsFloor": true
+    },
+    {
+      "title": "Tujia: a serra entre Chongqing e Xiangxi",
+      "words": 508,
+      "floor": 600,
+      "meetsFloor": false
+    },
+    {
+      "title": "Miao e Tujia em Fenghuang: uma cidade, muitas camadas",
+      "words": 463,
+      "floor": 600,
+      "meetsFloor": false
+    },
+    {
+      "title": "Zhuang: Guangxi não é somente um pano de fundo cárstico",
+      "words": 484,
+      "floor": 600,
+      "meetsFloor": false
+    },
+    {
+      "title": "Minnan e diáspora: Xiamen olha para o mar",
+      "words": 457,
+      "floor": 600,
+      "meetsFloor": false
+    },
+    {
+      "title": "Hakka e migrantes: Shenzhen como cidade de chegadas",
+      "words": 363,
+      "floor": 600,
+      "meetsFloor": false
+    },
+    {
+      "title": "Encerramento",
+      "words": 223,
+      "floor": 250,
+      "meetsFloor": false
+    }
+  ],
+  "sourceSimilarity": {
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 31,
+    "paragraphsB": 12,
+    "eightWordJaccard": 0
+  }
+}

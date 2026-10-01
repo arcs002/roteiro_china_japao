@@ -1,0 +1,184 @@
+{
+  "model": "gpt-6-astra",
+  "branch": "ab/codex-gpt-6-astra-etnias",
+  "cwd": "C:\\dev\\pessoal\\roteiro_china_japao\\.claude\\worktrees\\codex-gpt-6-astra-etnias",
+  "sha256": "972120ef94e532a4f999727f4dfbcab30534593ec81399c8eb98f68ef4754c45",
+  "bodySha256": "8c44c1368a35cf8967c6ac6497553b0dc460c93e60d31367f3b38890f587b913",
+  "words": 3979,
+  "frontMatter": {
+    "type": "pais",
+    "slug": "china",
+    "topico": "etnias",
+    "title": "China — Etnias",
+    "order": 2
+  },
+  "frontMatterPreserved": true,
+  "sections": [
+    {
+      "title": "Abertura",
+      "words": 319
+    },
+    {
+      "title": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+      "words": 645
+    },
+    {
+      "title": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+      "words": 682
+    },
+    {
+      "title": "Zhuang — Guangxi além da paisagem cárstica",
+      "words": 688
+    },
+    {
+      "title": "Hakka e migrantes — as muitas origens de Shenzhen",
+      "words": 641
+    },
+    {
+      "title": "Minnan e diáspora — Xiamen voltada para o mar",
+      "words": 661
+    },
+    {
+      "title": "Encerramento",
+      "words": 288
+    }
+  ],
+  "hasOpening": true,
+  "hasClosing": true,
+  "floorMet": true,
+  "buildExit": 0,
+  "warnings": 21,
+  "newWarnings": [],
+  "removedWarnings": [],
+  "internalLinks": [
+    "#city/furong-town",
+    "#atracao/rio-tuojiang-diaojiaolou",
+    "#atracao/shen-congwen",
+    "#atracao/impressao-liu-sanjie",
+    "#atracao/dafen",
+    "#atracao/huaqiangbei",
+    "#atracao/oct-loft",
+    "#atracao/zhongshan-road-xiamen",
+    "#atracao/gulangyu",
+    "#atracao/universidade-xiamen"
+  ],
+  "brokenLinks": [],
+  "externalLinks": [
+    "https://www.edb.gov.hk/attachment/en/curriculum-development/kla/pshe/national-geography/national-geography-resource-portal/Info_Sheet_03-ethnic_minorities-eng.pdf",
+    "https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817187.html",
+    "https://source.ichongqing.info/2020/01/Chongqing-Foreign-Investment-Environment-Evaluation-Report-2019.pdf",
+    "https://english.scio.gov.cn/chinafacts/2017-06/06/content_40975371.htm",
+    "https://journals.linguisticsociety.org/booknotices/?p=498",
+    "https://www.enghunan.gov.cn/hneng/Tourism/TourHunan/xiangxi_1/TouristAttractions_13/201507/t20150724_1806806.html",
+    "https://whc.unesco.org/en/list/1474/",
+    "https://whc.unesco.org/en/list/1474/",
+    "https://app.ichongqing.info/mixmedia/a/202007/09/WS632dce2be4b09d5114463e1a.html",
+    "https://artsandculture.google.com/story/1gXxoryJKHBlKg?hl=en",
+    "https://enghunan.gov.cn/hneng/News/Localnews/202601/t20260106_33887388.html",
+    "https://global.chinadaily.com.cn/a/202308/30/WS64ef28bea31035260b81f0fa.html",
+    "https://whc.unesco.org/en/tentativelists/5337/",
+    "https://whc.unesco.org/en/tentativelists/5337/",
+    "https://www.britannica.com/topic/Miao",
+    "https://arts-sciences.buffalo.edu/content/dam/arts-sciences/linguistics/AlumniDissertations/Sposato%20dissertation.pdf",
+    "https://govt.chinadaily.com.cn/s/202311/14/WS6552d4f5498ed2d7b7e9fe61/town-in-hunan-showcases-miao-history-and-culture.html",
+    "https://whhlyt.hunan.gov.cn/whhlyt/english/News/Updates/202208/t20220818_27587028.html",
+    "https://www.cuhk.edu.hk/renditions/authors/shencw.html",
+    "https://documents1.worldbank.org/curated/en/822761522388280312/pdf/Environment-and-social-systems-assessment.pdf",
+    "https://www.niu.edu/landform/papers/luoetal_kinship_scg07.pdf",
+    "https://brill.com/previewpdf/book/9789004352223/BP000007.xml",
+    "https://www.chinadaily.com.cn/life/2006-11/21/content_11692006.htm",
+    "https://www.chinadaily.com.cn/kindle/2019-06/06/content_37478255.htm",
+    "https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm",
+    "https://www.mdpi.com/2073-445X/10/11/1146",
+    "https://www.fao.org/giahs/giahs-around-the-world/china-rice-terraces-mountainous/en",
+    "https://www.sz.gov.cn/szstory/202301/content/post_10388677.html",
+    "https://english.hakka.gov.tw/Content/Content?LanguageType=ENG&NodeID=676&PageID=39926",
+    "https://www.sz.gov.cn/en_szgov/travel/cultural/content/post_9711725.html",
+    "https://www.sz.gov.cn/en_szgov/news/latest/content/post_1366650.html",
+    "https://www.sz.gov.cn/en_szgov/life/cultural/cultural/content/post_10866778.html",
+    "https://drc.sz.gov.cn/ywb/szfj/pcsj/content/post_9952344.html",
+    "https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fd3409a-79c9-4b3e-85e4-e321f764f91f",
+    "https://sino-platonic.org/complete/spp025_southern_min_taiwanese.pdf",
+    "https://whc.unesco.org/en/list/1541",
+    "https://en.xmu.edu.cn/info/1046/10132.htm",
+    "https://ich.unesco.org/en/RL/nanyin-00199"
+  ],
+  "verificationTags": 0,
+  "oldItineraryMentions": [],
+  "changedFiles": [
+    "pesquisa/aprofundamento/paises/china/etnias.md"
+  ],
+  "untrackedFiles": [],
+  "skillReadInCli": true,
+  "agentBuildCommands": [
+    {
+      "command": "\"C:\\\\Program Files\\\\PowerShell\\\\7\\\\pwsh.exe\" -Command 'node build/build.js'",
+      "exitCode": 0
+    },
+    {
+      "command": "\"C:\\\\Program Files\\\\PowerShell\\\\7\\\\pwsh.exe\" -Command \"@'\nconst fs=require('fs');const p='pesquisa/aprofundamento/paises/china/etnias.md';let t=fs.readFileSync(p,'utf8');t=t.replace('O xong possui uma ortografia latina padronizada no século XX e teve experiências locais de escrita anteriores a ela.','O xong possui uma ortografia latina padronizada no século XX.');t=t.replace('[China Daily — adaptações da personagem](https://www.chinadaily.com.cn/kindle/2019-06/06/content_37478255.htm).','[China Daily — adaptações da personagem](https://www.chinadaily.com.cn/kindle/2019-06/06/content_37478255.htm); [Guilin — espetáculo e paisagem fluvial](https://regional.chinadaily.com.cn/guangxi/guilin/2024-01/31/c_959944.htm).');fs.writeFileSync(p,t.trimEnd()+'\\\\n');let total=0;for(const s of t.split(/\"'^## /m).slice(1)){let b=s.slice(s.indexOf('\"'\\\\n')+1).replace(/\\\\[([\"'^'\"\\\\]]+)\\\\]\\\\([\"'^)]+'\"\\\\)/g,'\"'$1'\"').replace(/[*#]/g,'').trim();total+=b.split(/\\\\s+/).length;}console.log('Palavras corpo incluindo rótulos de citações:',total);\n'@ | node\nnode build/build.js\n git diff --check\n git status --short\"",
+      "exitCode": 0
+    }
+  ],
+  "threadId": "01a0f81a-ef57-7be3-8bfe-bdc4dde46b10",
+  "usage": {
+    "input_tokens": 2072298,
+    "cached_input_tokens": 1951872,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 13005,
+    "reasoning_output_tokens": 413
+  },
+  "cliWebSearchCalls": 6,
+  "cliDelegations": [],
+  "sectionFloors": [
+    {
+      "title": "Abertura",
+      "words": 319,
+      "floor": 250,
+      "meetsFloor": true
+    },
+    {
+      "title": "Tujia — montanhas entre Chongqing, Zhangjiajie e Furong",
+      "words": 645,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Miao e Tujia — a cidade compartilhada de Fenghuang",
+      "words": 682,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Zhuang — Guangxi além da paisagem cárstica",
+      "words": 688,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Hakka e migrantes — as muitas origens de Shenzhen",
+      "words": 641,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Minnan e diáspora — Xiamen voltada para o mar",
+      "words": 661,
+      "floor": 600,
+      "meetsFloor": true
+    },
+    {
+      "title": "Encerramento",
+      "words": 288,
+      "floor": 250,
+      "meetsFloor": true
+    }
+  ],
+  "sourceSimilarity": {
+    "identicalNormalized": false,
+    "sharedLongParagraphs": 0,
+    "paragraphsA": 41,
+    "paragraphsB": 12,
+    "eightWordJaccard": 0
+  }
+}

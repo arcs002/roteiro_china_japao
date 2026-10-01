@@ -1,0 +1,26 @@
+[
+  {
+    "model": "gpt-6-astra",
+    "branch": "ab/codex-gpt-6-astra-etnias",
+    "commit": "cf465d8c88fae7bee1ba7d336716f4785425dfe9",
+    "sha256": "972120ef94e532a4f999727f4dfbcab30534593ec81399c8eb98f68ef4754c45"
+  },
+  {
+    "model": "gpt-5.6-sol",
+    "branch": "ab/codex-gpt-5.6-sol-etnias",
+    "commit": "4098a32fc4456b9e84237256ddd2ebef989cee9d",
+    "sha256": "bd617fb39c002b299a1ffbecf4a13ea3414c7cdeecef54d46a8c109ec33cb56c"
+  },
+  {
+    "model": "gpt-6.1-sol",
+    "branch": "ab/codex-gpt-6.1-sol-etnias",
+    "commit": "d02703f51ddf68b16b42220e6de694c28bbf7eba",
+    "sha256": "669ba0fa1214e4b5e7175838924e77fbedaf14f728bef4ccc55546137153b7c3"
+  },
+  {
+    "model": "gpt-5.6-terra",
+    "branch": "ab/codex-gpt-5.6-terra-etnias",
+    "commit": "654fe24f9c3026cd898bd08478174dbd66704aa7",
+    "sha256": "dd42a2906e7d02ba8bae1db056cb9eddbe4ac93ddfd03747401efd6c00763629"
+  }
+]
