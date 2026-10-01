@@ -22,3 +22,6 @@
 
 - Preparado o envio de 53 arquivos novos (relatório, candidatos, logs, métricas, prompts e scripts) e das quatro branches de candidatos para `origin`.
 - JSON/JSONL validados e `main` confirmada como alinhada com o remoto antes do commit de publicação.
+- Convite de colaboração de `arcs002` aceito para `mattusca` no repositório solicitado; acesso de escrita confirmado após a recusa inicial por falta de permissão.
+- Publicados os 53 arquivos no commit `3bc7e87` de `main` e as quatro branches `ab/codex-*-etnias`, sem mesclar os candidatos em `main`.
+- Confirmada por `git ls-remote` a igualdade dos commits locais e remotos nas cinco branches.

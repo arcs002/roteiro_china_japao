@@ -19,4 +19,4 @@ Pendência para outra etapa: avaliação factual/editorial cega dos quatro candi
 ## Publicação do experimento — 2026-10-01
 
 - [x] Conferir os 53 arquivos novos, validar JSON/JSONL e verificar o estado remoto.
-- [ ] Publicar relatório, artefatos, scripts e as quatro branches no GitHub; conferir os commits remotos.
+- [x] Publicar relatório, artefatos, scripts e as quatro branches no GitHub; conferir os commits remotos.
